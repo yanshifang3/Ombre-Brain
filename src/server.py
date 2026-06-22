@@ -4410,6 +4410,7 @@ import time as _time_mod
 import urllib.parse as _urlparse
 import base64 as _base64
 import hashlib as _hashlib_oauth
+import html as _html_escape
 
 _oauth_clients: dict[str, dict] = {}
 _oauth_codes: dict[str, dict] = {}    # code -> {client_id, redirect_uri, code_challenge, expires}
@@ -4503,7 +4504,8 @@ async def oauth_register(request: Request) -> Response:
 
 def _oauth_authorize_html(client_id: str, redirect_uri: str, state: str,
                            code_challenge: str, error: str = "") -> str:
-    err_html = f'<p style="color:#ff6b6b;font-size:13px;margin-top:12px;">{error}</p>' if error else ""
+    e = _html_escape.escape
+    err_html = f'<p style="color:#ff6b6b;font-size:13px;margin-top:12px;">{e(error)}</p>' if error else ""
     return f"""<!DOCTYPE html>
 <html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Ombre Brain · 授权 MCP</title>
@@ -4526,10 +4528,10 @@ button:hover{{background:#d4b87a}}
 <h2>◐ Ombre Brain</h2>
 <p class="sub">授权 Claude Code 连接 MCP</p>
 <form method="POST">
-<input type="hidden" name="client_id" value="{client_id}">
-<input type="hidden" name="redirect_uri" value="{redirect_uri}">
-<input type="hidden" name="state" value="{state}">
-<input type="hidden" name="code_challenge" value="{code_challenge}">
+<input type="hidden" name="client_id" value="{e(client_id)}">
+<input type="hidden" name="redirect_uri" value="{e(redirect_uri)}">
+<input type="hidden" name="state" value="{e(state)}">
+<input type="hidden" name="code_challenge" value="{e(code_challenge)}">
 <input type="password" name="password" placeholder="输入 Dashboard 密码" autofocus>
 <button type="submit">授权并连接</button>
 </form>
@@ -4559,6 +4561,13 @@ async def oauth_authorize(request: Request) -> Response:
         return HTMLResponse(_oauth_authorize_html(
             client_id, redirect_uri, state, code_challenge, error="密码错误，请重试"
         ), status_code=401)
+
+    client_info = _oauth_clients.get(client_id)
+    if client_info and redirect_uri not in client_info.get("redirect_uris", []):
+        return HTMLResponse(_oauth_authorize_html(
+            client_id, redirect_uri, state, code_challenge,
+            error="redirect_uri 与注册不符，拒绝授权"
+        ), status_code=400)
 
     code = secrets.token_urlsafe(32)
     _oauth_codes[code] = {

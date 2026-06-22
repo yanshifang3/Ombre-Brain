@@ -73,4 +73,4 @@ async def store_pinned(
         await rt.embedding_engine.generate_and_store(bucket_id, content)
     except Exception:
         pass
-    return f"📌钉选→{bucket_id} {','.join(domain)}"
+    return f"📌钉选→{bucket_id} {','.join(str(d) for d in domain if d is not None)}"

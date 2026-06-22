@@ -66,11 +66,11 @@ async def grow_core(content: str) -> str:
                 continue
             result_name, is_merged, embed_warn = await merge_or_create(
                 content=item["content"],
-                tags=item.get("tags", []),
-                importance=item.get("importance", 5),
-                domain=item.get("domain", ["未分类"]),
-                valence=item.get("valence", 0.5),
-                arousal=item.get("arousal", 0.3),
+                tags=item.get("tags") or [],
+                importance=item.get("importance") or 5,
+                domain=item.get("domain") or ["未分类"],
+                valence=item.get("valence") or 0.5,
+                arousal=item.get("arousal") or 0.3,
                 name=item.get("name", ""),
                 source_tool="grow",
                 grow_batch_id=batch_id,

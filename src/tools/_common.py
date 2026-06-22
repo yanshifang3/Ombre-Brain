@@ -347,8 +347,8 @@ async def _merge_or_create_inner(
                     merged = await rt.dehydrator.merge(bucket["content"], content)
                 old_v = bucket["metadata"].get("valence") or 0.5
                 old_a = bucket["metadata"].get("arousal") or 0.3
-                merged_valence = round((old_v + valence) / 2, 2)
-                merged_arousal = round((old_a + arousal) / 2, 2)
+                merged_valence = round((old_v + valence) / 2, 2) if 0 <= valence <= 1 else old_v
+                merged_arousal = round((old_a + arousal) / 2, 2) if 0 <= arousal <= 1 else old_a
                 update_kwargs = dict(
                     content=merged,
                     tags=list(set((bucket["metadata"].get("tags") or []) + tags)),
@@ -377,7 +377,7 @@ async def _merge_or_create_inner(
                     f"raw_merge={int(raw_merge)} source_tool={source_tool or '_'} "
                     f"score={existing[0].get('score', 0):.3f}"
                 )
-                return bucket["metadata"].get("name", bucket["id"]), True, ""
+                return bucket["id"], True, ""
             except Exception as e:
                 rt.logger.warning(f"Merge failed, creating new / 合并失败，新建: {e}")
 

@@ -96,7 +96,10 @@ async def dispatch(
             pass
         arousal = -1
 
-    extra_tags = [t.strip() for t in tags.split(",") if t.strip()]
+    if isinstance(tags, list):
+        extra_tags = [str(t).strip() for t in tags if t]
+    else:
+        extra_tags = [t.strip() for t in str(tags).split(",") if t.strip()]
 
     # 所有越界/配额提醒走统一 warnings channel；server.py _with_notice 末尾自动追加。
     # 这里返回值只承载业务正文。

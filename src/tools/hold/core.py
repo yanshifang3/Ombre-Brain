@@ -73,7 +73,7 @@ async def store_core(
     asyncio.create_task(check_plan_resolution(content, source_bucket_id=result_name))
     if not is_merged:
         asyncio.create_task(check_duplicate_for(result_name, content))
-    result = f"{action}{result_name} {','.join(domain)}"
+    result = f"{action}{result_name} {','.join(str(d) for d in domain if d is not None)}"
     if embed_warn:
         result += f"\n⚠️ {embed_warn}"
     return result

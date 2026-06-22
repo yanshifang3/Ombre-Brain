@@ -66,7 +66,7 @@ class BM25Index:
         for b in buckets:
             meta = b.get("metadata", {})
             text = " ".join([
-                meta.get("name", ""),
+                meta.get("name") or "",
                 b.get("content", "")[:1200],
                 " ".join(meta.get("tags", []) or []),
                 " ".join(meta.get("domain", []) or []),

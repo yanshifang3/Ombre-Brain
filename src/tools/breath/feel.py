@@ -27,8 +27,8 @@ from utils import strip_wikilinks, count_tokens_approx
 async def surface_feels(max_tokens: int) -> str:
     try:
         all_buckets = await rt.bucket_mgr.list_all(include_archive=False)
-        feels = [b for b in all_buckets if b["metadata"].get("type") == "feel"]
-        feels.sort(key=lambda b: b["metadata"].get("created", ""), reverse=True)
+        feels = [b for b in all_buckets if b.get("metadata", {}).get("type") == "feel"]
+        feels.sort(key=lambda b: b.get("metadata", {}).get("created", ""), reverse=True)
         if not feels:
             return "没有留下过 feel。"
         full_lines: list[str] = []
