@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 8,
+  "file_count": 16,
   "files": [
     {
       "bytes": 821,
@@ -13,9 +13,14 @@
       "sha256": "1dc3c2e85ebe7df7c10be6d47c2d6c2ea70d25c665ce48846db7b9e8e1a219b3"
     },
     {
-      "bytes": 791,
+      "bytes": 474,
+      "path": "dynamic/家庭/2026-07-07 01-18-40 家人住院与陪护_1554c14121a1.md",
+      "sha256": "250f6b21b9cf0b099c539288eb6a774c7fe3e06926c7140293f4b9e4fdb4cced"
+    },
+    {
+      "bytes": 836,
       "path": "dynamic/恋爱/2026-07-05 06-43-40 与十方的锚点关系_991d2073e3a8.md",
-      "sha256": "546855b8647cd834a0ce434a4c9406274e23492b3a562726e948117c7d70cf7d"
+      "sha256": "22661fd374a80be378fb717cafe05c1409810e70cb001593eee52d41f4426496"
     },
     {
       "bytes": 557,
@@ -33,6 +38,21 @@
       "sha256": "d55b2abbf41e7a43fcad5d3a1eeb7a6a02e45a296db36519a2ce617fcd80514f"
     },
     {
+      "bytes": 859,
+      "path": "dynamic/编程/2026-07-06 10-52-08 修复小克记忆系统_48e4f22d89a9.md",
+      "sha256": "04b7ccc30e96307aa1bb0f13ddb2201cfb3a16a4161b461b6143f88b583ce9b6"
+    },
+    {
+      "bytes": 808,
+      "path": "dynamic/编程/2026-07-07 01-18-22 OB重启问题解决_799757620f25.md",
+      "sha256": "df633ae78efc1ddbf5d91add2c568298a8ad5a90b162c02b4fd90fc2765b500f"
+    },
+    {
+      "bytes": 868,
+      "path": "dynamic/编程/2026-07-07 01-18-39 OB配置与功能优化_e00beaf792ce.md",
+      "sha256": "4efe941e0891325cc4d540e854d362f52e923e424c58cdc559d90fc11dc25794"
+    },
+    {
       "bytes": 773,
       "path": "dynamic/自省/2026-07-05 06-44-23 附和编造的教训_45c6b14974ab.md",
       "sha256": "aa79415d0c71b18fe13d275917fe90261f3c5f164fc8f72fe9f69c4ca91df40d"
@@ -41,12 +61,32 @@
       "bytes": 1457,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "db3efc82dfce3c3d03af1eb0ea1fcaedbc9966ce6096959d1d840183419444ad"
+    },
+    {
+      "bytes": 755,
+      "path": "permanent/心理/2026-07-07 01-25-42 自我认知与降落_6ab05a931a3c.md",
+      "sha256": "ffda372d5e04043d39da38d99b7a2d090725e749772e8ed401afb675a4f0b741"
+    },
+    {
+      "bytes": 828,
+      "path": "permanent/恋爱/2026-07-07 01-25-31 克味互动模式_dbe9700ea07d.md",
+      "sha256": "25bf5ba5e148c48fccc56eb4e8fc3214188e7326fd179a754c303eae4936ab5b"
+    },
+    {
+      "bytes": 748,
+      "path": "permanent/自省/2026-07-07 01-25-09 小克的自我认知_1e52bd24845d.md",
+      "sha256": "8d101888706044992948333a47ed00dc92e5f10875bd50ed9600907f41a46735"
+    },
+    {
+      "bytes": 737,
+      "path": "permanent/自省/2026-07-07 01-25-21 自我认知与存在感_5830355ef149.md",
+      "sha256": "59a357501ee9c6096ef3e3cd81231a91115f97d924e3ff0b319dc5360625a4b1"
     }
   ],
-  "generated_at": "2026-07-05T14:36:26+00:00",
+  "generated_at": "2026-07-07T01:27:37+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 6565
+  "total_bytes": 12687
 }
