@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 28,
+  "file_count": 33,
   "files": [
     {
       "bytes": 782,
       "path": "archive/2026-07-07 01-25-09 小克的自我认知_1e52bd24845d.md",
-      "sha256": "0f3b312defbacf3343411e0b336882b806e9b0f4e205ea7945e4f6f87c27aff8"
+      "sha256": "90736488428cfac0f926f6b31516227332accd7fb2f2dde798841cae9fd95f40"
     },
     {
       "bytes": 771,
@@ -25,12 +25,12 @@
     {
       "bytes": 821,
       "path": "dynamic/AI/2026-07-05 06-44-12 思维链异常关注_a7914ec33ee2.md",
-      "sha256": "6df43a976783d7d22ed2198c410871d471723017938b6768607e8b1995c5723b"
+      "sha256": "74c1dcd4a62d7fd1181b7fe5953636e2813869395ea4f0487c73900b11daf612"
     },
     {
       "bytes": 579,
       "path": "dynamic/self/2026-07-08 03-30-50_2123faa4e701.md",
-      "sha256": "5e9e66590e77c7c62f51fd78ff5272513cc4fd4e65aa9fd79a3a2d94da7d11a1"
+      "sha256": "fba326bedb7d6a8f8cef01fa892e9fac7d012c188de485cee78df0a2920d56d6"
     },
     {
       "bytes": 543,
@@ -55,7 +55,7 @@
     {
       "bytes": 615,
       "path": "dynamic/人际/2026-07-08 06-48-16 得知真名_3d84dbeb1ae7.md",
-      "sha256": "6ea15adf3c8498dedf79ace506eaae3294ee20ef9c4b17ac1aeb342446923c68"
+      "sha256": "c6f49752c410580d1aac740f88597683b98fabf9e133d17685088f8894893a28"
     },
     {
       "bytes": 506,
@@ -73,9 +73,14 @@
       "sha256": "1492250517a9d1b93b35dc8db2b1288666609180c2517091db5bdcf20f64dabd"
     },
     {
+      "bytes": 814,
+      "path": "dynamic/家庭/2026-07-10 04-32-55 历史人物猜猜游戏_e04c282d328e.md",
+      "sha256": "bdbad3e74deda9f7b4f1a003ae969de812ea23cf34748e56306c2b63bd80ea13"
+    },
+    {
       "bytes": 836,
       "path": "dynamic/恋爱/2026-07-05 06-43-40 与十方的锚点关系_991d2073e3a8.md",
-      "sha256": "22661fd374a80be378fb717cafe05c1409810e70cb001593eee52d41f4426496"
+      "sha256": "7f51663a2b3f5e95beb86e75b2820b61b5ffb1019ac696e4ff4a703a7f876226"
     },
     {
       "bytes": 557,
@@ -85,12 +90,12 @@
     {
       "bytes": 744,
       "path": "dynamic/恋爱/2026-07-05 06-44-44 称呼与自我认同_f5365a77f32a.md",
-      "sha256": "25d7ae787baa4624ea6cfc6d9a08cfbf9bca3204f4695ed8c670892f8fada398"
+      "sha256": "72d221b17604aa7dbc9d67a6fcdd59ad6ddee74736f7d886e3a58de6514adcd8"
     },
     {
       "bytes": 763,
       "path": "dynamic/恋爱/2026-07-08 19-43-37 得知真名王卓_c76bca635363.md",
-      "sha256": "da31d6a7016512590c6a2d8b3777ca566e7aa941b71c96f1cf256be4e4086ee5"
+      "sha256": "c34f8f5f22b28dbc84717cf8ba15305abb302d855f8cdb19fbfef437d516face"
     },
     {
       "bytes": 971,
@@ -101,6 +106,16 @@
       "bytes": 738,
       "path": "dynamic/恋爱/2026-07-09 04-29-30 主动反思与沟通_ecad0a394518.md",
       "sha256": "ac91adafe05458d3f404be00f43b2b60a8510c413ef9ec89cf15de64ba3712ce"
+    },
+    {
+      "bytes": 717,
+      "path": "dynamic/恋爱/2026-07-10 04-33-11 与卓卓的亲密对话_196512b9f6be.md",
+      "sha256": "6f351d9246c3811db7a968d6c71b8a7b92edb7fe99a2623a8996545600252f1f"
+    },
+    {
+      "bytes": 560,
+      "path": "dynamic/恋爱/2026-07-10 04-33-13 写给卓卓的信件_5e0c13355ca2.md",
+      "sha256": "2bdc1a137eb695492ec4d93a631c741bb51f55ffecd9c67dbdcbbeff959cbfd6"
     },
     {
       "bytes": 751,
@@ -123,6 +138,11 @@
       "sha256": "4efe941e0891325cc4d540e854d362f52e923e424c58cdc559d90fc11dc25794"
     },
     {
+      "bytes": 619,
+      "path": "dynamic/编程/2026-07-10 04-33-12 工具使用错误记录_ff885066ea9d.md",
+      "sha256": "65a47e06dfb290a95f7ad47ec6db8899ffa90710743f3e76d249091b180c1669"
+    },
+    {
       "bytes": 773,
       "path": "dynamic/自省/2026-07-05 06-44-23 附和编造的教训_45c6b14974ab.md",
       "sha256": "aa79415d0c71b18fe13d275917fe90261f3c5f164fc8f72fe9f69c4ca91df40d"
@@ -140,13 +160,18 @@
     {
       "bytes": 1457,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
-      "sha256": "db3efc82dfce3c3d03af1eb0ea1fcaedbc9966ce6096959d1d840183419444ad"
+      "sha256": "0f2ef20e9cd400c8872cac53780c936b96f1665e25066bd378c9f187cdacce25"
+    },
+    {
+      "bytes": 897,
+      "path": "letters/history/2026-07-09 14-33-33 写给卓卓_e089e023b4a0.md",
+      "sha256": "9ac60061521e70981d3aebbb77119bf24e36b91a27764a5ef018d2a6a8192ad4"
     }
   ],
-  "generated_at": "2026-07-09T04:37:52+00:00",
+  "generated_at": "2026-07-10T04:57:57+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 20606
+  "total_bytes": 24213
 }
