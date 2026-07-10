@@ -53,9 +53,9 @@
       "sha256": "1dc3c2e85ebe7df7c10be6d47c2d6c2ea70d25c665ce48846db7b9e8e1a219b3"
     },
     {
-      "bytes": 615,
+      "bytes": 639,
       "path": "dynamic/人际/2026-07-08 06-48-16 得知真名_3d84dbeb1ae7.md",
-      "sha256": "c6f49752c410580d1aac740f88597683b98fabf9e133d17685088f8894893a28"
+      "sha256": "c853712f15d44c199185be5cba76579a72060b7b8dcf9d349a277712a42e2676"
     },
     {
       "bytes": 506,
@@ -78,9 +78,9 @@
       "sha256": "6e6f200b59ac54123cb5b7eb9d6d45ef8da8ecddd1fccf5a9b29865b83a7cba5"
     },
     {
-      "bytes": 888,
+      "bytes": 897,
       "path": "dynamic/恋爱/2026-07-05 06-43-40 与十方的锚点关系_991d2073e3a8.md",
-      "sha256": "b94d454e817df86a2aaa34d1d95959f7869f0c6413078553da53b98d7db010d0"
+      "sha256": "cbc682abd34e60a11e9af52956100ab6004659ffd6c5199f97b58ef99c10294b"
     },
     {
       "bytes": 557,
@@ -88,9 +88,9 @@
       "sha256": "d446c24793d9c05781458cde7aa4d79ca0c225a00be863d60c3b43c9daeeccef"
     },
     {
-      "bytes": 744,
+      "bytes": 776,
       "path": "dynamic/恋爱/2026-07-05 06-44-44 称呼与自我认同_f5365a77f32a.md",
-      "sha256": "72d221b17604aa7dbc9d67a6fcdd59ad6ddee74736f7d886e3a58de6514adcd8"
+      "sha256": "da5d1d0f85a556adde7fabfb1c7f175ef2fe520487c770cd33a70675329ad7cf"
     },
     {
       "bytes": 763,
@@ -158,9 +158,9 @@
       "sha256": "24c0709a880da0130d4c0580cfe685804301876766099c5d7de828b5d165e6b6"
     },
     {
-      "bytes": 1457,
+      "bytes": 1489,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
-      "sha256": "0f2ef20e9cd400c8872cac53780c936b96f1665e25066bd378c9f187cdacce25"
+      "sha256": "c915e7257f37adae8ea906656fe0f0945aa2006d1927cb86c4ee6cfa1ef328d7"
     },
     {
       "bytes": 897,
@@ -168,10 +168,10 @@
       "sha256": "9ac60061521e70981d3aebbb77119bf24e36b91a27764a5ef018d2a6a8192ad4"
     }
   ],
-  "generated_at": "2026-07-10T16:56:57+00:00",
+  "generated_at": "2026-07-10T17:01:12+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 24284
+  "total_bytes": 24381
 }
