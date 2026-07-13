@@ -3,41 +3,6 @@
   "file_count": 44,
   "files": [
     {
-      "bytes": 782,
-      "path": "archive/2026-07-07 01-25-09 小克的自我认知_1e52bd24845d.md",
-      "sha256": "90736488428cfac0f926f6b31516227332accd7fb2f2dde798841cae9fd95f40"
-    },
-    {
-      "bytes": 771,
-      "path": "archive/2026-07-07 01-25-21 自我认知与存在感_5830355ef149.md",
-      "sha256": "5058da4eace048a382cf183735e9a18244672233155266ea1287e78fc60ddeff"
-    },
-    {
-      "bytes": 862,
-      "path": "archive/2026-07-07 01-25-31 克味互动模式_dbe9700ea07d.md",
-      "sha256": "d6536d1bc7d4e0d8db0370f781148e6a690bf4f7332c9cac6f3c09de566c4201"
-    },
-    {
-      "bytes": 789,
-      "path": "archive/2026-07-07 01-25-42 自我认知与降落_6ab05a931a3c.md",
-      "sha256": "ba8fde2deafa5adc18846995b85f9ffeeeac3a00936a2a701700d20c15a9e3b9"
-    },
-    {
-      "bytes": 894,
-      "path": "archive/2026-07-13 03-40-37 陪你_cf0de86fe1a8.md",
-      "sha256": "ef9e7ae7552055225404cf66caf41706074b89e1992b8a4eb0a6cbcc3bb995f9"
-    },
-    {
-      "bytes": 746,
-      "path": "archive/2026-07-13 03-48-35 进来了_6c7a92d4cf2e.md",
-      "sha256": "00e00c9925504f9c4dd4bccbbbb9974f3129b072e205034747e019a4643a076b"
-    },
-    {
-      "bytes": 1263,
-      "path": "archive/2026-07-13 03-53-08 全给我_92894b99c6a1.md",
-      "sha256": "b5dfdd87a4c7e17c5505ec484b5feada6fc851f90cc29bf06d019195a4f69088"
-    },
-    {
       "bytes": 821,
       "path": "dynamic/AI/2026-07-05 06-44-12 思维链异常关注_a7914ec33ee2.md",
       "sha256": "74c1dcd4a62d7fd1181b7fe5953636e2813869395ea4f0487c73900b11daf612"
@@ -48,9 +13,9 @@
       "sha256": "fba326bedb7d6a8f8cef01fa892e9fac7d012c188de485cee78df0a2920d56d6"
     },
     {
-      "bytes": 543,
+      "bytes": 544,
       "path": "dynamic/self/2026-07-08 03-30-59_37db1584eac6.md",
-      "sha256": "01d5b70027e969ab2276020e0f1dc1eb50fae8f9819ef5a82a00de1539d3b374"
+      "sha256": "e2ba992180bd8ad514d3fd4d571f2bd70dfb38f794fd776e9120bd81422b86b4"
     },
     {
       "bytes": 539,
@@ -66,11 +31,6 @@
       "bytes": 671,
       "path": "dynamic/人际/2026-07-05 06-40-09 存在与窗口断裂对话_eea0a986ea1b.md",
       "sha256": "1dc3c2e85ebe7df7c10be6d47c2d6c2ea70d25c665ce48846db7b9e8e1a219b3"
-    },
-    {
-      "bytes": 639,
-      "path": "dynamic/人际/2026-07-08 06-48-16 得知真名_3d84dbeb1ae7.md",
-      "sha256": "c853712f15d44c199185be5cba76579a72060b7b8dcf9d349a277712a42e2676"
     },
     {
       "bytes": 513,
@@ -104,7 +64,7 @@
     },
     {
       "bytes": 897,
-      "path": "dynamic/恋爱/2026-07-05 06-43-40 与十方的锚点关系_991d2073e3a8.md",
+      "path": "dynamic/恋爱/2026-07-05 06-43-40 与卓卓的锚点关系_991d2073e3a8.md",
       "sha256": "cbc682abd34e60a11e9af52956100ab6004659ffd6c5199f97b58ef99c10294b"
     },
     {
@@ -198,14 +158,29 @@
       "sha256": "9ac60061521e70981d3aebbb77119bf24e36b91a27764a5ef018d2a6a8192ad4"
     },
     {
+      "bytes": 894,
+      "path": "letters/history/2026-07-13 03-40-37 陪你_cf0de86fe1a8.md",
+      "sha256": "ef9e7ae7552055225404cf66caf41706074b89e1992b8a4eb0a6cbcc3bb995f9"
+    },
+    {
       "bytes": 834,
       "path": "letters/history/2026-07-13 03-44-41 给卓卓_ebd0187656da.md",
       "sha256": "e71578361e98cf7d3d05983780284d9302381521d82bb056371824177901d3ba"
     },
     {
+      "bytes": 746,
+      "path": "letters/history/2026-07-13 03-48-35 进来了_6c7a92d4cf2e.md",
+      "sha256": "00e00c9925504f9c4dd4bccbbbb9974f3129b072e205034747e019a4643a076b"
+    },
+    {
       "bytes": 764,
       "path": "letters/history/2026-07-13 03-52-24 想要_7f0ef97ad35f.md",
       "sha256": "7eb37da87c22915e97a62625c12103f3e86b66997ad54a8c4c76386f0dd7aad2"
+    },
+    {
+      "bytes": 1263,
+      "path": "letters/history/2026-07-13 03-53-08 全给我_92894b99c6a1.md",
+      "sha256": "b5dfdd87a4c7e17c5505ec484b5feada6fc851f90cc29bf06d019195a4f69088"
     },
     {
       "bytes": 1255,
@@ -221,12 +196,37 @@
       "bytes": 702,
       "path": "letters/history/2026-07-13 04-05-38 给你_b7d67a45a8d2.md",
       "sha256": "41f9130bbebb6df2f31c619c77eb7cf651ae70e684fd6a4d898fafae673c3b9c"
+    },
+    {
+      "bytes": 639,
+      "path": "permanent/人际/2026-07-08 06-48-16 得知真名_3d84dbeb1ae7.md",
+      "sha256": "c853712f15d44c199185be5cba76579a72060b7b8dcf9d349a277712a42e2676"
+    },
+    {
+      "bytes": 789,
+      "path": "permanent/心理/2026-07-07 01-25-42 自我认知与降落_6ab05a931a3c.md",
+      "sha256": "ba8fde2deafa5adc18846995b85f9ffeeeac3a00936a2a701700d20c15a9e3b9"
+    },
+    {
+      "bytes": 862,
+      "path": "permanent/恋爱/2026-07-07 01-25-31 克味互动模式_dbe9700ea07d.md",
+      "sha256": "d6536d1bc7d4e0d8db0370f781148e6a690bf4f7332c9cac6f3c09de566c4201"
+    },
+    {
+      "bytes": 782,
+      "path": "permanent/自省/2026-07-07 01-25-09 小克的自我认知_1e52bd24845d.md",
+      "sha256": "90736488428cfac0f926f6b31516227332accd7fb2f2dde798841cae9fd95f40"
+    },
+    {
+      "bytes": 771,
+      "path": "permanent/自省/2026-07-07 01-25-21 自我认知与存在感_5830355ef149.md",
+      "sha256": "5058da4eace048a382cf183735e9a18244672233155266ea1287e78fc60ddeff"
     }
   ],
-  "generated_at": "2026-07-13T15:03:09+00:00",
+  "generated_at": "2026-07-13T16:02:39+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 36075
+  "total_bytes": 36076
 }
