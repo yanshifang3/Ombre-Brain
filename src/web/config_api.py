@@ -9,7 +9,7 @@ web/config_api.py — Dashboard 配置 / 环境变量 / API Key 测试 / 模型�
 - /api/test/dehydration、/api/test/embedding：压缩 / 向量化连通性自检
 - /api/models：列目标 provider 可用模型
 - /api/env-config (GET/POST)：四块 env（compress/embed/webhook/password）热更新；
-  embedding 改动热替换 sh.embedding_engine（+ bucket_mgr/import_engine 引用）。
+  embedding 改动会原子替换所有 Web/MCP/写入/迁移运行时引用。
   webhook 不再回写模块全局——_fire_webhook 每次读 os.environ。
 
 对外暴露：register(mcp)。
@@ -17,9 +17,9 @@ web/config_api.py — Dashboard 配置 / 环境变量 / API Key 测试 / 模型�
 """
 
 import os
+import sys
 import yaml
 import httpx
-import json as _json_lib
 
 from starlette.requests import Request
 from starlette.responses import Response
@@ -27,14 +27,48 @@ from starlette.responses import Response
 from . import _shared as sh
 
 try:
-    from utils import get_ai_name as _get_ai_name, positive_float as _positive_float  # type: ignore
+    from utils import (  # type: ignore
+        get_ai_name as _get_ai_name,
+        get_owner_name as _get_owner_name,
+        get_owner_count as _get_owner_count,
+        positive_float as _positive_float,
+        parse_bool as _parse_bool,
+    )
 except ImportError:  # pragma: no cover
-    from ..utils import get_ai_name as _get_ai_name, positive_float as _positive_float  # type: ignore
+    from ..utils import (  # type: ignore
+        get_ai_name as _get_ai_name,
+        get_owner_name as _get_owner_name,
+        get_owner_count as _get_owner_count,
+        positive_float as _positive_float,
+        parse_bool as _parse_bool,
+    )
 
 logger = sh.logger
+_MAX_PROVIDER_KEY_CHARS = 8192
+_MAX_PROVIDER_URL_CHARS = 2048
+_MAX_PROVIDER_FORMAT_CHARS = 64
+_MAX_ENV_VALUE_CHARS = 8192
+
+
+def _rebuild_embedding_runtime():
+    """Rebuild and publish one embedding engine to every runtime holder."""
+    try:
+        from embedding_engine import EmbeddingEngine  # type: ignore
+    except ImportError:  # pragma: no cover
+        from ..embedding_engine import EmbeddingEngine  # type: ignore
+
+    engine = EmbeddingEngine(sh.config)
+    sh.replace_embedding_engine(engine)
+    return engine
 
 
 def register(mcp) -> None:
+    # MCP auth is bound into middleware and OAuth route visibility at process
+    # startup. Keep the effective value separate from the desired persisted
+    # value so the Dashboard cannot falsely claim a hot switch took effect.
+    runtime_mcp_auth_required = _parse_bool(
+        sh.config.get("mcp_require_auth", True), default=True
+    )
 
     @mcp.custom_route("/dashboard", methods=["GET"])
     async def dashboard(request: Request) -> Response:
@@ -124,7 +158,7 @@ def register(mcp) -> None:
                 "timeout_seconds": dehy.get("timeout_seconds", 60),
             },
             "embedding": {
-                "enabled": emb.get("enabled", False),
+                "enabled": _parse_bool(emb.get("enabled", False), default=False),
                 "model": emb.get("model", ""),
                 "api_format": emb.get("api_format", "openai_compat"),
                 "timeout_seconds": emb.get("timeout_seconds", 30),
@@ -143,13 +177,23 @@ def register(mcp) -> None:
             "buckets_dir": sh.config.get("buckets_dir", ""),
             # MCP OAuth 鉴权开关。默认 true（强制 OAuth）。前端「⑥ MCP 连接」面板用它
             # 渲染一键开关；关掉后 /mcp 免认证直连（供自有前端 / GPT / GLM 等）。
-            "mcp_require_auth": bool(sh.config.get("mcp_require_auth", True)),
+            "mcp_require_auth": _parse_bool(
+                sh.config.get("mcp_require_auth", True), default=True
+            ),
+            "mcp_require_auth_effective": runtime_mcp_auth_required,
+            "restart_required": _parse_bool(
+                sh.config.get("mcp_require_auth", True), default=True
+            ) != runtime_mcp_auth_required,
             # 部署信息：数据目录 + 端口 + 是否容器内。前端「系统」区展示，端口可改。
             "host_port": sh.config.get("host_port"),
             "in_docker": sh.in_docker(),
             # AI 一方的显示名（取自环境变量 AI_NAME，回退 "AI"）。前端只读，用于
             # 面向用户的文案（如删除确认、信件署名占位）。
             "ai_name": _get_ai_name(),
+            # 记忆归属：多人共用一套 OB 时标明「这份记忆是谁的」。owner_count>=2 时
+            # 前端顶部才显示归属徽标（单人不打扰）；owner_name 为徽标文字。均只读。
+            "owner_name": _get_owner_name(),
+            "owner_count": _get_owner_count(),
         })
 
 
@@ -164,8 +208,66 @@ def register(mcp) -> None:
             body = await request.json()
         except Exception:
             return JSONResponse({"error": "invalid JSON"}, status_code=400)
+        if not isinstance(body, dict):
+            return JSONResponse({"error": "JSON body must be an object"}, status_code=400)
 
         updated = []
+        try:
+            persist_requested = _parse_bool(body.get("persist", False))
+            mcp_auth_value = (
+                _parse_bool(body["mcp_require_auth"])
+                if "mcp_require_auth" in body
+                else None
+            )
+            embedding_payload = body.get("embedding")
+            if "embedding" in body and not isinstance(embedding_payload, dict):
+                return JSONResponse(
+                    {"error": "embedding must be an object"}, status_code=400
+                )
+            if "dehydration" in body and not isinstance(
+                body.get("dehydration"), dict
+            ):
+                return JSONResponse(
+                    {"error": "dehydration must be an object"}, status_code=400
+                )
+            if "surfacing" in body and not isinstance(body.get("surfacing"), dict):
+                return JSONResponse(
+                    {"error": "surfacing must be an object"}, status_code=400
+                )
+            embedding_enabled = (
+                _parse_bool(embedding_payload["enabled"])
+                if isinstance(embedding_payload, dict)
+                and "enabled" in embedding_payload
+                else None
+            )
+            embedding_backend = None
+            if isinstance(embedding_payload, dict) and "backend" in embedding_payload:
+                backend_raw = str(embedding_payload["backend"]).strip().lower()
+                embedding_backend = (
+                    "api" if backend_raw in ("api", "gemini") else backend_raw
+                )
+                if embedding_backend != "api":
+                    return JSONResponse(
+                        {"error": f"unsupported embedding backend: {backend_raw}"},
+                        status_code=400,
+                    )
+            sampling_payload = None
+            if isinstance(body.get("surfacing"), dict):
+                candidate = body["surfacing"].get("sampling")
+                if candidate is not None and not isinstance(candidate, dict):
+                    return JSONResponse(
+                        {"error": "surfacing.sampling must be an object"},
+                        status_code=400,
+                    )
+                sampling_payload = candidate
+            sampling_enabled = (
+                _parse_bool(sampling_payload["enabled"])
+                if isinstance(sampling_payload, dict)
+                and "enabled" in sampling_payload
+                else None
+            )
+        except ValueError as e:
+            return JSONResponse({"error": str(e)}, status_code=400)
 
         # --- Dehydration config ---
         if "dehydration" in body:
@@ -201,57 +303,41 @@ def register(mcp) -> None:
 
         # --- Embedding config ---
         if "embedding" in body:
-            e = body["embedding"]
+            e = embedding_payload
             emb = sh.config.setdefault("embedding", {})
-            if "enabled" in e:
-                emb["enabled"] = bool(e["enabled"])
-                sh.embedding_engine.enabled = emb["enabled"]
+            rebuild_embedding = False
+            if embedding_enabled is not None:
+                emb["enabled"] = embedding_enabled
                 updated.append("embedding.enabled")
+                rebuild_embedding = True
             if "model" in e:
                 emb["model"] = e["model"]
-                sh.embedding_engine.model = emb["model"]
-                if sh.embedding_engine._backend:
-                    sh.embedding_engine._backend.model = emb["model"]  # type: ignore[attr-defined]
                 updated.append("embedding.model")
+                rebuild_embedding = True
             if "timeout_seconds" in e:
                 emb["timeout_seconds"] = e["timeout_seconds"]
-                try:
-                    from embedding_engine import EmbeddingEngine as _EE
-                except ImportError:
-                    from ..embedding_engine import EmbeddingEngine as _EE
-                sh.embedding_engine = _EE(sh.config)
-                try:
-                    sh.bucket_mgr.embedding_engine = sh.embedding_engine
-                except Exception:
-                    pass
-                try:
-                    sh.import_engine.embedding_engine = sh.embedding_engine
-                except Exception:
-                    pass
                 updated.append("embedding.timeout_seconds")
+                rebuild_embedding = True
             if "api_format" in e:
                 emb["api_format"] = str(e["api_format"]).strip()
-                # 重建后端以应用新格式
-                try:
-                    from embedding_engine import EmbeddingEngine as _EE
-                except ImportError:
-                    from ..embedding_engine import EmbeddingEngine as _EE
-                sh.embedding_engine = _EE(sh.config)
                 updated.append("embedding.api_format")
-            if "backend" in e:
-                new_backend_raw = str(e["backend"]).strip().lower()
-                # 只支持 api backend，其他值直接拒绝
-                new_backend = "api" if new_backend_raw in ("api", "gemini") else new_backend_raw
-                if new_backend == "api":
-                    emb["backend"] = new_backend
-                    # 注意：这里仅热替换运行时引擎实例，不做 embeddings.db 迁移。
-                    # 如需重算所有向量，请显式调用 POST /api/embedding/migrate。
-                    try:
-                        from embedding_engine import EmbeddingEngine
-                    except ImportError:
-                        from ..embedding_engine import EmbeddingEngine
-                    sh.embedding_engine = EmbeddingEngine(sh.config)
-                    updated.append("embedding.backend")
+                rebuild_embedding = True
+            if embedding_backend is not None:
+                emb["backend"] = embedding_backend
+                updated.append("embedding.backend")
+                rebuild_embedding = True
+
+            # One request may change several fields. Rebuild once, then publish
+            # the same instance to web routes, BucketManager, ImportEngine and
+            # the MCP tools runtime so reads and writes cannot split models.
+            if rebuild_embedding:
+                try:
+                    _rebuild_embedding_runtime()
+                except Exception as e:
+                    return JSONResponse(
+                        {"error": f"embedding reload failed: {e}"},
+                        status_code=400,
+                    )
 
         # --- Merge threshold ---
         if "merge_threshold" in body:
@@ -265,8 +351,8 @@ def register(mcp) -> None:
         # 注意：该值在进程启动时被读入 server.py 的 MCP 鉴权中间件闭包，运行时改
         # sh.config 不会即时生效，必须 persist 到 config.yaml 后重启进程才真正切换。
         # 这里仍同步 sh.config，让 /api/config GET 能回显「已保存、待重启生效」的值。
-        if "mcp_require_auth" in body:
-            sh.config["mcp_require_auth"] = bool(body["mcp_require_auth"])
+        if mcp_auth_value is not None:
+            sh.config["mcp_require_auth"] = mcp_auth_value
             updated.append("mcp_require_auth")
 
         # --- 对外端口（host_port）---
@@ -297,7 +383,7 @@ def register(mcp) -> None:
                         pass
 
         # --- Persist to config.yaml if requested ---
-        if body.get("persist", False):
+        if persist_requested:
             from utils import config_file_path
             config_path = config_file_path()
             try:
@@ -321,9 +407,13 @@ def register(mcp) -> None:
                     if not isinstance(sc_emb, dict):
                         sc_emb = {}
                         save_config["embedding"] = sc_emb
-                    for key in ("enabled", "model", "api_format", "timeout_seconds"):
+                    for key in ("model", "api_format", "timeout_seconds"):
                         if key in body["embedding"]:
                             sc_emb[key] = body["embedding"][key]
+                    if embedding_enabled is not None:
+                        sc_emb["enabled"] = embedding_enabled
+                    if embedding_backend is not None:
+                        sc_emb["backend"] = embedding_backend
 
                 if "merge_threshold" in body:
                     try:
@@ -331,8 +421,8 @@ def register(mcp) -> None:
                     except (TypeError, ValueError):
                         pass
 
-                if "mcp_require_auth" in body:
-                    save_config["mcp_require_auth"] = bool(body["mcp_require_auth"])
+                if mcp_auth_value is not None:
+                    save_config["mcp_require_auth"] = mcp_auth_value
 
                 if "host_port" in body:
                     try:
@@ -357,8 +447,8 @@ def register(mcp) -> None:
                             sc_samp = {}
                             sc_sf["sampling"] = sc_samp
                         src_samp = body["surfacing"]["sampling"]
-                        if "enabled" in src_samp:
-                            sc_samp["enabled"] = bool(src_samp["enabled"])
+                        if sampling_enabled is not None:
+                            sc_samp["enabled"] = sampling_enabled
                         for key in ("top_k", "sample_k"):
                             if key in src_samp:
                                 try:
@@ -377,7 +467,20 @@ def register(mcp) -> None:
             except Exception as e:
                 return JSONResponse({"error": f"persist failed: {e}", "updated": updated}, status_code=500)
 
-        return JSONResponse({"updated": updated, "ok": True})
+        restart_required = (
+            mcp_auth_value is not None
+            and mcp_auth_value != runtime_mcp_auth_required
+        )
+        return JSONResponse({
+            "updated": updated,
+            "ok": True,
+            "restart_required": restart_required,
+            "mcp_require_auth_effective": runtime_mcp_auth_required,
+            "message": (
+                "OAuth 鉴权设置已保存，需要重启服务后生效。"
+                if restart_required else "设置已生效。"
+            ),
+        })
 
 
     # =============================================================
@@ -463,13 +566,22 @@ def register(mcp) -> None:
         if err:
             return err
         try:
-            body = await request.json()
+            body = await sh._read_json_object(request)
         except Exception:
             return JSONResponse({"ok": False, "error": "invalid JSON"}, status_code=400)
 
+        provider_fields = ("api_key", "base_url", "api_format")
+        if any(key in body and not isinstance(body[key], str) for key in provider_fields):
+            return JSONResponse({"ok": False, "error": "provider fields must be strings"}, status_code=400)
         api_key = str(body.get("api_key", "")).strip()
         base_url = str(body.get("base_url", "")).strip()
         api_format = str(body.get("api_format", "openai_compat")).strip().lower()
+        if (
+            len(api_key) > _MAX_PROVIDER_KEY_CHARS
+            or len(base_url) > _MAX_PROVIDER_URL_CHARS
+            or len(api_format) > _MAX_PROVIDER_FORMAT_CHARS
+        ):
+            return JSONResponse({"ok": False, "error": "provider configuration is too large"}, status_code=400)
 
         # Sentinel "__use_current__": use server-side key from dehydration config
         if api_key == "__use_current__":
@@ -624,13 +736,15 @@ def register(mcp) -> None:
             return err
 
         try:
-            body = await request.json()
+            body = await sh._read_json_object(request)
         except Exception:
             return JSONResponse({"ok": False, "error": "invalid JSON"}, status_code=400)
 
         updates: dict = body.get("updates", {})
         if not isinstance(updates, dict) or not updates:
             return JSONResponse({"ok": False, "error": "updates 必须是非空对象"}, status_code=400)
+        if len(updates) > len(_ENV_CONFIG_FIELDS):
+            return JSONResponse({"ok": False, "error": "updates 字段过多"}, status_code=400)
 
         written: list[str] = []
         errors: list[str] = []
@@ -641,6 +755,9 @@ def register(mcp) -> None:
                 continue
             if not isinstance(val, str):
                 errors.append(f"{var}: 值必须是字符串，跳过")
+                continue
+            if len(val) > _MAX_ENV_VALUE_CHARS:
+                errors.append(f"{var}: 值超过 {_MAX_ENV_VALUE_CHARS} 字符，跳过")
                 continue
             # 拒绝明显的注入字符
             if "\n" in val or "\r" in val:
@@ -722,21 +839,13 @@ def register(mcp) -> None:
                     if var == "OMBRE_EMBED_API_KEY" and not value:
                         sh.embedding_engine._backend = None  # type: ignore[attr-defined]
                         sh.embedding_engine.enabled = False
+                        sh.replace_embedding_engine(sh.embedding_engine)
                     else:
                         try:
                             from embedding_engine import EmbeddingEngine as _EE_hot
                         except ImportError:
                             from ..embedding_engine import EmbeddingEngine as _EE_hot
-                        sh.embedding_engine = _EE_hot(sh.config)
-                        # 更新 bucket_mgr / import_engine 持有的引用
-                        try:
-                            sh.bucket_mgr.embedding_engine = sh.embedding_engine  # type: ignore[attr-defined]
-                        except Exception:
-                            pass
-                        try:
-                            sh.import_engine.embedding_engine = sh.embedding_engine  # type: ignore[attr-defined]
-                        except Exception:
-                            pass
+                        sh.replace_embedding_engine(_EE_hot(sh.config))
                 except Exception:
                     pass
 
@@ -751,3 +860,86 @@ def register(mcp) -> None:
         if errors:
             response["warnings"] = errors
         return JSONResponse(response)
+
+
+    # --- 传输模式热切换：streamable-http / stdio / sse（legacy）---
+    # transport 是「启动时绑定」的（server.py 据此起 streamable_http_app / sse_app / stdio），
+    # 运行中无法无缝切换，所以这里的做法是：持久化新值 → 原地自重启（os.execv 继承已改的
+    # os.environ，绕过 compose 里硬编码的旧 OMBRE_TRANSPORT）→ 新进程按新 transport 起。
+    _TRANSPORT_CHOICES = ("streamable-http", "sse", "stdio")
+
+    @mcp.custom_route("/api/transport", methods=["POST"])
+    async def api_transport_set(request: Request) -> Response:
+        """切换 MCP 传输模式并自重启生效。
+
+        Body (JSON): {"transport": "streamable-http" | "sse" | "stdio"}
+
+        ⚠️ stdio 没有 HTTP 服务：切到 stdio 后 Dashboard / REST / /mcp(HTTP) 全部消失，
+        且无法再从网页切回（需在服务器改 config.yaml / env 恢复）。前端对此二次确认。
+        """
+        from starlette.responses import JSONResponse
+        err = sh._require_auth(request)
+        if err:
+            return err
+        try:
+            body = await sh._read_json_object(request)
+        except Exception:
+            return JSONResponse({"ok": False, "error": "invalid JSON"}, status_code=400)
+
+        new_t = str(body.get("transport") or "").strip()
+        if new_t not in _TRANSPORT_CHOICES:
+            return JSONResponse(
+                {"ok": False, "error": f"transport 必须是 {list(_TRANSPORT_CHOICES)} 之一"},
+                status_code=400,
+            )
+
+        current = str(sh.config.get("transport", "stdio"))
+        if new_t == current:
+            return JSONResponse({"ok": True, "transport": new_t, "restarting": False,
+                                 "note": "传输模式未变化，无需重启。"})
+
+        # 1. 运行时 config + os.environ（os.execv 自重启会继承 environ，
+        #    从而盖过 docker-compose 里硬编码的旧 OMBRE_TRANSPORT）。
+        sh.config["transport"] = new_t
+        os.environ["OMBRE_TRANSPORT"] = new_t
+
+        # 2. 持久化到项目 .env（compose 若以 ${OMBRE_TRANSPORT} 引用则容器重建也保留）。
+        env_persisted = True
+        try:
+            sh._write_env_var("OMBRE_TRANSPORT", new_t)
+        except Exception:
+            env_persisted = False
+
+        # 3. 持久化到 config.yaml（裸机 / 无 env 覆盖时的权威来源）。
+        try:
+            from utils import config_file_path
+            cfg_path = config_file_path()
+            saved: dict = {}
+            if os.path.exists(cfg_path):
+                with open(cfg_path, "r", encoding="utf-8") as f:
+                    saved = yaml.safe_load(f) or {}
+            saved["transport"] = new_t
+            with open(cfg_path, "w", encoding="utf-8") as f:
+                yaml.dump(saved, f, allow_unicode=True, default_flow_style=False)
+        except Exception as e:
+            return JSONResponse({"ok": False, "error": f"写 config.yaml 失败：{e}"}, status_code=500)
+
+        # 4. 延迟自重启，让本次响应先回到前端（参照 /api/do-update 的重启节奏）。
+        import threading
+
+        def _do_restart() -> None:
+            try:
+                os.execv(sys.executable, [sys.executable] + sys.argv)
+            except Exception:
+                os._exit(0)
+
+        threading.Timer(1.0, _do_restart).start()
+        logger.info(f"[transport] 切换 {current} → {new_t}，1s 后自重启生效")
+        return JSONResponse({
+            "ok": True,
+            "transport": new_t,
+            "previous": current,
+            "restarting": True,
+            "env_persisted": env_persisted,
+            "loses_http": new_t == "stdio",
+        })
