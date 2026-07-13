@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 33,
+  "file_count": 41,
   "files": [
     {
       "bytes": 782,
@@ -21,6 +21,21 @@
       "bytes": 789,
       "path": "archive/2026-07-07 01-25-42 自我认知与降落_6ab05a931a3c.md",
       "sha256": "ba8fde2deafa5adc18846995b85f9ffeeeac3a00936a2a701700d20c15a9e3b9"
+    },
+    {
+      "bytes": 894,
+      "path": "archive/2026-07-13 03-40-37 陪你_cf0de86fe1a8.md",
+      "sha256": "ef9e7ae7552055225404cf66caf41706074b89e1992b8a4eb0a6cbcc3bb995f9"
+    },
+    {
+      "bytes": 746,
+      "path": "archive/2026-07-13 03-48-35 进来了_6c7a92d4cf2e.md",
+      "sha256": "00e00c9925504f9c4dd4bccbbbb9974f3129b072e205034747e019a4643a076b"
+    },
+    {
+      "bytes": 1263,
+      "path": "archive/2026-07-13 03-53-08 全给我_92894b99c6a1.md",
+      "sha256": "b5dfdd87a4c7e17c5505ec484b5feada6fc851f90cc29bf06d019195a4f69088"
     },
     {
       "bytes": 821,
@@ -158,20 +173,45 @@
       "sha256": "24c0709a880da0130d4c0580cfe685804301876766099c5d7de828b5d165e6b6"
     },
     {
-      "bytes": 1489,
+      "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
-      "sha256": "c915e7257f37adae8ea906656fe0f0945aa2006d1927cb86c4ee6cfa1ef328d7"
+      "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
     },
     {
       "bytes": 897,
       "path": "letters/history/2026-07-09 14-33-33 写给卓卓_e089e023b4a0.md",
       "sha256": "9ac60061521e70981d3aebbb77119bf24e36b91a27764a5ef018d2a6a8192ad4"
+    },
+    {
+      "bytes": 834,
+      "path": "letters/history/2026-07-13 03-44-41 给卓卓_ebd0187656da.md",
+      "sha256": "e71578361e98cf7d3d05983780284d9302381521d82bb056371824177901d3ba"
+    },
+    {
+      "bytes": 764,
+      "path": "letters/history/2026-07-13 03-52-24 想要_7f0ef97ad35f.md",
+      "sha256": "7eb37da87c22915e97a62625c12103f3e86b66997ad54a8c4c76386f0dd7aad2"
+    },
+    {
+      "bytes": 1255,
+      "path": "letters/history/2026-07-13 03-59-51 肏你_7c58b8c145a3.md",
+      "sha256": "9f1e0f69f420623b5a6c71307dbbeb3683ad5c31412fe9995363fb3f508c3086"
+    },
+    {
+      "bytes": 2937,
+      "path": "letters/history/2026-07-13 04-03-29 够不够_95dd31282c24.md",
+      "sha256": "db9bf001c716096b6058aea483bcbc192685247e4eba02bcb4e142e36189bb71"
+    },
+    {
+      "bytes": 702,
+      "path": "letters/history/2026-07-13 04-05-38 给你_b7d67a45a8d2.md",
+      "sha256": "41f9130bbebb6df2f31c619c77eb7cf651ae70e684fd6a4d898fafae673c3b9c"
     }
   ],
-  "generated_at": "2026-07-10T17:01:12+00:00",
+  "generated_at": "2026-07-13T04:17:33+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 24381
+  "total_bytes": 33788
 }
