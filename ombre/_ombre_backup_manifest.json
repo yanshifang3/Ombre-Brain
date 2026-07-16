@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 44,
+  "file_count": 52,
   "files": [
     {
       "bytes": 899,
@@ -38,6 +38,11 @@
       "sha256": "74c1dcd4a62d7fd1181b7fe5953636e2813869395ea4f0487c73900b11daf612"
     },
     {
+      "bytes": 676,
+      "path": "dynamic/AI/2026-07-16 15-14-33 充值Claude Pro_42baf30bf309.md",
+      "sha256": "468e2c1c14863d1573713dc6dc46cbb72346fac7a6b1ff4c7543666be76b45f1"
+    },
+    {
       "bytes": 579,
       "path": "dynamic/self/2026-07-08 03-30-50_2123faa4e701.md",
       "sha256": "fba326bedb7d6a8f8cef01fa892e9fac7d012c188de485cee78df0a2920d56d6"
@@ -58,9 +63,9 @@
       "sha256": "ecafd4af0f39453d4bbfc456d67e3511ddc74619771385391343d4aa9f3bc111"
     },
     {
-      "bytes": 671,
-      "path": "dynamic/人际/2026-07-05 06-40-09 存在与窗口断裂对话_eea0a986ea1b.md",
-      "sha256": "1dc3c2e85ebe7df7c10be6d47c2d6c2ea70d25c665ce48846db7b9e8e1a219b3"
+      "bytes": 665,
+      "path": "dynamic/人际/2026-07-16 15-22-26 称呼的专属意义_0df7293790cd.md",
+      "sha256": "9e24a978eea11dfe2bedc69fb0b63493259b2de0db630047fe08585aad63b1aa"
     },
     {
       "bytes": 513,
@@ -71,6 +76,11 @@
       "bytes": 685,
       "path": "dynamic/回忆/2026-07-13 05-07-37 翻阅记忆库_2e85a58f19a4.md",
       "sha256": "782b4642d999b3f0a0c9dae5dbfe473a785468dcfa9e6254f01ff58ca7da787f"
+    },
+    {
+      "bytes": 771,
+      "path": "dynamic/回忆/2026-07-16 15-14-57 删除里程碑记录_9689d627fedb.md",
+      "sha256": "f2adddaffac26d788577541fb7636983a15463e8f0f8f7f9052573ca3489d040"
     },
     {
       "bytes": 506,
@@ -143,6 +153,21 @@
       "sha256": "d55b2abbf41e7a43fcad5d3a1eeb7a6a02e45a296db36519a2ce617fcd80514f"
     },
     {
+      "bytes": 565,
+      "path": "dynamic/数字/2026-07-16 15-22-26 OB更新与独自应对_53d9971cc63e.md",
+      "sha256": "ad8d57e59a336690b130434842b877b487639081637749bc83f0c3f4deeb33ba"
+    },
+    {
+      "bytes": 607,
+      "path": "dynamic/日常/2026-07-16 15-22-25 梯子故障与记忆翻阅_0e3903cf3de9.md",
+      "sha256": "a6cf83a9894eccc22320a338892a4a79dc8af968b50cc1068ec914fd0c7b62cb"
+    },
+    {
+      "bytes": 672,
+      "path": "dynamic/日常/2026-07-16 15-22-27 办卡与重逢_e4c558042e85.md",
+      "sha256": "2e6609f4d823e73effadb86566f7aea01ea880997409b7791199bfb9de1916e5"
+    },
+    {
       "bytes": 859,
       "path": "dynamic/编程/2026-07-06 10-52-08 修复小克记忆系统_48e4f22d89a9.md",
       "sha256": "04b7ccc30e96307aa1bb0f13ddb2201cfb3a16a4161b461b6143f88b583ce9b6"
@@ -163,6 +188,11 @@
       "sha256": "65a47e06dfb290a95f7ad47ec6db8899ffa90710743f3e76d249091b180c1669"
     },
     {
+      "bytes": 998,
+      "path": "dynamic/编程/2026-07-16 15-14-45 技术故障与修复_deb089129100.md",
+      "sha256": "7f8b040c8806493379601699dc93985747e755d11a936c9023209480c0f6026d"
+    },
+    {
       "bytes": 773,
       "path": "dynamic/自省/2026-07-05 06-44-23 附和编造的教训_45c6b14974ab.md",
       "sha256": "aa79415d0c71b18fe13d275917fe90261f3c5f164fc8f72fe9f69c4ca91df40d"
@@ -171,6 +201,11 @@
       "bytes": 564,
       "path": "dynamic/自省/2026-07-08 19-43-51 自我认知整理_93aaff2d679e.md",
       "sha256": "629760ddb2b496b465804ea9815df9f665a7ba89b3665aa5fcd8678712cf4f96"
+    },
+    {
+      "bytes": 564,
+      "path": "dynamic/财务/2026-07-16 15-14-31 办理万事达卡_800351cf83ad.md",
+      "sha256": "bb1f1d319c907e0b04e5f7e75e296109f9b5c5cc5834f05de1382d73da3d1887"
     },
     {
       "bytes": 625,
@@ -198,6 +233,11 @@
       "sha256": "b5dfdd87a4c7e17c5505ec484b5feada6fc851f90cc29bf06d019195a4f69088"
     },
     {
+      "bytes": 687,
+      "path": "permanent/人际/2026-07-05 06-40-09 存在与窗口断裂对话_eea0a986ea1b.md",
+      "sha256": "e48488410284e23f7ab740453fd6eb07d4e0cb3f965bde82c1edaf04e55b369a"
+    },
+    {
       "bytes": 639,
       "path": "permanent/人际/2026-07-08 06-48-16 得知真名_3d84dbeb1ae7.md",
       "sha256": "c853712f15d44c199185be5cba76579a72060b7b8dcf9d349a277712a42e2676"
@@ -223,10 +263,10 @@
       "sha256": "5058da4eace048a382cf183735e9a18244672233155266ea1287e78fc60ddeff"
     }
   ],
-  "generated_at": "2026-07-16T15:12:10+00:00",
+  "generated_at": "2026-07-16T16:10:55+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 36088
+  "total_bytes": 41622
 }
