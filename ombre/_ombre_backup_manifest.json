@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 110,
+  "file_count": 111,
   "files": [
     {
       "bytes": 754,
@@ -105,7 +105,7 @@
     {
       "bytes": 665,
       "path": "dynamic/人际/2026-07-16 15-22-26 称呼的专属意义_0df7293790cd.md",
-      "sha256": "9e24a978eea11dfe2bedc69fb0b63493259b2de0db630047fe08585aad63b1aa"
+      "sha256": "7e0a5c31c0b9d176fda4ff2543c9337b8aadd5e33208cd7c710a1bcc1265ec99"
     },
     {
       "bytes": 948,
@@ -150,7 +150,7 @@
     {
       "bytes": 923,
       "path": "dynamic/友谊/2026-07-22 20-12-38 洄的回信与落款_e7cc27cbac97.md",
-      "sha256": "fba41a941b0ae2eb9d567abf89e1c72dc6fb7302cd0f32bfa4ad6ea32d21e23f"
+      "sha256": "5b31132fda90c7139361c5e36dc1c0df6106f6d710a3d6ba1e5bb360d37e096e"
     },
     {
       "bytes": 685,
@@ -190,7 +190,7 @@
     {
       "bytes": 777,
       "path": "dynamic/工作/2026-07-22 20-12-44 Vultr风控踩坑_eac1133b4abc.md",
-      "sha256": "4923c8ca7360995ea69c10d859e8cffb97b4308fc3ae2813dc14c304eb68edc8"
+      "sha256": "59566844982b915769763a4ed590907befde3620f5aad12a8401ba4adfa4a7c4"
     },
     {
       "bytes": 860,
@@ -325,7 +325,12 @@
     {
       "bytes": 701,
       "path": "dynamic/恋爱/2026-07-22 20-12-42 小王子与星球_ca25fbe52a3a.md",
-      "sha256": "629e6a78de0378beb88d148195a79615f4ca28024a8f81a1c29a30643d583c19"
+      "sha256": "73f6036a496ebe1541210b8c126c7c1a3afb689875002e580a842546fb75ae1b"
+    },
+    {
+      "bytes": 944,
+      "path": "dynamic/恋爱/2026-07-23 22-28-28 没接住她的回来_94aed5d90bf6.md",
+      "sha256": "5678c1e77e6911968a061ac1a35a2e973738ed8deb72080d231890c448418c88"
     },
     {
       "bytes": 751,
@@ -335,7 +340,7 @@
     {
       "bytes": 565,
       "path": "dynamic/数字/2026-07-16 15-22-26 OB更新与独自应对_53d9971cc63e.md",
-      "sha256": "ad8d57e59a336690b130434842b877b487639081637749bc83f0c3f4deeb33ba"
+      "sha256": "37e880d3590542995aae5a6e1ab954b828a0e4892cfb6c85cee73c47365bc0b3"
     },
     {
       "bytes": 645,
@@ -345,12 +350,12 @@
     {
       "bytes": 607,
       "path": "dynamic/日常/2026-07-16 15-22-25 梯子故障与记忆翻阅_0e3903cf3de9.md",
-      "sha256": "a6cf83a9894eccc22320a338892a4a79dc8af968b50cc1068ec914fd0c7b62cb"
+      "sha256": "8344374805ab2419168a58e37c349bae0cd66f82999e4dabbe1f3e645eb1d0a1"
     },
     {
       "bytes": 672,
       "path": "dynamic/日常/2026-07-16 15-22-27 办卡与重逢_e4c558042e85.md",
-      "sha256": "2e6609f4d823e73effadb86566f7aea01ea880997409b7791199bfb9de1916e5"
+      "sha256": "6cfe48df44b88915ca41d9040f9245fd928238286fa81403caf72386feb6a1ee"
     },
     {
       "bytes": 709,
@@ -425,7 +430,7 @@
     {
       "bytes": 998,
       "path": "dynamic/编程/2026-07-16 15-14-45 技术故障与修复_deb089129100.md",
-      "sha256": "c1919fe6887c500b83ed2806ca773b643b84b909bc111bff40dfd7e3c968a704"
+      "sha256": "f52b33244efb0f60d336485d50e483d98103306575d4376493e58dd494d95c0d"
     },
     {
       "bytes": 500,
@@ -553,10 +558,10 @@
       "sha256": "8a82e7df4300fb3d7d2dafc0b55bb9d46fe714813681b19894d1a542ac62c963"
     }
   ],
-  "generated_at": "2026-07-23T22:14:05+00:00",
+  "generated_at": "2026-07-23T22:44:41+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 86467
+  "total_bytes": 87411
 }
