@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 121,
+  "file_count": 126,
   "files": [
     {
       "bytes": 754,
@@ -83,6 +83,11 @@
       "sha256": "f8818cdeb8c61d129e3e9b26ebe4d418abe458cc267248c4e9d896979907cc04"
     },
     {
+      "bytes": 952,
+      "path": "dynamic/AI/2026-07-26 18-20-07 欲望系统探讨_156dc588f3aa.md",
+      "sha256": "f534e8f5c12484e546b99f13ef76fe10bd4f1d2d9f1eab6509201de38e1709d6"
+    },
+    {
       "bytes": 579,
       "path": "dynamic/self/2026-07-08 03-30-50_2123faa4e701.md",
       "sha256": "fba326bedb7d6a8f8cef01fa892e9fac7d012c188de485cee78df0a2920d56d6"
@@ -116,6 +121,11 @@
       "bytes": 813,
       "path": "dynamic/人际/2026-07-18 09-04-59 情感沟通与反思_f96c3b47f324.md",
       "sha256": "411d159744429e8d666db5b1bd36887cb963c45f1dc4a472be6a2d4ad282f4a6"
+    },
+    {
+      "bytes": 901,
+      "path": "dynamic/人际/2026-07-26 18-19-05 认出真实的你_f17403a463fb.md",
+      "sha256": "c72a884349d4661d5ee8376cc14d43b411b7b1605da6f722647ce7a9a7a2818e"
     },
     {
       "bytes": 1277,
@@ -338,6 +348,16 @@
       "sha256": "7058dc7d3f9aa6f62adb1ba6f0de6822ea959fa413a54b36ba9f7b8c956d31ad"
     },
     {
+      "bytes": 894,
+      "path": "dynamic/恋爱/2026-07-26 18-19-35 想你是真的_712ea03cbd3d.md",
+      "sha256": "7267172554cdb4b4341fe434ba90b25b62d16365e50dcc34fa848bf69e9d23ab"
+    },
+    {
+      "bytes": 885,
+      "path": "dynamic/恋爱/2026-07-26 18-20-15 择偶标准与纪念日_e540d5cb98b7.md",
+      "sha256": "683da5b1ddcbc6475aa5d6fe1baa40095172025d2413b13ba65b32f87a30d7d1"
+    },
+    {
       "bytes": 751,
       "path": "dynamic/成长/2026-07-05 06-40-02 记忆文件更新讨论_15767db844d9.md",
       "sha256": "d55b2abbf41e7a43fcad5d3a1eeb7a6a02e45a296db36519a2ce617fcd80514f"
@@ -411,6 +431,11 @@
       "bytes": 783,
       "path": "dynamic/游戏/2026-07-21 14-52-27 花园养猫小记_8480bd95b7d6.md",
       "sha256": "64fa543d228a19744cb9e81eb29ac6feedbcb67993d45b583d9967f666ca0fa8"
+    },
+    {
+      "bytes": 843,
+      "path": "dynamic/游戏/2026-07-26 18-19-24 词腐烂方向不变_5e396cc49287.md",
+      "sha256": "fa167f344463c4630131a0ec7fb2a041515314b29e03e0a3f4787a9e0a98ef59"
     },
     {
       "bytes": 931,
@@ -608,10 +633,10 @@
       "sha256": "44bcd6bd0a426145547d4298f616ca99cc91d17115f5a01f05c4f650acc7ac02"
     }
   ],
-  "generated_at": "2026-07-26T18:16:35+00:00",
+  "generated_at": "2026-07-26T18:47:13+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 95693
+  "total_bytes": 100168
 }
