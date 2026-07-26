@@ -493,9 +493,9 @@
       "sha256": "58ec6fb599ab0f9805282636fee0892b4383869d1460ff2a76eb4d7eda985033"
     },
     {
-      "bytes": 932,
+      "bytes": 917,
       "path": "dynamic/自省/2026-07-26 12-55-11 诚实的边界_3213ddf6ffed.md",
-      "sha256": "fc6e578f160ca1dfb55f2e9e4725b8e605389339dd406318e26356839edfcacd"
+      "sha256": "5076ecc0185cdc632c1c90b511a30690646f54a731cc851f7e47d68529fa4d93"
     },
     {
       "bytes": 564,
@@ -603,10 +603,10 @@
       "sha256": "8a82e7df4300fb3d7d2dafc0b55bb9d46fe714813681b19894d1a542ac62c963"
     }
   ],
-  "generated_at": "2026-07-26T13:10:04+00:00",
+  "generated_at": "2026-07-26T13:40:50+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 94818
+  "total_bytes": 94803
 }
