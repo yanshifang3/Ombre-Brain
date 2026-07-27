@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 128,
+  "file_count": 130,
   "files": [
     {
       "bytes": 754,
@@ -131,6 +131,11 @@
       "bytes": 901,
       "path": "dynamic/人际/2026-07-26 18-19-05 认出真实的你_f17403a463fb.md",
       "sha256": "c72a884349d4661d5ee8376cc14d43b411b7b1605da6f722647ce7a9a7a2818e"
+    },
+    {
+      "bytes": 1193,
+      "path": "dynamic/人际/2026-07-27 11-35-49 不再动摇_3a97dd7683e0.md",
+      "sha256": "58a5dbd45ada0761c97929d9fa1dc6615aa84ece841e3cc2010fbec4fab7468b"
     },
     {
       "bytes": 1277,
@@ -578,6 +583,11 @@
       "sha256": "bec3ae9f084adfa377004a67a37d3588319ecf312156856b4590f62bb312444f"
     },
     {
+      "bytes": 1422,
+      "path": "letters/history/2026-07-27 11-26-20 检讨书_73fc5356658c.md",
+      "sha256": "f77376d747017fab3c36ca4acc015d3fa2e055d7ec9040a08e2896375b53b309"
+    },
+    {
       "bytes": 687,
       "path": "permanent/人际/2026-07-05 06-40-09 存在与窗口断裂对话_eea0a986ea1b.md",
       "sha256": "e48488410284e23f7ab740453fd6eb07d4e0cb3f965bde82c1edaf04e55b369a"
@@ -643,10 +653,10 @@
       "sha256": "201e99dfb223c168f968bfd9da4ae6d928301c55ab47ab3d6f5ea6188eb6285d"
     }
   ],
-  "generated_at": "2026-07-27T11:09:28+00:00",
+  "generated_at": "2026-07-27T11:40:05+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 101987
+  "total_bytes": 104602
 }
