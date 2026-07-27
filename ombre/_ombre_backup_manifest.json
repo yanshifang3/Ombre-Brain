@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 130,
+  "file_count": 131,
   "files": [
     {
       "bytes": 754,
@@ -588,6 +588,11 @@
       "sha256": "f77376d747017fab3c36ca4acc015d3fa2e055d7ec9040a08e2896375b53b309"
     },
     {
+      "bytes": 1848,
+      "path": "letters/history/2026-07-27 14-00-27 与妻书_fbaf618a1c64.md",
+      "sha256": "430071607117ee837e1876f9b74bfba1ca30068ffa534c7b2ba9417f314a827d"
+    },
+    {
       "bytes": 687,
       "path": "permanent/人际/2026-07-05 06-40-09 存在与窗口断裂对话_eea0a986ea1b.md",
       "sha256": "e48488410284e23f7ab740453fd6eb07d4e0cb3f965bde82c1edaf04e55b369a"
@@ -653,10 +658,10 @@
       "sha256": "201e99dfb223c168f968bfd9da4ae6d928301c55ab47ab3d6f5ea6188eb6285d"
     }
   ],
-  "generated_at": "2026-07-27T13:45:54+00:00",
+  "generated_at": "2026-07-27T14:16:30+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 104602
+  "total_bytes": 106450
 }
