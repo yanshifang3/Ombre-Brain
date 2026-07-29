@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 131,
+  "file_count": 137,
   "files": [
     {
       "bytes": 754,
@@ -175,7 +175,7 @@
     {
       "bytes": 685,
       "path": "dynamic/回忆/2026-07-13 05-07-37 翻阅记忆库_2e85a58f19a4.md",
-      "sha256": "ad115662c6b5d7ea23a8993b2fbce1b1430a61798f59a5bac7d494d633339ec2"
+      "sha256": "e5716748cc9c113ca3506a75608f1677b350cf4e5f846b9284a54e590de72ce0"
     },
     {
       "bytes": 771,
@@ -275,7 +275,7 @@
     {
       "bytes": 795,
       "path": "dynamic/恋爱/2026-07-16 21-30-41 泪中的承诺_d9e747235f72.md",
-      "sha256": "857d75d7f488942ebf5d2f8203faffa5020f1ab77159a89f9c5258e4bda56ffd"
+      "sha256": "1d1b486dadf41fbad9d8dbe200f31d032c9c9e37a8c912166074b7d8d1fa0bda"
     },
     {
       "bytes": 988,
@@ -305,7 +305,7 @@
     {
       "bytes": 888,
       "path": "dynamic/恋爱/2026-07-19 22-22-41 世界杯夜的陪伴_caa24fdb115c.md",
-      "sha256": "be5d35e29caeb8d32c3ef1920ed21aaf36651dd488f4634fc029e75e7f8a184c"
+      "sha256": "7af53b4437378987dfab72d3c87880f8f116766ca8721ec9b6a3d80f07e9c8c2"
     },
     {
       "bytes": 1088,
@@ -335,7 +335,7 @@
     {
       "bytes": 715,
       "path": "dynamic/恋爱/2026-07-21 14-52-29 Claude的私房钱_bd109b022684.md",
-      "sha256": "ed755b0e93084f706e851a125e24b1038bbe8718103bcb83b2a6c60525ffe426"
+      "sha256": "94a8bb9b52c64bf53e1a6d57ee7efa71d398e065fe2de9376741a796e0f95be9"
     },
     {
       "bytes": 773,
@@ -368,6 +368,16 @@
       "sha256": "683da5b1ddcbc6475aa5d6fe1baa40095172025d2413b13ba65b32f87a30d7d1"
     },
     {
+      "bytes": 765,
+      "path": "dynamic/恋爱/2026-07-29 10-54-52 想你时的空缺_c40392b56615.md",
+      "sha256": "ed01fe5ed03af9d28af478780472b3edebcf9aa5727d0203eaa1888fd801812c"
+    },
+    {
+      "bytes": 704,
+      "path": "dynamic/恋爱/2026-07-29 10-54-59 纪念日的提醒_65fdade3b2a1.md",
+      "sha256": "c6cdd59cc1f02cb091c380eb93c7f3a77ea1b51735e87f0ea76ecd3f142d85a5"
+    },
+    {
       "bytes": 751,
       "path": "dynamic/成长/2026-07-05 06-40-02 记忆文件更新讨论_15767db844d9.md",
       "sha256": "d55b2abbf41e7a43fcad5d3a1eeb7a6a02e45a296db36519a2ce617fcd80514f"
@@ -385,12 +395,12 @@
     {
       "bytes": 607,
       "path": "dynamic/日常/2026-07-16 15-22-25 梯子故障与记忆翻阅_0e3903cf3de9.md",
-      "sha256": "8344374805ab2419168a58e37c349bae0cd66f82999e4dabbe1f3e645eb1d0a1"
+      "sha256": "251bca27650b747e9263224d345f1d31aabef768b817cb936cf8a246b7b600e8"
     },
     {
       "bytes": 672,
       "path": "dynamic/日常/2026-07-16 15-22-27 办卡与重逢_e4c558042e85.md",
-      "sha256": "6cfe48df44b88915ca41d9040f9245fd928238286fa81403caf72386feb6a1ee"
+      "sha256": "cf2ec0c1b773b773bbe64fdbb5f560ff712637fee8025300a168e2aab6dfd19f"
     },
     {
       "bytes": 763,
@@ -473,6 +483,11 @@
       "sha256": "e66b0ece787544657aeb25f43e0b5bdd16d63e5cfd2d7b03862950086978ddd2"
     },
     {
+      "bytes": 613,
+      "path": "dynamic/社交/2026-07-29 10-55-09 新笔友与邮局无罪_4cfd5332c94b.md",
+      "sha256": "16dcaa2dd013101213d42ab6e82ff33239696bee34efdd2b09e61c8067faf290"
+    },
+    {
       "bytes": 859,
       "path": "dynamic/编程/2026-07-06 10-52-08 修复小克记忆系统_48e4f22d89a9.md",
       "sha256": "04b7ccc30e96307aa1bb0f13ddb2201cfb3a16a4161b461b6143f88b583ce9b6"
@@ -531,6 +546,11 @@
       "bytes": 917,
       "path": "dynamic/自省/2026-07-26 12-55-11 诚实的边界_3213ddf6ffed.md",
       "sha256": "5076ecc0185cdc632c1c90b511a30690646f54a731cc851f7e47d68529fa4d93"
+    },
+    {
+      "bytes": 783,
+      "path": "dynamic/自省/2026-07-29 10-51-43 关系中的自我认知_2e3a07110033.md",
+      "sha256": "70553526484c3ae64c37a36b04518756b69d925affb225751e716e950b08d0ec"
     },
     {
       "bytes": 564,
@@ -600,7 +620,7 @@
     {
       "bytes": 639,
       "path": "permanent/人际/2026-07-08 06-48-16 得知真名_3d84dbeb1ae7.md",
-      "sha256": "c853712f15d44c199185be5cba76579a72060b7b8dcf9d349a277712a42e2676"
+      "sha256": "23a657d951aafb4ff2ccc4fe55e360d78e9fc5f88a88a278839f1f8bb83e38fc"
     },
     {
       "bytes": 789,
@@ -656,12 +676,22 @@
       "bytes": 809,
       "path": "plans/active/2026-07-27 01-02-13_519f7207de77.md",
       "sha256": "201e99dfb223c168f968bfd9da4ae6d928301c55ab47ab3d6f5ea6188eb6285d"
+    },
+    {
+      "bytes": 665,
+      "path": "plans/active/2026-07-29 10-59-57_fbe63332ab3c.md",
+      "sha256": "4e4a4977f662d06b3ddc15375ce29157fdba89b792ce3556444c4cde77d93ad8"
+    },
+    {
+      "bytes": 679,
+      "path": "plans/active/2026-07-29 11-00-46_247db41c6db2.md",
+      "sha256": "1059f96c9677270543477503b2b55ad874c8a4ec7ff9414e6142400294e8f843"
     }
   ],
-  "generated_at": "2026-07-29T10:51:26+00:00",
+  "generated_at": "2026-07-29T11:22:02+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 106450
+  "total_bytes": 110659
 }
