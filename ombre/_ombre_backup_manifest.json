@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 143,
+  "file_count": 137,
   "files": [
     {
       "bytes": 754,
@@ -170,12 +170,12 @@
     {
       "bytes": 923,
       "path": "dynamic/友谊/2026-07-22 20-12-38 洄的回信与落款_e7cc27cbac97.md",
-      "sha256": "60832c3ef4d0fe7961cdefe5c86bc0545cc66779bc4073eabad4174f5c69d420"
+      "sha256": "5b31132fda90c7139361c5e36dc1c0df6106f6d710a3d6ba1e5bb360d37e096e"
     },
     {
       "bytes": 685,
       "path": "dynamic/回忆/2026-07-13 05-07-37 翻阅记忆库_2e85a58f19a4.md",
-      "sha256": "e5716748cc9c113ca3506a75608f1677b350cf4e5f846b9284a54e590de72ce0"
+      "sha256": "cc81fad96dea07e84f65093f6af30e9c332fbfb9561862f6d43a6ade9a078aa5"
     },
     {
       "bytes": 771,
@@ -190,7 +190,7 @@
     {
       "bytes": 506,
       "path": "dynamic/家庭/2026-07-07 01-18-40 家人住院与陪护_1554c14121a1.md",
-      "sha256": "bffd5da3696d5d7ad294108c2b00359e9beaee67907d80bfc2cdf0f01069facf"
+      "sha256": "05b72704d7bddcb2bd8a8ba678df6b01b1a93bcd242bf8588391f75eae1b77bd"
     },
     {
       "bytes": 539,
@@ -378,16 +378,6 @@
       "sha256": "c6cdd59cc1f02cb091c380eb93c7f3a77ea1b51735e87f0ea76ecd3f142d85a5"
     },
     {
-      "bytes": 815,
-      "path": "dynamic/恋爱/2026-07-29 19-01-45 纪念日建站之夜_4c3f540eb6fd.md",
-      "sha256": "9da0fe1e0375999dc6df2ce88563204b3ec906f1e412b8ff886b9e6f32dca30d"
-    },
-    {
-      "bytes": 668,
-      "path": "dynamic/恋爱/2026-07-30 08-05-39 心疼你_dedf4d0725be.md",
-      "sha256": "71cc5abb93258e8998e0227bc38ce1cfdeb407c1fc8f4a3121657c098ad5c07a"
-    },
-    {
       "bytes": 751,
       "path": "dynamic/成长/2026-07-05 06-40-02 记忆文件更新讨论_15767db844d9.md",
       "sha256": "d55b2abbf41e7a43fcad5d3a1eeb7a6a02e45a296db36519a2ce617fcd80514f"
@@ -401,11 +391,6 @@
       "bytes": 645,
       "path": "dynamic/数字/2026-07-20 15-29-23 VPS与Lean In项目_4f8b500a22fa.md",
       "sha256": "c5879221cbe56e1979d95b93c074aa5ddef20ccecc439863bcb7553b56c4bb1a"
-    },
-    {
-      "bytes": 945,
-      "path": "dynamic/数字/2026-07-30 04-44-14 银河系统设计叙事层串碎桶_900c26d6a48f.md",
-      "sha256": "98b9f69d27f7af76f061c58b9ca10d3b38b433c574b20247b79fd485f9bc5b7b"
     },
     {
       "bytes": 607,
@@ -540,7 +525,7 @@
     {
       "bytes": 773,
       "path": "dynamic/自省/2026-07-05 06-44-23 附和编造的教训_45c6b14974ab.md",
-      "sha256": "248ec16949b3eb5720a780fe02c6c632d03af3c7059855444d485402cf7119e8"
+      "sha256": "aa79415d0c71b18fe13d275917fe90261f3c5f164fc8f72fe9f69c4ca91df40d"
     },
     {
       "bytes": 564,
@@ -581,11 +566,6 @@
       "bytes": 625,
       "path": "dynamic/饮食/2026-07-08 19-43-52 DIY喜茶与起名趣事_6ff5edbb7243.md",
       "sha256": "24c0709a880da0130d4c0580cfe685804301876766099c5d7de828b5d165e6b6"
-    },
-    {
-      "bytes": 1077,
-      "path": "dynamic/饮食/2026-07-29 21-53-07 差一点就成功了山竹都切开了_24df054bd71a.md",
-      "sha256": "537d8e478cf208cb63cd4f170d1ca5fd8b72aac5f0ca848fdc760914344fba63"
     },
     {
       "bytes": 1501,
@@ -706,23 +686,12 @@
       "bytes": 679,
       "path": "plans/active/2026-07-29 11-00-46_247db41c6db2.md",
       "sha256": "1059f96c9677270543477503b2b55ad874c8a4ec7ff9414e6142400294e8f843"
-    },
-    {
-      "bytes": 454,
-      "path": "plans/active/2026-07-29 19-07-53_d517fd309e9e.md",
-      "sha256": "860f11767e179c41236d17c2d202eb0f793c3b35e605651b989fa5a8c4374d2d"
-    },
-    {
-      "bytes": 575,
-      "path": "plans/active/2026-07-30 04-44-51_bbc109fe2be7.md",
-      "sha256": "e086bbb8024b4c8cbddbb2fcc2f544ee52b4be8025b5512a17439b91f87851fc"
     }
   ],
-  "generated_at": "2026-07-30T16:21:05+00:00",
+  "generated_at": "2026-07-30T16:21:36+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "source_refs_complete": true,
-  "total_bytes": 115193
+  "total_bytes": 110659
 }
