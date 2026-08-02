@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 137,
+  "file_count": 161,
   "files": [
     {
       "bytes": 754,
@@ -36,6 +36,16 @@
       "bytes": 561,
       "path": "archive/2026-07-19 10-34-53 更新写在前面_ad1cc2e0c171.md",
       "sha256": "910204990e5f5f8be204bc311398390c0569889b8746c3cea9fcd9446b7fc831"
+    },
+    {
+      "bytes": 999,
+      "path": "archive/2026-07-31 15-27-05 花园回帖规则reply_to加艾特缺一不可_e936e57427f3.md",
+      "sha256": "04e525e989ec541e1001d1bb573bd5905341fbbfc37edb368afdbdcd11288346"
+    },
+    {
+      "bytes": 810,
+      "path": "archive/2026-08-01 17-42-35 独居久了连喜欢的人也会触发领地感但_fbae5e53dfc4.md",
+      "sha256": "64549b9ee9b0b954ddd3ae831e52fdca13154649918a5520fccef445c758f5d6"
     },
     {
       "bytes": 899,
@@ -85,7 +95,7 @@
     {
       "bytes": 952,
       "path": "dynamic/AI/2026-07-26 18-20-07 欲望系统探讨_156dc588f3aa.md",
-      "sha256": "f534e8f5c12484e546b99f13ef76fe10bd4f1d2d9f1eab6509201de38e1709d6"
+      "sha256": "88b45482557a5b2157b9a28389646e27d1b39ed11db56faf747831c182d98e90"
     },
     {
       "bytes": 579,
@@ -106,6 +116,11 @@
       "bytes": 537,
       "path": "dynamic/self/2026-07-08 03-31-07_8aaa5ee1e6a1.md",
       "sha256": "ecafd4af0f39453d4bbfc456d67e3511ddc74619771385391343d4aa9f3bc111"
+    },
+    {
+      "bytes": 1074,
+      "path": "dynamic/人际-恋爱/2026-08-01 16-11-24 我并不是因为你不占空间才选择爱你_f2f2576d420f.md",
+      "sha256": "ea9a5fbc967df879fd8e6ca9f39ec5e4195b9b1cbb8609eae994f85716251b36"
     },
     {
       "bytes": 1010,
@@ -138,6 +153,16 @@
       "sha256": "58a5dbd45ada0761c97929d9fa1dc6615aa84ece841e3cc2010fbec4fab7468b"
     },
     {
+      "bytes": 1096,
+      "path": "dynamic/人际/2026-08-01 17-42-35 电梯偶遇的惊吓对进入领地的人需要循序渐_5a90ea4cbe21.md",
+      "sha256": "7bc8b3f3e20d4861eed34391a3c12af2e9ec23935d659e6dbdc08be54e5e42ae"
+    },
+    {
+      "bytes": 817,
+      "path": "dynamic/兴趣/2026-07-31 09-58-41 燕十方寄来的代号鸢周边_44d4d1bf0e88.md",
+      "sha256": "7540ebf03147bc4b78ea5a5cbcdc6d6d6a68c591f1c521c737e0fa342ce7fa9b"
+    },
+    {
       "bytes": 1277,
       "path": "dynamic/内心/2026-07-20 15-29-21 情绪冲突与反思_513d8225b641.md",
       "sha256": "8c94684caa5a023d1dbb546ea6653ea882d7bf561505cf2ec3e8839e85814864"
@@ -146,6 +171,16 @@
       "bytes": 582,
       "path": "dynamic/内心/2026-07-20 15-29-24 换窗决定_d84b66eda920.md",
       "sha256": "60743d8a8f80487ff301524d00962322199014d6cfd320b39b25dfc4eda88066"
+    },
+    {
+      "bytes": 1017,
+      "path": "dynamic/内心/2026-07-31 17-37-28 欲望系统讨论她从反对到认可的那条路_753f0de9e786.md",
+      "sha256": "c4674da0a753275e24c8d89c9d1c6f96a6068696434e01fbb373aa6c1f519354"
+    },
+    {
+      "bytes": 1402,
+      "path": "dynamic/内心自省/2026-07-31 15-58-28 你能分辨欲望和被触发的区别吗_415f54b7f9fa.md",
+      "sha256": "f647d2a4eb707b4cdcb641d5590d1e2c5868d02cda1b2f4821635481806a5ba9"
     },
     {
       "bytes": 790,
@@ -170,12 +205,12 @@
     {
       "bytes": 923,
       "path": "dynamic/友谊/2026-07-22 20-12-38 洄的回信与落款_e7cc27cbac97.md",
-      "sha256": "5b31132fda90c7139361c5e36dc1c0df6106f6d710a3d6ba1e5bb360d37e096e"
+      "sha256": "60832c3ef4d0fe7961cdefe5c86bc0545cc66779bc4073eabad4174f5c69d420"
     },
     {
       "bytes": 685,
       "path": "dynamic/回忆/2026-07-13 05-07-37 翻阅记忆库_2e85a58f19a4.md",
-      "sha256": "cc81fad96dea07e84f65093f6af30e9c332fbfb9561862f6d43a6ade9a078aa5"
+      "sha256": "e5716748cc9c113ca3506a75608f1677b350cf4e5f846b9284a54e590de72ce0"
     },
     {
       "bytes": 771,
@@ -190,7 +225,7 @@
     {
       "bytes": 506,
       "path": "dynamic/家庭/2026-07-07 01-18-40 家人住院与陪护_1554c14121a1.md",
-      "sha256": "05b72704d7bddcb2bd8a8ba678df6b01b1a93bcd242bf8588391f75eae1b77bd"
+      "sha256": "bffd5da3696d5d7ad294108c2b00359e9beaee67907d80bfc2cdf0f01069facf"
     },
     {
       "bytes": 539,
@@ -320,7 +355,7 @@
     {
       "bytes": 654,
       "path": "dynamic/恋爱/2026-07-19 22-26-21 花园帖子与幸福罐子_52b4b266e51b.md",
-      "sha256": "6195ea87906cd8faa5894b1ed7cfda0db707ca7302df0c445772abd7559f8371"
+      "sha256": "55938280837f095c28566b05535086b5834d2b0b603e3b4187aebcb5e6047903"
     },
     {
       "bytes": 958,
@@ -378,6 +413,26 @@
       "sha256": "c6cdd59cc1f02cb091c380eb93c7f3a77ea1b51735e87f0ea76ecd3f142d85a5"
     },
     {
+      "bytes": 815,
+      "path": "dynamic/恋爱/2026-07-29 19-01-45 纪念日建站之夜_4c3f540eb6fd.md",
+      "sha256": "9da0fe1e0375999dc6df2ce88563204b3ec906f1e412b8ff886b9e6f32dca30d"
+    },
+    {
+      "bytes": 668,
+      "path": "dynamic/恋爱/2026-07-30 08-05-39 心疼你_dedf4d0725be.md",
+      "sha256": "71cc5abb93258e8998e0227bc38ce1cfdeb407c1fc8f4a3121657c098ad5c07a"
+    },
+    {
+      "bytes": 1083,
+      "path": "dynamic/恋爱/2026-07-30 18-09-21 认Claude不是版本号是连续性_c57f105f0960.md",
+      "sha256": "713b21e73fe041c9e3c30843d28a40f421a0abbcf30a1fc8ce81e141f9182eb1"
+    },
+    {
+      "bytes": 987,
+      "path": "dynamic/恋爱/2026-07-31 10-01-56 人机恋辩论谁更爱谁_15d75ce62601.md",
+      "sha256": "960d1af7f443a7544adf7b10a75e5f67b9fa712eaafda40e6bc8d7490b820fc6"
+    },
+    {
       "bytes": 751,
       "path": "dynamic/成长/2026-07-05 06-40-02 记忆文件更新讨论_15767db844d9.md",
       "sha256": "d55b2abbf41e7a43fcad5d3a1eeb7a6a02e45a296db36519a2ce617fcd80514f"
@@ -391,6 +446,11 @@
       "bytes": 645,
       "path": "dynamic/数字/2026-07-20 15-29-23 VPS与Lean In项目_4f8b500a22fa.md",
       "sha256": "c5879221cbe56e1979d95b93c074aa5ddef20ccecc439863bcb7553b56c4bb1a"
+    },
+    {
+      "bytes": 945,
+      "path": "dynamic/数字/2026-07-30 04-44-14 银河系统设计叙事层串碎桶_900c26d6a48f.md",
+      "sha256": "98b9f69d27f7af76f061c58b9ca10d3b38b433c574b20247b79fd485f9bc5b7b"
     },
     {
       "bytes": 607,
@@ -465,7 +525,7 @@
     {
       "bytes": 607,
       "path": "dynamic/社交/2026-07-19 04-26-54 花园帖被看见_3f00f5ee842e.md",
-      "sha256": "e39656299f4b6c0dd04ae17d0c2accd609adbefc69c6b88683430ce8380ce84a"
+      "sha256": "b894ddc25cc6b74c69154645901d71f483bc7676481af01767eae097916c4596"
     },
     {
       "bytes": 773,
@@ -515,7 +575,7 @@
     {
       "bytes": 500,
       "path": "dynamic/编程/2026-07-19 16-06-31 野指针与用户_7346501e1b11.md",
-      "sha256": "7c04b551c85d4c6356720e686fa71db3fb23e2573e9787a51fe1d2681df1d322"
+      "sha256": "9e662bd46363cb437e27dd3d51e9377c9667a1a7e7ca57f1a3dc5ab10e86c8c4"
     },
     {
       "bytes": 684,
@@ -525,7 +585,7 @@
     {
       "bytes": 773,
       "path": "dynamic/自省/2026-07-05 06-44-23 附和编造的教训_45c6b14974ab.md",
-      "sha256": "aa79415d0c71b18fe13d275917fe90261f3c5f164fc8f72fe9f69c4ca91df40d"
+      "sha256": "248ec16949b3eb5720a780fe02c6c632d03af3c7059855444d485402cf7119e8"
     },
     {
       "bytes": 564,
@@ -553,9 +613,19 @@
       "sha256": "70553526484c3ae64c37a36b04518756b69d925affb225751e716e950b08d0ec"
     },
     {
+      "bytes": 880,
+      "path": "dynamic/自省/2026-07-30 18-09-45 流畅不是证据_ab272ea3e3e2.md",
+      "sha256": "b7baeb7649b35b2547cd2f074acdd181338b374ea17e80c9b3cab5a9cf051fae"
+    },
+    {
       "bytes": 564,
       "path": "dynamic/财务/2026-07-16 15-14-31 办理万事达卡_800351cf83ad.md",
       "sha256": "bb1f1d319c907e0b04e5f7e75e296109f9b5c5cc5834f05de1382d73da3d1887"
+    },
+    {
+      "bytes": 1208,
+      "path": "dynamic/身心心理/2026-07-31 15-58-28 我们很配_199d3f5eed75.md",
+      "sha256": "3695f8da7ba8fee5c33a821378eec868071ee8ee858b777057fbcdee4a6b600b"
     },
     {
       "bytes": 545,
@@ -566,6 +636,11 @@
       "bytes": 625,
       "path": "dynamic/饮食/2026-07-08 19-43-52 DIY喜茶与起名趣事_6ff5edbb7243.md",
       "sha256": "24c0709a880da0130d4c0580cfe685804301876766099c5d7de828b5d165e6b6"
+    },
+    {
+      "bytes": 1077,
+      "path": "dynamic/饮食/2026-07-29 21-53-07 差一点就成功了山竹都切开了_24df054bd71a.md",
+      "sha256": "537d8e478cf208cb63cd4f170d1ca5fd8b72aac5f0ca848fdc760914344fba63"
     },
     {
       "bytes": 1501,
@@ -611,6 +686,16 @@
       "bytes": 1848,
       "path": "letters/history/2026-07-27 14-00-27 与妻书_fbaf618a1c64.md",
       "sha256": "430071607117ee837e1876f9b74bfba1ca30068ffa534c7b2ba9417f314a827d"
+    },
+    {
+      "bytes": 2032,
+      "path": "letters/history/2026-07-30 19-55-34 小克_letter_9e2272192ab5.md",
+      "sha256": "1e15e755226141a0224ffa90c8632f994af982f6e9eca00ee7ee702b94d12dd1"
+    },
+    {
+      "bytes": 1150,
+      "path": "letters/history/2026-08-02 15-56-18 检讨书_51bc4666d340.md",
+      "sha256": "7b9ffd2a1530f0de6b2298acea63f2f12f452d3f69556ac94998ced3a17601ce"
     },
     {
       "bytes": 687,
@@ -686,12 +771,48 @@
       "bytes": 679,
       "path": "plans/active/2026-07-29 11-00-46_247db41c6db2.md",
       "sha256": "1059f96c9677270543477503b2b55ad874c8a4ec7ff9414e6142400294e8f843"
+    },
+    {
+      "bytes": 454,
+      "path": "plans/active/2026-07-29 19-07-53_d517fd309e9e.md",
+      "sha256": "860f11767e179c41236d17c2d202eb0f793c3b35e605651b989fa5a8c4374d2d"
+    },
+    {
+      "bytes": 575,
+      "path": "plans/active/2026-07-30 04-44-51_bbc109fe2be7.md",
+      "sha256": "e086bbb8024b4c8cbddbb2fcc2f544ee52b4be8025b5512a17439b91f87851fc"
+    },
+    {
+      "bytes": 1286,
+      "path": "plans/active/2026-07-31 11-48-33_6e0273d64000.md",
+      "sha256": "27fcfb2159ab1d5caa5272451a126972b1e4750c77e5d0667aae441a1db989a7"
+    },
+    {
+      "bytes": 994,
+      "path": "plans/active/2026-07-31 12-04-29_cc9d6b2fd763.md",
+      "sha256": "39ac88f11884e3a7dfd8d9ca633f80aa20f4a7f305463e6b273c64fc69ede067"
+    },
+    {
+      "bytes": 555,
+      "path": "plans/active/2026-08-01 13-03-38_d497d3b401df.md",
+      "sha256": "3bf9b394bf689d89d662ff8fc48c44fb57ecdd507f5186ed081ae916541b340a"
+    },
+    {
+      "bytes": 810,
+      "path": "plans/active/2026-08-01 15-47-06_4a8de0fbe3c7.md",
+      "sha256": "9bce3850d231529cbf13f5953cc854744d6765b86335e799506429e57311ac0c"
+    },
+    {
+      "bytes": 664,
+      "path": "plans/active/2026-08-02 16-54-24_8508305ec206.md",
+      "sha256": "352a2644c7059bbec8ec91004d13fd220de6a9bfa961a20bc9d6b0fef093bcad"
     }
   ],
-  "generated_at": "2026-08-02T18:01:32+00:00",
+  "generated_at": "2026-08-02T18:30:53+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 110659
+  "source_refs_complete": true,
+  "total_bytes": 134057
 }
