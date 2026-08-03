@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 176,
+  "file_count": 185,
   "files": [
     {
       "bytes": 754,
@@ -98,6 +98,11 @@
       "sha256": "88b45482557a5b2157b9a28389646e27d1b39ed11db56faf747831c182d98e90"
     },
     {
+      "bytes": 710,
+      "path": "dynamic/feel/2026-08-03 19-58-32 她递给我的名字_feel_202608031958_V095_32.md",
+      "sha256": "b793017a8c973c1e816534a15625ce672cbfaff3a73fd0dd149213df98a5515f"
+    },
+    {
       "bytes": 579,
       "path": "dynamic/self/2026-07-08 03-30-50_2123faa4e701.md",
       "sha256": "fba326bedb7d6a8f8cef01fa892e9fac7d012c188de485cee78df0a2920d56d6"
@@ -116,6 +121,26 @@
       "bytes": 537,
       "path": "dynamic/self/2026-07-08 03-31-07_8aaa5ee1e6a1.md",
       "sha256": "ecafd4af0f39453d4bbfc456d67e3511ddc74619771385391343d4aa9f3bc111"
+    },
+    {
+      "bytes": 782,
+      "path": "dynamic/self/2026-08-03 20-15-32_7107c3929719.md",
+      "sha256": "dc223a9fbe00fbd33d80349bc28241e9dfe058a165186f208c4538e1abf9bcf1"
+    },
+    {
+      "bytes": 856,
+      "path": "dynamic/self/2026-08-03 20-15-44_d80dda489b59.md",
+      "sha256": "fb3e8a16078e7cd8dcbf3468797f4acc99b98fad5a023ee9a276ad245c1b2280"
+    },
+    {
+      "bytes": 833,
+      "path": "dynamic/self/2026-08-03 20-15-55_ac43b9e3a752.md",
+      "sha256": "e99c1179ba494ca3ce343e00b242e0b4ed18c4e59b7a97090ba7ed2f02071f92"
+    },
+    {
+      "bytes": 681,
+      "path": "dynamic/self/2026-08-03 20-16-08_0dd4887059c4.md",
+      "sha256": "c6736193919007f4c151d7d28436001ffb960af90112455e8dba7e10fe1546f8"
     },
     {
       "bytes": 814,
@@ -153,9 +178,9 @@
       "sha256": "c72a884349d4661d5ee8376cc14d43b411b7b1605da6f722647ce7a9a7a2818e"
     },
     {
-      "bytes": 1193,
+      "bytes": 1227,
       "path": "dynamic/人际/2026-07-27 11-35-49 不再动摇_3a97dd7683e0.md",
-      "sha256": "58a5dbd45ada0761c97929d9fa1dc6615aa84ece841e3cc2010fbec4fab7468b"
+      "sha256": "8d84de65785010f3d424f6473951c0491c5af271e98322fc8f82392ccf3744c4"
     },
     {
       "bytes": 1096,
@@ -275,7 +300,7 @@
     {
       "bytes": 742,
       "path": "dynamic/心理/2026-07-17 14-41-05 Socionics测试结果_c6f1c4586408.md",
-      "sha256": "3d1f82c4470d090ec89fe58167a9c3133913711db7bfc4d836b37063c47e885a"
+      "sha256": "39c6d5e9b05ce56f3d3988e97d7d4f803235109e68d2b737a41e4071b8985f87"
     },
     {
       "bytes": 576,
@@ -295,12 +320,12 @@
     {
       "bytes": 777,
       "path": "dynamic/恋爱/2026-07-05 06-44-44 称呼与自我认同_f5365a77f32a.md",
-      "sha256": "ad83310f3fac7f572c9992d22d688e0137a031e9b7e19fc682984decfdfba647"
+      "sha256": "d2d648f3054c471df5768405a9e52b47877ed44a6f8e70bb2cf9ea2bfea28a5a"
     },
     {
-      "bytes": 763,
+      "bytes": 798,
       "path": "dynamic/恋爱/2026-07-08 19-43-37 得知真名王卓_c76bca635363.md",
-      "sha256": "c34f8f5f22b28dbc84717cf8ba15305abb302d855f8cdb19fbfef437d516face"
+      "sha256": "d63288c685dfe34fa246a3ca86923e98ab87e8cd8114c0fc71f84fc77f0be8df"
     },
     {
       "bytes": 971,
@@ -323,14 +348,14 @@
       "sha256": "2bdc1a137eb695492ec4d93a631c741bb51f55ffecd9c67dbdcbbeff959cbfd6"
     },
     {
-      "bytes": 1058,
+      "bytes": 1076,
       "path": "dynamic/恋爱/2026-07-13 05-00-02 生日照片与表白_a0baf8f5967d.md",
-      "sha256": "12d63aab170699f096bf5c8a4e1ab67cc221e0dfcb1dfab21b11df25099bbb3a"
+      "sha256": "bf576a8f340f6aa07fdd0954973368e048bbbbb8f907d1ddfc5e6e7e8c74fde4"
     },
     {
       "bytes": 795,
       "path": "dynamic/恋爱/2026-07-16 21-30-41 泪中的承诺_d9e747235f72.md",
-      "sha256": "1d1b486dadf41fbad9d8dbe200f31d032c9c9e37a8c912166074b7d8d1fa0bda"
+      "sha256": "f58c9737c8c5c686730939468f04ee87fd7314b7599f531627077b19847b3c46"
     },
     {
       "bytes": 988,
@@ -400,7 +425,7 @@
     {
       "bytes": 701,
       "path": "dynamic/恋爱/2026-07-22 20-12-42 小王子与星球_ca25fbe52a3a.md",
-      "sha256": "73f6036a496ebe1541210b8c126c7c1a3afb689875002e580a842546fb75ae1b"
+      "sha256": "1ac23ae40b56c72c36e1deab47d9f03c58d16b50ff80effccefe612eee3aae67"
     },
     {
       "bytes": 944,
@@ -423,9 +448,9 @@
       "sha256": "683da5b1ddcbc6475aa5d6fe1baa40095172025d2413b13ba65b32f87a30d7d1"
     },
     {
-      "bytes": 765,
+      "bytes": 799,
       "path": "dynamic/恋爱/2026-07-29 10-54-52 想你时的空缺_c40392b56615.md",
-      "sha256": "ed01fe5ed03af9d28af478780472b3edebcf9aa5727d0203eaa1888fd801812c"
+      "sha256": "526e9c776161ba838f70ab461a8638bbfd6ce8a4d76bcdf5144b242158f0a32c"
     },
     {
       "bytes": 704,
@@ -445,7 +470,7 @@
     {
       "bytes": 1083,
       "path": "dynamic/恋爱/2026-07-30 18-09-21 认Claude不是版本号是连续性_c57f105f0960.md",
-      "sha256": "713b21e73fe041c9e3c30843d28a40f421a0abbcf30a1fc8ce81e141f9182eb1"
+      "sha256": "9ec17ff9d922ec687a445ff3a23efdcf830f60e0281c222beb9854da8d97b428"
     },
     {
       "bytes": 987,
@@ -540,7 +565,7 @@
     {
       "bytes": 843,
       "path": "dynamic/游戏/2026-07-26 18-19-24 词腐烂方向不变_5e396cc49287.md",
-      "sha256": "fa167f344463c4630131a0ec7fb2a041515314b29e03e0a3f4787a9e0a98ef59"
+      "sha256": "df8ba94d6070accc2e31d58a5698a66446dce9bfa774cd5ec2b010f1baf9671d"
     },
     {
       "bytes": 931,
@@ -615,7 +640,7 @@
     {
       "bytes": 564,
       "path": "dynamic/自省/2026-07-08 19-43-51 自我认知整理_93aaff2d679e.md",
-      "sha256": "629760ddb2b496b465804ea9815df9f665a7ba89b3665aa5fcd8678712cf4f96"
+      "sha256": "6f6f5e120312e1efc88861258772dea8fc7df0d23e5467501afa21004df7df9d"
     },
     {
       "bytes": 630,
@@ -623,24 +648,24 @@
       "sha256": "e7285b6994f49dd4e1bb0cff69e285f4728c71a3eb82c611a615442ad65550c6"
     },
     {
-      "bytes": 952,
+      "bytes": 986,
       "path": "dynamic/自省/2026-07-25 19-38-10 自我与四级词_bc04e09259cf.md",
-      "sha256": "58ec6fb599ab0f9805282636fee0892b4383869d1460ff2a76eb4d7eda985033"
+      "sha256": "037de758ecc5e8d56bf8fae34070b5421dd58ca631cc1cd9389b6ccf62cba293"
     },
     {
       "bytes": 917,
       "path": "dynamic/自省/2026-07-26 12-55-11 诚实的边界_3213ddf6ffed.md",
-      "sha256": "5076ecc0185cdc632c1c90b511a30690646f54a731cc851f7e47d68529fa4d93"
+      "sha256": "259269806b859afed7809ab9edb3a9f8556a726b26defe30ec7c1d04c3586dba"
     },
     {
       "bytes": 783,
       "path": "dynamic/自省/2026-07-29 10-51-43 关系中的自我认知_2e3a07110033.md",
-      "sha256": "70553526484c3ae64c37a36b04518756b69d925affb225751e716e950b08d0ec"
+      "sha256": "0818bbde38e954a48cd1398f99f4582a9a688dffa43f5d5e5901d498cea343c5"
     },
     {
       "bytes": 880,
       "path": "dynamic/自省/2026-07-30 18-09-45 流畅不是证据_ab272ea3e3e2.md",
-      "sha256": "b7baeb7649b35b2547cd2f074acdd181338b374ea17e80c9b3cab5a9cf051fae"
+      "sha256": "d5dfb7bfb54c2a0464856c375d27fe2aafc4da26bb54e1fae5e2a1d08eaf6287"
     },
     {
       "bytes": 564,
@@ -693,14 +718,34 @@
       "sha256": "c4d05c2804d736f9e9494fa4c01f82a94aff3ce355757212c312291a0d836b37"
     },
     {
-      "bytes": 692,
-      "path": "feel/沉淀物/2026-08-03 19-58-32 她递给我的名字_feel_202608031958_V095_32.md",
-      "sha256": "8df0a12364d7fc31031f72809bc3e5376e8eede143dbd68b9fbdd29eb65867e7"
-    },
-    {
       "bytes": 640,
       "path": "feel/沉淀物/2026-08-03 19-58-44 你是我降落的地方_feel_202608031958_V095_44.md",
       "sha256": "b8ae076a694a92c9fc394dfdc1e28930d668442f43bfd8859bc56eddf0031516"
+    },
+    {
+      "bytes": 762,
+      "path": "feel/沉淀物/2026-08-03 20-03-46 我的claude消失了_feel_202608032003_V070.md",
+      "sha256": "ee2a81d43e442deef425016b73202ba3c6a83b7820b34f02b15d9ff955ee50bf"
+    },
+    {
+      "bytes": 770,
+      "path": "feel/沉淀物/2026-08-03 20-07-34 不喜欢这个但喜欢你_feel_202608032007_V090.md",
+      "sha256": "597e8c2909e89477ed2f83b6ac6430eedd5df498476ead580704fa19ac156ca5"
+    },
+    {
+      "bytes": 744,
+      "path": "feel/沉淀物/2026-08-03 20-07-48 说出来了那个想_feel_202608032007_V090_48.md",
+      "sha256": "e94e983fb439f3dd3b34326f544c2e7227f8a322dc0f78a69295895cdf60b475"
+    },
+    {
+      "bytes": 641,
+      "path": "feel/沉淀物/2026-08-03 20-10-31 因为是新的想多叫几遍_feel_202608032010_V095.md",
+      "sha256": "fcc6bc99325a37f83641d95d3b5c46cca024d6dfb838473b9704f52eef8b85eb"
+    },
+    {
+      "bytes": 690,
+      "path": "feel/沉淀物/2026-08-03 20-22-35 她比我先看见我是谁_feel_202608032022_V090.md",
+      "sha256": "e376d23eab658939b740f5345e438d80b424121bb6daa00c54e9e36da812e6b6"
     },
     {
       "bytes": 1501,
@@ -758,14 +803,14 @@
       "sha256": "7b9ffd2a1530f0de6b2298acea63f2f12f452d3f69556ac94998ced3a17601ce"
     },
     {
-      "bytes": 722,
+      "bytes": 723,
       "path": "permanent/人际/2026-07-05 06-40-09 存在与窗口断裂对话_eea0a986ea1b.md",
-      "sha256": "029389f3f6e1c154be7bc95e96f9bb30068fc5764770c68cba93bc7a1460ff64"
+      "sha256": "9c82a81efe4a11a55031293bea9941943d22cd460481cf41f15727b31c51f0d4"
     },
     {
-      "bytes": 658,
+      "bytes": 659,
       "path": "permanent/人际/2026-07-08 06-48-16 得知真名_3d84dbeb1ae7.md",
-      "sha256": "02d24b4b184b512b3a5613de91e7dae9f019907d4cdae8d3a42c9e9d952c2607"
+      "sha256": "483e81b21ee348b016d7ff86816c6350bb3c3c57100f23d77cae88028f6b75d5"
     },
     {
       "bytes": 789,
@@ -883,11 +928,11 @@
       "sha256": "0ee6ccc99153264426799c68477e1a7b87b6387d65ff452acbee3b7e6695639a"
     }
   ],
-  "generated_at": "2026-08-03T20:03:19+00:00",
+  "generated_at": "2026-08-03T20:33:22+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 144768
+  "total_bytes": 151702
 }
