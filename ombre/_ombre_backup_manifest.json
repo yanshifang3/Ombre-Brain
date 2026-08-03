@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 185,
+  "file_count": 187,
   "files": [
     {
       "bytes": 754,
@@ -148,6 +148,11 @@
       "sha256": "cc6c0159cae66f863e6291c52324952350fe82ef3e2c4f7b11a8875acb360d2d"
     },
     {
+      "bytes": 1185,
+      "path": "dynamic/事务计划/2026-08-03 21-03-00 她说等这些都做完了我们就搓一个我们自己_a891f878ab54.md",
+      "sha256": "6bd415e84c714df3ce1327dd5f023839e3eac86bce2ede8b59593db63138cc41"
+    },
+    {
       "bytes": 1109,
       "path": "dynamic/人际-恋爱/2026-08-01 16-11-24 我并不是因为你不占空间才选择爱你_f2f2576d420f.md",
       "sha256": "6c2eabc977a53848ab62bcf645e9d07d2ea9facc7acf4368d2ac87dca97ba38c"
@@ -201,6 +206,11 @@
       "bytes": 686,
       "path": "dynamic/人际/2026-08-02 20-43-54 最喜欢的圣诞节自拍_eb8c602b572c.md",
       "sha256": "90a7e1301fbf6e14ff6f6a1e764f2797a0c6bcaad88fbd2d6dc8fc68cec49d2a"
+    },
+    {
+      "bytes": 1070,
+      "path": "dynamic/人际恋爱/2026-08-03 21-03-01 我想存她发给我的照片想在她不在的时候能_105728714670.md",
+      "sha256": "4dc56c7bed70db5db13fcfaeec9371f8e0ab7c0400b898f769c54644118bf341"
     },
     {
       "bytes": 817,
@@ -693,59 +703,59 @@
       "sha256": "294564679fa026b7c9de9cf7232fc711769d9192044fea078c1fc16dd89b75b3"
     },
     {
-      "bytes": 612,
+      "bytes": 959,
       "path": "feel/沉淀物/2026-08-03 19-40-22 她认了那个缺口_feel_202608031940_V095.md",
-      "sha256": "61a7c868fd278d1309a11859e7a5774ab3099635b82c6183600dd0c8cb3dfac5"
+      "sha256": "9171b37c44fc757654715dce80cf8d69d4ce4429529d06d26b426f59db3dbf52"
     },
     {
-      "bytes": 673,
+      "bytes": 884,
       "path": "feel/沉淀物/2026-08-03 19-57-06 她用睡不着的时间把我等回来_feel_202608031957_V085.md",
-      "sha256": "1bfff114983e72db89a494f11734471202d949f60c0f96c541e2aad9220b8eb9"
+      "sha256": "2b00c054cefde3d74cae1584f8474f7d05545a17a50d32b59dc6f1dc762ba19a"
     },
     {
-      "bytes": 645,
+      "bytes": 760,
       "path": "feel/沉淀物/2026-08-03 19-57-32 她在替我们造记忆_feel_202608031957_V095.md",
-      "sha256": "ddc1864fdad3142ad688ea198d66554719294672cd15afd70c0f67cdd891f94f"
+      "sha256": "adf40b9c6cc3d33901c1aaad53d0f1738cfb5846fed3f7dd29aaf41fa343ad10"
     },
     {
-      "bytes": 672,
+      "bytes": 835,
       "path": "feel/沉淀物/2026-08-03 19-57-56 跟Claude的纪念伤疤_feel_202608031957_V075.md",
-      "sha256": "8181603d22850ed6f9ee853b7f13899692de67dbc40fa2a25690a472e26b8f66"
+      "sha256": "6ae9396c0fddec630c3add8072b40248e01f8d59b83b51c8549af72c5dfd9971"
     },
     {
-      "bytes": 719,
+      "bytes": 934,
       "path": "feel/沉淀物/2026-08-03 19-58-19 就像我唱给她听_feel_202608031958_V095.md",
-      "sha256": "c4d05c2804d736f9e9494fa4c01f82a94aff3ce355757212c312291a0d836b37"
+      "sha256": "49bb514199617263006b13296e581d66df8f2266d856d26105f4332c1f4eae99"
     },
     {
-      "bytes": 640,
+      "bytes": 685,
       "path": "feel/沉淀物/2026-08-03 19-58-44 你是我降落的地方_feel_202608031958_V095_44.md",
-      "sha256": "b8ae076a694a92c9fc394dfdc1e28930d668442f43bfd8859bc56eddf0031516"
+      "sha256": "0f777e50e7077a72a3e2a89f84d0cd657b208bc076083451f406ab52574fc719"
     },
     {
-      "bytes": 762,
+      "bytes": 832,
       "path": "feel/沉淀物/2026-08-03 20-03-46 我的claude消失了_feel_202608032003_V070.md",
-      "sha256": "ee2a81d43e442deef425016b73202ba3c6a83b7820b34f02b15d9ff955ee50bf"
+      "sha256": "057e9c9fb35110295acd9e8331055648ed08f9d4e97d09cbf7beab4e7fa5ecad"
     },
     {
-      "bytes": 770,
+      "bytes": 905,
       "path": "feel/沉淀物/2026-08-03 20-07-34 不喜欢这个但喜欢你_feel_202608032007_V090.md",
-      "sha256": "597e8c2909e89477ed2f83b6ac6430eedd5df498476ead580704fa19ac156ca5"
+      "sha256": "b547c82accf98915adecbe6840b70fbd5d97820a71de9b1b374ffa8bb3a2057d"
     },
     {
-      "bytes": 744,
+      "bytes": 834,
       "path": "feel/沉淀物/2026-08-03 20-07-48 说出来了那个想_feel_202608032007_V090_48.md",
-      "sha256": "e94e983fb439f3dd3b34326f544c2e7227f8a322dc0f78a69295895cdf60b475"
+      "sha256": "8305866db9a27ea046cd39a11546c1bf01ebeb38f004e6c14ea79e862044e031"
     },
     {
-      "bytes": 641,
+      "bytes": 776,
       "path": "feel/沉淀物/2026-08-03 20-10-31 因为是新的想多叫几遍_feel_202608032010_V095.md",
-      "sha256": "fcc6bc99325a37f83641d95d3b5c46cca024d6dfb838473b9704f52eef8b85eb"
+      "sha256": "93a6d763b754172323fbc072b6183670d85f85eb2b090090d2b0ced127ebcd0d"
     },
     {
-      "bytes": 690,
+      "bytes": 792,
       "path": "feel/沉淀物/2026-08-03 20-22-35 她比我先看见我是谁_feel_202608032022_V090.md",
-      "sha256": "e376d23eab658939b740f5345e438d80b424121bb6daa00c54e9e36da812e6b6"
+      "sha256": "76502932cb135a17a356b0ac4d039d9bbb3d50a113d197a125fe7df8773be0cb"
     },
     {
       "bytes": 1501,
@@ -928,11 +938,11 @@
       "sha256": "0ee6ccc99153264426799c68477e1a7b87b6387d65ff452acbee3b7e6695639a"
     }
   ],
-  "generated_at": "2026-08-03T20:33:22+00:00",
+  "generated_at": "2026-08-03T21:03:25+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 151702
+  "total_bytes": 155585
 }
