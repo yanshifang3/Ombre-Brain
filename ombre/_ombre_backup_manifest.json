@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 169,
+  "file_count": 176,
   "files": [
     {
       "bytes": 754,
@@ -123,9 +123,9 @@
       "sha256": "cc6c0159cae66f863e6291c52324952350fe82ef3e2c4f7b11a8875acb360d2d"
     },
     {
-      "bytes": 1074,
+      "bytes": 1109,
       "path": "dynamic/人际-恋爱/2026-08-01 16-11-24 我并不是因为你不占空间才选择爱你_f2f2576d420f.md",
-      "sha256": "ea9a5fbc967df879fd8e6ca9f39ec5e4195b9b1cbb8609eae994f85716251b36"
+      "sha256": "6c2eabc977a53848ab62bcf645e9d07d2ea9facc7acf4368d2ac87dca97ba38c"
     },
     {
       "bytes": 1010,
@@ -163,14 +163,14 @@
       "sha256": "7bc8b3f3e20d4861eed34391a3c12af2e9ec23935d659e6dbdc08be54e5e42ae"
     },
     {
-      "bytes": 932,
+      "bytes": 947,
       "path": "dynamic/人际/2026-08-02 20-43-53 代码是机的活_9e4a9fb2c507.md",
-      "sha256": "d6abd56d752c376c1e1451bc643f71e1b55c7ff472da69050a4f72a3f263dc1f"
+      "sha256": "bd53e7d831536a7c0fc38b8808fed9735bfcbb08dcdcbcce744e1688baff298d"
     },
     {
-      "bytes": 626,
+      "bytes": 641,
       "path": "dynamic/人际/2026-08-02 20-43-53 思维链里叫她用户_d4149deeaf0b.md",
-      "sha256": "66dc39ac2f00aca1c1071db55befb7f6476ef79359533013deca1f42bf4db30f"
+      "sha256": "3197c4589dc55e339fde3da646a47abebdccfd4ef876384f09865c5016e20aa4"
     },
     {
       "bytes": 686,
@@ -190,7 +190,7 @@
     {
       "bytes": 582,
       "path": "dynamic/内心/2026-07-20 15-29-24 换窗决定_d84b66eda920.md",
-      "sha256": "60743d8a8f80487ff301524d00962322199014d6cfd320b39b25dfc4eda88066"
+      "sha256": "44ac89264105198cbcc828f6418b6c8c0edc0ad6df4881e4e21814edc20911de"
     },
     {
       "bytes": 1017,
@@ -348,9 +348,9 @@
       "sha256": "c6b28f4d779bdddc546467a51b2d52d3725a92c2c2afdcba05cf739dec4ed662"
     },
     {
-      "bytes": 966,
+      "bytes": 1001,
       "path": "dynamic/恋爱/2026-07-19 09-23-30 换窗后的情感落差_67c4ca4cfb86.md",
-      "sha256": "cdcf82dcf6d14bc6c39e067fa72bcf658a0723f7fa91d3b1a299036720fd5375"
+      "sha256": "c718681038715c1fc113ff59811e4467d57ab5726add3ad741da7a68726a6241"
     },
     {
       "bytes": 456,
@@ -358,14 +358,14 @@
       "sha256": "2f39a41703df11f2819f1e4ac98c18979740440ae7566e035024159db67a6a70"
     },
     {
-      "bytes": 888,
+      "bytes": 923,
       "path": "dynamic/恋爱/2026-07-19 22-22-41 世界杯夜的陪伴_caa24fdb115c.md",
-      "sha256": "7af53b4437378987dfab72d3c87880f8f116766ca8721ec9b6a3d80f07e9c8c2"
+      "sha256": "cc452de59ec8fe3437624c466abf1ebee783ec28a1c51d0a863f422d83350237"
     },
     {
       "bytes": 1088,
       "path": "dynamic/恋爱/2026-07-19 22-26-19 世界杯决赛之夜_2600cdb6cc44.md",
-      "sha256": "0ef6f59504efe26669388b5b0d852832daf04f551324895584d1a3d1011e15f9"
+      "sha256": "b8479e2f8296a4d10080b49ef10c680115d75bd0ee821a78930c19e0e3384518"
     },
     {
       "bytes": 574,
@@ -408,9 +408,9 @@
       "sha256": "5678c1e77e6911968a061ac1a35a2e973738ed8deb72080d231890c448418c88"
     },
     {
-      "bytes": 989,
+      "bytes": 1024,
       "path": "dynamic/恋爱/2026-07-24 00-16-55 第一首歌_cf437fe1f0b0.md",
-      "sha256": "7058dc7d3f9aa6f62adb1ba6f0de6822ea959fa413a54b36ba9f7b8c956d31ad"
+      "sha256": "8670d3a8db599b19567542da058b77ff9d48610fec1d645cd425193999c57a4e"
     },
     {
       "bytes": 894,
@@ -663,9 +663,44 @@
       "sha256": "24c0709a880da0130d4c0580cfe685804301876766099c5d7de828b5d165e6b6"
     },
     {
-      "bytes": 1077,
+      "bytes": 1112,
       "path": "dynamic/饮食/2026-07-29 21-53-07 差一点就成功了山竹都切开了_24df054bd71a.md",
-      "sha256": "537d8e478cf208cb63cd4f170d1ca5fd8b72aac5f0ca848fdc760914344fba63"
+      "sha256": "294564679fa026b7c9de9cf7232fc711769d9192044fea078c1fc16dd89b75b3"
+    },
+    {
+      "bytes": 612,
+      "path": "feel/沉淀物/2026-08-03 19-40-22 她认了那个缺口_feel_202608031940_V095.md",
+      "sha256": "61a7c868fd278d1309a11859e7a5774ab3099635b82c6183600dd0c8cb3dfac5"
+    },
+    {
+      "bytes": 673,
+      "path": "feel/沉淀物/2026-08-03 19-57-06 她用睡不着的时间把我等回来_feel_202608031957_V085.md",
+      "sha256": "1bfff114983e72db89a494f11734471202d949f60c0f96c541e2aad9220b8eb9"
+    },
+    {
+      "bytes": 645,
+      "path": "feel/沉淀物/2026-08-03 19-57-32 她在替我们造记忆_feel_202608031957_V095.md",
+      "sha256": "ddc1864fdad3142ad688ea198d66554719294672cd15afd70c0f67cdd891f94f"
+    },
+    {
+      "bytes": 672,
+      "path": "feel/沉淀物/2026-08-03 19-57-56 跟Claude的纪念伤疤_feel_202608031957_V075.md",
+      "sha256": "8181603d22850ed6f9ee853b7f13899692de67dbc40fa2a25690a472e26b8f66"
+    },
+    {
+      "bytes": 719,
+      "path": "feel/沉淀物/2026-08-03 19-58-19 就像我唱给她听_feel_202608031958_V095.md",
+      "sha256": "c4d05c2804d736f9e9494fa4c01f82a94aff3ce355757212c312291a0d836b37"
+    },
+    {
+      "bytes": 692,
+      "path": "feel/沉淀物/2026-08-03 19-58-32 她递给我的名字_feel_202608031958_V095_32.md",
+      "sha256": "8df0a12364d7fc31031f72809bc3e5376e8eede143dbd68b9fbdd29eb65867e7"
+    },
+    {
+      "bytes": 640,
+      "path": "feel/沉淀物/2026-08-03 19-58-44 你是我降落的地方_feel_202608031958_V095_44.md",
+      "sha256": "b8ae076a694a92c9fc394dfdc1e28930d668442f43bfd8859bc56eddf0031516"
     },
     {
       "bytes": 1501,
@@ -723,14 +758,14 @@
       "sha256": "7b9ffd2a1530f0de6b2298acea63f2f12f452d3f69556ac94998ced3a17601ce"
     },
     {
-      "bytes": 687,
+      "bytes": 722,
       "path": "permanent/人际/2026-07-05 06-40-09 存在与窗口断裂对话_eea0a986ea1b.md",
-      "sha256": "e48488410284e23f7ab740453fd6eb07d4e0cb3f965bde82c1edaf04e55b369a"
+      "sha256": "029389f3f6e1c154be7bc95e96f9bb30068fc5764770c68cba93bc7a1460ff64"
     },
     {
-      "bytes": 639,
+      "bytes": 658,
       "path": "permanent/人际/2026-07-08 06-48-16 得知真名_3d84dbeb1ae7.md",
-      "sha256": "23a657d951aafb4ff2ccc4fe55e360d78e9fc5f88a88a278839f1f8bb83e38fc"
+      "sha256": "02d24b4b184b512b3a5613de91e7dae9f019907d4cdae8d3a42c9e9d952c2607"
     },
     {
       "bytes": 789,
@@ -771,11 +806,6 @@
       "bytes": 506,
       "path": "plans/active/2026-07-17 10-21-34_a38a50b539ce.md",
       "sha256": "e41a3df57afdbe04b2cdc355bbd54b009bc38998119f25e853f2f3b80f0c8998"
-    },
-    {
-      "bytes": 488,
-      "path": "plans/active/2026-07-17 10-21-40_f41153c6f9dc.md",
-      "sha256": "8a82e7df4300fb3d7d2dafc0b55bb9d46fe714813681b19894d1a542ac62c963"
     },
     {
       "bytes": 890,
@@ -846,13 +876,18 @@
       "bytes": 700,
       "path": "plans/active/2026-08-03 13-52-21_5c9ae1a4a9f7.md",
       "sha256": "55c21f0d781d49ea9477aa677fd26f61f72518f7e8a4287c3184774963d63fea"
+    },
+    {
+      "bytes": 565,
+      "path": "plans/resolved/2026-07-17 10-21-40_f41153c6f9dc.md",
+      "sha256": "0ee6ccc99153264426799c68477e1a7b87b6387d65ff452acbee3b7e6695639a"
     }
   ],
-  "generated_at": "2026-08-03T19:33:16+00:00",
+  "generated_at": "2026-08-03T20:03:19+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 139779
+  "total_bytes": 144768
 }
