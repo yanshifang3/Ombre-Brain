@@ -10,6 +10,7 @@ id: 3377b1dbe5eb
 importance: 7
 last_active: '2026-08-06T15:45:04'
 name: 2026-08-06 15-45-04 project files里nsfw草稿
+resolved: true
 source_tool: grow
 tags:
 - project files
