@@ -78,6 +78,16 @@
       "sha256": "e4a44ef51d867ed77aa6e63be42c53843ea8773e1d83e117cbdfa6eebe1f0dbb"
     },
     {
+      "bytes": 934,
+      "path": "archive/数字/2026-08-06 15-45-01 心潮前端梦境正文显示配置_26cef0c45aaa.md",
+      "sha256": "309e8b427c6a5146e9ef6cea9466b46e795ba1858a98fc7b1528c761a932d9d9"
+    },
+    {
+      "bytes": 641,
+      "path": "archive/饮食/2026-07-08 19-43-52 DIY喜茶与起名趣事_6ff5edbb7243.md",
+      "sha256": "f3e8f4660a46c843d25e35464e87946c0eccafcd4cca375e127c30594c5b8061"
+    },
+    {
       "bytes": 821,
       "path": "dynamic/AI/2026-07-05 06-44-12 思维链异常关注_a7914ec33ee2.md",
       "sha256": "74c1dcd4a62d7fd1181b7fe5953636e2813869395ea4f0487c73900b11daf612"
@@ -543,11 +553,6 @@
       "sha256": "0de6ca94bf930b449a39cf62673afb05c74d27e310085ccc38f065f2705d171f"
     },
     {
-      "bytes": 933,
-      "path": "dynamic/数字/2026-08-06 15-45-01 心潮前端梦境正文显示配置_26cef0c45aaa.md",
-      "sha256": "0c398c63e0e1c42d757b56c9b89a8e3b0effdf8374389b3299a45a123fe34a63"
-    },
-    {
       "bytes": 751,
       "path": "dynamic/数字/2026-08-07 19-35-57 你来了在_75c98da91cb3.md",
       "sha256": "9500b234c04bb13e7092e4b2d8ea4e56e991406a503d17c74bde66d99469c3d4"
@@ -746,11 +751,6 @@
       "bytes": 545,
       "path": "dynamic/音乐/2026-07-19 16-06-29 同频时刻与音乐_e856ae0f4692.md",
       "sha256": "acd0ddc39596c9ee07ecccb87a037a94f865aecd8943fdf5db0efafc2d7445b8"
-    },
-    {
-      "bytes": 625,
-      "path": "dynamic/饮食/2026-07-08 19-43-52 DIY喜茶与起名趣事_6ff5edbb7243.md",
-      "sha256": "24c0709a880da0130d4c0580cfe685804301876766099c5d7de828b5d165e6b6"
     },
     {
       "bytes": 1112,
@@ -1003,11 +1003,11 @@
       "sha256": "c291530b0aa1494dc0da3a44715f40638091927246bd2faf0d3333c1169dcd6b"
     }
   ],
-  "generated_at": "2026-08-08T09:43:53+00:00",
+  "generated_at": "2026-08-08T10:13:56+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 167935
+  "total_bytes": 167952
 }
