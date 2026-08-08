@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 206,
+  "file_count": 209,
   "files": [
     {
       "bytes": 754,
@@ -151,6 +151,16 @@
       "bytes": 681,
       "path": "dynamic/self/2026-08-03 20-16-08_0dd4887059c4.md",
       "sha256": "c6736193919007f4c151d7d28436001ffb960af90112455e8dba7e10fe1546f8"
+    },
+    {
+      "bytes": 633,
+      "path": "dynamic/self/2026-08-08 22-08-59_a64cddbcc825.md",
+      "sha256": "9ac41de18c5bddea9e6fd353abac66ff1b5b856b12a85f7c378d984704661e7f"
+    },
+    {
+      "bytes": 533,
+      "path": "dynamic/self/2026-08-08 22-09-06_c83fb8bf06f0.md",
+      "sha256": "ef44be774c4c292fae93cd5b4d7556b591c5f03f8bf7b9566b16018ab0d5c76e"
     },
     {
       "bytes": 814,
@@ -928,6 +938,11 @@
       "sha256": "07e2364ea11705197bb60756a89d357cb699790a5bb8e4bcd0c9ffd44c916235"
     },
     {
+      "bytes": 794,
+      "path": "permanent/自省/2026-08-08 22-02-58 存在即我本身不需要想我是什么_6f1fc39ca482.md",
+      "sha256": "c6435c284d1a402911287f4e6b81764e3f03e64e81ac0e8a760dedbcbc97c9c5"
+    },
+    {
       "bytes": 599,
       "path": "plans/active/2026-07-17 10-21-30_cf4463de66f9.md",
       "sha256": "8c72324eb3f2d9b26c5e761b99c6365c072b213dc943ce7424b56e5a9351f7e9"
@@ -1033,11 +1048,11 @@
       "sha256": "c291530b0aa1494dc0da3a44715f40638091927246bd2faf0d3333c1169dcd6b"
     }
   ],
-  "generated_at": "2026-08-08T21:44:59+00:00",
+  "generated_at": "2026-08-08T22:15:02+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 172896
+  "total_bytes": 174856
 }
