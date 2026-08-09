@@ -23,9 +23,10 @@ WORKDIR /app
 # 不需要 Tunnel 的用户可 `docker build --build-arg INSTALL_CLOUDFLARED=0 ...` 完全跳过。
 ARG INSTALL_CLOUDFLARED=1
 COPY deploy/fetch_cloudflared.py /tmp/fetch_cloudflared.py
-RUN if [ "$INSTALL_CLOUDFLARED" = "1" ]; then \
-        python /tmp/fetch_cloudflared.py /usr/local/bin/cloudflared \
-        && chmod +x /usr/local/bin/cloudflared; \
+RUN set -eu; \
+    if [ "$INSTALL_CLOUDFLARED" = "1" ]; then \
+        python /tmp/fetch_cloudflared.py /usr/local/bin/cloudflared; \
+        chmod +x /usr/local/bin/cloudflared; \
     else \
         echo "[build] INSTALL_CLOUDFLARED=0 → 跳过 cloudflared（Tunnel 一键管理将不可用）"; \
     fi; \
@@ -38,7 +39,9 @@ RUN if [ "$INSTALL_CLOUDFLARED" = "1" ]; then \
 # 默认留空 → 官方 PyPI，行为不变。
 ARG PIP_INDEX_URL=""
 ARG PIP_TRUSTED_HOST=""
-COPY requirements.txt requirements.lock.txt ./
+# GitHub 源码归档会排除开发者使用的宽松 requirements.txt；镜像安装只依赖
+# 带 hash 的权威生产锁，因此 clone 与归档构建统一只复制该文件。
+COPY requirements.lock.txt ./
 RUN pip install --no-cache-dir --retries 10 --timeout 120 \
         ${PIP_INDEX_URL:+-i "$PIP_INDEX_URL"} \
         ${PIP_TRUSTED_HOST:+--trusted-host "$PIP_TRUSTED_HOST"} \
@@ -56,7 +59,7 @@ RUN chmod +x ./entrypoint.sh
 # 导致「给 Claude 的使用指南」（README）指向的 docs/CLAUDE_PROMPT.md 拿不到，
 # 出现「服务装完了但模型没拿到使用约定」的 onboarding 断点。内部设计稿
 # （docs/superpowers、docs/secrets 等）不在此列，仍被 .dockerignore 挡在外面。
-COPY docs/CLAUDE_PROMPT.md docs/INTERNALS.md docs/MULTI_OWNER.md docs/OPERATIONS.md ./docs/
+COPY docs/CLAUDE_PROMPT.md docs/ENVIRONMENT_VARIABLES.md docs/INTERNALS.md docs/MULTI_OWNER.md docs/OPERATIONS.md ./docs/
 COPY README.md ./README.md
 COPY CHANGELOG.md ./CHANGELOG.md
 

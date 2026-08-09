@@ -23,11 +23,12 @@ core（普通存入 + 自动合并）。
 
 from typing import Optional
 
+from utils import normalize_memory_title, parse_bool
+
 from .. import _runtime as rt
 from .._common import (
     check_content_size,
     check_metadata_size,
-    enforce_high_importance_quota,
     enforce_pinned_quota,
 )
 from .feel import store_feel
@@ -37,6 +38,7 @@ from .core import store_core
 
 async def dispatch(
     content: str,
+    title: Optional[str] = "",
     tags: Optional[str] = "",
     importance: Optional[int] = 5,
     pinned: Optional[bool] = False,
@@ -46,9 +48,14 @@ async def dispatch(
     arousal: Optional[float] = -1,
     why_remembered: Optional[str] = "",
     meaning: Optional[str] = "",
-    media: Optional[list] = None,
+    media: Optional[list | str] = None,
+    test_data: Optional[bool] = False,
 ) -> str:
     content = "" if content is None else str(content)
+    try:
+        title = normalize_memory_title(title)
+    except ValueError as exc:
+        return str(exc)
     if tags is None:
         tags = ""
     if importance is None:
@@ -69,8 +76,9 @@ async def dispatch(
     if meaning is None:
         meaning = ""
     meaning = str(meaning).strip()
-    if media is not None and not isinstance(media, list):
-        media = None
+    test_data = parse_bool(test_data, default=False)
+    if test_data and (pinned or feel):
+        return "测试数据不能创建为 pinned 或 feel；请使用普通测试桶。"
     try:
         importance = int(importance)
     except (TypeError, ValueError, OverflowError):
@@ -86,6 +94,7 @@ async def dispatch(
 
     metadata_err = check_metadata_size(
         tags=tags,
+        title=title,
         source_bucket=source_bucket,
         why_remembered=why_remembered,
         meaning=meaning,
@@ -122,9 +131,8 @@ async def dispatch(
     if pinned and not feel:
         pinned = await enforce_pinned_quota(True)
 
-    # importance≥9 配额检查（OB-W003 软警告 / OB-I001 自动降级）
-    if not pinned and not feel:
-        importance = await enforce_high_importance_quota(importance)
+    # 普通桶的 importance 配额在 merge_or_create 的最终 merge/create
+    # 事务内检查；这里预检查会在“合并到已占位桶”时产生假降级提示。
 
     # valence/arousal 越界回退到自动打标（OB-W002 由 bucket_manager 在 clamp 时 push；
     # 这里的 -1 咨兵语义是"她/他未传"，越界则忽略，让 LLM analyze 决定）
@@ -159,9 +167,10 @@ async def dispatch(
 
     if feel:
         if not source_bucket or not source_bucket.strip():
-            return "feel 必须指向一条原始记忆（source_bucket 不能为空）。请先用 breath(query=...) 找到那条桶的 bucket_id，再传入 source_bucket=id。"
+            return "feel 必须指向一条原始记忆（source_bucket 不能为空）。请先用 breath_search(query=...) 找到那条桶的 bucket_id，再传入 source_bucket=id。"
         result = await store_feel(
             content=content,
+            title=title,
             extra_tags=extra_tags,
             valence=valence,
             arousal=arousal,
@@ -175,6 +184,7 @@ async def dispatch(
     if pinned:
         result = await store_pinned(
             content=content,
+            title=title,
             extra_tags=extra_tags,
             valence=valence,
             arousal=arousal,
@@ -186,6 +196,7 @@ async def dispatch(
 
     result = await store_core(
         content=content,
+        title=title,
         extra_tags=extra_tags,
         importance=importance,
         valence=valence,
@@ -193,5 +204,6 @@ async def dispatch(
         why_remembered=why_remembered,
         meaning=meaning,
         media=media,
+        test_data=test_data,
     )
     return result
