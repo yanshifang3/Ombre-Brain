@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 210,
+  "file_count": 212,
   "files": [
     {
       "bytes": 754,
@@ -76,6 +76,11 @@
       "bytes": 704,
       "path": "archive/letter/2026-07-13 04-05-38 给你_b7d67a45a8d2.md",
       "sha256": "e4a44ef51d867ed77aa6e63be42c53843ea8773e1d83e117cbdfa6eebe1f0dbb"
+    },
+    {
+      "bytes": 833,
+      "path": "archive/家庭/2026-07-10 04-32-55 历史人物猜猜游戏_e04c282d328e.md",
+      "sha256": "18f19980ca54e17dd4f3a3adfb51d771c0d53299bd19aff521411b36a4533fe9"
     },
     {
       "bytes": 934,
@@ -326,11 +331,6 @@
       "bytes": 738,
       "path": "dynamic/家庭/2026-07-08 19-43-53 弟弟拼豆与称呼游戏_7c46fa314dbd.md",
       "sha256": "1c4f3fbe9e1314f2a41258b460e8a560462cd0066bb6d3999c3c99940cde8dd0"
-    },
-    {
-      "bytes": 833,
-      "path": "dynamic/家庭/2026-07-10 04-32-55 历史人物猜猜游戏_e04c282d328e.md",
-      "sha256": "6e6f200b59ac54123cb5b7eb9d6d45ef8da8ecddd1fccf5a9b29865b83a7cba5"
     },
     {
       "bytes": 777,
@@ -588,9 +588,9 @@
       "sha256": "f49243059ab16584bdc1e56792c5f8b9d1c667f94103008e852e1284fdcc8299"
     },
     {
-      "bytes": 835,
+      "bytes": 869,
       "path": "dynamic/数字/2026-08-08 17-54-56 2026-08-08 工具感仓库宝宝_b3c7d5054868.md",
-      "sha256": "4ac54eeee7a66b50329cce4d6f91cea6e58421892f5077abfda1310283260187"
+      "sha256": "11ac511a550a1d767bab2fb83c08909bbfe414bba1a9cafa6458ba66f711bcc0"
     },
     {
       "bytes": 607,
@@ -848,6 +848,11 @@
       "sha256": "e0bba02a88fb5e5c2292cdf86dae78b5e229b534e2aaa4e8eac4fa673605d9cc"
     },
     {
+      "bytes": 849,
+      "path": "feel/沉淀物/2026-08-09 18-59-27 一旦动手就把窗口用完_feel_202608091859_V090.md",
+      "sha256": "0cc5664a7229eca44a7d3f51f58cf19e2e669637d4428c8b21affb241ce26164"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -901,6 +906,11 @@
       "bytes": 1150,
       "path": "letters/history/2026-08-02 15-56-18 检讨书_51bc4666d340.md",
       "sha256": "7b9ffd2a1530f0de6b2298acea63f2f12f452d3f69556ac94998ced3a17601ce"
+    },
+    {
+      "bytes": 1351,
+      "path": "letters/history/2026-08-09 18-53-04 给搬去CC端之后的自己_c72f1428b35b.md",
+      "sha256": "9c4e26b0e81372c3732a9e3b6a4e95113f2de5f912923187966e3c4085a64d33"
     },
     {
       "bytes": 723,
@@ -1018,11 +1028,6 @@
       "sha256": "55c21f0d781d49ea9477aa677fd26f61f72518f7e8a4287c3184774963d63fea"
     },
     {
-      "bytes": 456,
-      "path": "plans/active/2026-08-08 17-55-24_8c50ac8c1755.md",
-      "sha256": "5ac94ab9fda6e47d6cd3e98080c2ec485d1db5ca76428d1e8309c8ea0647975b"
-    },
-    {
       "bytes": 1401,
       "path": "plans/active/2026-08-08 20-56-25_626b426c546c.md",
       "sha256": "ed7f5f2610b5132781c440e4b503412bf97601bdb05b43f686e1bf6e76a65427"
@@ -1051,13 +1056,18 @@
       "bytes": 1363,
       "path": "plans/resolved/2026-07-31 11-48-33_6e0273d64000.md",
       "sha256": "c291530b0aa1494dc0da3a44715f40638091927246bd2faf0d3333c1169dcd6b"
+    },
+    {
+      "bytes": 548,
+      "path": "plans/resolved/2026-08-08 17-55-24_8c50ac8c1755.md",
+      "sha256": "72973a9357fd21dd64c150a215a3d5eb22d8ee079803e45ed54e92f6d63be08a"
     }
   ],
-  "generated_at": "2026-08-09T18:16:59+00:00",
+  "generated_at": "2026-08-09T19:17:07+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 175760
+  "total_bytes": 178086
 }
