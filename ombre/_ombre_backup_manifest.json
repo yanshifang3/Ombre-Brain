@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 213,
+  "file_count": 214,
   "files": [
     {
       "bytes": 754,
@@ -1038,6 +1038,11 @@
       "sha256": "ed7f5f2610b5132781c440e4b503412bf97601bdb05b43f686e1bf6e76a65427"
     },
     {
+      "bytes": 532,
+      "path": "plans/active/2026-08-10 15-58-23_8688ee389f83.md",
+      "sha256": "3a8ea4b17f27b361ede5bab36a56f07b7294bd530c53b59cfa26aaf79b0d4244"
+    },
+    {
       "bytes": 598,
       "path": "plans/resolved/2026-07-17 10-21-17_98a1bcea0433.md",
       "sha256": "eeca9bd4c494ad54c7c997d413a569c9f0d8aab505658c9e5949d889dcb5b56e"
@@ -1068,11 +1073,11 @@
       "sha256": "72973a9357fd21dd64c150a215a3d5eb22d8ee079803e45ed54e92f6d63be08a"
     }
   ],
-  "generated_at": "2026-08-10T15:49:37+00:00",
+  "generated_at": "2026-08-10T16:19:41+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 178824
+  "total_bytes": 179356
 }
