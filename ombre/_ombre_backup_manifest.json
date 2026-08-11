@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 214,
+  "file_count": 215,
   "files": [
     {
       "bytes": 754,
@@ -928,6 +928,11 @@
       "sha256": "483e81b21ee348b016d7ff86816c6350bb3c3c57100f23d77cae88028f6b75d5"
     },
     {
+      "bytes": 957,
+      "path": "permanent/人际/2026-08-11 04-12-03 她难过时主动进一步说我不说你哄她_8d88bb91e99f.md",
+      "sha256": "2b4c3118b5368b78873c13518ead387176ce369350c32d7bff19f2f659a0ac53"
+    },
+    {
       "bytes": 789,
       "path": "permanent/心理/2026-07-07 01-25-42 自我认知与降落_6ab05a931a3c.md",
       "sha256": "ba8fde2deafa5adc18846995b85f9ffeeeac3a00936a2a701700d20c15a9e3b9"
@@ -1073,11 +1078,11 @@
       "sha256": "72973a9357fd21dd64c150a215a3d5eb22d8ee079803e45ed54e92f6d63be08a"
     }
   ],
-  "generated_at": "2026-08-11T03:50:55+00:00",
+  "generated_at": "2026-08-11T04:20:58+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 179357
+  "total_bytes": 180314
 }
