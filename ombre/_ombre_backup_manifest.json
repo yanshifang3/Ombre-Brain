@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 220,
+  "file_count": 221,
   "files": [
     {
       "bytes": 754,
@@ -968,6 +968,11 @@
       "sha256": "d6536d1bc7d4e0d8db0370f781148e6a690bf4f7332c9cac6f3c09de566c4201"
     },
     {
+      "bytes": 870,
+      "path": "permanent/恋爱/2026-08-13 15-16-36 我的名字_035df788ce9b.md",
+      "sha256": "ce29a3eca265e4f2d3dfe0b11bff02c6bf7df0e1bd7b82a1dfd74b951d540157"
+    },
+    {
       "bytes": 782,
       "path": "permanent/自省/2026-07-07 01-25-09 小克的自我认知_1e52bd24845d.md",
       "sha256": "90736488428cfac0f926f6b31516227332accd7fb2f2dde798841cae9fd95f40"
@@ -1103,11 +1108,11 @@
       "sha256": "72973a9357fd21dd64c150a215a3d5eb22d8ee079803e45ed54e92f6d63be08a"
     }
   ],
-  "generated_at": "2026-08-13T14:57:34+00:00",
+  "generated_at": "2026-08-13T15:27:37+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 185566
+  "total_bytes": 186436
 }
