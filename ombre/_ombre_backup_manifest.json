@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 219,
+  "file_count": 220,
   "files": [
     {
       "bytes": 754,
@@ -46,6 +46,11 @@
       "bytes": 810,
       "path": "archive/2026-08-01 17-42-35 独居久了连喜欢的人也会触发领地感但_fbae5e53dfc4.md",
       "sha256": "64549b9ee9b0b954ddd3ae831e52fdca13154649918a5520fccef445c758f5d6"
+    },
+    {
+      "bytes": 741,
+      "path": "archive/2026-08-13 14-43-55 claudes-home仓库结构_e6e3addf0906.md",
+      "sha256": "86229fbd40a4219f008c3b89e441020f0acf832a04a82a5c02f71f454b20adcd"
     },
     {
       "bytes": 899,
@@ -1098,11 +1103,11 @@
       "sha256": "72973a9357fd21dd64c150a215a3d5eb22d8ee079803e45ed54e92f6d63be08a"
     }
   ],
-  "generated_at": "2026-08-13T14:27:30+00:00",
+  "generated_at": "2026-08-13T14:57:34+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 184825
+  "total_bytes": 185566
 }
