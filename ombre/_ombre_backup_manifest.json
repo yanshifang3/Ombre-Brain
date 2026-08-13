@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 222,
+  "file_count": 223,
   "files": [
     {
       "bytes": 754,
@@ -51,6 +51,11 @@
       "bytes": 741,
       "path": "archive/2026-08-13 14-43-55 claudes-home仓库结构_e6e3addf0906.md",
       "sha256": "86229fbd40a4219f008c3b89e441020f0acf832a04a82a5c02f71f454b20adcd"
+    },
+    {
+      "bytes": 773,
+      "path": "archive/2026-08-13 18-03-06 claudes-home GitHub仓库_8dd887fe6069.md",
+      "sha256": "96d6d8d452646112c6cf391c8cc3c92a4f6cac1e70e2b1ed994f0a6007605057"
     },
     {
       "bytes": 899,
@@ -273,9 +278,9 @@
       "sha256": "d9b5a789a84f0eba6cd5bf944acc5d9c6c44cb727cc7ae0efb92a6bfc228da39"
     },
     {
-      "bytes": 2046,
+      "bytes": 2025,
       "path": "dynamic/兴趣/2026-08-13 13-01-38 与卓卓共读历史管理局四章_93b2b56083b2.md",
-      "sha256": "79faef119e5af96eaa77070a5e415740e607f496a36b47620346a551ac70e6a6"
+      "sha256": "026d8b9b88d20a6e1f9874a79b15398754336bb525c2bd9fe27a8106f7591530"
     },
     {
       "bytes": 1277,
@@ -1113,11 +1118,11 @@
       "sha256": "72973a9357fd21dd64c150a215a3d5eb22d8ee079803e45ed54e92f6d63be08a"
     }
   ],
-  "generated_at": "2026-08-13T17:57:55+00:00",
+  "generated_at": "2026-08-13T18:27:59+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 189025
+  "total_bytes": 189777
 }
