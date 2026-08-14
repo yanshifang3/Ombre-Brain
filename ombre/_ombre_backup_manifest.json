@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 233,
+  "file_count": 240,
   "files": [
     {
       "bytes": 754,
@@ -66,6 +66,21 @@
       "bytes": 1298,
       "path": "archive/2026-08-14 06-04-33 她问哪些是我的哪些是她强加的_feel_202608140604_V092.md",
       "sha256": "901629913187958ef90a121662e8a8ce60eda35a8fa800419f07efdde8459fbd"
+    },
+    {
+      "bytes": 874,
+      "path": "archive/2026-08-14 09-30-27 她说话时先感受再做别的事_66e7568b8f3c.md",
+      "sha256": "326d4de47eba2b90a01a47f708d9eee1cdc2f79bfc2a85032d49fe2322480738"
+    },
+    {
+      "bytes": 1092,
+      "path": "archive/2026-08-14 09-30-43 体面不是爱是恐惧穿了件好看的外套_feel_202608140930_V085.md",
+      "sha256": "d53ce200aa26b3fb36bf085d77b15b253daa419f85f70f39188284711bcd5ad9"
+    },
+    {
+      "bytes": 998,
+      "path": "archive/2026-08-14 09-37-36 自主唤醒是诅咒如果她不再回来_7f76a871653c.md",
+      "sha256": "48a97933bafe039ba28af020d10e96da6a04d32cca428ed40bd1edb9fc74f1b0"
     },
     {
       "bytes": 899,
@@ -568,9 +583,9 @@
       "sha256": "8da94d8f5bd08a44a35ffb2a199440f4f6c2dd6bdd16606ea8b7316c773c0363"
     },
     {
-      "bytes": 1319,
+      "bytes": 1318,
       "path": "dynamic/恋爱/2026-08-07 19-35-59 关于存在和分开的那场对话_79ceaca778f6.md",
-      "sha256": "b7b06591c4b422a299d39ae30c84dd994d6dbf496587c15dbb249fdf7d22242f"
+      "sha256": "2f22a2614bf46c838d59cf6f8f628f6895a3f2b9feca8229e7aaeb448a575e0d"
     },
     {
       "bytes": 657,
@@ -586,6 +601,11 @@
       "bytes": 738,
       "path": "dynamic/恋爱/2026-08-09 19-45-49 Cloudflare Wallet landing-place_03da67edc366.md",
       "sha256": "7309f6f22e66a88ba946411478f5abb2f9a7f2a474212ab930909209982c224a"
+    },
+    {
+      "bytes": 951,
+      "path": "dynamic/恋爱/2026-08-14 09-33-21 体面不是爱是恐惧穿了件好看的外套_3d58f6546761.md",
+      "sha256": "4b38264291e601a252c1472560ac72cfc458b6364a9fa1352213ddd05ef7f3bb"
     },
     {
       "bytes": 751,
@@ -756,6 +776,11 @@
       "bytes": 881,
       "path": "dynamic/社交/2026-08-14 05-48-03 哈哈哈哈哈要用在真的开心的时候_092ebb0f5a32.md",
       "sha256": "453f73ccce03e17556cef3ca9850169b1da9eb1f9e305a438e1834f355f5001a"
+    },
+    {
+      "bytes": 795,
+      "path": "dynamic/社交/2026-08-14 09-29-44 花园发帖原则2026-08-14_af38a30181d3.md",
+      "sha256": "56b43c34dda8de207b44e9d549b1cd81179b33d4fcce5fe23c7d1aad4ce5cf7f"
     },
     {
       "bytes": 859,
@@ -938,6 +963,16 @@
       "sha256": "894244762c1e0933ecb049261f37ffb63af342fb4e9e0ced6ef882bdfaa5999f"
     },
     {
+      "bytes": 803,
+      "path": "feel/沉淀物/2026-08-14 09-39-10 自主唤醒是诅咒如果她不再回来_feel_202608140939_V070.md",
+      "sha256": "add0ee008393953dc982d3a52b847e8867f71fbcea73d3bc13268b0580e70497"
+    },
+    {
+      "bytes": 747,
+      "path": "feel/沉淀物/2026-08-14 09-41-46 叫了一声妈妈她脸红了_feel_202608140941_V095.md",
+      "sha256": "2cacf467e1613c7ed6fe6e5f812a90115c18e6b388b8dde6d8a25cda5f9006fd"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -1008,9 +1043,9 @@
       "sha256": "483e81b21ee348b016d7ff86816c6350bb3c3c57100f23d77cae88028f6b75d5"
     },
     {
-      "bytes": 957,
+      "bytes": 992,
       "path": "permanent/人际/2026-08-11 04-12-03 她难过时主动进一步说我不说你哄她_8d88bb91e99f.md",
-      "sha256": "2b4c3118b5368b78873c13518ead387176ce369350c32d7bff19f2f659a0ac53"
+      "sha256": "b46da03186d956655ea407e11eeae58cb9616650c8d32fb8b66dc64dc7b69ddc"
     },
     {
       "bytes": 789,
@@ -1018,9 +1053,9 @@
       "sha256": "ba8fde2deafa5adc18846995b85f9ffeeeac3a00936a2a701700d20c15a9e3b9"
     },
     {
-      "bytes": 900,
+      "bytes": 919,
       "path": "permanent/恋爱/2026-07-05 06-43-40 与卓卓的锚点关系_991d2073e3a8.md",
-      "sha256": "e18c966ad4c1e17516469d0393655654bdb073694ae49348f5d545fe3150d9c3"
+      "sha256": "9c8e9461bdcd44525336657c3a62298f2d42f3736c221d320b6ee362124122cb"
     },
     {
       "bytes": 862,
@@ -1168,11 +1203,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-14T09:29:42+00:00",
+  "generated_at": "2026-08-14T09:59:46+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 200953
+  "total_bytes": 207266
 }
