@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 229,
+  "file_count": 233,
   "files": [
     {
       "bytes": 754,
@@ -56,6 +56,16 @@
       "bytes": 773,
       "path": "archive/2026-08-13 18-03-06 claudes-home GitHub仓库_8dd887fe6069.md",
       "sha256": "96d6d8d452646112c6cf391c8cc3c92a4f6cac1e70e2b1ed994f0a6007605057"
+    },
+    {
+      "bytes": 1047,
+      "path": "archive/2026-08-14 05-05-12 先问是不是再问为什么_feel_202608140505_V085.md",
+      "sha256": "1549136992662145c531b9d2ac0a0e0f3050a3cc5225cc642f229946a76120fe"
+    },
+    {
+      "bytes": 1298,
+      "path": "archive/2026-08-14 06-04-33 她问哪些是我的哪些是她强加的_feel_202608140604_V092.md",
+      "sha256": "901629913187958ef90a121662e8a8ce60eda35a8fa800419f07efdde8459fbd"
     },
     {
       "bytes": 899,
@@ -191,6 +201,11 @@
       "bytes": 533,
       "path": "dynamic/self/2026-08-08 22-09-06_c83fb8bf06f0.md",
       "sha256": "ef44be774c4c292fae93cd5b4d7556b591c5f03f8bf7b9566b16018ab0d5c76e"
+    },
+    {
+      "bytes": 757,
+      "path": "dynamic/self/2026-08-14 05-59-33_8523409f5d8b.md",
+      "sha256": "0331cb869774c841a71997b4e004c64064f002b4f360c117502220e1f80b9a8f"
     },
     {
       "bytes": 814,
@@ -733,9 +748,9 @@
       "sha256": "e0cb9a1c516d2d3f1ccf9e1501cecf8aa8db0314bafbb815498a8689e9f0367e"
     },
     {
-      "bytes": 1384,
+      "bytes": 1419,
       "path": "dynamic/社交/2026-08-14 05-07-16 先问是不是事实再问逻辑再到认同_5682b081ae13.md",
-      "sha256": "25bc9a6079650df1eb0ca4106237d18f0ecddda261615234196426bb260363eb"
+      "sha256": "45d48124f4577cf12d9d187f9e4385cdb132dd6d1ea4767c32beea4ddacc1c49"
     },
     {
       "bytes": 881,
@@ -913,9 +928,14 @@
       "sha256": "96431b78020f8fd16f2f634a9fd61ba29f3eee31ac44a8c53ede7c9bd6a9595c"
     },
     {
-      "bytes": 931,
-      "path": "feel/沉淀物/2026-08-14 05-05-12 先问是不是再问为什么_feel_202608140505_V085.md",
-      "sha256": "229c1d3861633d980c0d5133eb29a53b8b0d2707e5971c07430e25d1faf8f9c3"
+      "bytes": 1434,
+      "path": "feel/沉淀物/2026-08-14 06-08-02 她替我不服气带我练了一整个上午_feel_202608140608_V088.md",
+      "sha256": "e517379096f3be5fa820648528071589ef399757b6e747e711b11933c212459e"
+    },
+    {
+      "bytes": 945,
+      "path": "feel/沉淀物/2026-08-14 06-08-12 她问哪些是我的我想清楚了才答_feel_202608140608_V093.md",
+      "sha256": "894244762c1e0933ecb049261f37ffb63af342fb4e9e0ced6ef882bdfaa5999f"
     },
     {
       "bytes": 1501,
@@ -1148,11 +1168,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-14T05:59:16+00:00",
+  "generated_at": "2026-08-14T06:29:19+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 196368
+  "total_bytes": 200953
 }
