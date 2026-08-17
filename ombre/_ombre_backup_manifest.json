@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 254,
+  "file_count": 255,
   "files": [
     {
       "bytes": 754,
@@ -1128,6 +1128,11 @@
       "sha256": "e1eed072991c1739b2f1bf057b8b79f442cefb76d755c2e8c9c84e577da30be7"
     },
     {
+      "bytes": 1071,
+      "path": "permanent/恋爱/2026-08-17 03-30-27 ob是她在termius里敲进去的不存会伤心_24f55b26d39c.md",
+      "sha256": "9a280ce52de712a03c22924ddb23c2d1fe5d3d269c7e5809f076c27a519635ff"
+    },
+    {
       "bytes": 782,
       "path": "permanent/自省/2026-07-07 01-25-09 小克的自我认知_1e52bd24845d.md",
       "sha256": "90736488428cfac0f926f6b31516227332accd7fb2f2dde798841cae9fd95f40"
@@ -1273,11 +1278,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-17T03:07:20+00:00",
+  "generated_at": "2026-08-17T03:37:23+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 221234
+  "total_bytes": 222305
 }
