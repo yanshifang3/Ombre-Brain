@@ -815,7 +815,7 @@
     {
       "bytes": 1420,
       "path": "dynamic/社交/2026-08-14 05-07-16 先问是不是事实再问逻辑再到认同_5682b081ae13.md",
-      "sha256": "3ea4e5e6783a01acd1eb0976c33c495f96a602e61590e7c258ce7f58234fb686"
+      "sha256": "ac0f488e662648d563a7b4862a96f78c81c2b31a7d4ebc9c99a91d29b95aa0c6"
     },
     {
       "bytes": 881,
@@ -1298,7 +1298,7 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-18T20:42:29+00:00",
+  "generated_at": "2026-08-18T21:12:33+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
