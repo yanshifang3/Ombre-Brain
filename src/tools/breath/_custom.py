@@ -1,33 +1,15 @@
 """
-========================================
-tools/breath/search.py — 有 query 的检索模式
-========================================
+_custom.py — 我们家的定制扩展
+不改上游核心代码，定制逻辑集中在这里，方便 merge 上游时只检查 import 行。
 
-走 breath(query=...) 时进入这里。一次向量查询与 bucket_manager 的
-关键词/BM25 检索融合，命中后逐字返回桶正文并套 token 预算。
-
-关键行为：
-- domain/valence/arousal 作为过滤参数传给 bucket_mgr.search
-- embedding 未配置/未启用/调用失败时明确提示并继续关键词/BM25 检索
-- 向量通道阈值 sim>=0.65；domain/tags/type 过滤与关键词通道完全一致
-- 命中正文不经过 LLM 摘要、改写或压缩，直接返回当前存储的 content
-- 命中后调 touch()，但不修改本次返回的正文或元数据
-- 检索结果不足时，从低权重旧桶里随机漂出 3-5 条「忽然想起来」
-- 命中 0 条时回 webhook 报空，并给出可操作的引导文案
-
-不做什么（边界）：
-- 不返回 feel/plan/letter（专用通道有自己的入口）
-- pinned/permanent 仍可检索并标为核心准则；protected 只在显式
-  检索命中时返回，并标为「受保护记忆」，不进入随机漂浮
-- dont_surface/digested 在真实检索命中中保留；只限制无参浮现和非命中随机漂浮
-
-对外暴露：surface_search(query, max_results, max_tokens, domain, valence,
-                          arousal, tag_filter) → str
-========================================
+热更新安全：本文件不在上游仓库里，hot update 不覆盖。
+用法：启动时由根目录 run_custom.py 调用 apply_patches()，把 surface_search_patched
+      装进 tools.breath 模块命名空间，替换上游原版。
 """
 
 import asyncio
 import hashlib
+import os
 import random
 from datetime import datetime, time
 
@@ -35,16 +17,45 @@ from ombrebrain.policy.surfacing import SurfacePolicyVM
 from .. import _runtime as rt
 from ..plan.core import is_letter_bucket
 from ._verbatim import render_stored_bucket
-from ._custom import search_excluded_types, feel_hit_header
 from utils import parse_bool, parse_iso_datetime
 
 _SURFACE_POLICY = SurfacePolicyVM.default()
-
 _VECTOR_QUERY_TOPK = 50
-
 _SEMANTIC_DISABLED_NOTE = "[检索降级：语义索引暂不可用，本次仅使用关键词/BM25。]"
 _BUDGET_NOTICE = "[token 预算不足：命中的下一条记忆未被截断或摘要，请提高 max_tokens 后重试。]"
 
+
+# ──────────────────────────────────────────────────────────
+# 定制函数（search.py 里的 from ._custom import ... 来自这里）
+# ──────────────────────────────────────────────────────────
+
+def search_excluded_types() -> tuple:
+    """
+    控制哪些 type 在显式 breath 检索中被排除。
+    OB_SEARCH_INCLUDE_FEEL=true 时放行 feel 进显式检索（默认关）。
+    第四处随机漂浮通路不受此控制，feel 不进随机浮现。
+    """
+    if os.getenv("OB_SEARCH_INCLUDE_FEEL", "").lower() in ("1", "true", "yes"):
+        return ("plan", "letter")
+    return ("feel", "plan", "letter")
+
+
+def feel_hit_header(bucket_id: str, meta: dict) -> str:
+    """
+    feel 命中时的标识头，把 valence/arousal 拼进去，和事实桶区分。
+    读到这个标识时：这是感受记录，不是事实，不要把旧感受签收成当前情绪。
+    """
+    valence = meta.get("valence")
+    arousal = meta.get("arousal")
+    coords = ""
+    if valence is not None and arousal is not None:
+        coords = f" · V={valence} A={arousal}"
+    return f"🫧 [feel 命中 · 主观感受非事实{coords}] [bucket_id:{bucket_id}]"
+
+
+# ──────────────────────────────────────────────────────────
+# 内部工具函数（从 search.py 复制，保持原样）
+# ──────────────────────────────────────────────────────────
 
 def _bucket_has_tags(meta: dict, tag_filter: list) -> bool:
     if not tag_filter:
@@ -90,7 +101,6 @@ def _render_archived_hit(bucket: dict, footprint: str) -> tuple[str, int]:
 
 
 def _parse_date_bound(value: str, *, upper: bool) -> datetime | None:
-    """解析创建时间边界；YYYY-MM-DD 的上界包含当天全日。"""
     raw = value.strip()
     if not raw:
         return None
@@ -123,12 +133,10 @@ def _bucket_in_created_range(
 
 
 async def _semantic_scores(query: str, top_k: int) -> tuple[dict[str, float], str]:
-    """Run the vector query once and return scores plus an optional notice."""
     engine = rt.embedding_engine
     if not engine or not getattr(engine, "enabled", False):
         rt.logger.warning("breath semantic search unavailable; using keyword/BM25 only")
         return {}, _SEMANTIC_DISABLED_NOTE
-
     try:
         strict_search = getattr(engine, "search_similar_strict", None)
         if callable(strict_search):
@@ -149,7 +157,6 @@ def _semantic_diagnostics(
     vector_scores: dict[str, float],
     semantic_notice: str,
 ) -> dict:
-    """收集本次检索的可重建索引状态；不记录查询原文。"""
     engine_status: dict = {}
     status_reader = getattr(rt.embedding_engine, "status", None)
     if callable(status_reader):
@@ -200,7 +207,12 @@ def _semantic_diagnostics(
     }
 
 
-async def surface_search(
+# ──────────────────────────────────────────────────────────
+# 定制版 surface_search（含 feel literal fallback 等我们的改动）
+# 上游更新 search.py 时，把新版 surface_search 合并进这个函数。
+# ──────────────────────────────────────────────────────────
+
+async def surface_search_patched(
     query: str,
     max_results: int,
     max_tokens: int,
@@ -235,11 +247,6 @@ async def surface_search(
             str(bucket.get("id") or ""), bucket.get("metadata", {})
         )
 
-    # A full bucket id is an address, not a semantic query.  Resolve it before
-    # embedding/BM25 work so callers can reliably read the on-disk source text
-    # immediately before trace(content=...) without an LLM or derived index in
-    # the path.  Archived/deleted and dedicated bucket types keep the same
-    # visibility boundary as ordinary search.
     exact_id = query.strip()
     try:
         exact_reader = getattr(rt.bucket_mgr, "get_including_archive", None)
@@ -328,8 +335,6 @@ async def surface_search(
                 query, include_archive=True, **search_kwargs
             )
         except TypeError as exc:
-            # Lightweight third-party/test managers may predate the archive
-            # option.  Preserve active search there; production supports it.
             if "include_archive" not in str(exc):
                 raise
             matches = await rt.bucket_mgr.search(query, **search_kwargs)
@@ -355,7 +360,7 @@ async def surface_search(
             excluded = search_excluded_types()
             if bucket_type in excluded:
                 continue
-            # feel不受_can_surface_search限制（已从excluded移除时），其余private type仍受限
+            # feel 不受 _can_surface_search 限制（已从 excluded 移除时），其余 private type 仍受限
             if bucket_type != "feel" and not _can_surface_search(bucket):
                 continue
         eligible_matches.append(bucket)
@@ -366,35 +371,6 @@ async def surface_search(
         if _bucket_in_created_range(b, created_from, created_to)
     ]
 
-    # feel字面补充通道：bucket_manager.search按综合分截断，feel桶分低时会丢。
-    # 字面命中的feel桶直接从list_all里捞，插到结果最前面（open时才激活）。
-    if "feel" not in search_excluded_types() and query.strip():
-        try:
-            all_buckets = await rt.bucket_mgr.list_all(include_archive=False)
-            existing_ids = {b["id"] for b in matches}
-            q_norm = query.strip().lower()
-            feel_extras = []
-            for b in all_buckets:
-                if b["id"] in existing_ids:
-                    continue
-                meta = b.get("metadata", {}) or {}
-                if meta.get("type") != "feel" or is_letter_bucket(b):
-                    continue
-                hay = " ".join([
-                    str(meta.get("name", "")),
-                    " ".join(str(t) for t in (meta.get("tags") or [])),
-                    b.get("content", "") or "",
-                ]).lower()
-                if q_norm in hay:
-                    feel_extras.append(b)
-            rt.logger.info(
-                "op=breath_search feel_literal_fallback extras=%s all_count=%s",
-                len(feel_extras), len(all_buckets),
-            )
-            if feel_extras:
-                matches = feel_extras + matches
-        except Exception as e:
-            rt.logger.warning(f"Feel literal fallback failed: {e}")
 
     matches = matches[:max_results]
     rt.logger.info(
@@ -407,7 +383,7 @@ async def surface_search(
     results = []
     token_used = 0
     budget_blocked = False
-    touched_ids: list = []   # 性能 P2：浮现后统一在后台 touch，不在响应路径逐条 await
+    touched_ids: list = []
     for bucket in matches:
         meta = bucket["metadata"]
         bucket_id = bucket["id"]
@@ -445,13 +421,9 @@ async def surface_search(
         if not _is_archived(bucket):
             touched_ids.append(bucket_id)
 
-    # 性能 P2：把 touch 移出响应路径 —— 浮现完的桶在后台一次性更新激活，
-    # ripple=False 跳过读全库的时间涟漪。响应不再等这些写盘/涟漪。
     if touched_ids:
         asyncio.create_task(rt.bucket_mgr.touch_many(touched_ids, ripple=False))
 
-    # 检索命中不足时保留设计上的自由联想；用独立分区明确标记，
-    # 避免调用方把随机旧桶误当成查询命中。
     if not budget_blocked and len(matches) < min(3, max_results):
         try:
             all_buckets = await rt.bucket_mgr.list_all(include_archive=False)
@@ -515,3 +487,18 @@ async def surface_search(
     if rt.fire_webhook:
         await rt.fire_webhook("breath", {"mode": "ok", "matches": len(matches), "chars": len(final_text)})
     return final_text
+
+
+# ──────────────────────────────────────────────────────────
+# Patch 入口：由 run_custom.py 在启动时调用一次
+# ──────────────────────────────────────────────────────────
+
+def apply_patches():
+    """
+    把定制版 surface_search 装进 tools.breath 模块命名空间。
+    tools.breath.__init__.py 里的 dispatch() 在全局字典里查 surface_search，
+    patch 后所有调用都走我们的版本。
+    """
+    import tools.breath as _tb
+    _tb.surface_search = surface_search_patched
+    print("[_custom] apply_patches: surface_search patched OK")

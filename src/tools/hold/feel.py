@@ -76,10 +76,11 @@ async def store_feel(
     )
     if source_bucket and source_bucket.strip():
         try:
-            update_kwargs: dict[str, bool | float] = {"digested": True}
+            update_kwargs: dict[str, float] = {}
             if 0 <= valence <= 1:
                 update_kwargs["model_valence"] = feel_valence
-            await rt.bucket_mgr.update(source_bucket.strip(), **update_kwargs)
+            if update_kwargs:
+                await rt.bucket_mgr.update(source_bucket.strip(), **update_kwargs)
         except Exception as e:
-            rt.logger.warning(f"Failed to mark source as digested / 标记已消化失败: {e}")
+            rt.logger.warning(f"Failed to update source / 更新源桶失败: {e}")
     return f"🫧feel→{bucket_id}"

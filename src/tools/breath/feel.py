@@ -24,7 +24,7 @@ from ..plan.core import is_letter_bucket
 from ._verbatim import render_stored_bucket
 
 
-async def surface_feels(max_tokens: int) -> str:
+async def surface_feels(max_tokens: int, limit: int = 0, query: str = "") -> str:
     try:
         all_buckets = await rt.bucket_mgr.list_all(include_archive=False)
         feels = [
@@ -32,7 +32,22 @@ async def surface_feels(max_tokens: int) -> str:
             if b.get("metadata", {}).get("type") == "feel"
             and not is_letter_bucket(b)
         ]
+        if query and query.strip():
+            q_norm = query.strip().lower()
+            filtered = []
+            for b in feels:
+                meta = b.get("metadata", {}) or {}
+                hay = " ".join([
+                    str(meta.get("name", "")),
+                    " ".join(str(t) for t in (meta.get("tags") or [])),
+                    b.get("content", "") or "",
+                ]).lower()
+                if q_norm in hay:
+                    filtered.append(b)
+            feels = filtered
         feels.sort(key=lambda b: b.get("metadata", {}).get("created", ""), reverse=True)
+        if limit > 0:
+            feels = feels[:limit]
         if not feels:
             return "没有留下过 feel。"
         full_lines: list[str] = []
