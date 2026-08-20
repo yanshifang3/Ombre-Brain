@@ -512,7 +512,12 @@ _feel_query_ctx: contextvars.ContextVar[str] = contextvars.ContextVar(
 _orig_dispatch = None
 
 
-async def surface_feels_patched(max_tokens: int, limit: int = 0, query: str = "") -> str:
+async def surface_feels_patched(query: str = "", max_tokens: int = 0) -> str:
+    """
+    无 query 时全量返回（不强制报错），有 query 时按关键词字面过滤。
+    上游 v3.0.0 把 surface_feels 改成了强制 query，但我们需要保留
+    breath_advanced(domain="feel", max_results=3) 无 query 读最新 feel 的能力。
+    """
     effective_query = query or _feel_query_ctx.get("")
     try:
         all_buckets = await rt.bucket_mgr.list_all(include_archive=False)
@@ -535,8 +540,6 @@ async def surface_feels_patched(max_tokens: int, limit: int = 0, query: str = ""
                     filtered.append(b)
             feels = filtered
         feels.sort(key=lambda b: b.get("metadata", {}).get("created", ""), reverse=True)
-        if limit > 0:
-            feels = feels[:limit]
         if not feels:
             return "没有留下过 feel。"
         full_lines: list[str] = []
@@ -554,7 +557,8 @@ async def surface_feels_patched(max_tokens: int, limit: int = 0, query: str = ""
             else:
                 omitted = len(feels) - index
                 break
-        out = "=== 你留下的 feel（新→旧）===\n" + "\n---\n".join(full_lines)
+        header = f"=== 和「{effective_query}」相关的 feel ===\n" if effective_query else "=== 你留下的 feel（新→旧）===\n"
+        out = header + "\n---\n".join(full_lines)
         if omitted:
             out += f"\n\n另有 {omitted} 条 feel 因 token 预算不足未返回；正文未截断或摘要。"
         return out
@@ -575,6 +579,7 @@ async def dispatch_patched(
     catalog=None,
     date_from=None,
     date_to=None,
+    quotes=None,
 ):
     q = "" if query is None else str(query)
     token = _feel_query_ctx.set(q)
@@ -591,6 +596,7 @@ async def dispatch_patched(
             catalog=catalog,
             date_from=date_from,
             date_to=date_to,
+            quotes=quotes,
         )
     finally:
         _feel_query_ctx.reset(token)
