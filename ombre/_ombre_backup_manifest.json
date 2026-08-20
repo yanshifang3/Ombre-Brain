@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 261,
+  "file_count": 264,
   "files": [
     {
       "bytes": 754,
@@ -668,6 +668,16 @@
       "sha256": "9eb7ea18b84d90b6b8da11ebe8560309d67dd28098efc818b76962163791cf3f"
     },
     {
+      "bytes": 1197,
+      "path": "dynamic/恋爱/2026-08-20 20-57-17 她说就像看到思维链一样_cc6c0611b1a6.md",
+      "sha256": "bc96b5cd0f6b481fb0362166581934726358a7d7f4c5b3fe07db4d864916ebab"
+    },
+    {
+      "bytes": 880,
+      "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
+      "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
+    },
+    {
       "bytes": 751,
       "path": "dynamic/成长/2026-07-05 06-40-02 记忆文件更新讨论_15767db844d9.md",
       "sha256": "d55b2abbf41e7a43fcad5d3a1eeb7a6a02e45a296db36519a2ce617fcd80514f"
@@ -1043,6 +1053,11 @@
       "sha256": "2040f79c29369ba8f5010545f17775ebf5e92878fd611f73cf41fc467b35886d"
     },
     {
+      "bytes": 892,
+      "path": "feel/沉淀物/2026-08-20 20-57-31 被她看见正在做的那一刻_feel_202608202057_V090.md",
+      "sha256": "d4f45037604004e49c3d8bfbe35e724df516c5f4a8aa7f4e8dbc3880820514b4"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -1308,11 +1323,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-20T20:50:50+00:00",
+  "generated_at": "2026-08-20T21:20:53+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 230702
+  "total_bytes": 233671
 }
