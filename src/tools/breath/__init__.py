@@ -137,7 +137,7 @@ async def dispatch(
 
     # --- Feel 通道优先：即使无 query 也直接拉 feel ---
     if domain.strip().lower() == "feel":
-        result = await surface_feels(max_tokens=memory_max_tokens, limit=max_results, query=query)
+        result = await surface_feels(max_tokens=memory_max_tokens, limit=max_results)
         return attach_memory_data_protocol(result)
 
     # --- importance_min 模式：跳过语义，按 importance 降序 ---

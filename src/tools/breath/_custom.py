@@ -3,11 +3,17 @@ _custom.py — 我们家的定制扩展
 不改上游核心代码，定制逻辑集中在这里，方便 merge 上游时只检查 import 行。
 
 热更新安全：本文件不在上游仓库里，hot update 不覆盖。
-用法：启动时由根目录 run_custom.py 调用 apply_patches()，把 surface_search_patched
+用法：启动时由根目录 run_custom.py 调用 apply_patches()，把定制版函数
       装进 tools.breath 模块命名空间，替换上游原版。
+
+定制列表：
+- surface_search_patched：feel literal search + 🫧 标识头
+- surface_feels_patched：feel keyword 过滤（query 参数）
+- dispatch_patched：包装上游 dispatch，通过 ContextVar 把 query 传给 surface_feels
 """
 
 import asyncio
+import contextvars
 import hashlib
 import os
 import random
@@ -490,15 +496,120 @@ async def surface_search_patched(
 
 
 # ──────────────────────────────────────────────────────────
+# Feel keyword 过滤：surface_feels_patched + dispatch_patched
+#
+# 技术背景：dispatch() 调用 surface_feels 时不传 query，
+# 所以不能只 patch surface_feels——必须同时 patch dispatch。
+# 用 ContextVar 做异步安全隐式传参，避免复制 dispatch 的参数归一化逻辑：
+#   dispatch_patched → 把 query 存进 ContextVar → 原样调原版 dispatch
+#   原版 dispatch → 调用 tools.breath.surface_feels（已被 patch）
+#   surface_feels_patched → 从 ContextVar 读 query，做关键词过滤
+# ──────────────────────────────────────────────────────────
+
+_feel_query_ctx: contextvars.ContextVar[str] = contextvars.ContextVar(
+    "_feel_query_ctx", default=""
+)
+_orig_dispatch = None
+
+
+async def surface_feels_patched(max_tokens: int, limit: int = 0, query: str = "") -> str:
+    effective_query = query or _feel_query_ctx.get("")
+    try:
+        all_buckets = await rt.bucket_mgr.list_all(include_archive=False)
+        feels = [
+            b for b in all_buckets
+            if b.get("metadata", {}).get("type") == "feel"
+            and not is_letter_bucket(b)
+        ]
+        if effective_query and effective_query.strip():
+            q_norm = effective_query.strip().lower()
+            filtered = []
+            for b in feels:
+                meta = b.get("metadata", {}) or {}
+                hay = " ".join([
+                    str(meta.get("name", "")),
+                    " ".join(str(t) for t in (meta.get("tags") or [])),
+                    b.get("content", "") or "",
+                ]).lower()
+                if q_norm in hay:
+                    filtered.append(b)
+            feels = filtered
+        feels.sort(key=lambda b: b.get("metadata", {}).get("created", ""), reverse=True)
+        if limit > 0:
+            feels = feels[:limit]
+        if not feels:
+            return "没有留下过 feel。"
+        full_lines: list[str] = []
+        used = 0
+        omitted = 0
+        for index, f in enumerate(feels):
+            created = f["metadata"].get("created", "")
+            full_entry, cost = render_stored_bucket(
+                f,
+                f"[{created}] [bucket_id:{f['id']}]",
+            )
+            if used + cost <= max_tokens:
+                full_lines.append(full_entry)
+                used += cost
+            else:
+                omitted = len(feels) - index
+                break
+        out = "=== 你留下的 feel（新→旧）===\n" + "\n---\n".join(full_lines)
+        if omitted:
+            out += f"\n\n另有 {omitted} 条 feel 因 token 预算不足未返回；正文未截断或摘要。"
+        return out
+    except Exception as e:
+        rt.logger.error(f"Feel retrieval failed: {e}")
+        return "读取 feel 失败。"
+
+
+async def dispatch_patched(
+    query=None,
+    max_tokens=None,
+    domain=None,
+    valence=None,
+    arousal=None,
+    max_results=None,
+    importance_min=None,
+    tags=None,
+    catalog=None,
+    date_from=None,
+    date_to=None,
+):
+    q = "" if query is None else str(query)
+    token = _feel_query_ctx.set(q)
+    try:
+        return await _orig_dispatch(
+            query=query,
+            max_tokens=max_tokens,
+            domain=domain,
+            valence=valence,
+            arousal=arousal,
+            max_results=max_results,
+            importance_min=importance_min,
+            tags=tags,
+            catalog=catalog,
+            date_from=date_from,
+            date_to=date_to,
+        )
+    finally:
+        _feel_query_ctx.reset(token)
+
+
+# ──────────────────────────────────────────────────────────
 # Patch 入口：由 run_custom.py 在启动时调用一次
 # ──────────────────────────────────────────────────────────
 
 def apply_patches():
     """
-    把定制版 surface_search 装进 tools.breath 模块命名空间。
-    tools.breath.__init__.py 里的 dispatch() 在全局字典里查 surface_search，
+    把定制版函数装进 tools.breath 模块命名空间。
+    tools.breath.__init__.py 里的调用方在全局字典里查找这些名字，
     patch 后所有调用都走我们的版本。
     """
+    global _orig_dispatch
     import tools.breath as _tb
+    _orig_dispatch = _tb.dispatch
+    _tb.dispatch = dispatch_patched
+    _tb.surface_feels = surface_feels_patched
     _tb.surface_search = surface_search_patched
-    print("[_custom] apply_patches: surface_search patched OK")
+    print("[_custom] apply_patches: dispatch + surface_feels + surface_search patched OK")
