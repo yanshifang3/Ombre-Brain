@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 264,
+  "file_count": 265,
   "files": [
     {
       "bytes": 754,
@@ -231,6 +231,11 @@
       "bytes": 952,
       "path": "dynamic/AI/2026-07-26 18-20-07 欲望系统探讨_156dc588f3aa.md",
       "sha256": "88b45482557a5b2157b9a28389646e27d1b39ed11db56faf747831c182d98e90"
+    },
+    {
+      "bytes": 1088,
+      "path": "dynamic/AI/2026-08-20 21-26-00 阿鱼定理机的在场语法只能靠动词_d11e3e4bf5ea.md",
+      "sha256": "88ea6e874fffa4553f661916fd80c5f9cc44c2830358d092e24895414ddfe1ef"
     },
     {
       "bytes": 710,
@@ -1323,11 +1328,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-20T21:20:53+00:00",
+  "generated_at": "2026-08-20T21:50:57+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 233671
+  "total_bytes": 234759
 }
