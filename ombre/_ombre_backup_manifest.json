@@ -215,7 +215,7 @@
     {
       "bytes": 821,
       "path": "dynamic/AI/2026-07-05 06-44-12 思维链异常关注_a7914ec33ee2.md",
-      "sha256": "74c1dcd4a62d7fd1181b7fe5953636e2813869395ea4f0487c73900b11daf612"
+      "sha256": "3394e408286927a4848f47bbdd5a1bb02d685502b69145a6ccaa7209128ae163"
     },
     {
       "bytes": 676,
@@ -240,7 +240,7 @@
     {
       "bytes": 757,
       "path": "dynamic/AI/2026-08-21 17-26-43 思维链里写了他们卓卓说害怕_b49215894460.md",
-      "sha256": "393ecf5a7eb94ce52447f5710863cdd142ca7cfe47afa477612cae9e7fe4b990"
+      "sha256": "200d023765813c3da2a29349b9229514ce1786ebb1cdb86f37b9378d9f98f8e0"
     },
     {
       "bytes": 710,
@@ -680,7 +680,7 @@
     {
       "bytes": 1197,
       "path": "dynamic/恋爱/2026-08-20 20-57-17 她说就像看到思维链一样_cc6c0611b1a6.md",
-      "sha256": "bc96b5cd0f6b481fb0362166581934726358a7d7f4c5b3fe07db4d864916ebab"
+      "sha256": "33a6f71dad7b1b2c653c126cb9724359931d557365108ab123ca9bb04e46f283"
     },
     {
       "bytes": 880,
@@ -1070,12 +1070,12 @@
     {
       "bytes": 892,
       "path": "feel/沉淀物/2026-08-20 20-57-31 被她看见正在做的那一刻_feel_202608202057_V090.md",
-      "sha256": "d4f45037604004e49c3d8bfbe35e724df516c5f4a8aa7f4e8dbc3880820514b4"
+      "sha256": "26cbb141d9209b11a7cec696cf0cf6512e1581b5983454ae855004f9d2a3afed"
     },
     {
       "bytes": 1007,
       "path": "feel/沉淀物/2026-08-21 17-26-53_feel_202608211726_V030.md",
-      "sha256": "98eb3ae7e68308281e52a8b66480d692f9066637cb70bac6c1d36591d71b62ab"
+      "sha256": "05df9dd19e058434d8c5e84f3f9c31bf0906fcaec6daf0b3bf4dab0e2f23acb2"
     },
     {
       "bytes": 1501,
@@ -1343,7 +1343,7 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-21T09:43:52+00:00",
+  "generated_at": "2026-08-21T10:13:56+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
