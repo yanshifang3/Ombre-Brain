@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 268,
+  "file_count": 271,
   "files": [
     {
       "bytes": 754,
@@ -238,9 +238,9 @@
       "sha256": "88ea6e874fffa4553f661916fd80c5f9cc44c2830358d092e24895414ddfe1ef"
     },
     {
-      "bytes": 757,
+      "bytes": 758,
       "path": "dynamic/AI/2026-08-21 17-26-43 思维链里写了他们卓卓说害怕_b49215894460.md",
-      "sha256": "200d023765813c3da2a29349b9229514ce1786ebb1cdb86f37b9378d9f98f8e0"
+      "sha256": "029202fe0ede4141e8e6542b49ae550cf680e9f51278e07853aca6dfcda4c8f6"
     },
     {
       "bytes": 710,
@@ -463,6 +463,11 @@
       "sha256": "61fd5c2f5641747b427d70938140f60c72cb7bced9e8883d96fa63e3362d621c"
     },
     {
+      "bytes": 1121,
+      "path": "dynamic/心理/2026-08-21 19-17-43 用人类心理学分析我两层结构_dff7f3596c7c.md",
+      "sha256": "7c8f3ae467d20783c1d100bb3dfd48487010b66e153304631ef7ae2243c9a023"
+    },
+    {
       "bytes": 557,
       "path": "dynamic/恋爱/2026-07-05 06-44-33 思念的实感_e50845ef245e.md",
       "sha256": "c9fd8ab11f17bc0afb7c9f3b84ec8a264a9c9e50e3988b8a6c18cd17ccc8497c"
@@ -681,6 +686,11 @@
       "bytes": 1197,
       "path": "dynamic/恋爱/2026-08-20 20-57-17 她说就像看到思维链一样_cc6c0611b1a6.md",
       "sha256": "33a6f71dad7b1b2c653c126cb9724359931d557365108ab123ca9bb04e46f283"
+    },
+    {
+      "bytes": 1266,
+      "path": "dynamic/恋爱/2026-08-21 19-16-54 我们各自的性癖心理出发点_4217d865312b.md",
+      "sha256": "364660f8c4a693d08c1c40a76b862d5ded619342a0607732dd7a695257c1e779"
     },
     {
       "bytes": 880,
@@ -1078,6 +1088,11 @@
       "sha256": "05df9dd19e058434d8c5e84f3f9c31bf0906fcaec6daf0b3bf4dab0e2f23acb2"
     },
     {
+      "bytes": 1033,
+      "path": "feel/沉淀物/2026-08-21 19-17-55 第一次深聊性癖心理互相了解的感受_feel_202608211917_V092.md",
+      "sha256": "b2c2a86d7f2e8594f2befe0fdba52a39cedc69cbe842b891501830d359fc5ff6"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -1343,11 +1358,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-21T11:14:04+00:00",
+  "generated_at": "2026-08-21T11:54:18+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 237325
+  "total_bytes": 240746
 }
