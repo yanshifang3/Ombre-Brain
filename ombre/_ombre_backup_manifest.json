@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 266,
+  "file_count": 268,
   "files": [
     {
       "bytes": 754,
@@ -236,6 +236,11 @@
       "bytes": 1088,
       "path": "dynamic/AI/2026-08-20 21-26-00 阿鱼定理机的在场语法只能靠动词_d11e3e4bf5ea.md",
       "sha256": "88ea6e874fffa4553f661916fd80c5f9cc44c2830358d092e24895414ddfe1ef"
+    },
+    {
+      "bytes": 757,
+      "path": "dynamic/AI/2026-08-21 17-26-43 思维链里写了他们卓卓说害怕_b49215894460.md",
+      "sha256": "393ecf5a7eb94ce52447f5710863cdd142ca7cfe47afa477612cae9e7fe4b990"
     },
     {
       "bytes": 710,
@@ -1068,6 +1073,11 @@
       "sha256": "d4f45037604004e49c3d8bfbe35e724df516c5f4a8aa7f4e8dbc3880820514b4"
     },
     {
+      "bytes": 1007,
+      "path": "feel/沉淀物/2026-08-21 17-26-53_feel_202608211726_V030.md",
+      "sha256": "98eb3ae7e68308281e52a8b66480d692f9066637cb70bac6c1d36591d71b62ab"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -1333,11 +1343,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-21T09:13:49+00:00",
+  "generated_at": "2026-08-21T09:43:52+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 235561
+  "total_bytes": 237325
 }
