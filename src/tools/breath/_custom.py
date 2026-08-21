@@ -23,7 +23,8 @@ from ombrebrain.policy.surfacing import SurfacePolicyVM
 from .. import _runtime as rt
 from ..plan.core import is_letter_bucket
 from ._verbatim import render_stored_bucket
-from utils import parse_bool, parse_iso_datetime
+from utils import count_tokens_approx, parse_bool, parse_iso_datetime
+from ombrebrain.storage.quote_store import quotes_from_metadata, render_quotes
 
 _SURFACE_POLICY = SurfacePolicyVM.default()
 _VECTOR_QUERY_TOPK = 50
@@ -228,6 +229,7 @@ async def surface_search_patched(
     tag_filter: list,
     date_from: str = "",
     date_to: str = "",
+    with_quotes: bool = False,
 ) -> str:
     domain_filter = [d.strip() for d in domain.split(",") if d.strip()] or None
     q_valence = valence if 0 <= valence <= 1 else None
@@ -419,6 +421,11 @@ async def surface_search_patched(
             rendered, entry_tokens = render_stored_bucket(
                 bucket, header, _footprint(bucket)
             )
+        if with_quotes:
+            quote_block = render_quotes(quotes_from_metadata(meta))
+            if quote_block:
+                rendered = f"{rendered}\n{quote_block}"
+                entry_tokens = count_tokens_approx(rendered)
         if token_used + entry_tokens > max_tokens:
             budget_blocked = True
             break
@@ -510,6 +517,48 @@ _feel_query_ctx: contextvars.ContextVar[str] = contextvars.ContextVar(
     "_feel_query_ctx", default=""
 )
 _orig_dispatch = None
+_orig_store_feel = None
+
+
+# ──────────────────────────────────────────────────────────
+# store_feel patch：不把 source_bucket 标为 digested
+# 上游 feel.py 会在 hold(feel=True, source_bucket=...) 时把源桶标为 digested=True，
+# 导致源桶从默认浮现中消失。我们不需要这个行为——撤销它。
+# ──────────────────────────────────────────────────────────
+
+async def store_feel_patched(
+    content: str,
+    extra_tags: list,
+    valence: float,
+    arousal: float,
+    source_bucket: str,
+    why_remembered: str,
+    title: str = "",
+    meaning: str = "",
+    media=None,
+    source_refs=None,
+    quotes=None,
+) -> str:
+    result = await _orig_store_feel(
+        content=content,
+        extra_tags=extra_tags,
+        valence=valence,
+        arousal=arousal,
+        source_bucket=source_bucket,
+        why_remembered=why_remembered,
+        title=title,
+        meaning=meaning,
+        media=media,
+        source_refs=source_refs,
+        quotes=quotes,
+    )
+    # 原版调用后 source_bucket 已被标为 digested，立刻撤销
+    if source_bucket and source_bucket.strip():
+        try:
+            await rt.bucket_mgr.update(source_bucket.strip(), digested=False)
+        except Exception as e:
+            rt.logger.warning(f"store_feel_patched: undo digested failed: {e}")
+    return result
 
 
 async def surface_feels_patched(query: str = "", max_tokens: int = 0) -> str:
@@ -612,10 +661,17 @@ def apply_patches():
     tools.breath.__init__.py 里的调用方在全局字典里查找这些名字，
     patch 后所有调用都走我们的版本。
     """
-    global _orig_dispatch
+    global _orig_dispatch, _orig_store_feel
     import tools.breath as _tb
     _orig_dispatch = _tb.dispatch
     _tb.dispatch = dispatch_patched
     _tb.surface_feels = surface_feels_patched
     _tb.surface_search = surface_search_patched
-    print("[_custom] apply_patches: dispatch + surface_feels + surface_search patched OK")
+
+    import tools.hold.feel as _hold_feel_mod
+    import tools.hold as _hold_mod
+    _orig_store_feel = _hold_feel_mod.store_feel
+    _hold_feel_mod.store_feel = store_feel_patched
+    _hold_mod.store_feel = store_feel_patched
+
+    print("[_custom] apply_patches: dispatch + surface_feels + surface_search + store_feel patched OK")
