@@ -516,6 +516,9 @@ async def surface_search_patched(
 _feel_query_ctx: contextvars.ContextVar[str] = contextvars.ContextVar(
     "_feel_query_ctx", default=""
 )
+_feel_max_results_ctx: contextvars.ContextVar[int] = contextvars.ContextVar(
+    "_feel_max_results_ctx", default=0
+)
 _orig_dispatch = None
 _orig_store_feel = None
 
@@ -589,6 +592,9 @@ async def surface_feels_patched(query: str = "", max_tokens: int = 0) -> str:
                     filtered.append(b)
             feels = filtered
         feels.sort(key=lambda b: b.get("metadata", {}).get("created", ""), reverse=True)
+        limit = _feel_max_results_ctx.get(0)
+        if limit and limit > 0:
+            feels = feels[:limit]
         if not feels:
             return "没有留下过 feel。"
         full_lines: list[str] = []
@@ -632,6 +638,8 @@ async def dispatch_patched(
 ):
     q = "" if query is None else str(query)
     token = _feel_query_ctx.set(q)
+    mr = int(max_results) if max_results is not None else 0
+    token_mr = _feel_max_results_ctx.set(mr)
     try:
         return await _orig_dispatch(
             query=query,
@@ -649,6 +657,7 @@ async def dispatch_patched(
         )
     finally:
         _feel_query_ctx.reset(token)
+        _feel_max_results_ctx.reset(token_mr)
 
 
 # ──────────────────────────────────────────────────────────
