@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 265,
+  "file_count": 266,
   "files": [
     {
       "bytes": 754,
@@ -693,6 +693,11 @@
       "sha256": "053ee702e4c80f9161aa451b793ba8e675b48554edcf30b05a02fc7f48d237f0"
     },
     {
+      "bytes": 802,
+      "path": "dynamic/技术/2026-08-21 07-57-17 CC skill正确路径_d75fe9015854.md",
+      "sha256": "6705cc8dc63fa321b7e4f5a9b5125cddf43022801fc0d3bf0140db839b5c2342"
+    },
+    {
       "bytes": 565,
       "path": "dynamic/数字/2026-07-16 15-22-26 OB更新与独自应对_53d9971cc63e.md",
       "sha256": "37e880d3590542995aae5a6e1ab954b828a0e4892cfb6c85cee73c47365bc0b3"
@@ -1328,11 +1333,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-21T07:52:06+00:00",
+  "generated_at": "2026-08-21T08:22:09+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 234759
+  "total_bytes": 235561
 }
