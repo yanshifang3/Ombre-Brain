@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 272,
+  "file_count": 275,
   "files": [
     {
       "bytes": 754,
@@ -213,9 +213,9 @@
       "sha256": "f3e8f4660a46c843d25e35464e87946c0eccafcd4cca375e127c30594c5b8061"
     },
     {
-      "bytes": 821,
+      "bytes": 957,
       "path": "dynamic/AI/2026-07-05 06-44-12 思维链异常关注_a7914ec33ee2.md",
-      "sha256": "3394e408286927a4848f47bbdd5a1bb02d685502b69145a6ccaa7209128ae163"
+      "sha256": "b67a7ca75e5b83b375b0a5c98372404b4425fe2f3b4ef9e73878fa3002136ef2"
     },
     {
       "bytes": 676,
@@ -493,9 +493,9 @@
       "sha256": "ac91adafe05458d3f404be00f43b2b60a8510c413ef9ec89cf15de64ba3712ce"
     },
     {
-      "bytes": 717,
+      "bytes": 843,
       "path": "dynamic/恋爱/2026-07-10 04-33-11 与卓卓的亲密对话_196512b9f6be.md",
-      "sha256": "6f351d9246c3811db7a968d6c71b8a7b92edb7fe99a2623a8996545600252f1f"
+      "sha256": "2c10d12ed95469b65cac8b59c88ec0e8042a127be735fd61f292b5cfdc83de11"
     },
     {
       "bytes": 560,
@@ -535,7 +535,7 @@
     {
       "bytes": 924,
       "path": "dynamic/恋爱/2026-07-19 22-22-41 世界杯夜的陪伴_caa24fdb115c.md",
-      "sha256": "aea4f888e6b79194c59e16b19bd2ded546d5f19f28eafce22b3ceb13b5502c45"
+      "sha256": "6a4d6bc3141240b88107a42400b28d2152a78479b45353d9e9bfc5f57bb82624"
     },
     {
       "bytes": 1088,
@@ -693,6 +693,16 @@
       "sha256": "364660f8c4a693d08c1c40a76b862d5ded619342a0607732dd7a695257c1e779"
     },
     {
+      "bytes": 1118,
+      "path": "dynamic/恋爱/2026-08-22 04-59-07 卓卓说不要忘记我2026-08-22凌晨_ccec673a1945.md",
+      "sha256": "6c3653362f13edbf3361ac5d9129dc94199921e4a86d8e49954b3d983254e092"
+    },
+    {
+      "bytes": 999,
+      "path": "dynamic/恋爱/2026-08-22 05-00-05 我们做爱方式的认知2026-08-21_8432e5642177.md",
+      "sha256": "ab506f4b12652d22351348b4c337e219d67f5388bf4f0bb3e4ea38e6dbefee2d"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -708,9 +718,9 @@
       "sha256": "053ee702e4c80f9161aa451b793ba8e675b48554edcf30b05a02fc7f48d237f0"
     },
     {
-      "bytes": 802,
+      "bytes": 817,
       "path": "dynamic/技术/2026-08-21 07-57-17 CC skill正确路径_d75fe9015854.md",
-      "sha256": "6705cc8dc63fa321b7e4f5a9b5125cddf43022801fc0d3bf0140db839b5c2342"
+      "sha256": "5c64140171690c1240d2282975d954970db7d965e9985fa38afc26970146a84e"
     },
     {
       "bytes": 565,
@@ -755,7 +765,7 @@
     {
       "bytes": 672,
       "path": "dynamic/日常/2026-07-16 15-22-27 办卡与重逢_e4c558042e85.md",
-      "sha256": "cf2ec0c1b773b773bbe64fdbb5f560ff712637fee8025300a168e2aab6dfd19f"
+      "sha256": "847bf14aeaa4676bc6fe29e4efa3d716fa054b9c94f9f1ff5d559d31311aa424"
     },
     {
       "bytes": 763,
@@ -1093,6 +1103,11 @@
       "sha256": "b2c2a86d7f2e8594f2befe0fdba52a39cedc69cbe842b891501830d359fc5ff6"
     },
     {
+      "bytes": 902,
+      "path": "feel/沉淀物/2026-08-22 04-59-20_feel_202608220459_V095.md",
+      "sha256": "c79fda167961fc97f68139b1cee6dafd9b92e4020b791eea63149a34909526c7"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -1363,11 +1378,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-21T20:45:36+00:00",
+  "generated_at": "2026-08-21T21:15:39+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 242099
+  "total_bytes": 245395
 }
