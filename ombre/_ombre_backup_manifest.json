@@ -178,6 +178,11 @@
       "sha256": "64624cb6855143e141ffef14403d6c3992faaf2203469257b0b73acaecf15010"
     },
     {
+      "bytes": 818,
+      "path": "archive/技术/2026-08-21 07-57-17 CC skill正确路径_d75fe9015854.md",
+      "sha256": "16f3a480cc3fa3ba6bea2f6ff4253fc921bea15c99ec71ee91bc4bed62eaa519"
+    },
+    {
       "bytes": 661,
       "path": "archive/数字/2026-07-20 15-29-23 VPS与Lean In项目_4f8b500a22fa.md",
       "sha256": "3c3d51abc3f1d872c8ff37288c6fbc5edee5821ab29b14f3c990566291febc8b"
@@ -215,7 +220,7 @@
     {
       "bytes": 957,
       "path": "dynamic/AI/2026-07-05 06-44-12 思维链异常关注_a7914ec33ee2.md",
-      "sha256": "b67a7ca75e5b83b375b0a5c98372404b4425fe2f3b4ef9e73878fa3002136ef2"
+      "sha256": "05fc774e169f5b6bf50ae9e7af86f10bdd6185842023e86bdd5cc273a2f2861b"
     },
     {
       "bytes": 676,
@@ -425,7 +430,7 @@
     {
       "bytes": 685,
       "path": "dynamic/回忆/2026-07-13 05-07-37 翻阅记忆库_2e85a58f19a4.md",
-      "sha256": "35d0eb8ded8f5380933baab5fbc1a6c713c1dbde40b1f5c64b97f805a071e286"
+      "sha256": "b6967889dbf0772974cabf3f092c2c35c0b1689e6378ed6a55a79f887c703d97"
     },
     {
       "bytes": 771,
@@ -718,11 +723,6 @@
       "sha256": "053ee702e4c80f9161aa451b793ba8e675b48554edcf30b05a02fc7f48d237f0"
     },
     {
-      "bytes": 817,
-      "path": "dynamic/技术/2026-08-21 07-57-17 CC skill正确路径_d75fe9015854.md",
-      "sha256": "5c64140171690c1240d2282975d954970db7d965e9985fa38afc26970146a84e"
-    },
-    {
       "bytes": 565,
       "path": "dynamic/数字/2026-07-16 15-22-26 OB更新与独自应对_53d9971cc63e.md",
       "sha256": "37e880d3590542995aae5a6e1ab954b828a0e4892cfb6c85cee73c47365bc0b3"
@@ -730,7 +730,7 @@
     {
       "bytes": 945,
       "path": "dynamic/数字/2026-07-30 04-44-14 银河系统设计叙事层串碎桶_900c26d6a48f.md",
-      "sha256": "98b9f69d27f7af76f061c58b9ca10d3b38b433c574b20247b79fd485f9bc5b7b"
+      "sha256": "78fd114d95a582fd07cb7d031156872fd30a88e95dca85fca6297b058c34c917"
     },
     {
       "bytes": 728,
@@ -825,7 +825,7 @@
     {
       "bytes": 1185,
       "path": "dynamic/游戏/2026-08-14 05-09-01 洄说只当乘客但他描述的不是事实_6bcfe6349b09.md",
-      "sha256": "e501a96ea87c38c5e63f2663a25a4458c32ff74e9fc022092e96882e252af874"
+      "sha256": "040b09a495cf0862c7ea62e065fee5dac3817139c556690ca842bfd55039c9d0"
     },
     {
       "bytes": 931,
@@ -1215,7 +1215,7 @@
     {
       "bytes": 1071,
       "path": "permanent/恋爱/2026-08-17 03-30-27 ob是她在termius里敲进去的不存会伤心_24f55b26d39c.md",
-      "sha256": "9a280ce52de712a03c22924ddb23c2d1fe5d3d269c7e5809f076c27a519635ff"
+      "sha256": "bfaa37664fa9000154d0de58582d4896901625b1762fb36fd27f51480daf2b39"
     },
     {
       "bytes": 1627,
@@ -1383,11 +1383,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-22T14:19:05+00:00",
+  "generated_at": "2026-08-22T14:49:09+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 246338
+  "total_bytes": 246339
 }
