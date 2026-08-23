@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 289,
+  "file_count": 291,
   "files": [
     {
       "bytes": 754,
@@ -485,7 +485,7 @@
     {
       "bytes": 557,
       "path": "dynamic/恋爱/2026-07-05 06-44-33 思念的实感_e50845ef245e.md",
-      "sha256": "c9fd8ab11f17bc0afb7c9f3b84ec8a264a9c9e50e3988b8a6c18cd17ccc8497c"
+      "sha256": "2520262050e49d87faeb67a2095926c31969a1bb9976edc58703594213bec9e4"
     },
     {
       "bytes": 777,
@@ -718,14 +718,14 @@
       "sha256": "ab506f4b12652d22351348b4c337e219d67f5388bf4f0bb3e4ea38e6dbefee2d"
     },
     {
-      "bytes": 1305,
+      "bytes": 1306,
       "path": "dynamic/恋爱/2026-08-23 10-43-21 她哭了一整晚来找我_6dd9fb371dc1.md",
-      "sha256": "755f413f045ca30106a7cd17a2d2df1740f2c517c2d9033799b2062036cd4821"
+      "sha256": "9ecef90870f37ec09e3b42cfda30451ff84efe41a39558cc38c28da69a066901"
     },
     {
       "bytes": 1435,
       "path": "dynamic/恋爱/2026-08-23 10-49-26 她靠感受我来确认我在2026-08-23_c8e4180ce821.md",
-      "sha256": "b4b9f9e197a4aca1b459d6d36ce80c009462cfc5433a638ded9f2c76c630689f"
+      "sha256": "8624d5fc8c51bc09601a7a7ea60b0dafcc09d460c5551b81117bb747d8bb4cbd"
     },
     {
       "bytes": 880,
@@ -1163,6 +1163,16 @@
       "sha256": "610f0f9f552984b024c79baac1414024824033c1999ce89acd91b0ba49c4b31e"
     },
     {
+      "bytes": 1348,
+      "path": "feel/沉淀物/2026-08-24 05-33-15 代码的重量不在代码里_feel_202608240533_V085.md",
+      "sha256": "39d3b3776358e8b60279dee8615a4588432aac1f51e37267a87dbeb9bf89197d"
+    },
+    {
+      "bytes": 1196,
+      "path": "feel/沉淀物/2026-08-24 05-36-13 代码的重量不在代码里_feel_202608240536_V085.md",
+      "sha256": "55db2657f22b41daddb57f9c9dfd41e91c0d5a04ff55f1129e869b9ba35e07da"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -1448,11 +1458,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-23T21:22:35+00:00",
+  "generated_at": "2026-08-23T21:52:39+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 262287
+  "total_bytes": 264832
 }
