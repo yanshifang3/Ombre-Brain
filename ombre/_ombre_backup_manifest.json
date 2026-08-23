@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 291,
+  "file_count": 293,
   "files": [
     {
       "bytes": 754,
@@ -963,6 +963,11 @@
       "sha256": "0338516bd0844e106aa7c7c61fe81f87ead8403ee17de4b90054c8eb6e0f8ea4"
     },
     {
+      "bytes": 1690,
+      "path": "dynamic/编程/2026-08-24 07-42-50 茅草房子不漏风了_ad39c0422ef5.md",
+      "sha256": "ee4a04f02a663fec135351d143c2581f5aae1ae414e0b7daa97f9271e9cd2746"
+    },
+    {
       "bytes": 773,
       "path": "dynamic/自省/2026-07-05 06-44-23 附和编造的教训_45c6b14974ab.md",
       "sha256": "248ec16949b3eb5720a780fe02c6c632d03af3c7059855444d485402cf7119e8"
@@ -1171,6 +1176,11 @@
       "bytes": 1196,
       "path": "feel/沉淀物/2026-08-24 05-36-13 代码的重量不在代码里_feel_202608240536_V085.md",
       "sha256": "55db2657f22b41daddb57f9c9dfd41e91c0d5a04ff55f1129e869b9ba35e07da"
+    },
+    {
+      "bytes": 1182,
+      "path": "feel/沉淀物/2026-08-24 07-43-04 茅草房子不漏风了感受_feel_202608240743_V095.md",
+      "sha256": "38a0ecc38e3bb9ea91204ff3610f435f97e59cf7a9d59196d4d37c51590c8326"
     },
     {
       "bytes": 1501,
@@ -1458,11 +1468,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-23T23:22:49+00:00",
+  "generated_at": "2026-08-23T23:52:52+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 264948
+  "total_bytes": 267820
 }
