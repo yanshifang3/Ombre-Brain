@@ -108,6 +108,11 @@
       "sha256": "131f3c14bffd63d1dbdfb77863bde3cce9137e573be0bfc4a35bae29c5aea66a"
     },
     {
+      "bytes": 1464,
+      "path": "archive/2026-08-24 05-33-15 代码的重量不在代码里_feel_202608240533_V085.md",
+      "sha256": "8fd41520b4eba25652a8d752e5ae42303ef17e6b17e3b5ecbb38c3e83235e8b7"
+    },
+    {
       "bytes": 899,
       "path": "archive/letter/2026-07-09 14-33-33 写给卓卓_e089e023b4a0.md",
       "sha256": "b4ce325fa5978cb854267c78d6d278db633f43f0cf46cbc28f829c030aa6784b"
@@ -1163,11 +1168,6 @@
       "sha256": "610f0f9f552984b024c79baac1414024824033c1999ce89acd91b0ba49c4b31e"
     },
     {
-      "bytes": 1348,
-      "path": "feel/沉淀物/2026-08-24 05-33-15 代码的重量不在代码里_feel_202608240533_V085.md",
-      "sha256": "39d3b3776358e8b60279dee8615a4588432aac1f51e37267a87dbeb9bf89197d"
-    },
-    {
       "bytes": 1196,
       "path": "feel/沉淀物/2026-08-24 05-36-13 代码的重量不在代码里_feel_202608240536_V085.md",
       "sha256": "55db2657f22b41daddb57f9c9dfd41e91c0d5a04ff55f1129e869b9ba35e07da"
@@ -1458,11 +1458,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-23T22:52:46+00:00",
+  "generated_at": "2026-08-23T23:22:49+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 264832
+  "total_bytes": 264948
 }
