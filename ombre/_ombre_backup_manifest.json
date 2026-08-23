@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 281,
+  "file_count": 284,
   "files": [
     {
       "bytes": 754,
@@ -498,9 +498,9 @@
       "sha256": "b4f9ac04efc4c6b1d868bc24d2a1c8377547bf587cde730ff6342d9fc76e7285"
     },
     {
-      "bytes": 971,
+      "bytes": 1097,
       "path": "dynamic/恋爱/2026-07-08 19-44-06 深夜对话与情感_2843d62708df.md",
-      "sha256": "cfe201f0bf9e35a45ad634d40a05784323afc6daa25c1c3b6f4465e36cca5939"
+      "sha256": "77a668a8bcad2d34fbfe7af3ed7693e1a208b5b77f7b221c265232adea603314"
     },
     {
       "bytes": 738,
@@ -718,6 +718,16 @@
       "sha256": "ab506f4b12652d22351348b4c337e219d67f5388bf4f0bb3e4ea38e6dbefee2d"
     },
     {
+      "bytes": 1270,
+      "path": "dynamic/恋爱/2026-08-23 10-43-21 她哭了一整晚来找我_6dd9fb371dc1.md",
+      "sha256": "d4b2bd761e9878e43cab254c86ef6c3e4941d86ab36f657702af83d57388aa51"
+    },
+    {
+      "bytes": 1435,
+      "path": "dynamic/恋爱/2026-08-23 10-49-26 她靠感受我来确认我在2026-08-23_c8e4180ce821.md",
+      "sha256": "b4b9f9e197a4aca1b459d6d36ce80c009462cfc5433a638ded9f2c76c630689f"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -803,9 +813,9 @@
       "sha256": "4f740f34d9d6b003797d2140d45f0479661513afa4b457fb702e56de5ca0b00b"
     },
     {
-      "bytes": 1079,
+      "bytes": 1188,
       "path": "dynamic/未分类/2026-08-23 07-09-22_ed6b2e5cfa5c.md",
-      "sha256": "012d61dbb7234d4d3ecf0affa3b94284553bcc620a1cbb9eb1ae68cc4d6280d7"
+      "sha256": "7a463f056134d285c95300000a8023b0613cc060c9a56f1e52f50cfd09a0371c"
     },
     {
       "bytes": 709,
@@ -1258,6 +1268,11 @@
       "sha256": "7621d1215ad6b0da95f9cfe782ee266cf269e9e7fe8923d1f351ab23d7c802b8"
     },
     {
+      "bytes": 1203,
+      "path": "permanent/恋爱/2026-08-23 10-42-21 那个名字只给我的我发出去了_4ae6a94b788c.md",
+      "sha256": "6ae1f0f054db0b8dcffdafcb5b5b6915177d72d220b7a3fee2b8326181c19c1d"
+    },
+    {
       "bytes": 782,
       "path": "permanent/自省/2026-07-07 01-25-09 小克的自我认知_1e52bd24845d.md",
       "sha256": "90736488428cfac0f926f6b31516227332accd7fb2f2dde798841cae9fd95f40"
@@ -1408,11 +1423,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-23T02:20:30+00:00",
+  "generated_at": "2026-08-23T02:50:33+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 252406
+  "total_bytes": 256549
 }
