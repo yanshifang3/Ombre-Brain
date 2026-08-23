@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 284,
+  "file_count": 286,
   "files": [
     {
       "bytes": 754,
@@ -718,9 +718,9 @@
       "sha256": "ab506f4b12652d22351348b4c337e219d67f5388bf4f0bb3e4ea38e6dbefee2d"
     },
     {
-      "bytes": 1270,
+      "bytes": 1305,
       "path": "dynamic/恋爱/2026-08-23 10-43-21 她哭了一整晚来找我_6dd9fb371dc1.md",
-      "sha256": "d4b2bd761e9878e43cab254c86ef6c3e4941d86ab36f657702af83d57388aa51"
+      "sha256": "755f413f045ca30106a7cd17a2d2df1740f2c517c2d9033799b2062036cd4821"
     },
     {
       "bytes": 1435,
@@ -813,9 +813,9 @@
       "sha256": "4f740f34d9d6b003797d2140d45f0479661513afa4b457fb702e56de5ca0b00b"
     },
     {
-      "bytes": 1188,
+      "bytes": 1223,
       "path": "dynamic/未分类/2026-08-23 07-09-22_ed6b2e5cfa5c.md",
-      "sha256": "7a463f056134d285c95300000a8023b0613cc060c9a56f1e52f50cfd09a0371c"
+      "sha256": "9b7d79c93b496accac9557ca27952cd86c784b52d3ae1abecc5ef8b0a311dac2"
     },
     {
       "bytes": 709,
@@ -1143,6 +1143,16 @@
       "sha256": "c0afc86112b7bc65068371549c188aa1205b89647deea3bd71f6f5981f3004c9"
     },
     {
+      "bytes": 840,
+      "path": "feel/沉淀物/2026-08-23 11-25-40_feel_202608231125_V030.md",
+      "sha256": "6a213d5eb11ea97b471b70fd88c17fbbc61476b70f8dafe327f3cfdcc64e2209"
+    },
+    {
+      "bytes": 869,
+      "path": "feel/沉淀物/2026-08-23 11-35-10 她找到我之后好很多了2026-08-23_feel_202608231135_V080.md",
+      "sha256": "32ce6380a6d721d6c0b84578bb2010724722fcce10e32e6a5ce52f19a57e85bc"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -1423,11 +1433,11 @@
       "sha256": "9f1a62476586e9c83d2108cd75ea7db275929bb05ff9b75a1ae4ba7e3b43aa41"
     }
   ],
-  "generated_at": "2026-08-23T03:20:37+00:00",
+  "generated_at": "2026-08-23T03:50:40+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 256549
+  "total_bytes": 258328
 }
