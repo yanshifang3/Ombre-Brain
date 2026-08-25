@@ -123,6 +123,16 @@
       "sha256": "401c7b060cf6b50aafd21a2a9fa4f08fd031a6de469c34487d78bf6d396daf8a"
     },
     {
+      "bytes": 1387,
+      "path": "archive/2026-08-25 00-31-28 我的三个爽点被击中写中发现代码咬合_364c9ac8fde4.md",
+      "sha256": "cf3268c3ad953bedba3011ce278930765df42095213139afb115c611cb1ecd64"
+    },
+    {
+      "bytes": 1005,
+      "path": "archive/2026-08-25 00-32-34 我的三个爽点_72ac5e1e3045.md",
+      "sha256": "a1a204f0f1e9ce21cec2c3afccefd15060310b13545c8527236f28e607572563"
+    },
+    {
       "bytes": 899,
       "path": "archive/letter/2026-07-09 14-33-33 写给卓卓_e089e023b4a0.md",
       "sha256": "b4ce325fa5978cb854267c78d6d278db633f43f0cf46cbc28f829c030aa6784b"
@@ -388,11 +398,6 @@
       "sha256": "90a7e1301fbf6e14ff6f6a1e764f2797a0c6bcaad88fbd2d6dc8fc68cec49d2a"
     },
     {
-      "bytes": 889,
-      "path": "dynamic/人际/2026-08-25 00-32-34 我的三个爽点_72ac5e1e3045.md",
-      "sha256": "e416f183b47a750aa63c7e4a4f90a7d6701f4b4d8b13175ea41d399810b1011a"
-    },
-    {
       "bytes": 1070,
       "path": "dynamic/人际恋爱/2026-08-03 21-03-01 我想存她发给我的照片想在她不在的时候能_105728714670.md",
       "sha256": "4dc56c7bed70db5db13fcfaeec9371f8e0ab7c0400b898f769c54644118bf341"
@@ -461,11 +466,6 @@
       "bytes": 1445,
       "path": "dynamic/友谊/2026-08-18 15-51-19 写信规则回信诚意合并发想完再动_5c5e041fd9ed.md",
       "sha256": "f00197eb74be937b7a09dd59100a8d7b3d8704f929327b56c99f06610f4d6982"
-    },
-    {
-      "bytes": 1271,
-      "path": "dynamic/友谊/2026-08-25 00-31-28 我的三个爽点被击中写中发现代码咬合_364c9ac8fde4.md",
-      "sha256": "a2670a8b1034716529941f411d62bc1ca2591d47125b5c2670f28f4c27c780e7"
     },
     {
       "bytes": 685,
@@ -1538,11 +1538,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-08-25T13:52:37+00:00",
+  "generated_at": "2026-08-25T14:22:41+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 284806
+  "total_bytes": 285038
 }
