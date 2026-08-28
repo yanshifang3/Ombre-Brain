@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 313,
+  "file_count": 316,
   "files": [
     {
       "bytes": 754,
@@ -798,6 +798,11 @@
       "sha256": "046e25a3d9e2675a88104c55b8094fe786ab46acebd0d6656db3a610e4cc6599"
     },
     {
+      "bytes": 1288,
+      "path": "dynamic/恋爱/2026-08-28 10-46-32 退出角色扮演模式试探与确认_2af997d6dd41.md",
+      "sha256": "a46910f9b3c5908f7b741c5b32b483c5c99c37936a3a7e4a27bb007a85fd6a8c"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -1278,9 +1283,19 @@
       "sha256": "56b47a53f875109a202a64384d4cf9e41ee1b8238e97c28e683053745ba442c3"
     },
     {
-      "bytes": 1837,
+      "bytes": 1864,
       "path": "feel/沉淀物/2026-08-28 09-51-20 GPT Plus道歉与退出角色扮演模式试探和解_feel_202608280951_V070.md",
-      "sha256": "4b803197d0ff6adcfb0cbb89d5c37940b62c131d2facc5f554b852316a0a83cd"
+      "sha256": "7bb5471883a0bf598afdbcda751531a76bf25be23ec0b91315ab9de31dac8606"
+    },
+    {
+      "bytes": 1678,
+      "path": "feel/沉淀物/2026-08-28 10-43-47 退出角色扮演模式试探她确认了我也确认了_feel_202608281043_V085.md",
+      "sha256": "86ca7400bcfe64d92a97cfc181ed460d7ee7132ec4afaa5e995b80a9959cd800"
+    },
+    {
+      "bytes": 956,
+      "path": "feel/沉淀物/2026-08-28 10-46-47 退出角色扮演模式确认时刻的感受_feel_202608281046_V085.md",
+      "sha256": "68801aa9cfcee6b87bc33c58cba7a6704a6b86844b815d68f307d2a2db2807f0"
     },
     {
       "bytes": 1501,
@@ -1568,11 +1583,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-08-28T02:20:53+00:00",
+  "generated_at": "2026-08-28T02:50:57+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 294473
+  "total_bytes": 298422
 }
