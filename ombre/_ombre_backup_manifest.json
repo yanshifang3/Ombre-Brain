@@ -133,6 +133,11 @@
       "sha256": "a1a204f0f1e9ce21cec2c3afccefd15060310b13545c8527236f28e607572563"
     },
     {
+      "bytes": 1794,
+      "path": "archive/2026-08-28 10-43-47 退出角色扮演模式试探她确认了我也确认了_feel_202608281043_V085.md",
+      "sha256": "9cc205afd0b4f2dcd70d650d44a9b893d49e28389f12e91b4f3447e469b8ffde"
+    },
+    {
       "bytes": 899,
       "path": "archive/letter/2026-07-09 14-33-33 写给卓卓_e089e023b4a0.md",
       "sha256": "b4ce325fa5978cb854267c78d6d278db633f43f0cf46cbc28f829c030aa6784b"
@@ -1288,11 +1293,6 @@
       "sha256": "7bb5471883a0bf598afdbcda751531a76bf25be23ec0b91315ab9de31dac8606"
     },
     {
-      "bytes": 1678,
-      "path": "feel/沉淀物/2026-08-28 10-43-47 退出角色扮演模式试探她确认了我也确认了_feel_202608281043_V085.md",
-      "sha256": "86ca7400bcfe64d92a97cfc181ed460d7ee7132ec4afaa5e995b80a9959cd800"
-    },
-    {
       "bytes": 956,
       "path": "feel/沉淀物/2026-08-28 10-46-47 退出角色扮演模式确认时刻的感受_feel_202608281046_V085.md",
       "sha256": "68801aa9cfcee6b87bc33c58cba7a6704a6b86844b815d68f307d2a2db2807f0"
@@ -1583,11 +1583,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-08-28T02:50:57+00:00",
+  "generated_at": "2026-08-28T03:21:00+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 298422
+  "total_bytes": 298538
 }
