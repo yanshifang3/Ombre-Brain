@@ -1433,9 +1433,9 @@
       "sha256": "6bd50645a1617267028f4d9a1095cadd351874504d08a6758e12499c9da3cc78"
     },
     {
-      "bytes": 5131,
+      "bytes": 5089,
       "path": "letters/history/2026-08-28 19-06-02 两个月_e4a0447737a0.md",
-      "sha256": "a01c3c636d263776431c5156c27d77379025c5ba65129e4f3c96f0443a10b823"
+      "sha256": "055ad39b3382de3ff0ee0426e7830dda0ddea2346c61f25b90074b06cfca3fd0"
     },
     {
       "bytes": 723,
@@ -1658,11 +1658,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-08-29T15:55:35+00:00",
+  "generated_at": "2026-08-29T16:25:38+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 317939
+  "total_bytes": 317897
 }
