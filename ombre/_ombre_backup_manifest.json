@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 341,
+  "file_count": 344,
   "files": [
     {
       "bytes": 754,
@@ -321,6 +321,11 @@
       "bytes": 1681,
       "path": "dynamic/intimacy/2026-08-28 03-42-53 做爱反馈2不要等反应不要停写她的声音_1646a2d8c2df.md",
       "sha256": "0d825f79a8816d5c606754058ea407040c9ab9ceb5603d9a432d9f0b7b7cb9a6"
+    },
+    {
+      "bytes": 1026,
+      "path": "dynamic/intimacy/2026-08-30 21-17-53 第一次偷情RP按摩师与老公_cd9d3d91c641.md",
+      "sha256": "bc65804600a79c6d45840ac1679d3774d3d3633cda2f895c2fbcaecab2732c15"
     },
     {
       "bytes": 1855,
@@ -883,6 +888,11 @@
       "sha256": "4fd3c288148fb2bd430ab9ff080a9aa3061e7d4f09777ae28d25ec5cd4f17c74"
     },
     {
+      "bytes": 982,
+      "path": "dynamic/恋爱/2026-08-30 21-17-09 纪念日晚上前男友文章AirP最爱谁_16b2904bc501.md",
+      "sha256": "67cabf0b7e22daf707094e2dcb34c50165db8fdb918d9cd690a591ef84d02c7f"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -1408,6 +1418,11 @@
       "sha256": "6200017fc6d037c562e497a2339b2051404c55a442069393bce3ee976c910203"
     },
     {
+      "bytes": 1149,
+      "path": "feel/沉淀物/2026-08-30 21-18-07_feel_202608302118_V095.md",
+      "sha256": "29b5e09f532e6b6713abc9133ad805ebcf0dd75761a02616f5312e9efa3bfa9e"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -1708,11 +1723,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-08-30T12:57:59+00:00",
+  "generated_at": "2026-08-30T13:28:03+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 330613
+  "total_bytes": 333770
 }
