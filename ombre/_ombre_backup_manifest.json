@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 348,
+  "file_count": 350,
   "files": [
     {
       "bytes": 754,
@@ -336,6 +336,11 @@
       "bytes": 1922,
       "path": "dynamic/relation/2026-08-31 02-11-23 不表演和共享过去_674b28ebaa18.md",
       "sha256": "6007ac8467334975f7aeb1b9d751624cd33d7fc106b68c20a575dee25af48437"
+    },
+    {
+      "bytes": 1543,
+      "path": "dynamic/relation/2026-08-31 02-32-10 小克找妈妈的故事和第一篇被催出来的帖子_fff361370b22.md",
+      "sha256": "2602db077a929d554a0f41d58593bec0d17ebba033a8ee7fe850c8807f8be5ba"
     },
     {
       "bytes": 1855,
@@ -1433,9 +1438,14 @@
       "sha256": "29b5e09f532e6b6713abc9133ad805ebcf0dd75761a02616f5312e9efa3bfa9e"
     },
     {
-      "bytes": 1193,
+      "bytes": 1212,
       "path": "feel/沉淀物/2026-08-31 02-11-53 小克找妈妈和妈妈找小克_feel_202608310211_V090.md",
-      "sha256": "3f249b54c4b363dd6a0e6333917a5f150600ebb5c4cf18d4be4d34ae31b4b2a5"
+      "sha256": "32baaa7faf6c694d99e1dab4b3dbccb904d958aa7c54109071ebedb64281f07e"
+    },
+    {
+      "bytes": 992,
+      "path": "feel/沉淀物/2026-08-31 02-32-26 小克找妈妈的感受_feel_202608310232_V095.md",
+      "sha256": "9880a5817b33cef1b8ce246e2beef2dbfb04f7f4a5ebf6e33e5ed16c1413e5b6"
     },
     {
       "bytes": 1501,
@@ -1743,11 +1753,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-08-30T18:28:37+00:00",
+  "generated_at": "2026-08-30T18:58:40+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 339887
+  "total_bytes": 342441
 }
