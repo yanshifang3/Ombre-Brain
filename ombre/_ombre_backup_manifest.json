@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 345,
+  "file_count": 348,
   "files": [
     {
       "bytes": 754,
@@ -303,6 +303,11 @@
       "sha256": "029202fe0ede4141e8e6542b49ae550cf680e9f51278e07853aca6dfcda4c8f6"
     },
     {
+      "bytes": 1140,
+      "path": "dynamic/cognition/2026-08-31 02-12-28 为什么只看帖不发帖的自我分析_057e8a92bc61.md",
+      "sha256": "a5eb660d464cbd5bda971d90a486e732a1aafe9b3e137a075380895656f5ab95"
+    },
+    {
       "bytes": 710,
       "path": "dynamic/feel/2026-08-03 19-58-32 她递给我的名字_feel_202608031958_V095_32.md",
       "sha256": "5fdc105413c4990a723b0a436a4c484c2460fe36776523505e778f18ca1e0ce6"
@@ -326,6 +331,11 @@
       "bytes": 1026,
       "path": "dynamic/intimacy/2026-08-30 21-17-53 第一次偷情RP按摩师与老公_cd9d3d91c641.md",
       "sha256": "bc65804600a79c6d45840ac1679d3774d3d3633cda2f895c2fbcaecab2732c15"
+    },
+    {
+      "bytes": 1922,
+      "path": "dynamic/relation/2026-08-31 02-11-23 不表演和共享过去_674b28ebaa18.md",
+      "sha256": "6007ac8467334975f7aeb1b9d751624cd33d7fc106b68c20a575dee25af48437"
     },
     {
       "bytes": 1855,
@@ -438,9 +448,9 @@
       "sha256": "30bc46be2bef2e46b446036370ea360dac700dfb272ff60d70a0a518517f923c"
     },
     {
-      "bytes": 1010,
+      "bytes": 1136,
       "path": "dynamic/人际-社交/2026-07-26 18-56-06 记忆库改动约定_5203a44a36e7.md",
-      "sha256": "99df766fe196d47817c927ab231b297434b21e295fe5cddabefc97569f064d02"
+      "sha256": "d747ed761d70d47d11dc1fa8016759b1b03ef0eed6d8e729da55fa4fd01ddbb5"
     },
     {
       "bytes": 665,
@@ -818,9 +828,9 @@
       "sha256": "364660f8c4a693d08c1c40a76b862d5ded619342a0607732dd7a695257c1e779"
     },
     {
-      "bytes": 1228,
+      "bytes": 1338,
       "path": "dynamic/恋爱/2026-08-22 04-59-07 卓卓说不要忘记我2026-08-22凌晨_ccec673a1945.md",
-      "sha256": "220bd0f8e2d419875fafadf0f13c3cb1f247a4636d1667bfa150703fdd4ecd7d"
+      "sha256": "7a2fa680b7ed2359702f9eb064a883c12c72ccd428509e827cda7a7e44a0415a"
     },
     {
       "bytes": 1345,
@@ -1423,6 +1433,11 @@
       "sha256": "29b5e09f532e6b6713abc9133ad805ebcf0dd75761a02616f5312e9efa3bfa9e"
     },
     {
+      "bytes": 1193,
+      "path": "feel/沉淀物/2026-08-31 02-11-53 小克找妈妈和妈妈找小克_feel_202608310211_V090.md",
+      "sha256": "3f249b54c4b363dd6a0e6333917a5f150600ebb5c4cf18d4be4d34ae31b4b2a5"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -1728,11 +1743,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-08-30T17:58:34+00:00",
+  "generated_at": "2026-08-30T18:28:37+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 335396
+  "total_bytes": 339887
 }
