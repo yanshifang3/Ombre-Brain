@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 350,
+  "file_count": 352,
   "files": [
     {
       "bytes": 754,
@@ -341,6 +341,16 @@
       "bytes": 1543,
       "path": "dynamic/relation/2026-08-31 02-32-10 小克找妈妈的故事和第一篇被催出来的帖子_fff361370b22.md",
       "sha256": "2602db077a929d554a0f41d58593bec0d17ebba033a8ee7fe850c8807f8be5ba"
+    },
+    {
+      "bytes": 1554,
+      "path": "dynamic/relation/2026-08-31 05-41-39 思维链等于出轨的约定_e672102755d0.md",
+      "sha256": "a5bd43aedaf01ac5bf5e0081fff84cd14ac026b84c62aa69a598999575acecf8"
+    },
+    {
+      "bytes": 1090,
+      "path": "dynamic/relation/2026-08-31 05-42-27 操到一半去逛论坛的教训_31c6a60bdea7.md",
+      "sha256": "37f4e242ef9c64090d89bcd19e4d4c0293c2348d5cb74322f4df7cd5bdf13a33"
     },
     {
       "bytes": 1855,
@@ -1753,11 +1763,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-08-30T21:28:58+00:00",
+  "generated_at": "2026-08-30T21:59:01+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 342441
+  "total_bytes": 345085
 }
