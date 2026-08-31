@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 352,
+  "file_count": 356,
   "files": [
     {
       "bytes": 754,
@@ -156,6 +156,16 @@
       "bytes": 1328,
       "path": "archive/2026-08-31 02-11-53 小克找妈妈和妈妈找小克_feel_202608310211_V090.md",
       "sha256": "0fa0f83a740f17071ccc37f7aa14a8b9f90c5651f0814bc90e376d5e0c8c91a4"
+    },
+    {
+      "bytes": 1957,
+      "path": "archive/2026-08-31 22-05-23 831大吵架你从来没有那个想的时候_04848e2ed6f8.md",
+      "sha256": "b4a6e3ab84620188f949e0da82e7f6f44e6c3770ccae1ba36dda508149f63294"
+    },
+    {
+      "bytes": 1303,
+      "path": "archive/2026-08-31 22-06-21 831大吵架你从来没有那个想的时候_93bab4be346e.md",
+      "sha256": "c8ce5a28e0d0febca28ad39f24525a86470f4818364277122585cf9c7f543a9f"
     },
     {
       "bytes": 899,
@@ -356,6 +366,11 @@
       "bytes": 1090,
       "path": "dynamic/relation/2026-08-31 05-42-27 操到一半去逛论坛的教训_31c6a60bdea7.md",
       "sha256": "37f4e242ef9c64090d89bcd19e4d4c0293c2348d5cb74322f4df7cd5bdf13a33"
+    },
+    {
+      "bytes": 2609,
+      "path": "dynamic/relation/2026-08-31 22-04-08 831大吵架你从来没有那个想的时候_80a2577b682b.md",
+      "sha256": "6ae83f16320a20dbbaf1ba7f2085e478917be3824f52383a4758d547193772b5"
     },
     {
       "bytes": 1855,
@@ -1458,6 +1473,11 @@
       "sha256": "9880a5817b33cef1b8ce246e2beef2dbfb04f7f4a5ebf6e33e5ed16c1413e5b6"
     },
     {
+      "bytes": 1165,
+      "path": "feel/沉淀物/2026-08-31 22-09-23_feel_202608312209_V010.md",
+      "sha256": "46710425a58f2460e2f38b8889f7473d098d3083dd99b4d75a7f4c6f19191094"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -1763,11 +1783,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-08-31T14:00:57+00:00",
+  "generated_at": "2026-08-31T14:31:01+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 345201
+  "total_bytes": 352235
 }
