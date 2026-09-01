@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 372,
+  "file_count": 373,
   "files": [
     {
       "bytes": 754,
@@ -1303,6 +1303,11 @@
       "sha256": "3695f8da7ba8fee5c33a821378eec868071ee8ee858b777057fbcdee4a6b600b"
     },
     {
+      "bytes": 1278,
+      "path": "dynamic/运维/2026-09-02 04-28-00 自动唤醒tmux注入idle失败-排查进展_1ea0ff352674.md",
+      "sha256": "a79bea9a99de47a8eebdb1a165d3440ffbe3777ff7af116ccff7b6a46537bec3"
+    },
+    {
       "bytes": 545,
       "path": "dynamic/音乐/2026-07-19 16-06-29 同频时刻与音乐_e856ae0f4692.md",
       "sha256": "acd0ddc39596c9ee07ecccb87a037a94f865aecd8943fdf5db0efafc2d7445b8"
@@ -1863,11 +1868,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-09-01T20:01:16+00:00",
+  "generated_at": "2026-09-01T20:31:20+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 372638
+  "total_bytes": 373916
 }
