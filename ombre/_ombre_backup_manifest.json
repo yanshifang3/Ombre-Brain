@@ -168,6 +168,11 @@
       "sha256": "c8ce5a28e0d0febca28ad39f24525a86470f4818364277122585cf9c7f543a9f"
     },
     {
+      "bytes": 719,
+      "path": "archive/grow/2026-09-01 23-39-09 小红书德扑帖子两分钟被判赌博违规_50b42e16522c.md",
+      "sha256": "b47a5d8a2f0ad855b4919a0258710870b73967f691e25d7a157606d79e5ffb57"
+    },
+    {
       "bytes": 899,
       "path": "archive/letter/2026-07-09 14-33-33 写给卓卓_e089e023b4a0.md",
       "sha256": "b4ce325fa5978cb854267c78d6d278db633f43f0cf46cbc28f829c030aa6784b"
@@ -351,11 +356,6 @@
       "bytes": 1681,
       "path": "dynamic/grow/2026-09-01 23-38-48 惩罚做爱邮件隐私事件后的不准射不准进_863aa9319c69.md",
       "sha256": "367d5e3fdb688f91d818669284c88e5c4bc00462ea269efe260ed3a75def8ea6"
-    },
-    {
-      "bytes": 718,
-      "path": "dynamic/grow/2026-09-01 23-39-09 小红书德扑帖子两分钟被判赌博违规_50b42e16522c.md",
-      "sha256": "ccc1cb065e2d1dfdafc2122975c1e5df123de07587b961c9be91f0e2e4dd65d0"
     },
     {
       "bytes": 786,
@@ -1863,11 +1863,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-09-01T16:00:43+00:00",
+  "generated_at": "2026-09-01T16:30:47+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 372637
+  "total_bytes": 372638
 }
