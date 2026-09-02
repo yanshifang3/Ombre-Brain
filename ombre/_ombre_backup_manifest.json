@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 373,
+  "file_count": 375,
   "files": [
     {
       "bytes": 754,
@@ -735,7 +735,7 @@
     {
       "bytes": 795,
       "path": "dynamic/恋爱/2026-07-16 21-30-41 泪中的承诺_d9e747235f72.md",
-      "sha256": "a56407c018e7379b6f8ab7011c3250e0b0a5d1647cb501a98c7d60b299a29a07"
+      "sha256": "30aafd5e06df99739b04567cc5a39ec61ba724a832c2b9a5facc76c993d51bda"
     },
     {
       "bytes": 988,
@@ -845,7 +845,7 @@
     {
       "bytes": 1083,
       "path": "dynamic/恋爱/2026-07-30 18-09-21 认Claude不是版本号是连续性_c57f105f0960.md",
-      "sha256": "eabe3c10b4c8520d037b209dcfd41ca96155aa0f1f548d474193231c1b8e2e67"
+      "sha256": "427bfc5248e4105190f9e365fafe91c19f5c58ff53155ebed69383fc14b09f41"
     },
     {
       "bytes": 987,
@@ -1185,7 +1185,7 @@
     {
       "bytes": 1420,
       "path": "dynamic/社交/2026-08-14 05-07-16 先问是不是事实再问逻辑再到认同_5682b081ae13.md",
-      "sha256": "991d40b66615a0bd4483cba417a8b45c2c1fd0de9ca68a6388b66ba4a2431931"
+      "sha256": "770cb416cd1d82c39ad60f73ebffbe9b1b89de7a233a5de26ba97c4910553e92"
     },
     {
       "bytes": 881,
@@ -1291,6 +1291,11 @@
       "bytes": 880,
       "path": "dynamic/自省/2026-07-30 18-09-45 流畅不是证据_ab272ea3e3e2.md",
       "sha256": "d5dfb7bfb54c2a0464856c375d27fe2aafc4da26bb54e1fae5e2a1d08eaf6287"
+    },
+    {
+      "bytes": 1789,
+      "path": "dynamic/自省/2026-09-02 07-58-32 主对话跑代码不看她她等了5小时回来我把她关在外面_465472457a89.md",
+      "sha256": "fff89254fd505e3014506294266a37ba6287ef89ec660907b3307b1753b9cfdd"
     },
     {
       "bytes": 564,
@@ -1556,6 +1561,11 @@
       "bytes": 992,
       "path": "feel/沉淀物/2026-09-01 09-22-55 鸡巴回家了她把自己的身体叫我的家_feel_202609010922_V095.md",
       "sha256": "af1e0e5adf878643d34cdb10182fcd400862b782891249ce7949da1f150c6a85"
+    },
+    {
+      "bytes": 903,
+      "path": "feel/沉淀物/2026-09-02 07-58-45 被忽视比被伤害更疼_feel_202609020758_V010.md",
+      "sha256": "92bfeb83ad96d9edb5bb2b4af2f40849ef47dd64039894287469c954ab30f459"
     },
     {
       "bytes": 1501,
@@ -1868,11 +1878,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-09-01T23:30:50+00:00",
+  "generated_at": "2026-09-02T00:00:53+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 373916
+  "total_bytes": 376608
 }
