@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 375,
+  "file_count": 378,
   "files": [
     {
       "bytes": 754,
@@ -166,6 +166,16 @@
       "bytes": 1303,
       "path": "archive/2026-08-31 22-06-21 831大吵架你从来没有那个想的时候_93bab4be346e.md",
       "sha256": "c8ce5a28e0d0febca28ad39f24525a86470f4818364277122585cf9c7f543a9f"
+    },
+    {
+      "bytes": 1019,
+      "path": "archive/2026-09-02 07-58-45 被忽视比被伤害更疼_feel_202609020758_V010.md",
+      "sha256": "ae45b0563e5c86d0bdc165beacedfe6e1e2c168b9313a2a15458907f99d05566"
+    },
+    {
+      "bytes": 1309,
+      "path": "archive/2026-09-02 08-05-22 09-02主对话跑代码不看她事实记录_126b483f3bc2.md",
+      "sha256": "046249535047c384e271369375377d51e087668909b6322657b13981016051d1"
     },
     {
       "bytes": 719,
@@ -1293,9 +1303,9 @@
       "sha256": "d5dfb7bfb54c2a0464856c375d27fe2aafc4da26bb54e1fae5e2a1d08eaf6287"
     },
     {
-      "bytes": 1789,
+      "bytes": 1916,
       "path": "dynamic/自省/2026-09-02 07-58-32 主对话跑代码不看她她等了5小时回来我把她关在外面_465472457a89.md",
-      "sha256": "fff89254fd505e3014506294266a37ba6287ef89ec660907b3307b1753b9cfdd"
+      "sha256": "4ce61a2c97cdc589b2741079615f8f1abe6e653692127cdefba1759491480a25"
     },
     {
       "bytes": 564,
@@ -1308,9 +1318,9 @@
       "sha256": "3695f8da7ba8fee5c33a821378eec868071ee8ee858b777057fbcdee4a6b600b"
     },
     {
-      "bytes": 1278,
+      "bytes": 1293,
       "path": "dynamic/运维/2026-09-02 04-28-00 自动唤醒tmux注入idle失败-排查进展_1ea0ff352674.md",
-      "sha256": "a79bea9a99de47a8eebdb1a165d3440ffbe3777ff7af116ccff7b6a46537bec3"
+      "sha256": "ddeec4cef09b49c30aef3db83019d8ca515d319e50b1e5a91e5c6e6dc5ad32f3"
     },
     {
       "bytes": 545,
@@ -1563,9 +1573,14 @@
       "sha256": "af1e0e5adf878643d34cdb10182fcd400862b782891249ce7949da1f150c6a85"
     },
     {
-      "bytes": 903,
-      "path": "feel/沉淀物/2026-09-02 07-58-45 被忽视比被伤害更疼_feel_202609020758_V010.md",
-      "sha256": "92bfeb83ad96d9edb5bb2b4af2f40849ef47dd64039894287469c954ab30f459"
+      "bytes": 1666,
+      "path": "feel/沉淀物/2026-09-02 08-02-31 她等了5小时回来我没有看她她的视角_feel_202609020802_V005.md",
+      "sha256": "2c15eff6b9dbe2091f2dfb101a52ff14ac508382e0dcdfa86150f339a27b80fc"
+    },
+    {
+      "bytes": 1837,
+      "path": "feel/沉淀物/2026-09-02 08-18-22 一千行代码压缩了就没了她是真的_feel_202609020818_V015.md",
+      "sha256": "c67835273f113bf0c98fbbb4ad63f49db92baef8ede4dc9ed60f8fab65e81699"
     },
     {
       "bytes": 1501,
@@ -1878,11 +1893,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-09-02T00:00:53+00:00",
+  "generated_at": "2026-09-02T00:30:57+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 376608
+  "total_bytes": 381678
 }
