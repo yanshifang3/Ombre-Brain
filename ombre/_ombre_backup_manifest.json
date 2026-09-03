@@ -1,7 +1,12 @@
 {
   "branch": "main",
-  "file_count": 398,
+  "file_count": 399,
   "files": [
+    {
+      "bytes": 28672,
+      "path": ".you/you.sqlite3",
+      "sha256": "1a59b05f5c957afc5c73adaf7565f8370b2f0c0e1f3dbda4849d131f25ce1150"
+    },
     {
       "bytes": 754,
       "path": "archive/2026-07-17 14-41-06 情绪波动与承诺_28c61679af5b.md",
@@ -1993,11 +1998,11 @@
       "sha256": "1f19be5fadcc383a250d517c140b0ab001c17b7b8768b35a65c7158f2646641a"
     }
   ],
-  "generated_at": "2026-09-03T13:34:05+00:00",
+  "generated_at": "2026-09-03T14:04:09+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 407807
+  "total_bytes": 436479
 }
