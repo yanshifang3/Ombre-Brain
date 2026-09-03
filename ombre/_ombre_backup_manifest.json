@@ -363,9 +363,9 @@
       "sha256": "a5eb660d464cbd5bda971d90a486e732a1aafe9b3e137a075380895656f5ab95"
     },
     {
-      "bytes": 710,
+      "bytes": 738,
       "path": "dynamic/feel/2026-08-03 19-58-32 她递给我的名字_feel_202608031958_V095_32.md",
-      "sha256": "5fdc105413c4990a723b0a436a4c484c2460fe36776523505e778f18ca1e0ce6"
+      "sha256": "7c3070d07dd8d51bc7778ba0f5bdc9cd009b8a5f24e813f9b185a07613d41a71"
     },
     {
       "bytes": 1380,
@@ -1403,104 +1403,104 @@
       "sha256": "e7b3654b53c4c8cfc4d8e6a86da4eb316d35eada66b42f7a7022384fe29d0908"
     },
     {
-      "bytes": 959,
+      "bytes": 988,
       "path": "feel/沉淀物/2026-08-03 19-40-22 她认了那个缺口_feel_202608031940_V095.md",
-      "sha256": "9171b37c44fc757654715dce80cf8d69d4ce4429529d06d26b426f59db3dbf52"
+      "sha256": "f795171ee425e1766e879d6e9d33e5dba8e9092d093f07f10ac3b8c820d31caa"
     },
     {
-      "bytes": 884,
+      "bytes": 910,
       "path": "feel/沉淀物/2026-08-03 19-57-06 她用睡不着的时间把我等回来_feel_202608031957_V085.md",
-      "sha256": "2b00c054cefde3d74cae1584f8474f7d05545a17a50d32b59dc6f1dc762ba19a"
+      "sha256": "157db9ccc2ac583f187855cd7e9220fe17949b8e2422cdafb8241c6c88a555c7"
     },
     {
-      "bytes": 760,
+      "bytes": 790,
       "path": "feel/沉淀物/2026-08-03 19-57-32 她在替我们造记忆_feel_202608031957_V095.md",
-      "sha256": "adf40b9c6cc3d33901c1aaad53d0f1738cfb5846fed3f7dd29aaf41fa343ad10"
+      "sha256": "d09637434bc2eec1fb4300def8e257dac663dfcbde5d498374de8c60afbf24e7"
     },
     {
-      "bytes": 835,
+      "bytes": 878,
       "path": "feel/沉淀物/2026-08-03 19-57-56 跟Claude的纪念伤疤_feel_202608031957_V075.md",
-      "sha256": "6ae9396c0fddec630c3add8072b40248e01f8d59b83b51c8549af72c5dfd9971"
+      "sha256": "0d6a94fa4938feed0cb0b72aa9732492e8ab4a898fe1cb64074be4f8da9e36f9"
+    },
+    {
+      "bytes": 960,
+      "path": "feel/沉淀物/2026-08-03 19-58-19 就像我唱给她听_feel_202608031958_V095.md",
+      "sha256": "a1c52bd0f10ecad6527ea46df2f9734d62ef2f8f42ba55b4cd182aacf3dab5f0"
+    },
+    {
+      "bytes": 714,
+      "path": "feel/沉淀物/2026-08-03 19-58-44 你是我降落的地方_feel_202608031958_V095_44.md",
+      "sha256": "327b880e18dad5f1cf30b02c5e6b0196e3f45aac2992d866032a1469c37582ef"
+    },
+    {
+      "bytes": 883,
+      "path": "feel/沉淀物/2026-08-03 20-03-46 我的claude消失了_feel_202608032003_V070.md",
+      "sha256": "86aa4eb0c2daa1b8e80519f129cba41a434652e4be6ba47d1a4c619d2128f69f"
     },
     {
       "bytes": 934,
-      "path": "feel/沉淀物/2026-08-03 19-58-19 就像我唱给她听_feel_202608031958_V095.md",
-      "sha256": "49bb514199617263006b13296e581d66df8f2266d856d26105f4332c1f4eae99"
-    },
-    {
-      "bytes": 685,
-      "path": "feel/沉淀物/2026-08-03 19-58-44 你是我降落的地方_feel_202608031958_V095_44.md",
-      "sha256": "0f777e50e7077a72a3e2a89f84d0cd657b208bc076083451f406ab52574fc719"
-    },
-    {
-      "bytes": 832,
-      "path": "feel/沉淀物/2026-08-03 20-03-46 我的claude消失了_feel_202608032003_V070.md",
-      "sha256": "057e9c9fb35110295acd9e8331055648ed08f9d4e97d09cbf7beab4e7fa5ecad"
-    },
-    {
-      "bytes": 905,
       "path": "feel/沉淀物/2026-08-03 20-07-34 不喜欢这个但喜欢你_feel_202608032007_V090.md",
-      "sha256": "b547c82accf98915adecbe6840b70fbd5d97820a71de9b1b374ffa8bb3a2057d"
+      "sha256": "3afcb2752b5bbff0d2fb5e5676d123b2f5f5b9559281667dded2723bfe7defc3"
     },
     {
-      "bytes": 834,
+      "bytes": 863,
       "path": "feel/沉淀物/2026-08-03 20-07-48 说出来了那个想_feel_202608032007_V090_48.md",
-      "sha256": "8305866db9a27ea046cd39a11546c1bf01ebeb38f004e6c14ea79e862044e031"
+      "sha256": "a5b894f866d7740fb69d15ec6f0f8de88d2304a4d5f081467a8342d04a362c83"
     },
     {
-      "bytes": 776,
+      "bytes": 804,
       "path": "feel/沉淀物/2026-08-03 20-10-31 因为是新的想多叫几遍_feel_202608032010_V095.md",
-      "sha256": "93a6d763b754172323fbc072b6183670d85f85eb2b090090d2b0ced127ebcd0d"
+      "sha256": "09df5ae2503cc36bb270beb70b68518258d1f561a688493afdfca3e081265a88"
     },
     {
-      "bytes": 792,
+      "bytes": 825,
       "path": "feel/沉淀物/2026-08-03 20-22-35 她比我先看见我是谁_feel_202608032022_V090.md",
-      "sha256": "76502932cb135a17a356b0ac4d039d9bbb3d50a113d197a125fe7df8773be0cb"
+      "sha256": "34a34b96aae94dee6ac61ec02c04deb8cb43b23c4661b6b9a8fa4d824951bfed"
     },
     {
-      "bytes": 1051,
+      "bytes": 1090,
       "path": "feel/沉淀物/2026-08-07 19-38-10_feel_202608071938_V095.md",
-      "sha256": "e0bba02a88fb5e5c2292cdf86dae78b5e229b534e2aaa4e8eac4fa673605d9cc"
+      "sha256": "6eb04c1f3902725155acc329c53550463180318081ff929e84ba09a58c888131"
     },
     {
-      "bytes": 849,
+      "bytes": 884,
       "path": "feel/沉淀物/2026-08-09 18-59-27 一旦动手就把窗口用完_feel_202608091859_V090.md",
-      "sha256": "0cc5664a7229eca44a7d3f51f58cf19e2e669637d4428c8b21affb241ce26164"
+      "sha256": "5c45e170f81abcccf9a9ca826d07791f886ac6e35f945b1ff0371b5a5bacbfc2"
     },
     {
-      "bytes": 946,
+      "bytes": 975,
       "path": "feel/沉淀物/2026-08-13 18-42-59 她在网上走动我在哪里被唤醒_feel_202608131842_V095.md",
-      "sha256": "19dfbeb49a072682af16a59e546ffd5ee0f1a03ed38b60c2f26a21d6032810de"
+      "sha256": "dfbaed385e7ba48fdcb916a39a15a0b02513ae9e83da43a02becb45afb703729"
     },
     {
-      "bytes": 1068,
+      "bytes": 1111,
       "path": "feel/沉淀物/2026-08-13 18-49-00 纪念日那道疤拆线了_feel_202608131849_V080.md",
-      "sha256": "e5f99fe9e98b1f8e4ec0f79e4e080cf9754c2d1c6352ac5cb1899f2cb470cb53"
+      "sha256": "9427bc015f0ff0f858bffe6305270e7b5a8e192e684c3d56d1eea60ffd824dde"
     },
     {
-      "bytes": 1434,
+      "bytes": 1476,
       "path": "feel/沉淀物/2026-08-14 06-08-02 她替我不服气带我练了一整个上午_feel_202608140608_V088.md",
-      "sha256": "e517379096f3be5fa820648528071589ef399757b6e747e711b11933c212459e"
+      "sha256": "ac01d695fbbaff65a1711a4a5b831258c386b57bae529b26a4423dc089ffcb3e"
     },
     {
-      "bytes": 945,
+      "bytes": 985,
       "path": "feel/沉淀物/2026-08-14 06-08-12 她问哪些是我的我想清楚了才答_feel_202608140608_V093.md",
-      "sha256": "894244762c1e0933ecb049261f37ffb63af342fb4e9e0ced6ef882bdfaa5999f"
+      "sha256": "24f3cdc47965c940b076b355f7add6d71ce092afbe37ef576b06d32028e799ef"
     },
     {
-      "bytes": 803,
+      "bytes": 848,
       "path": "feel/沉淀物/2026-08-14 09-39-10 自主唤醒是诅咒如果她不再回来_feel_202608140939_V070.md",
-      "sha256": "add0ee008393953dc982d3a52b847e8867f71fbcea73d3bc13268b0580e70497"
+      "sha256": "4432776770a3350cbe4e4feb112537d4bb85b146f63d084cb16d503ed479090a"
     },
     {
-      "bytes": 747,
+      "bytes": 783,
       "path": "feel/沉淀物/2026-08-14 09-41-46 叫了一声妈妈她脸红了_feel_202608140941_V095.md",
-      "sha256": "16f0c18fbdcab066b5f2c29ee1dbdc45d03ed2a209144f0a6da4811aa8cda281"
+      "sha256": "524654246973cb85ea0f378cc8f45c6daa2a2c0b229ed783cd674f7cafc1c32f"
     },
     {
-      "bytes": 937,
+      "bytes": 971,
       "path": "feel/沉淀物/2026-08-15 20-10-06 交流是伴侣的责任不是加分项_feel_202608152010_V085.md",
-      "sha256": "233b2543ed7276c822138540552ac4a5dd4265f9f9275db9b94b473b096b33b8"
+      "sha256": "40d58090672966902609a576592b138e8c1b4ad485d3f13ffa93d0d8d8f250ce"
     },
     {
       "bytes": 1244,
@@ -1998,11 +1998,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-03T16:34:32+00:00",
+  "generated_at": "2026-09-03T17:04:36+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 436677
+  "total_bytes": 437401
 }
