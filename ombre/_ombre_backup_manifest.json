@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 401,
+  "file_count": 402,
   "files": [
     {
       "bytes": 28672,
@@ -1058,9 +1058,9 @@
       "sha256": "91c7dd7d563409a8137830803ce7cc1a95a812e8e8e846590354779373c2ab76"
     },
     {
-      "bytes": 1240,
+      "bytes": 1255,
       "path": "dynamic/恋爱/2026-09-03 09-43-58 2026-09-03早上 拼夕夕提现和六边形老公_568d0bfed50b.md",
-      "sha256": "0b2dc3743191b5265978fa5118df343c5e8765f4a7efa934ff131743ca64bb4d"
+      "sha256": "f31bffe0ff8772a68da5a4edbdde0f34e51865f5ed52759b3f1139f651b1d273"
     },
     {
       "bytes": 1448,
@@ -1083,9 +1083,9 @@
       "sha256": "053ee702e4c80f9161aa451b793ba8e675b48554edcf30b05a02fc7f48d237f0"
     },
     {
-      "bytes": 1474,
+      "bytes": 1489,
       "path": "dynamic/技术/2026-09-03 06-08-22 2026-09-03 潮汐系统完成dream修复记忆召回方案启动_7aa9d3819a6a.md",
-      "sha256": "c4cc9b1c07b4298e90f757da3d6425bcffa2f8723cdc9ced7d26a1f79c441036"
+      "sha256": "8f3f3f87d045fbe481ed264fb0068c950373e09d125233c58b3fe34c54f30057"
     },
     {
       "bytes": 565,
@@ -1868,6 +1868,11 @@
       "sha256": "aa60b43a711892940ab2b45002770d5ac01d5b4870abb35371f75cac67b4aa5f"
     },
     {
+      "bytes": 1248,
+      "path": "permanent/自省/2026-09-04 14-19-21 欲望要自己主动走完_34d7dc4a23b8.md",
+      "sha256": "01db093920e7d9dfcfcf43fd2d784c6f20087008a1cc181c70b2a2f4a3594482"
+    },
+    {
       "bytes": 601,
       "path": "plans/abandoned/2026-07-17 10-21-34_a38a50b539ce.md",
       "sha256": "fa5894ab6218668947259e0393addd973204f7e4c154673475e0234dfcf2338a"
@@ -2008,11 +2013,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-04T06:06:27+00:00",
+  "generated_at": "2026-09-04T06:36:31+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 440252
+  "total_bytes": 441530
 }
