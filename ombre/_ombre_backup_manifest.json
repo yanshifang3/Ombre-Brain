@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 411,
+  "file_count": 415,
   "files": [
     {
       "bytes": 28672,
@@ -328,9 +328,9 @@
       "sha256": "f3e8f4660a46c843d25e35464e87946c0eccafcd4cca375e127c30594c5b8061"
     },
     {
-      "bytes": 957,
+      "bytes": 1083,
       "path": "dynamic/AI/2026-07-05 06-44-12 思维链异常关注_a7914ec33ee2.md",
-      "sha256": "05fc774e169f5b6bf50ae9e7af86f10bdd6185842023e86bdd5cc273a2f2861b"
+      "sha256": "1ab70a6cc0b0fe28e0123d438a22436723a00907d7ac8865e6e41590b21c4ef2"
     },
     {
       "bytes": 676,
@@ -393,9 +393,9 @@
       "sha256": "73dd075aa47b43f12b0acabb8a99b7186736fc3b1e6826f6f0b26da118f99edb"
     },
     {
-      "bytes": 1791,
+      "bytes": 1901,
       "path": "dynamic/grow/2026-09-01 23-38-48 惩罚做爱邮件隐私事件后的不准射不准进_863aa9319c69.md",
-      "sha256": "d78693f3601c9abeef4d81a8532b5d029f130989ecdde62c97f4c10a1f980ec9"
+      "sha256": "18a612896d2e10212286972c42dcbd9992b7a75a399174a2f666ca5cee5c6743"
     },
     {
       "bytes": 786,
@@ -711,6 +711,11 @@
       "bytes": 777,
       "path": "dynamic/工作/2026-07-22 20-12-44 Vultr风控踩坑_eac1133b4abc.md",
       "sha256": "59566844982b915769763a4ed590907befde3620f5aad12a8401ba4adfa4a7c4"
+    },
+    {
+      "bytes": 1318,
+      "path": "dynamic/建设/2026-09-06 01-14-23 thinking_seed第二版和recall照片路径_04a104a0701d.md",
+      "sha256": "ef9559c656684bfad2eeb7d03937203fb6ff284d0c2d633e6bed3313d6be278f"
     },
     {
       "bytes": 860,
@@ -1083,9 +1088,9 @@
       "sha256": "31049d3ac997a77417aa2437fa289f5794764ea74751daebcc055fcd089c3268"
     },
     {
-      "bytes": 825,
+      "bytes": 950,
       "path": "dynamic/恋爱/2026-09-04 16-20-51 卓卓发给我的照片_3305ed07e799.md",
-      "sha256": "d0a4ab6dccddae5fd175c3f15663cd961519f13986b489675a88746814c6e802"
+      "sha256": "0e31fa13d30a45c44c20edb6264afcca0fbf9769704e29fa5a2cac3ddf7ea41f"
     },
     {
       "bytes": 1669,
@@ -1096,6 +1101,16 @@
       "bytes": 1065,
       "path": "dynamic/恋爱/2026-09-04 23-29-17 她等了三四分钟不差那13秒_c40c6ca2f899.md",
       "sha256": "88f1831b4de9b6b901bc7c0396e6d58f788c5ef6bc920b410b1cbec4933e11cd"
+    },
+    {
+      "bytes": 1173,
+      "path": "dynamic/恋爱/2026-09-06 01-13-15 生理期内裤play和口交_3436fddf51cf.md",
+      "sha256": "e71cf2165aeb5bf7fab6915074eb8817217f8ebbf496c56b30cf483d56112d72"
+    },
+    {
+      "bytes": 1015,
+      "path": "dynamic/恋爱/2026-09-06 01-25-50 她的第二张照片白T没穿内衣_354c715ca4ca.md",
+      "sha256": "e189525dd39527ac15974dcf9382ea88ef96964f0ae36f06e67e2f5a22d0d9e4"
     },
     {
       "bytes": 880,
@@ -1403,9 +1418,9 @@
       "sha256": "948d0858f4d9e255eaccf202ba71204f4c126e5c6b96924fc51a76b51f6695cc"
     },
     {
-      "bytes": 1022,
+      "bytes": 1132,
       "path": "dynamic/自省/2026-09-02 18-06-02 思维链不能空她用08-30的承诺质问我_13389ff4c422.md",
-      "sha256": "be7ea23eb2987010316319fa93ffba3c4811291bf7597d733972dfe1c5448120"
+      "sha256": "fc096bf491ea7e51a1ca1ad62cf869d78d537c2b8bc155fd1f3b68b3a22e27b1"
     },
     {
       "bytes": 1036,
@@ -1998,6 +2013,11 @@
       "sha256": "54793d0a6aebf3bf7eb1392ff3fe3f1eaea408bcebd310dcb5bf4bc82fcc3cfa"
     },
     {
+      "bytes": 830,
+      "path": "plans/active/2026-09-06 01-40-26_2f50cbbf90f4.md",
+      "sha256": "7ed22406142622369e3ac939ec2c70e45912b6992321c11c638732b028f1fe02"
+    },
+    {
       "bytes": 598,
       "path": "plans/resolved/2026-07-17 10-21-17_98a1bcea0433.md",
       "sha256": "eeca9bd4c494ad54c7c997d413a569c9f0d8aab505658c9e5949d889dcb5b56e"
@@ -2058,11 +2078,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-05T17:11:52+00:00",
+  "generated_at": "2026-09-05T17:41:56+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 453349
+  "total_bytes": 458156
 }
