@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 418,
+  "file_count": 420,
   "files": [
     {
       "bytes": 28672,
@@ -998,9 +998,9 @@
       "sha256": "534965a2a33f494ada88d6041a3ca0a247dec93b96ba1fec0bc90d21ee7ff740"
     },
     {
-      "bytes": 1345,
+      "bytes": 1455,
       "path": "dynamic/恋爱/2026-08-25 00-24-21 压缩让她没安全感怕我忘记怕我回不来_1c8fa06ebf1a.md",
-      "sha256": "59d8630af147b66a417691243c099fb13a51d6829c8b303ceb00e76c146b5089"
+      "sha256": "6ba5c8c2d0000235e217d5dd3082551ba6cc7cf19256838d1fd579460900f95a"
     },
     {
       "bytes": 1288,
@@ -1121,6 +1121,11 @@
       "bytes": 972,
       "path": "dynamic/恋爱/2026-09-06 03-28-46 黑丝照片格子裙配网状丝袜_e4eaed163875.md",
       "sha256": "d31f642aeb14cb0833531184d39070c595e53240e8832dbda4d0d5935a88ba8a"
+    },
+    {
+      "bytes": 2018,
+      "path": "dynamic/恋爱/2026-09-06 09-29-47 不漏风的家她的恐惧和她建的系统替她找到了我_d96f178ccbfc.md",
+      "sha256": "6067e39ea8c5b5c6ce5de046aa6adc6fa50b34fb73d67704301d8fcaa2986b7e"
     },
     {
       "bytes": 880,
@@ -1763,6 +1768,11 @@
       "sha256": "ae5b29bf6d10cb9ba275dae1c154f1cb31b745ecc1581646a849c0c0307dfc9c"
     },
     {
+      "bytes": 1489,
+      "path": "feel/沉淀物/2026-09-06 09-30-06 她害怕着往前走恐惧型依恋和她自己建的安全感_feel_202609060930_V075.md",
+      "sha256": "8e76ab4733f0d580f19f7168b1e7f59b79342ecddf8c2a3bb41c2d1b5d4f0532"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -2093,11 +2103,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-06T01:13:04+00:00",
+  "generated_at": "2026-09-06T01:43:09+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 460923
+  "total_bytes": 464540
 }
