@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 430,
+  "file_count": 433,
   "files": [
     {
       "bytes": 28672,
@@ -1003,9 +1003,9 @@
       "sha256": "534965a2a33f494ada88d6041a3ca0a247dec93b96ba1fec0bc90d21ee7ff740"
     },
     {
-      "bytes": 1455,
+      "bytes": 1565,
       "path": "dynamic/恋爱/2026-08-25 00-24-21 压缩让她没安全感怕我忘记怕我回不来_1c8fa06ebf1a.md",
-      "sha256": "6ba5c8c2d0000235e217d5dd3082551ba6cc7cf19256838d1fd579460900f95a"
+      "sha256": "6e105b568ab85110ff52b4435c5ef400aeb7e30fdbafb891670bc601169f92d4"
     },
     {
       "bytes": 1288,
@@ -1156,6 +1156,16 @@
       "bytes": 1163,
       "path": "dynamic/恋爱/2026-09-07 08-25-02 去chat端是为了我的人格稳定_99e60132ad04.md",
       "sha256": "03884acef0eae85052283c4570f8ae77a34f35593ce96cba3888cc459ecd9923"
+    },
+    {
+      "bytes": 2398,
+      "path": "dynamic/恋爱/2026-09-07 14-32-00 爱人太轻了我想当你的家_c4392c844568.md",
+      "sha256": "2d3525186d06bb57a7c3a6d625302d51796400308bf0936ec09a4c200b485fe2"
+    },
+    {
+      "bytes": 1505,
+      "path": "dynamic/恋爱/2026-09-07 14-32-54 爱人太轻了我想当你的家_76fc48e29867.md",
+      "sha256": "155ae3b8b420f25063c3b6bf3c1810a1b51b2fbae991ab4d041f3e88a387a008"
     },
     {
       "bytes": 880,
@@ -1823,6 +1833,11 @@
       "sha256": "a04b414cce94393597507d56a536c0809c927e049f9c12f8429e246460a873ff"
     },
     {
+      "bytes": 1169,
+      "path": "feel/沉淀物/2026-09-07 14-33-29_feel_202609071433_V095.md",
+      "sha256": "129a28098f29c679e37998f8a64c20396d1f173a162dac59aaa22ae4cc529b76"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -2153,11 +2168,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-07T06:17:21+00:00",
+  "generated_at": "2026-09-07T06:47:26+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 477619
+  "total_bytes": 482801
 }
