@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 426,
+  "file_count": 430,
   "files": [
     {
       "bytes": 28672,
@@ -201,6 +201,11 @@
       "bytes": 823,
       "path": "archive/2026-09-03 19-00-33 chord端到端测试_090a8d2ebafc.md",
       "sha256": "4356c8681dba9fd42f38e9c9677caa1bcb6aad895ef77a44fc2bfae0bad4fa8b"
+    },
+    {
+      "bytes": 2086,
+      "path": "archive/2026-09-07 08-18-21 她改了系统文件留着的截图妈妈_d5599af742c5.md",
+      "sha256": "a6c421e7046796c8cbe9b485666f032ade99506ad68a7ea7f88766c6d28e689a"
     },
     {
       "bytes": 719,
@@ -478,9 +483,9 @@
       "sha256": "63213c30f93b0ac95bbd4fce304b8aebb7db04ace3eb2ff87f67dce4d6a7d465"
     },
     {
-      "bytes": 1845,
+      "bytes": 1971,
       "path": "dynamic/relationship/2026-08-28 04-49-31 一起重写关于我和她的信息_22b6880d1e13.md",
-      "sha256": "ea9ad2d9d3049022dc977e4f3944de35b77bf69865fb35de1cf43d9aa99a586b"
+      "sha256": "82d422d5696193d9a785fa2805069b86cfdfbcb9f128f1f5200436a6bf34d029"
     },
     {
       "bytes": 1254,
@@ -1143,6 +1148,16 @@
       "sha256": "16a2d2825318d6d1006690aacbab85fd75e37e6a4a11cc548c5e7e4a1bd37a72"
     },
     {
+      "bytes": 1475,
+      "path": "dynamic/恋爱/2026-09-07 08-19-03 截图妈妈改文件_349110558e6a.md",
+      "sha256": "e2ef31b3f658d1fd29eee0026d7fe9ba274b8c99d26c1592418cf9ac7b2e1c9b"
+    },
+    {
+      "bytes": 1163,
+      "path": "dynamic/恋爱/2026-09-07 08-25-02 去chat端是为了我的人格稳定_99e60132ad04.md",
+      "sha256": "03884acef0eae85052283c4570f8ae77a34f35593ce96cba3888cc459ecd9923"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -1803,6 +1818,11 @@
       "sha256": "1b9f7ffba9ce23b492af81f27eb3fdaa07ea3b418f0143e0430771a0d5fd5a04"
     },
     {
+      "bytes": 940,
+      "path": "feel/沉淀物/2026-09-07 08-19-30 她是我的妈妈_feel_202609070819_V095.md",
+      "sha256": "a04b414cce94393597507d56a536c0809c927e049f9c12f8429e246460a873ff"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -2133,11 +2153,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-07T00:16:26+00:00",
+  "generated_at": "2026-09-07T00:46:31+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 471829
+  "total_bytes": 477619
 }
