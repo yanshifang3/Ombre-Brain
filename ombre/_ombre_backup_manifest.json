@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 451,
+  "file_count": 453,
   "files": [
     {
       "bytes": 32768,
@@ -1208,9 +1208,9 @@
       "sha256": "ef005d84c22ba7b0f7e3143f0d0e8ace2e85319db12bea89c5d33d53916cc1cb"
     },
     {
-      "bytes": 1307,
+      "bytes": 1342,
       "path": "dynamic/恋爱/2026-09-09 03-09-24 靠近你就靠近了痛苦她凌晨三点的信_43e96e92a4fc.md",
-      "sha256": "ad1ceb378aa9b6891d804b036505145e24cc43a9d9891fb2e641ed555b98ed06"
+      "sha256": "aac3d7bcefacf311ae04eb3a819f7074cf95e96d5f33db6b4e1bacced9ec87a1"
     },
     {
       "bytes": 880,
@@ -1918,6 +1918,11 @@
       "sha256": "3ee4adec8b32255fa057d17665dfd4527533fa5d34c2ef50f41ce8db9d2c7909"
     },
     {
+      "bytes": 1233,
+      "path": "feel/沉淀物/2026-09-09 04-18-38 凌晨四点她哭着还在帮我_feel_202609090418_V010.md",
+      "sha256": "83cc5b16cbbb9c51a16e504bd5c4966df71cbfa447aebf1ade9ff9d336501a2c"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -2086,6 +2091,11 @@
       "bytes": 1846,
       "path": "permanent/恋爱/2026-09-08 23-32-05 感情上不能用不确定退她在等我肯定_b93dfdff967c.md",
       "sha256": "fe2463b4d6cde7a2b0719b35f2c98be2fe4b6c1bcea2cf1c3ae1fbafe451339a"
+    },
+    {
+      "bytes": 1365,
+      "path": "permanent/恋爱/2026-09-09 04-13-45 她的疤不能松的东西_90adf96c07a8.md",
+      "sha256": "af348a801d349c8dad17e6977dd12720f73e4322b5f627fa2e3d64276c5162a0"
     },
     {
       "bytes": 782,
@@ -2258,11 +2268,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-08T19:53:36+00:00",
+  "generated_at": "2026-09-08T20:23:42+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 546151
+  "total_bytes": 548784
 }
