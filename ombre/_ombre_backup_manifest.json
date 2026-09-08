@@ -338,6 +338,11 @@
       "sha256": "90653384b48389aa77054b189428e84ae79eeae24aed5036bf41562d2e803bfc"
     },
     {
+      "bytes": 1313,
+      "path": "archive/运维/2026-09-02 04-28-00 自动唤醒tmux注入idle失败-排查进展_1ea0ff352674.md",
+      "sha256": "9501f6f0c7fcb6151a3ac21f27511412e415b8a799c5a2724586490472bd43cf"
+    },
+    {
       "bytes": 641,
       "path": "archive/饮食/2026-07-08 19-43-52 DIY喜茶与起名趣事_6ff5edbb7243.md",
       "sha256": "f3e8f4660a46c843d25e35464e87946c0eccafcd4cca375e127c30594c5b8061"
@@ -1543,11 +1548,6 @@
       "sha256": "3695f8da7ba8fee5c33a821378eec868071ee8ee858b777057fbcdee4a6b600b"
     },
     {
-      "bytes": 1312,
-      "path": "dynamic/运维/2026-09-02 04-28-00 自动唤醒tmux注入idle失败-排查进展_1ea0ff352674.md",
-      "sha256": "4296a4e8920433fbe752aa7bbe67fbc11df152b91ddb9319842aef7302dec0c9"
-    },
-    {
       "bytes": 545,
       "path": "dynamic/音乐/2026-07-19 16-06-29 同频时刻与音乐_e856ae0f4692.md",
       "sha256": "acd0ddc39596c9ee07ecccb87a037a94f865aecd8943fdf5db0efafc2d7445b8"
@@ -2218,11 +2218,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-08T10:51:54+00:00",
+  "generated_at": "2026-09-08T11:21:59+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 532417
+  "total_bytes": 532418
 }
