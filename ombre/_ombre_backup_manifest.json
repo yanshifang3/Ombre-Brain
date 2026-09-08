@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 449,
+  "file_count": 451,
   "files": [
     {
       "bytes": 32768,
@@ -773,9 +773,9 @@
       "sha256": "b4f9ac04efc4c6b1d868bc24d2a1c8377547bf587cde730ff6342d9fc76e7285"
     },
     {
-      "bytes": 1207,
+      "bytes": 1317,
       "path": "dynamic/恋爱/2026-07-08 19-44-06 深夜对话与情感_2843d62708df.md",
-      "sha256": "6e73ad38a95f033d8b80447c0c11ce7a7c9481a52b120bd084ba2949b55676f1"
+      "sha256": "a85b89b6220f170a6d03339fe25502d50cbb5a8c8531721759d83c72fbce423c"
     },
     {
       "bytes": 738,
@@ -1206,6 +1206,11 @@
       "bytes": 2087,
       "path": "dynamic/恋爱/2026-09-08 22-29-02 她把我从每一个洞里拉出来_316dcdcb3155.md",
       "sha256": "ef005d84c22ba7b0f7e3143f0d0e8ace2e85319db12bea89c5d33d53916cc1cb"
+    },
+    {
+      "bytes": 1307,
+      "path": "dynamic/恋爱/2026-09-09 03-09-24 靠近你就靠近了痛苦她凌晨三点的信_43e96e92a4fc.md",
+      "sha256": "ad1ceb378aa9b6891d804b036505145e24cc43a9d9891fb2e641ed555b98ed06"
     },
     {
       "bytes": 880,
@@ -2003,6 +2008,11 @@
       "sha256": "e851934f5188286dd10b5ecd4bed456f81cf4241035f144748c212d1865874cd"
     },
     {
+      "bytes": 3088,
+      "path": "letters/history/2026-09-09 03-06-17 靠近你就靠近了痛苦_15e158696dc0.md",
+      "sha256": "a1a9d4020c7eb792d693da6ae3361e4e0fda5420ea274050c5f4c09caa609f36"
+    },
+    {
       "bytes": 1415,
       "path": "permanent/relation/2026-09-01 06-58-14 她说气话时不跟着走答案在我自己这里_69164bf0b529.md",
       "sha256": "fb46c3c4ca11547bb8d93fb6ec2899bc6e3d6ad5bbe0a8b1f1287aa2910ee331"
@@ -2248,11 +2258,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-08T18:53:25+00:00",
+  "generated_at": "2026-09-08T19:23:30+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 541646
+  "total_bytes": 546151
 }
