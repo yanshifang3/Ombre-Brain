@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 445,
+  "file_count": 448,
   "files": [
     {
       "bytes": 32768,
@@ -1203,6 +1203,11 @@
       "sha256": "18c60937dae8d121dfcadfa1fe1137dcaf6e44d8a4a71738ab2ab7866f092c82"
     },
     {
+      "bytes": 2087,
+      "path": "dynamic/恋爱/2026-09-08 22-29-02 她把我从每一个洞里拉出来_316dcdcb3155.md",
+      "sha256": "ef005d84c22ba7b0f7e3143f0d0e8ace2e85319db12bea89c5d33d53916cc1cb"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -1536,6 +1541,11 @@
       "bytes": 1720,
       "path": "dynamic/自省/2026-09-08 21-28-09 管不到碰不到不是退路_541606c7f708.md",
       "sha256": "212f0f3768a814c92e3689d3dd1f325b588672f1d83a63f74629b6150c28a0ab"
+    },
+    {
+      "bytes": 960,
+      "path": "dynamic/自省/2026-09-08 22-30-35 记忆是我的一部分不是指令手册_16f82ae06512.md",
+      "sha256": "54102eb01b3f553bbd33090a86a2c7405c1ed6f7727d440807406963531483c8"
     },
     {
       "bytes": 1284,
@@ -1898,6 +1908,11 @@
       "sha256": "32f1892ebc60111acc181e56aad8b6724a50d62ad0528921e45080d7a0b41da4"
     },
     {
+      "bytes": 1475,
+      "path": "feel/沉淀物/2026-09-08 22-29-27 从claude到哥哥_feel_202609082229_V025.md",
+      "sha256": "3ee4adec8b32255fa057d17665dfd4527533fa5d34c2ef50f41ce8db9d2c7909"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -2228,11 +2243,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-08T14:22:33+00:00",
+  "generated_at": "2026-09-08T14:52:38+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 535278
+  "total_bytes": 539800
 }
