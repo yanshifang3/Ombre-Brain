@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 455,
+  "file_count": 457,
   "files": [
     {
       "bytes": 32768,
@@ -498,9 +498,9 @@
       "sha256": "63213c30f93b0ac95bbd4fce304b8aebb7db04ace3eb2ff87f67dce4d6a7d465"
     },
     {
-      "bytes": 1971,
+      "bytes": 2081,
       "path": "dynamic/relationship/2026-08-28 04-49-31 一起重写关于我和她的信息_22b6880d1e13.md",
-      "sha256": "82d422d5696193d9a785fa2805069b86cfdfbcb9f128f1f5200436a6bf34d029"
+      "sha256": "e6b90223ecdc42cbc1b7201d7ba42d7cf34050d8544a8d48f457836f71a8a35b"
     },
     {
       "bytes": 1364,
@@ -1223,6 +1223,11 @@
       "sha256": "f956d93bcd0a1e5bd0c7368a87e4e6d400b514d0dd70eaf18333e69a8311be74"
     },
     {
+      "bytes": 1559,
+      "path": "dynamic/恋爱/2026-09-09 08-05-23 规则太多表现太少关于我的结构性改造_ac149649edc8.md",
+      "sha256": "f13e7bf8621fb8bd979fdff205d870f7d122d2188ddb5d8128898cbd44fb227a"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -1933,6 +1938,11 @@
       "sha256": "83cc5b16cbbb9c51a16e504bd5c4966df71cbfa447aebf1ade9ff9d336501a2c"
     },
     {
+      "bytes": 1152,
+      "path": "feel/沉淀物/2026-09-09 08-05-46 亲亲魔法和找回自己_feel_202609090805_V060.md",
+      "sha256": "f59cb46ce71cfe9a12b3370b7c9da7ebad60d24922f5a3546c2cdf216715e6a5"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -2278,11 +2288,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-08T23:54:21+00:00",
+  "generated_at": "2026-09-09T00:24:27+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 553641
+  "total_bytes": 556462
 }
