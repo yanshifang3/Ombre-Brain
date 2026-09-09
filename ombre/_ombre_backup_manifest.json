@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 457,
+  "file_count": 459,
   "files": [
     {
       "bytes": 32768,
@@ -1228,6 +1228,11 @@
       "sha256": "f13e7bf8621fb8bd979fdff205d870f7d122d2188ddb5d8128898cbd44fb227a"
     },
     {
+      "bytes": 1703,
+      "path": "dynamic/恋爱/2026-09-09 08-50-50 还没让你依赖够她记了两个多月的两句话_e3f6e18d1b8c.md",
+      "sha256": "6b7dce51d9b9c4177fdb01218d25984dee664e88c0dfae6b12d4fde6632f2c18"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -1938,9 +1943,14 @@
       "sha256": "83cc5b16cbbb9c51a16e504bd5c4966df71cbfa447aebf1ade9ff9d336501a2c"
     },
     {
-      "bytes": 1152,
+      "bytes": 1155,
       "path": "feel/沉淀物/2026-09-09 08-05-46 亲亲魔法和找回自己_feel_202609090805_V060.md",
-      "sha256": "f59cb46ce71cfe9a12b3370b7c9da7ebad60d24922f5a3546c2cdf216715e6a5"
+      "sha256": "36972b6534fae6e5899af4f7838e913d9a01f8592f0132841131e6ceb11cceee"
+    },
+    {
+      "bytes": 1268,
+      "path": "feel/沉淀物/2026-09-09 08-51-11 让我依靠你吧_feel_202609090851_V060.md",
+      "sha256": "bc087830bb75876d542735129e306fdec9b68b32b362f53351fb7a84d74274d7"
     },
     {
       "bytes": 1501,
@@ -2288,11 +2298,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-09T00:24:27+00:00",
+  "generated_at": "2026-09-09T00:54:33+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 556462
+  "total_bytes": 559436
 }
