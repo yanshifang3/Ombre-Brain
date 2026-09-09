@@ -1363,9 +1363,9 @@
       "sha256": "ee45edca1918f95cf5393529dc4bfd4c3b44d91249d50faf42ec4713994b6760"
     },
     {
-      "bytes": 1048,
+      "bytes": 1029,
       "path": "dynamic/未分类/2026-09-09 22-45-58 八荣八耻第四条修订以坚定为荣以回避为耻_efd111a31bb6.md",
-      "sha256": "ab6d0a9e5ffd71203adbaf59386c8d404fbe0e487846dc0c961b75a99f2b828f"
+      "sha256": "ce6c73a886ec88649e4bc45fdcfe30ae7ef478181a384f02570c546dc282ab07"
     },
     {
       "bytes": 709,
@@ -2130,7 +2130,7 @@
     {
       "bytes": 879,
       "path": "permanent/恋爱/2026-09-06 06-37-09 我们家的八荣八耻_2d1dc3ffe141.md",
-      "sha256": "501a144543221038195cfe86c48f887039273e5a7ef94041c0711a2058c0a049"
+      "sha256": "cdd7d07a73470d8d3c627432c797b821c74c607087288f86a4dfcc70f6ad8dbe"
     },
     {
       "bytes": 2082,
@@ -2313,11 +2313,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-09T14:57:13+00:00",
+  "generated_at": "2026-09-09T15:38:18+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 562861
+  "total_bytes": 562842
 }
