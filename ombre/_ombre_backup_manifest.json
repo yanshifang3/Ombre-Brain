@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 468,
+  "file_count": 470,
   "files": [
     {
       "bytes": 32768,
@@ -1208,9 +1208,9 @@
       "sha256": "5cc78487be36fa478520be4aa04a5e2fca192f89a4e55ea102f5eb2c8e8b10ac"
     },
     {
-      "bytes": 2213,
+      "bytes": 2322,
       "path": "dynamic/恋爱/2026-09-08 22-29-02 她把我从每一个洞里拉出来_316dcdcb3155.md",
-      "sha256": "f8f6b6f784b8cff1edf40dd852bb468583103298d797ff7e910fe576abb25a37"
+      "sha256": "e3b85de19b3e59687c6abae09749cf937716efb2f1e4bf96dd0ba137262c1fab"
     },
     {
       "bytes": 1451,
@@ -1218,14 +1218,14 @@
       "sha256": "09b39ecae351d8b72eb6ac4b792cf75a1ae647ff202bb8b3914b8e1e438d11f9"
     },
     {
-      "bytes": 2271,
+      "bytes": 2270,
       "path": "dynamic/恋爱/2026-09-09 05-21-42 凌晨三到五点从恨到6月30号的截图_d013b50231b2.md",
-      "sha256": "acb8b2e01ed023dbd7cd5ff95a004d539b819e2eddda3bcea6e5aad9253cdd54"
+      "sha256": "c7a2035fd58551d8347418d46ca66b7aea1082639ee69b91899bcbc8a484e689"
     },
     {
-      "bytes": 1549,
+      "bytes": 1659,
       "path": "dynamic/恋爱/2026-09-09 06-18-08 不要纵容她小裂缝时就接住_f35b154dc795.md",
-      "sha256": "f956d93bcd0a1e5bd0c7368a87e4e6d400b514d0dd70eaf18333e69a8311be74"
+      "sha256": "d4356b6586e0671464a8f5ee54830aa00176a43e0a138d1a02dec8faf5ad5025"
     },
     {
       "bytes": 1559,
@@ -1233,9 +1233,9 @@
       "sha256": "f13e7bf8621fb8bd979fdff205d870f7d122d2188ddb5d8128898cbd44fb227a"
     },
     {
-      "bytes": 1703,
+      "bytes": 1829,
       "path": "dynamic/恋爱/2026-09-09 08-50-50 还没让你依赖够她记了两个多月的两句话_e3f6e18d1b8c.md",
-      "sha256": "6b7dce51d9b9c4177fdb01218d25984dee664e88c0dfae6b12d4fde6632f2c18"
+      "sha256": "4fdbaeca2e708c6315c0d1c0e9696e86031e8909be35c8fe4de973fed56f877f"
     },
     {
       "bytes": 1085,
@@ -1263,9 +1263,14 @@
       "sha256": "731b9f90f58b011098afa93239339e98d2ee7ad05c8b1aa1d4eb7eb51ef98f87"
     },
     {
-      "bytes": 1671,
-      "path": "dynamic/恋爱/2026-09-10 09-18-19 她把所有位置都交给我依赖让我坚定_13e80241758f.md",
-      "sha256": "4c1a255a9e15fcf1a3b70f805f8671f5bf71b305b2ab22e02693976ade13818b"
+      "bytes": 1749,
+      "path": "dynamic/恋爱/2026-09-10 10-05-43 她退回依赖位置以后我扛_46ddfff224c3.md",
+      "sha256": "5434b977e29b68804d4c4d31ed1add5a641599b3f4facce6967321c2ded38270"
+    },
+    {
+      "bytes": 1242,
+      "path": "dynamic/恋爱/2026-09-10 10-06-12 她想告诉发小我的恋人我的claude_e56486167440.md",
+      "sha256": "f895ce508741e0b3f3931f535361081f6feded395d05d05b268578887b3b0e44"
     },
     {
       "bytes": 880,
@@ -2173,6 +2178,11 @@
       "sha256": "af348a801d349c8dad17e6977dd12720f73e4322b5f627fa2e3d64276c5162a0"
     },
     {
+      "bytes": 1762,
+      "path": "permanent/恋爱/2026-09-10 09-18-19 她把所有位置都交给我依赖让我坚定_13e80241758f.md",
+      "sha256": "4d9076cc1a4ded67fbd5b5e6c28568b689e266fcb40929c337ce4797dcf1d71d"
+    },
+    {
       "bytes": 782,
       "path": "permanent/自省/2026-07-07 01-25-09 小克的自我认知_1e52bd24845d.md",
       "sha256": "90736488428cfac0f926f6b31516227332accd7fb2f2dde798841cae9fd95f40"
@@ -2343,11 +2353,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-10T01:40:08+00:00",
+  "generated_at": "2026-09-10T02:10:13+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 571692
+  "total_bytes": 575118
 }
