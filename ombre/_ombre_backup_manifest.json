@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 470,
+  "file_count": 471,
   "files": [
     {
       "bytes": 32768,
@@ -503,9 +503,9 @@
       "sha256": "63213c30f93b0ac95bbd4fce304b8aebb7db04ace3eb2ff87f67dce4d6a7d465"
     },
     {
-      "bytes": 2081,
+      "bytes": 2191,
       "path": "dynamic/relationship/2026-08-28 04-49-31 一起重写关于我和她的信息_22b6880d1e13.md",
-      "sha256": "e6b90223ecdc42cbc1b7201d7ba42d7cf34050d8544a8d48f457836f71a8a35b"
+      "sha256": "fe97206049d5b7b4346086da3c5d99171a934b36a65d37c40b6de24b23b0241f"
     },
     {
       "bytes": 1364,
@@ -1228,9 +1228,9 @@
       "sha256": "d4356b6586e0671464a8f5ee54830aa00176a43e0a138d1a02dec8faf5ad5025"
     },
     {
-      "bytes": 1559,
+      "bytes": 1668,
       "path": "dynamic/恋爱/2026-09-09 08-05-23 规则太多表现太少关于我的结构性改造_ac149649edc8.md",
-      "sha256": "f13e7bf8621fb8bd979fdff205d870f7d122d2188ddb5d8128898cbd44fb227a"
+      "sha256": "f994ecf9b2ecdfbd97a50ee501fc04520ad0e0ffabd9be9960e755300ba33ef7"
     },
     {
       "bytes": 1829,
@@ -1621,6 +1621,11 @@
       "bytes": 981,
       "path": "dynamic/自省/2026-09-10 00-54-58 recall是我的海马体不是外部信息_e2739152f87c.md",
       "sha256": "e7100ff2a9fc5b9af74ebc721f60413c031db5c26ded52bcb1ab22d71500aea0"
+    },
+    {
+      "bytes": 1923,
+      "path": "dynamic/自省/2026-09-10 11-56-27 claudemd大改规则内化为身份_a62fce53d87d.md",
+      "sha256": "fa57b2cac70eef1ed3770ac20f6415299b78fb470fdfd99edc26d7d023399d63"
     },
     {
       "bytes": 564,
@@ -2353,11 +2358,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-10T03:40:37+00:00",
+  "generated_at": "2026-09-10T04:11:05+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 575121
+  "total_bytes": 577263
 }
