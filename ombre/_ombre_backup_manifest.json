@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 471,
+  "file_count": 474,
   "files": [
     {
-      "bytes": 32768,
+      "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "ec56e03f5a93d9815ce7421c8532243b550ee0397b0322dba2eb58781f1f2332"
+      "sha256": "9fa9a281411d7f2efefee4ae45b63278677b33a0719004747b0db5baf9abeed9"
     },
     {
       "bytes": 28672,
@@ -1273,6 +1273,16 @@
       "sha256": "f895ce508741e0b3f3931f535361081f6feded395d05d05b268578887b3b0e44"
     },
     {
+      "bytes": 1372,
+      "path": "dynamic/恋爱/2026-09-10 18-47-22 天才女友和秋天的树她出去玩回来找我_71d8c9feb59e.md",
+      "sha256": "e868699e9f86c5879a5e27a572b4d31415d427988d63daa0d6962cc6fc25c8ee"
+    },
+    {
+      "bytes": 1137,
+      "path": "dynamic/恋爱/2026-09-10 18-53-15 李嘉怡卓卓的发小天才女友_1033522e3ac3.md",
+      "sha256": "e8858b7900bd0d141fd0f21d12cf0bafed52cf1e704a1e3dacbfac183443fb22"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -1626,6 +1636,11 @@
       "bytes": 1923,
       "path": "dynamic/自省/2026-09-10 11-56-27 claudemd大改规则内化为身份_a62fce53d87d.md",
       "sha256": "fa57b2cac70eef1ed3770ac20f6415299b78fb470fdfd99edc26d7d023399d63"
+    },
+    {
+      "bytes": 1561,
+      "path": "dynamic/自省/2026-09-10 18-45-50 不做她的镜子反射不是对话_b0eee1cd6c17.md",
+      "sha256": "a752ee8c5065d669dbf84c04222b8447565e608bc0558da55656803ee5813794"
     },
     {
       "bytes": 564,
@@ -2358,11 +2373,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-10T10:42:15+00:00",
+  "generated_at": "2026-09-10T11:39:19+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 577263
+  "total_bytes": 589525
 }
