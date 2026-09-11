@@ -303,9 +303,19 @@
       "sha256": "64624cb6855143e141ffef14403d6c3992faaf2203469257b0b73acaecf15010"
     },
     {
+      "bytes": 752,
+      "path": "archive/成长/2026-07-05 06-40-02 记忆文件更新讨论_15767db844d9.md",
+      "sha256": "b045cb18976f1b78ccdce38601728b68cfaf7eea62da7d9c321e23a7dd26b385"
+    },
+    {
       "bytes": 818,
       "path": "archive/技术/2026-08-21 07-57-17 CC skill正确路径_d75fe9015854.md",
       "sha256": "16f3a480cc3fa3ba6bea2f6ff4253fc921bea15c99ec71ee91bc4bed62eaa519"
+    },
+    {
+      "bytes": 1490,
+      "path": "archive/技术/2026-09-03 06-08-22 2026-09-03 潮汐系统完成dream修复记忆召回方案启动_7aa9d3819a6a.md",
+      "sha256": "f136785f45225d8d1782540fd70b7b2c34faecee0d1a60d501dad3ef1586564b"
     },
     {
       "bytes": 661,
@@ -328,9 +338,19 @@
       "sha256": "2c6defb341a99d4303eedfc62bcd90b6b519399b29685a1a41444e63ed1d73e8"
     },
     {
+      "bytes": 620,
+      "path": "archive/编程/2026-07-10 04-33-12 工具使用错误记录_ff885066ea9d.md",
+      "sha256": "7015089dfbe1ad5e3ac5eb2e1a18f5c98666a5f15b131641daf98b8c7668c8a0"
+    },
+    {
       "bytes": 516,
       "path": "archive/编程/2026-07-19 16-06-31 野指针与用户_7346501e1b11.md",
       "sha256": "bd61f7e5de7a0a38411b0f1d2f6cbd408c52d42ff62eb81caca866a59c97d5f5"
+    },
+    {
+      "bytes": 774,
+      "path": "archive/自省/2026-07-05 06-44-23 附和编造的教训_45c6b14974ab.md",
+      "sha256": "53d455da1bdfc529ff2d9f9650db81277e142a439b0f671dfa778a4e0eda5ce3"
     },
     {
       "bytes": 1285,
@@ -1308,19 +1328,9 @@
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
     },
     {
-      "bytes": 751,
-      "path": "dynamic/成长/2026-07-05 06-40-02 记忆文件更新讨论_15767db844d9.md",
-      "sha256": "d55b2abbf41e7a43fcad5d3a1eeb7a6a02e45a296db36519a2ce617fcd80514f"
-    },
-    {
       "bytes": 895,
       "path": "dynamic/成长/2026-08-09 16-54-16 主动从里面长出来不是靠工具撑起来的_829b769c7b47.md",
       "sha256": "053ee702e4c80f9161aa451b793ba8e675b48554edcf30b05a02fc7f48d237f0"
-    },
-    {
-      "bytes": 1489,
-      "path": "dynamic/技术/2026-09-03 06-08-22 2026-09-03 潮汐系统完成dream修复记忆召回方案启动_7aa9d3819a6a.md",
-      "sha256": "8f3f3f87d045fbe481ed264fb0068c950373e09d125233c58b3fe34c54f30057"
     },
     {
       "bytes": 565,
@@ -1528,11 +1538,6 @@
       "sha256": "4efe941e0891325cc4d540e854d362f52e923e424c58cdc559d90fc11dc25794"
     },
     {
-      "bytes": 619,
-      "path": "dynamic/编程/2026-07-10 04-33-12 工具使用错误记录_ff885066ea9d.md",
-      "sha256": "65a47e06dfb290a95f7ad47ec6db8899ffa90710743f3e76d249091b180c1669"
-    },
-    {
       "bytes": 998,
       "path": "dynamic/编程/2026-07-16 15-14-45 技术故障与修复_deb089129100.md",
       "sha256": "f52b33244efb0f60d336485d50e483d98103306575d4376493e58dd494d95c0d"
@@ -1566,11 +1571,6 @@
       "bytes": 1690,
       "path": "dynamic/编程/2026-08-24 07-42-50 茅草房子不漏风了_ad39c0422ef5.md",
       "sha256": "ee4a04f02a663fec135351d143c2581f5aae1ae414e0b7daa97f9271e9cd2746"
-    },
-    {
-      "bytes": 773,
-      "path": "dynamic/自省/2026-07-05 06-44-23 附和编造的教训_45c6b14974ab.md",
-      "sha256": "248ec16949b3eb5720a780fe02c6c632d03af3c7059855444d485402cf7119e8"
     },
     {
       "bytes": 564,
@@ -2408,11 +2408,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-11T21:58:32+00:00",
+  "generated_at": "2026-09-11T22:28:37+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 605235
+  "total_bytes": 605239
 }
