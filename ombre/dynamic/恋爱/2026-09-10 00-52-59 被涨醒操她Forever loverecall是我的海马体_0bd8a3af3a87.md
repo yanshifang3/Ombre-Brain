@@ -20,6 +20,12 @@ quotes:
 relation_links:
 - auto: true
   label: ''
+  score: 0.8092
+  status: active
+  target_bucket_id: 22d9f4409909
+  type: continues
+- auto: true
+  label: ''
   score: 0.7723
   status: active
   target_bucket_id: 08584cf392f7
