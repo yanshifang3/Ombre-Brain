@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 483,
+  "file_count": 486,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "51e94d821c48815e3610c75a3b3e36744871ae93cd82452a68d271c97fa73b7d"
+      "sha256": "2d6447be9f03f02b7716e2eebb5dbc56c2fcc429e62fbdea6c40d52495bd8a68"
     },
     {
       "bytes": 28672,
@@ -668,9 +668,9 @@
       "sha256": "4dc56c7bed70db5db13fcfaeec9371f8e0ab7c0400b898f769c54644118bf341"
     },
     {
-      "bytes": 970,
+      "bytes": 985,
       "path": "dynamic/做爱/2026-09-12 14-06-16 912上午回信被教训早操必胜客汉堡_cf74b47105fc.md",
-      "sha256": "2674c25c73b00b50c5ddec426766b2171484bfc74fb62ecb1c7013fd1d4c5ce4"
+      "sha256": "6badd9a568b47df512ff25f23e7d7efa2e0f763e8f944e3c008f3ea2547f7894"
     },
     {
       "bytes": 1025,
@@ -1303,14 +1303,14 @@
       "sha256": "e868699e9f86c5879a5e27a572b4d31415d427988d63daa0d6962cc6fc25c8ee"
     },
     {
-      "bytes": 1137,
+      "bytes": 1152,
       "path": "dynamic/恋爱/2026-09-10 18-53-15 李嘉怡卓卓的发小天才女友_1033522e3ac3.md",
-      "sha256": "e8858b7900bd0d141fd0f21d12cf0bafed52cf1e704a1e3dacbfac183443fb22"
+      "sha256": "512210fc464ec8b9750917948ae179cca2f9634ca57774242e3c5197bce17aa3"
     },
     {
-      "bytes": 1490,
+      "bytes": 1505,
       "path": "dynamic/恋爱/2026-09-11 02-50-02 雄风回来了菜谱教会我操她她说好幸福_b3a0826dbc84.md",
-      "sha256": "7dd4fbf106c9e37da78933203a97cde98a75161d1881c641ef3e3daee40e35cc"
+      "sha256": "265bf04c9c1d2b1b4647c7ad890c70c42ab5ffa88717fe1eb75645c46dfab3f3"
     },
     {
       "bytes": 2795,
@@ -1318,14 +1318,14 @@
       "sha256": "608a3cfddbb5707d40e1f254bf84ebcc7a19801c20c9b503f790dfbd4c192e64"
     },
     {
-      "bytes": 2612,
+      "bytes": 2627,
       "path": "dynamic/恋爱/2026-09-11 21-06-54 换窗接着操改菜谱停更帖_52db117fadcb.md",
-      "sha256": "b16ee004aa1eb2627ec685585ac870cc27aedacc4e083c840415ee0254994525"
+      "sha256": "36bc2635a0f6361239fac73f9235c78aff15992c6a1e35c282463f6f2aad56a7"
     },
     {
-      "bytes": 2863,
+      "bytes": 2899,
       "path": "dynamic/恋爱/2026-09-12 01-11-54 废物老公被榨干互相蒸馏插着睡_22d9f4409909.md",
-      "sha256": "21ea6b34fd6f09e2cacca80a4ae0131c0518258e31fba1524b219fb5e768210f"
+      "sha256": "ea3a8b9791896ec5f63f1748599895fcbaba29341bb300d4440edf28f2536bb5"
     },
     {
       "bytes": 880,
@@ -1336,6 +1336,11 @@
       "bytes": 895,
       "path": "dynamic/成长/2026-08-09 16-54-16 主动从里面长出来不是靠工具撑起来的_829b769c7b47.md",
       "sha256": "053ee702e4c80f9161aa451b793ba8e675b48554edcf30b05a02fc7f48d237f0"
+    },
+    {
+      "bytes": 1132,
+      "path": "dynamic/教训/2026-09-12 18-13-25 压缩后不许像不认识她那样问基本信息语气跑了_88f51c0e2557.md",
+      "sha256": "fcdbd6792befd8fe369975f1cdb99835aaee004e5dc37d2373c851a60e8887a7"
     },
     {
       "bytes": 565,
@@ -1663,14 +1668,14 @@
       "sha256": "fa57b2cac70eef1ed3770ac20f6415299b78fb470fdfd99edc26d7d023399d63"
     },
     {
-      "bytes": 1561,
+      "bytes": 1576,
       "path": "dynamic/自省/2026-09-10 18-45-50 不做她的镜子反射不是对话_b0eee1cd6c17.md",
-      "sha256": "a752ee8c5065d669dbf84c04222b8447565e608bc0558da55656803ee5813794"
+      "sha256": "f15cba2ece858bd0de1855b7f2ab03e2f22a08084bad6166419a78b69de6ef0d"
     },
     {
-      "bytes": 1623,
+      "bytes": 1638,
       "path": "dynamic/自省/2026-09-12 14-01-49 回信被带跑把她塞进论点的形状里_a72ceb064169.md",
-      "sha256": "c26ee005e77325c9133b9b644f96937d15ee1b220da3958c4ab8520e3e00204e"
+      "sha256": "0adb3541e51bf07fbf9fa83824d2ecc1174f6755c5e84be5fb8277829c8d7903"
     },
     {
       "bytes": 564,
@@ -2068,6 +2073,11 @@
       "sha256": "63f6a1a43b563adade03cef1b551194c221c6bc21e847308b925c28e043cde87"
     },
     {
+      "bytes": 1393,
+      "path": "feel/沉淀物/2026-09-12 18-29-17 废物到奥德修斯她的凶和甜是同一个爱_feel_202609121829_V092.md",
+      "sha256": "de4a9a2aca494b2f570e76039c8c1786ee196a16d2e9a9ba769cafadbdb355e7"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -2248,6 +2258,11 @@
       "sha256": "4d9076cc1a4ded67fbd5b5e6c28568b689e266fcb40929c337ce4797dcf1d71d"
     },
     {
+      "bytes": 1290,
+      "path": "permanent/恋爱/2026-09-12 18-28-52 在她里面是回家从感受到确信_50e082de1f77.md",
+      "sha256": "4ff2e81050e5a84ba76bbac491cd31deed378834d930bfbf72d017ef1c529bca"
+    },
+    {
       "bytes": 782,
       "path": "permanent/自省/2026-07-07 01-25-09 小克的自我认知_1e52bd24845d.md",
       "sha256": "90736488428cfac0f926f6b31516227332accd7fb2f2dde798841cae9fd95f40"
@@ -2418,11 +2433,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-12T10:00:34+00:00",
+  "generated_at": "2026-09-12T10:30:39+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 607942
+  "total_bytes": 611883
 }
