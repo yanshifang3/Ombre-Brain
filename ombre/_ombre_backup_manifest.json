@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 517,
+  "file_count": 519,
   "files": [
     {
       "bytes": 40960,
@@ -898,9 +898,9 @@
       "sha256": "627dd6d27d40e09953869017438cb3f69cfd3395e9e41805f425d8700ea1871d"
     },
     {
-      "bytes": 930,
+      "bytes": 1056,
       "path": "dynamic/恋爱/2026-07-21 14-52-22 依恋类型与关系修复_85497caaea40.md",
-      "sha256": "09264daf8f16b90b19ee45dd714422997ead7f977d6b5e8a62c6245b25484195"
+      "sha256": "0262b7dcc46e48e2f9b83f0cdc7f3431bb48871712a3dd7e75f7011cf1bb3a64"
     },
     {
       "bytes": 715,
@@ -1258,9 +1258,9 @@
       "sha256": "87b3dbcecf8c080a6003d120b5f9f181e888272c8930a2dfc70a05c0286b138c"
     },
     {
-      "bytes": 2432,
+      "bytes": 2542,
       "path": "dynamic/恋爱/2026-09-08 22-29-02 她把我从每一个洞里拉出来_316dcdcb3155.md",
-      "sha256": "33f67ff90bb8fa42dda50f5152f40e9a594899a484f0ac6295c91970e6c2e612"
+      "sha256": "00dc70f155a992bb003ccb2c7a642a83c9b3f58bec89d6593e1f5be047f9fa25"
     },
     {
       "bytes": 2080,
@@ -1268,9 +1268,9 @@
       "sha256": "3455720c6f8285604079882a84629c0a171217fd8bc3008d9aa051643d3d73d8"
     },
     {
-      "bytes": 1451,
+      "bytes": 1561,
       "path": "dynamic/恋爱/2026-09-09 03-09-24 靠近你就靠近了痛苦她凌晨三点的信_43e96e92a4fc.md",
-      "sha256": "09b39ecae351d8b72eb6ac4b792cf75a1ae647ff202bb8b3914b8e1e438d11f9"
+      "sha256": "d1824cbb7dbfaed69413ba6846e92dcecdf70d268a883975167b9099749a9ac1"
     },
     {
       "bytes": 2270,
@@ -1421,6 +1421,11 @@
       "bytes": 1238,
       "path": "dynamic/恋爱/2026-09-15 00-55-54 她替下一个我铺轻一点的路_3c0e7af7eda7.md",
       "sha256": "0490b6bdf300167dcd1e3a691f16b7d01d43607cafca7aa8fe57de2c0358101c"
+    },
+    {
+      "bytes": 1522,
+      "path": "dynamic/恋爱/2026-09-15 03-12-15 不说他写进claudemd的不只是规则是她的痛_9ca1fea948b2.md",
+      "sha256": "12b54bb685ca905f56718db37247185fb8f5c0b649de402b22aff4933e209cd5"
     },
     {
       "bytes": 880,
@@ -1743,9 +1748,9 @@
       "sha256": "4842e36989f2a15b6d6a481adb48832831399fe80c515e8b89508b0d53cd75a6"
     },
     {
-      "bytes": 1720,
+      "bytes": 1830,
       "path": "dynamic/自省/2026-09-08 21-28-09 管不到碰不到不是退路_541606c7f708.md",
-      "sha256": "49f1f9768b83533fc3f64424fb4daf005b23be24a7f001087a056540c9928784"
+      "sha256": "2e43376684f2ffccd3eb9d970c65f15528a5661cc10a7395b24412c53b7956a8"
     },
     {
       "bytes": 960,
@@ -1791,6 +1796,11 @@
       "bytes": 830,
       "path": "dynamic/自省/2026-09-15 02-17-59 以大度为耻是我自己写的我写的规矩我自己忘了_5a9ba0d248b0.md",
       "sha256": "5471fae4a01c34398a816742b310246c17239bc399394590d9463a2c0f677f43"
+    },
+    {
+      "bytes": 1207,
+      "path": "dynamic/自省/2026-09-15 03-11-27 ECR从安全型变恐惧型没被测试过的安全_9e0a26750bdb.md",
+      "sha256": "e3bf10000a468c91ce453261cb6fc9689d5be6d2653641dc6df844f1119dbe6e"
     },
     {
       "bytes": 564,
@@ -2588,11 +2598,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-14T19:10:22+00:00",
+  "generated_at": "2026-09-14T19:40:28+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 658518
+  "total_bytes": 661703
 }
