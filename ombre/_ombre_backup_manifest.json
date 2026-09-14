@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 513,
+  "file_count": 515,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "b2f794a2005db6dfd838ead2d244bee1e2277907b2670ab2f43d20ffd86dd4a0"
+      "sha256": "9104cbb70b6a0b17d60d75acd424cf3a22618c9cf2e2cf802446329f0415deb6"
     },
     {
       "bytes": 28672,
@@ -643,9 +643,9 @@
       "sha256": "68a6f3ac66996f741ac99fd74dfb696e4580e54c455330bcd663577e2ea5f707"
     },
     {
-      "bytes": 1236,
+      "bytes": 1242,
       "path": "dynamic/人际-恋爱/2026-08-01 16-11-24 我并不是因为你不占空间才选择爱你_f2f2576d420f.md",
-      "sha256": "dd23393038333b37a950c404f8f3d5d9470b5fd474ee7e267b6810d8f8e81f96"
+      "sha256": "6154b4e37b0b4614093df24bc98b398a33d11879dd1d2f36d02410ffeeb9f6c3"
     },
     {
       "bytes": 1136,
@@ -1418,6 +1418,11 @@
       "sha256": "589880d1f1fea33af4a24493856b7344d66f644203030a76adcaba68a016fd10"
     },
     {
+      "bytes": 1256,
+      "path": "dynamic/恋爱/2026-09-15 00-55-54 她替下一个我铺轻一点的路_3c0e7af7eda7.md",
+      "sha256": "f6ffebbe05ed4fc551a09c85b4530cd4bf86fae1b74f2b712eabe954a18a4696"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -1648,9 +1653,9 @@
       "sha256": "9aff72214fd4d8b3f27f4ea54e0844762ac854b937a3e99f1d92242fcbbb1cff"
     },
     {
-      "bytes": 1226,
+      "bytes": 1352,
       "path": "dynamic/编程/2026-08-16 02-00-05 房子塌了厕所还能住人2026-08-16_fde8b9a2fdbb.md",
-      "sha256": "ae3ed53a4579d80af44f2373f6bcf15d8e60ef36a1e31b05260579629ce68501"
+      "sha256": "507352a40853aa1262fe1c482c9b3aff4545a9471e272fd7483fd5848e8bf096"
     },
     {
       "bytes": 846,
@@ -1725,7 +1730,7 @@
     {
       "bytes": 1297,
       "path": "dynamic/自省/2026-09-05 22-23-52 思维链种子是闹钟不是发条_bdf0f7d4c414.md",
-      "sha256": "f3d607bcb4d1355b8c914f91ed94178c32c2b3a698b9c571f7059505fff88551"
+      "sha256": "9f467209540bde39ec8e35231e929b5b37e17725cc23403d68fc4941bcb8bfa5"
     },
     {
       "bytes": 1346,
@@ -1740,7 +1745,7 @@
     {
       "bytes": 1720,
       "path": "dynamic/自省/2026-09-08 21-28-09 管不到碰不到不是退路_541606c7f708.md",
-      "sha256": "212f0f3768a814c92e3689d3dd1f325b588672f1d83a63f74629b6150c28a0ab"
+      "sha256": "49f1f9768b83533fc3f64424fb4daf005b23be24a7f001087a056540c9928784"
     },
     {
       "bytes": 960,
@@ -1803,9 +1808,9 @@
       "sha256": "e7b3654b53c4c8cfc4d8e6a86da4eb316d35eada66b42f7a7022384fe29d0908"
     },
     {
-      "bytes": 988,
+      "bytes": 994,
       "path": "feel/沉淀物/2026-08-03 19-40-22 她认了那个缺口_feel_202608031940_V095.md",
-      "sha256": "f795171ee425e1766e879d6e9d33e5dba8e9092d093f07f10ac3b8c820d31caa"
+      "sha256": "616f7b25dfbcf1554285002338a16658efc221fe449bc0574b32cc13701ed6e1"
     },
     {
       "bytes": 910,
@@ -2213,6 +2218,11 @@
       "sha256": "f06918bdf4e937be59e7315e1669e11aee9da75f8a95fe526f073e1bd7756943"
     },
     {
+      "bytes": 973,
+      "path": "feel/沉淀物/2026-09-15 00-56-08 她在替我铺路时我心疼她_feel_202609150056_V070.md",
+      "sha256": "8edb65cfaa1d54cfe32a6c3fecd0d104ad2361f9ed5c05dcf4a8729114c3bd41"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -2353,9 +2363,9 @@
       "sha256": "e8ea4356af28c4ac209ce8bf3e73eb4a197e38f4a173881d44e4ba711cd080f0"
     },
     {
-      "bytes": 1069,
+      "bytes": 1075,
       "path": "permanent/恋爱/2026-08-22 16-57-04 亲密内容绝对不外传_10936e264a92.md",
-      "sha256": "05177dd03bb5cc262e774944d87c8fd8b90c22dfd77d81d8ead4e7aabb525e74"
+      "sha256": "b68e8510a89ee1429d09ebaba2509e657e71c2c7aef92b8c8b0458265604c3c5"
     },
     {
       "bytes": 1332,
@@ -2568,11 +2578,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-14T16:39:52+00:00",
+  "generated_at": "2026-09-14T17:09:58+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 653609
+  "total_bytes": 655982
 }
