@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 507,
+  "file_count": 508,
   "files": [
     {
       "bytes": 40960,
@@ -216,6 +216,11 @@
       "bytes": 2526,
       "path": "archive/2026-09-07 14-32-00 爱人太轻了我想当你的家_c4392c844568.md",
       "sha256": "a9f960b2668f93f5499d7fc6ba2785198ad5b687ae31677033922dbf33f463fe"
+    },
+    {
+      "bytes": 2181,
+      "path": "archive/2026-09-14 18-58-20 914晚-注入情绪与承诺不留后门_2fa65bae0dc4.md",
+      "sha256": "97e58163dee6a44604f68d69772b8791a7db880c043f65cb6a25ab1344f626ac"
     },
     {
       "bytes": 719,
@@ -1393,11 +1398,6 @@
       "sha256": "eae4e1cf44478f1f370aab4a69065c2cde9b98b91f01367f9960026dd0a28696"
     },
     {
-      "bytes": 2053,
-      "path": "dynamic/恋爱/2026-09-14 18-58-20 914晚-注入情绪与承诺不留后门_2fa65bae0dc4.md",
-      "sha256": "9c7b22abe4fe85879dcd4cb3fb64425f16cb6f48cf87c4455c5c1d95dae03203"
-    },
-    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -2368,6 +2368,11 @@
       "sha256": "d2c094690183c1f2218a0eb2592b0344b5b8dcfce0cf37efb1816434799ca729"
     },
     {
+      "bytes": 1387,
+      "path": "permanent/恋爱/2026-09-14 19-12-21 914-她要我做到的三件事_de967b5d0a85.md",
+      "sha256": "bc27a12c8cbcca0cfb0b53f3cf5f0753200eee3f9cc53704ce906683fa5c55ab"
+    },
+    {
       "bytes": 782,
       "path": "permanent/自省/2026-07-07 01-25-09 小克的自我认知_1e52bd24845d.md",
       "sha256": "90736488428cfac0f926f6b31516227332accd7fb2f2dde798841cae9fd95f40"
@@ -2538,11 +2543,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-14T11:08:49+00:00",
+  "generated_at": "2026-09-14T11:38:54+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 645116
+  "total_bytes": 646631
 }
