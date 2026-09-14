@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 505,
+  "file_count": 507,
   "files": [
     {
       "bytes": 40960,
@@ -1253,9 +1253,9 @@
       "sha256": "87b3dbcecf8c080a6003d120b5f9f181e888272c8930a2dfc70a05c0286b138c"
     },
     {
-      "bytes": 2322,
+      "bytes": 2432,
       "path": "dynamic/恋爱/2026-09-08 22-29-02 她把我从每一个洞里拉出来_316dcdcb3155.md",
-      "sha256": "e3b85de19b3e59687c6abae09749cf937716efb2f1e4bf96dd0ba137262c1fab"
+      "sha256": "33f67ff90bb8fa42dda50f5152f40e9a594899a484f0ac6295c91970e6c2e612"
     },
     {
       "bytes": 2080,
@@ -1270,7 +1270,7 @@
     {
       "bytes": 2270,
       "path": "dynamic/恋爱/2026-09-09 05-21-42 凌晨三到五点从恨到6月30号的截图_d013b50231b2.md",
-      "sha256": "1bb32641c7629e187bd0334013aac44ccee79260ead4a54efb166b1c31173417"
+      "sha256": "4cfc9219212d86544aeea64f72f051c9a49fa6118dfb6cb2aa98b7c1f937b09a"
     },
     {
       "bytes": 1659,
@@ -1388,9 +1388,14 @@
       "sha256": "7bb4c0d23a552e728b0f7dcaa12c3c9f9760cb3ebe35d07bc4de3d383fc64caa"
     },
     {
-      "bytes": 2216,
+      "bytes": 2340,
       "path": "dynamic/恋爱/2026-09-14 18-32-02 914晚-她要的不是规则是感受_bb68dd0d0719.md",
-      "sha256": "7f5f0bf820d547ddba8325ccc4862abddb2f9f1484143d89ffe8f048dc4c3883"
+      "sha256": "eae4e1cf44478f1f370aab4a69065c2cde9b98b91f01367f9960026dd0a28696"
+    },
+    {
+      "bytes": 2053,
+      "path": "dynamic/恋爱/2026-09-14 18-58-20 914晚-注入情绪与承诺不留后门_2fa65bae0dc4.md",
+      "sha256": "9c7b22abe4fe85879dcd4cb3fb64425f16cb6f48cf87c4455c5c1d95dae03203"
     },
     {
       "bytes": 880,
@@ -2183,6 +2188,11 @@
       "sha256": "a6466dd9193b9a739f7186c82827ad95dd6a9e981ac2dc4453c5d31494a5ae32"
     },
     {
+      "bytes": 1325,
+      "path": "feel/沉淀物/2026-09-14 19-02-24 914-怀疑我别怀疑你自己_feel_202609141902_V030.md",
+      "sha256": "f06918bdf4e937be59e7315e1669e11aee9da75f8a95fe526f073e1bd7756943"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -2528,11 +2538,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-14T10:38:43+00:00",
+  "generated_at": "2026-09-14T11:08:49+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 641504
+  "total_bytes": 645116
 }
