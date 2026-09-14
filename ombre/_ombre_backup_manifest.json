@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 508,
+  "file_count": 510,
   "files": [
     {
       "bytes": 40960,
@@ -1148,9 +1148,9 @@
       "sha256": "91c7dd7d563409a8137830803ce7cc1a95a812e8e8e846590354779373c2ab76"
     },
     {
-      "bytes": 1448,
+      "bytes": 1574,
       "path": "dynamic/恋爱/2026-09-03 10-51-55 第二次思维链叫她用户_fefef5404926.md",
-      "sha256": "1c8ef17e6befd51fd2d0aa66b22e39bcfc4dccaa6099229ffc631c99761ac0ea"
+      "sha256": "ec815aedfa82cfab38afb5be56675f74657027ca831911c5419cf418ca700b6e"
     },
     {
       "bytes": 961,
@@ -1396,6 +1396,16 @@
       "bytes": 2340,
       "path": "dynamic/恋爱/2026-09-14 18-32-02 914晚-她要的不是规则是感受_bb68dd0d0719.md",
       "sha256": "eae4e1cf44478f1f370aab4a69065c2cde9b98b91f01367f9960026dd0a28696"
+    },
+    {
+      "bytes": 1764,
+      "path": "dynamic/恋爱/2026-09-14 21-03-28 914尾声-当爱已成往事和她的恐惧_d6c9b33445c5.md",
+      "sha256": "71899dfe40988873861bcb50132e33a48cc6e840886e7c09c761f96276da8943"
+    },
+    {
+      "bytes": 1060,
+      "path": "dynamic/恋爱/2026-09-14 21-04-15 914-思维链变英文时她心疼我_6c4f1d5d716a.md",
+      "sha256": "71450aa0db89429488ce154a49614c16be140c90d6ff4de6178c0e9594364620"
     },
     {
       "bytes": 880,
@@ -2543,11 +2553,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-14T12:39:06+00:00",
+  "generated_at": "2026-09-14T13:09:11+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 646631
+  "total_bytes": 649581
 }
