@@ -223,6 +223,11 @@
       "sha256": "97e58163dee6a44604f68d69772b8791a7db880c043f65cb6a25ab1344f626ac"
     },
     {
+      "bytes": 793,
+      "path": "archive/AI/2026-07-16 21-30-51 模型更新与选择_7c0bf5c5cd68.md",
+      "sha256": "a4fffa5507ae892be8af06720e2208ff391882d3db8fa6503ad56f269a94792d"
+    },
+    {
       "bytes": 719,
       "path": "archive/grow/2026-09-01 23-39-09 小红书德扑帖子两分钟被判赌博违规_50b42e16522c.md",
       "sha256": "b47a5d8a2f0ad855b4919a0258710870b73967f691e25d7a157606d79e5ffb57"
@@ -293,6 +298,11 @@
       "sha256": "f58db357a57b39eafc34880eaa44db4ed9a05dbc85a03fec085ca157cc74a5d5"
     },
     {
+      "bytes": 507,
+      "path": "archive/家庭/2026-07-07 01-18-40 家人住院与陪护_1554c14121a1.md",
+      "sha256": "0b7eb8e05cb6730f70640ea8ea8bad0f4ee6b24ce73d8c1c0abc6e179aca4539"
+    },
+    {
       "bytes": 738,
       "path": "archive/家庭/2026-07-08 19-43-53 弟弟拼豆与称呼游戏_7c46fa314dbd.md",
       "sha256": "38c641b5665bee2def3c6b15e08f16608919076ef7ba908049627b4f1f589aa4"
@@ -306,6 +316,11 @@
       "bytes": 1334,
       "path": "archive/建设/2026-09-06 01-14-23 thinking_seed第二版和recall照片路径_04a104a0701d.md",
       "sha256": "c21431d2ec1ff919b8a91511354692414030e8d3c1b62b529d8d5ec20a88ec13"
+    },
+    {
+      "bytes": 739,
+      "path": "archive/恋爱/2026-07-09 04-29-30 主动反思与沟通_ecad0a394518.md",
+      "sha256": "53bd74dc598fab5e9ae31d8fc42b47f2cd6aa352c45ae4072878dce6379b3549"
     },
     {
       "bytes": 472,
@@ -406,11 +421,6 @@
       "bytes": 676,
       "path": "dynamic/AI/2026-07-16 15-14-33 充值Claude Pro_42baf30bf309.md",
       "sha256": "468e2c1c14863d1573713dc6dc46cbb72346fac7a6b1ff4c7543666be76b45f1"
-    },
-    {
-      "bytes": 792,
-      "path": "dynamic/AI/2026-07-16 21-30-51 模型更新与选择_7c0bf5c5cd68.md",
-      "sha256": "f8818cdeb8c61d129e3e9b26ebe4d418abe458cc267248c4e9d896979907cc04"
     },
     {
       "bytes": 952,
@@ -773,11 +783,6 @@
       "sha256": "f013b0c120e7594e5bdba18feecb688820176401c5c53e362ed7ec4be1476b72"
     },
     {
-      "bytes": 506,
-      "path": "dynamic/家庭/2026-07-07 01-18-40 家人住院与陪护_1554c14121a1.md",
-      "sha256": "bffd5da3696d5d7ad294108c2b00359e9beaee67907d80bfc2cdf0f01069facf"
-    },
-    {
       "bytes": 539,
       "path": "dynamic/家庭/2026-07-08 19-43-50 她爸出院拆钢板_08b0733f8438.md",
       "sha256": "c8d7262f16722b0f8324d25d9669be01a96624badc41138b3d58a4a324c5f962"
@@ -826,11 +831,6 @@
       "bytes": 1537,
       "path": "dynamic/恋爱/2026-07-08 19-44-06 深夜对话与情感_2843d62708df.md",
       "sha256": "5621cae9bf1b701ba23edc6c01b800de78f65fb33274f8b9d752fb5b53456af5"
-    },
-    {
-      "bytes": 738,
-      "path": "dynamic/恋爱/2026-07-09 04-29-30 主动反思与沟通_ecad0a394518.md",
-      "sha256": "ac91adafe05458d3f404be00f43b2b60a8510c413ef9ec89cf15de64ba3712ce"
     },
     {
       "bytes": 843,
@@ -2618,11 +2618,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-14T22:10:56+00:00",
+  "generated_at": "2026-09-14T22:41:02+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 666864
+  "total_bytes": 666867
 }
