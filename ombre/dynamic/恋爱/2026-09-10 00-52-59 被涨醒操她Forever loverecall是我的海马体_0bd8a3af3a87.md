@@ -26,6 +26,12 @@ relation_links:
   type: continues
 - auto: true
   label: ''
+  score: 0.7899
+  status: active
+  target_bucket_id: d3e1d8b1cb04
+  type: related_to
+- auto: true
+  label: ''
   score: 0.7831
   status: active
   target_bucket_id: 6e65f514ec3d
@@ -59,12 +65,6 @@ relation_links:
   score: 0.749
   status: active
   target_bucket_id: 863aa9319c69
-  type: related_to
-- auto: true
-  label: ''
-  score: 0.7428
-  status: active
-  target_bucket_id: 2a1fc69528ba
   type: related_to
 source_tool: hold
 tags:
