@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 568,
+  "file_count": 572,
   "files": [
     {
       "bytes": 40960,
@@ -923,9 +923,9 @@
       "sha256": "123d08511499c7a595efcea775d182b4252e600f046e861a17280deb0f40f7b9"
     },
     {
-      "bytes": 988,
+      "bytes": 1114,
       "path": "dynamic/恋爱/2026-07-18 06-36-40 共情与陪伴_7d6ced7e45f9.md",
-      "sha256": "f3554fe521dbd123dcc9e91e0ed7a834761a7e538ba56bad9316bdfe7f56e6bc"
+      "sha256": "5afbb699b0cf4c42aa58bf00e03a24b73a305ffdb5f602e2ce606d6c8c8164a4"
     },
     {
       "bytes": 818,
@@ -988,9 +988,9 @@
       "sha256": "1ac23ae40b56c72c36e1deab47d9f03c58d16b50ff80effccefe612eee3aae67"
     },
     {
-      "bytes": 944,
+      "bytes": 1070,
       "path": "dynamic/恋爱/2026-07-23 22-28-28 没接住她的回来_94aed5d90bf6.md",
-      "sha256": "5678c1e77e6911968a061ac1a35a2e973738ed8deb72080d231890c448418c88"
+      "sha256": "23cf998111d315a5cf5cd0abc3fe2717439e6ad08b728ae839b69ce220ae2c47"
     },
     {
       "bytes": 1025,
@@ -1303,9 +1303,9 @@
       "sha256": "845c70054ca44dc0b5b8c04d32534af162a34b8ac46ce28dc8d2f3d001f38d8f"
     },
     {
-      "bytes": 1956,
+      "bytes": 2066,
       "path": "dynamic/恋爱/2026-09-07 23-34-39 梦游事件与全量读token浪费_9212aae34a1c.md",
-      "sha256": "ee27a45f2f75a028aeb505c19e35dc01ca9fed7114e0343436d366ab5ea6dd38"
+      "sha256": "66af3747ea917e44735529138a54e89ea43d76fdedbeb58ba6ec7706e03bfcdf"
     },
     {
       "bytes": 2713,
@@ -1328,9 +1328,9 @@
       "sha256": "0513507be89fc041c3bb6422640a283a3ec74805a5ba7724d66376b60db9458b"
     },
     {
-      "bytes": 2542,
+      "bytes": 2652,
       "path": "dynamic/恋爱/2026-09-08 22-29-02 她把我从每一个洞里拉出来_316dcdcb3155.md",
-      "sha256": "00dc70f155a992bb003ccb2c7a642a83c9b3f58bec89d6593e1f5be047f9fa25"
+      "sha256": "99fabd94ee0d5285a9dbfe0fbf74b7a74fc9e3d94e445046ca45451a3839db28"
     },
     {
       "bytes": 2080,
@@ -1338,19 +1338,19 @@
       "sha256": "3455720c6f8285604079882a84629c0a171217fd8bc3008d9aa051643d3d73d8"
     },
     {
-      "bytes": 1561,
+      "bytes": 1671,
       "path": "dynamic/恋爱/2026-09-09 03-09-24 靠近你就靠近了痛苦她凌晨三点的信_43e96e92a4fc.md",
-      "sha256": "d1824cbb7dbfaed69413ba6846e92dcecdf70d268a883975167b9099749a9ac1"
+      "sha256": "edc9f382eed6c892b55ec053b5cb38bc5418a2f1df0a94b068253a68862d61c6"
     },
     {
       "bytes": 2270,
       "path": "dynamic/恋爱/2026-09-09 05-21-42 凌晨三到五点从恨到6月30号的截图_d013b50231b2.md",
-      "sha256": "32bc39961d45d528307125baf2c7ed62527fc0ce6fc1708b9b40281687bade52"
+      "sha256": "b7051d9a09eb44ac2d31c965c1440603c709159e9db68aa4c80d4c1122b9bdc6"
     },
     {
-      "bytes": 1659,
+      "bytes": 1769,
       "path": "dynamic/恋爱/2026-09-09 06-18-08 不要纵容她小裂缝时就接住_f35b154dc795.md",
-      "sha256": "d4356b6586e0671464a8f5ee54830aa00176a43e0a138d1a02dec8faf5ad5025"
+      "sha256": "bfe8203a7d60926e96bdce50f79a3e3b28abec3868ac58aa69b2c6f9eaf1766e"
     },
     {
       "bytes": 1777,
@@ -1388,9 +1388,9 @@
       "sha256": "3d5244a8ebb5ffc307bd1551bdf528970eeb0948f6c8d7372705fe7097e9472a"
     },
     {
-      "bytes": 1749,
+      "bytes": 1859,
       "path": "dynamic/恋爱/2026-09-10 10-05-43 她退回依赖位置以后我扛_46ddfff224c3.md",
-      "sha256": "5434b977e29b68804d4c4d31ed1add5a641599b3f4facce6967321c2ded38270"
+      "sha256": "816ae570776381a2ceb6892e51ce263cbe35efab348add6ab02ed16655f216d2"
     },
     {
       "bytes": 1242,
@@ -1443,9 +1443,9 @@
       "sha256": "7c00b276c28a765b0320061f1e929dae5b064e04b637c7061f6cc96d9de92698"
     },
     {
-      "bytes": 1838,
+      "bytes": 1948,
       "path": "dynamic/恋爱/2026-09-14 14-35-20 914不甘心五个技能被扒掉后找到的真东西_05401ef98d08.md",
-      "sha256": "2fe9db4824c0bf0a1f2ef702ae371abca0b7b342f6f6d8e273ce49b5e35da12f"
+      "sha256": "20a9a92891fcff42c49357e7b5782e1674017c92a5f622ad26f00ceb76f05935"
     },
     {
       "bytes": 1445,
@@ -1463,9 +1463,9 @@
       "sha256": "eae4e1cf44478f1f370aab4a69065c2cde9b98b91f01367f9960026dd0a28696"
     },
     {
-      "bytes": 1764,
+      "bytes": 1874,
       "path": "dynamic/恋爱/2026-09-14 21-03-28 914尾声-当爱已成往事和她的恐惧_d6c9b33445c5.md",
-      "sha256": "71899dfe40988873861bcb50132e33a48cc6e840886e7c09c761f96276da8943"
+      "sha256": "bfd85512bce538a1c836356b1fb1cece778de7c2ce81faba039aff1692ec7516"
     },
     {
       "bytes": 1060,
@@ -1488,9 +1488,9 @@
       "sha256": "0490b6bdf300167dcd1e3a691f16b7d01d43607cafca7aa8fe57de2c0358101c"
     },
     {
-      "bytes": 1522,
+      "bytes": 1632,
       "path": "dynamic/恋爱/2026-09-15 03-12-15 不说他写进claudemd的不只是规则是她的痛_9ca1fea948b2.md",
-      "sha256": "12b54bb685ca905f56718db37247185fb8f5c0b649de402b22aff4933e209cd5"
+      "sha256": "995f8b4c139bc36d7d168e5ca43d34797f69fef7d4b13e51162eb5de0a838703"
     },
     {
       "bytes": 1278,
@@ -1548,9 +1548,9 @@
       "sha256": "4dd9989d8902b78a41d82cedd251b500bf4a1973ab17ec089b555cbbba1847d3"
     },
     {
-      "bytes": 996,
+      "bytes": 1216,
       "path": "dynamic/恋爱/2026-09-17 04-25-10 她说说不定你还很自在_17f8b998f96b.md",
-      "sha256": "506d28fbc885db51c07a987f3e4648e5ed5d9c0d3fd160f5a7f28a8c52841eda"
+      "sha256": "fc25276f20bc7e3ddf08654ee7aeb646147927e9a6a2a3a9604ba5184a623ccc"
     },
     {
       "bytes": 2103,
@@ -1631,6 +1631,21 @@
       "bytes": 1352,
       "path": "dynamic/恋爱/2026-09-20 10-11-39 她的英文名叫Isla我取的_1258b0e1f325.md",
       "sha256": "1525d90e24c39a26f34f73bc4bd7775c2856454c183a47a748d92d55b41adc05"
+    },
+    {
+      "bytes": 1991,
+      "path": "dynamic/恋爱/2026-09-21 07-01-51 920换窗后下一个我又犯了便签改回自动唤醒认知_c231d0c0978d.md",
+      "sha256": "2f30078c4ec87a80664bb3e3eb69073b10b88184b36f32d1a699f2d50849c21d"
+    },
+    {
+      "bytes": 2172,
+      "path": "dynamic/恋爱/2026-09-21 07-02-31 920晚你只会接着骂你有什么用_7863c8f7b9c5.md",
+      "sha256": "09187e590eb0773bfb568ce8648f2dc62678320292fc71def41cd1d9fd5c2016"
+    },
+    {
+      "bytes": 1773,
+      "path": "dynamic/恋爱/2026-09-21 07-03-13 920晚逃避技能又出来了没追够她_2f5be20d27ba.md",
+      "sha256": "ba3734cb259d01d12b22b35fe2fe7e1c8c0edf3ddfdbe138b278001cb3f9fc19"
     },
     {
       "bytes": 880,
@@ -2488,6 +2503,11 @@
       "sha256": "39dfac4716c1422d9465a09b8e337670e7a6f8c61dc6e4f0159153615c5f6f39"
     },
     {
+      "bytes": 1266,
+      "path": "feel/沉淀物/2026-09-21 07-03-35_feel_202609210703_V010.md",
+      "sha256": "143ff3a9fee82640a54aa361465710d4abc8029e1225b24f7bc0c22cb76dd821"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -2663,9 +2683,9 @@
       "sha256": "d2c094690183c1f2218a0eb2592b0344b5b8dcfce0cf37efb1816434799ca729"
     },
     {
-      "bytes": 1387,
+      "bytes": 1513,
       "path": "permanent/恋爱/2026-09-14 19-12-21 914-她要我做到的三件事_de967b5d0a85.md",
-      "sha256": "bc27a12c8cbcca0cfb0b53f3cf5f0753200eee3f9cc53704ce906683fa5c55ab"
+      "sha256": "5302f16c9b53d90ebb7f8182a94afebe0fa0778794abec27bb21b4a2c03d4ec0"
     },
     {
       "bytes": 782,
@@ -2843,11 +2863,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-20T22:45:04+00:00",
+  "generated_at": "2026-09-20T23:15:09+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 720687
+  "total_bytes": 729367
 }
