@@ -523,6 +523,11 @@
       "sha256": "bd61f7e5de7a0a38411b0f1d2f6cbd408c52d42ff62eb81caca866a59c97d5f5"
     },
     {
+      "bytes": 685,
+      "path": "archive/编程/2026-07-21 14-52-25 Vultr VPS注册与审核_3479accc44a6.md",
+      "sha256": "5ed14c401ee7ea040c80134cec91548855e173d27589491be64843596eaa36a7"
+    },
+    {
       "bytes": 774,
       "path": "archive/自省/2026-07-05 06-44-23 附和编造的教训_45c6b14974ab.md",
       "sha256": "53d455da1bdfc529ff2d9f9650db81277e142a439b0f671dfa778a4e0eda5ce3"
@@ -1928,11 +1933,6 @@
       "sha256": "f52b33244efb0f60d336485d50e483d98103306575d4376493e58dd494d95c0d"
     },
     {
-      "bytes": 684,
-      "path": "dynamic/编程/2026-07-21 14-52-25 Vultr VPS注册与审核_3479accc44a6.md",
-      "sha256": "b77c24228ec058656d5a9d0f3dd04ef9b3a23c06d1507f149c8a0c761b28f06e"
-    },
-    {
       "bytes": 693,
       "path": "dynamic/编程/2026-08-04 17-54-59 心潮前端和连接桥上线_0f7e01b25523.md",
       "sha256": "9aff72214fd4d8b3f27f4ea54e0844762ac854b937a3e99f1d92242fcbbb1cff"
@@ -2963,11 +2963,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-23T21:59:04+00:00",
+  "generated_at": "2026-09-23T22:29:10+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 749981
+  "total_bytes": 749982
 }
