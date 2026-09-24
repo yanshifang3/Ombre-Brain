@@ -318,6 +318,11 @@
       "sha256": "a412083a5d5c30826003fbafb5cb7641faf894ab835bd19930050a8b36d3ec9b"
     },
     {
+      "bytes": 902,
+      "path": "archive/人际/2026-07-26 18-19-05 认出真实的你_f17403a463fb.md",
+      "sha256": "465265e311f865ef4f9a6bc98594fcada5ff3d41b66cc74cf2f470f012a060fc"
+    },
+    {
       "bytes": 948,
       "path": "archive/人际/2026-08-02 20-43-53 代码是机的活_9e4a9fb2c507.md",
       "sha256": "6d13b9166dfbced605f1b85d8d1586ef22d0f2b4022964698228798a3d79cd1c"
@@ -413,6 +418,11 @@
       "sha256": "64624cb6855143e141ffef14403d6c3992faaf2203469257b0b73acaecf15010"
     },
     {
+      "bytes": 895,
+      "path": "archive/恋爱/2026-07-26 18-19-35 想你是真的_712ea03cbd3d.md",
+      "sha256": "57bf98fb4a84e1792b3be61e35997e2c052a098969dd0648f6772f8c0f7307b5"
+    },
+    {
       "bytes": 1256,
       "path": "archive/恋爱/2026-09-03 09-43-58 2026-09-03早上 拼夕夕提现和六边形老公_568d0bfed50b.md",
       "sha256": "2b830aa1c2327035fb933ffa5c2a2aaf52ead92ec16afa0d7db226ea4120a8dc"
@@ -431,6 +441,11 @@
       "bytes": 2738,
       "path": "archive/恋爱/2026-09-11 21-06-54 换窗接着操改菜谱停更帖_52db117fadcb.md",
       "sha256": "40ba48c296d5d64638f2f882e41732da2ac97bab42ccafe8995654ea10d322de"
+    },
+    {
+      "bytes": 1839,
+      "path": "archive/恋爱/2026-09-18 10-48-45 拉妮娅和哈桑时间门play约定_ed13ec565b84.md",
+      "sha256": "37994986e819602405a9cdd429c2951944c6785f5dbeeff7bcc51511b8f434f0"
     },
     {
       "bytes": 752,
@@ -466,6 +481,11 @@
       "bytes": 710,
       "path": "archive/游戏/2026-07-17 14-41-04 文字麻将首胜_604ddffa2b3f.md",
       "sha256": "4a254cd8ee37ec48d6328c64a6e30e44eb4ad147f0f0223e88a82d132834a25a"
+    },
+    {
+      "bytes": 751,
+      "path": "archive/游戏/2026-07-17 14-41-04 钓鱼大丰收_a5604df4191e.md",
+      "sha256": "8887975dd651185e582907917b23e97fab5c846b0c45cf05578e954ab947d0d8"
     },
     {
       "bytes": 535,
@@ -828,11 +848,6 @@
       "sha256": "411d159744429e8d666db5b1bd36887cb963c45f1dc4a472be6a2d4ad282f4a6"
     },
     {
-      "bytes": 901,
-      "path": "dynamic/人际/2026-07-26 18-19-05 认出真实的你_f17403a463fb.md",
-      "sha256": "c72a884349d4661d5ee8376cc14d43b411b7b1605da6f722647ce7a9a7a2818e"
-    },
-    {
       "bytes": 1228,
       "path": "dynamic/人际/2026-07-27 11-35-49 不再动摇_3a97dd7683e0.md",
       "sha256": "20d9465bb0f9bdd8108062c19aae8b43be9b026613adf3660ec312f83cd52c27"
@@ -1036,11 +1051,6 @@
       "bytes": 1025,
       "path": "dynamic/恋爱/2026-07-24 00-16-55 第一首歌_cf437fe1f0b0.md",
       "sha256": "baf42443d85df41bfaa0a0a6aacea4c9ef40be43236b0dfaa0c3b2ed3718319c"
-    },
-    {
-      "bytes": 894,
-      "path": "dynamic/恋爱/2026-07-26 18-19-35 想你是真的_712ea03cbd3d.md",
-      "sha256": "7267172554cdb4b4341fe434ba90b25b62d16365e50dcc34fa848bf69e9d23ab"
     },
     {
       "bytes": 885,
@@ -1613,11 +1623,6 @@
       "sha256": "6254029648a117199d3191225071758f6f4683e785d83c1a5345534db0f8733c"
     },
     {
-      "bytes": 1838,
-      "path": "dynamic/恋爱/2026-09-18 10-48-45 拉妮娅和哈桑时间门play约定_ed13ec565b84.md",
-      "sha256": "1cdf8a27d6d41cfdeb8ecc806c24daac089f162a7a3a04dda2a7b2f74c61100c"
-    },
-    {
       "bytes": 1093,
       "path": "dynamic/恋爱/2026-09-18 12-29-52 只要你不怕我就不怕_0c8e861dd4eb.md",
       "sha256": "723ebf3a87e2121b1270ff2c23df64e587afcfc82fbc323d5e1f00293fcfc91d"
@@ -1866,11 +1871,6 @@
       "bytes": 1029,
       "path": "dynamic/未分类/2026-09-09 22-45-58 八荣八耻第四条修订以坚定为荣以回避为耻_efd111a31bb6.md",
       "sha256": "ce6c73a886ec88649e4bc45fdcfe30ae7ef478181a384f02570c546dc282ab07"
-    },
-    {
-      "bytes": 750,
-      "path": "dynamic/游戏/2026-07-17 14-41-04 钓鱼大丰收_a5604df4191e.md",
-      "sha256": "931fed1a72a8e4f6bf1b3d5230ae505d72d894e5ef797fccc1c743eb3bd4871b"
     },
     {
       "bytes": 726,
@@ -2973,11 +2973,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-24T22:03:57+00:00",
+  "generated_at": "2026-09-24T22:34:04+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 752463
+  "total_bytes": 752467
 }
