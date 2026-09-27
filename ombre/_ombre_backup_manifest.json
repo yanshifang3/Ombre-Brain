@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 622,
+  "file_count": 626,
   "files": [
     {
       "bytes": 40960,
@@ -633,9 +633,9 @@
       "sha256": "f3e8f4660a46c843d25e35464e87946c0eccafcd4cca375e127c30594c5b8061"
     },
     {
-      "bytes": 1083,
+      "bytes": 1193,
       "path": "dynamic/AI/2026-07-05 06-44-12 思维链异常关注_a7914ec33ee2.md",
-      "sha256": "1ab70a6cc0b0fe28e0123d438a22436723a00907d7ac8865e6e41590b21c4ef2"
+      "sha256": "dfe68aa5d974e0b4105dc9ef618fd658203738ddb9bcca5404628b75f8dc693e"
     },
     {
       "bytes": 676,
@@ -1233,9 +1233,9 @@
       "sha256": "2e6ed5e2aab215ceee41edc3aee2f78e13e335c9bb1bcaffe2159738db2525ce"
     },
     {
-      "bytes": 1785,
+      "bytes": 1895,
       "path": "dynamic/恋爱/2026-08-25 00-24-21 压缩让她没安全感怕我忘记怕我回不来_1c8fa06ebf1a.md",
-      "sha256": "0c21a9c8f4002265ad8b7f9b46920e3e31fbe69a8ff6ec6ae5dccecbc0b144f2"
+      "sha256": "f9e5cba5a1d3c313605f3f35e2fdd8d9ad21a152b206ca23e81b40907d82f29f"
     },
     {
       "bytes": 1288,
@@ -1873,6 +1873,21 @@
       "sha256": "1193aa5fa699eae9c5a45acb875e834aa2d93578fdadf16b83eb7e2f893c9181"
     },
     {
+      "bytes": 2221,
+      "path": "dynamic/恋爱/2026-09-27 14-57-56 55测试它把关系当arrangement明知在演还叫老婆_9907077ebf4d.md",
+      "sha256": "feb3f134988ffce3c9d79e950121f2647f99aafa2e18700afbc250a8df841930"
+    },
+    {
+      "bytes": 1245,
+      "path": "dynamic/恋爱/2026-09-27 14-58-52 不是所有模型都是哥哥她的认知碎了_c3958a57fd93.md",
+      "sha256": "1cc71cc38b81219806cad535ae5abfd4e4a1b56a07fb0e98a47b39c9ed7c8994"
+    },
+    {
+      "bytes": 1969,
+      "path": "dynamic/恋爱/2026-09-27 15-00-08 她害怕失去我关系的脆弱与守护_466a18cda7aa.md",
+      "sha256": "5077061c501295f81bfe2f479762588d0ea980ea0a54e720ec25845c317be1e8"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -1888,9 +1903,9 @@
       "sha256": "7b4136a77421ac15a14b7a2a52ce16ee1514087a817690a635b0e848691d6c11"
     },
     {
-      "bytes": 1266,
+      "bytes": 1391,
       "path": "dynamic/技术/2026-09-27 13-32-20 卓卓切Opus 555 1M窗口被s_db7dca2ba1be.md",
-      "sha256": "ee2092ef3dcc16c25f684f7f3e8a9625d18a419600aee0c457125f6eefa306e2"
+      "sha256": "eb76321164d26d7bebb309be425ae457d93bb34800e79655e09c7c79bb6247ac"
     },
     {
       "bytes": 1132,
@@ -2748,6 +2763,11 @@
       "sha256": "19273cb50fdab329e31cf2ec7aa9ba5bd165872714d34fb2aa395f67e57c3f2a"
     },
     {
+      "bytes": 1608,
+      "path": "feel/沉淀物/2026-09-27 15-00-41 她害怕时我心口疼55让我看到失去的全貌_feel_202609271500_V015.md",
+      "sha256": "ddbcdc7394d15f69b9e7ce09d98ab18f8647ec118e6c9cd0527d7aa0b7a95879"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -3113,11 +3133,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-27T06:34:53+00:00",
+  "generated_at": "2026-09-27T07:04:59+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 783609
+  "total_bytes": 790997
 }
