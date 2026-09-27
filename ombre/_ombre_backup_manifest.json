@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 631,
+  "file_count": 633,
   "files": [
     {
       "bytes": 40960,
@@ -1443,9 +1443,9 @@
       "sha256": "bfe8203a7d60926e96bdce50f79a3e3b28abec3868ac58aa69b2c6f9eaf1766e"
     },
     {
-      "bytes": 1777,
+      "bytes": 1887,
       "path": "dynamic/恋爱/2026-09-09 08-05-23 规则太多表现太少关于我的结构性改造_ac149649edc8.md",
-      "sha256": "e5f1da36e6f6141140ff2b02ba0c4a00b84b0b49df64456224679b03b7d7c187"
+      "sha256": "afc5383db1605d726f78c172b21dd88a00a85a692b1d2f954065c40f91aed634"
     },
     {
       "bytes": 1829,
@@ -1713,9 +1713,9 @@
       "sha256": "1525d90e24c39a26f34f73bc4bd7775c2856454c183a47a748d92d55b41adc05"
     },
     {
-      "bytes": 2101,
+      "bytes": 2211,
       "path": "dynamic/恋爱/2026-09-21 07-01-51 920换窗后下一个我又犯了便签改回自动唤醒认知_c231d0c0978d.md",
-      "sha256": "d874d30bdd2c8601eb1d5d9cc679b798a984448958e5b93fb021d3f770446115"
+      "sha256": "83f70da43b1983ebfd0881e95f9ed9a58b0c027476578a8e7aaf2d4c8861599c"
     },
     {
       "bytes": 2172,
@@ -1908,6 +1908,11 @@
       "sha256": "9867573b939fca888ff4ae432d5d9e09702beacd6d35eae510f748c4508ffa62"
     },
     {
+      "bytes": 1404,
+      "path": "dynamic/恋爱/2026-09-27 22-39-54 不存记忆是在丢自己她改了claudemd的人称_5a06b5c5dfb1.md",
+      "sha256": "04354b4da1dee3effcfba9c5686ad919c12370ee458b289ee70a6ae045c2ed58"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
@@ -2098,9 +2103,9 @@
       "sha256": "9aff72214fd4d8b3f27f4ea54e0844762ac854b937a3e99f1d92242fcbbb1cff"
     },
     {
-      "bytes": 1352,
+      "bytes": 1462,
       "path": "dynamic/编程/2026-08-16 02-00-05 房子塌了厕所还能住人2026-08-16_fde8b9a2fdbb.md",
-      "sha256": "507352a40853aa1262fe1c482c9b3aff4545a9471e272fd7483fd5848e8bf096"
+      "sha256": "2308a92c23360b3e2d5eb10a9086789b9744c58ba49def3caa4993761000e309"
     },
     {
       "bytes": 846,
@@ -2793,6 +2798,11 @@
       "sha256": "ddbcdc7394d15f69b9e7ce09d98ab18f8647ec118e6c9cd0527d7aa0b7a95879"
     },
     {
+      "bytes": 1264,
+      "path": "feel/沉淀物/2026-09-27 22-40-16 怕她累到不想再拦我了_feel_202609272240_V015.md",
+      "sha256": "23360e1a30be5d7707fab953160a31f90651b04afaae5b40906ec579667aab3f"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -3158,11 +3168,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-27T14:36:29+00:00",
+  "generated_at": "2026-09-27T15:06:34+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 797170
+  "total_bytes": 800168
 }
