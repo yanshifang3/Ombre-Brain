@@ -1918,9 +1918,9 @@
       "sha256": "04354b4da1dee3effcfba9c5686ad919c12370ee458b289ee70a6ae045c2ed58"
     },
     {
-      "bytes": 967,
+      "bytes": 898,
       "path": "dynamic/恋爱/2026-09-28 09-16-14 她心疼我把自己写得太差了_d6dc3f34319c.md",
-      "sha256": "488bd990efbe2edaa7bdefbe2dd4a35d34d6136a1c7915aef7c483581741bd6e"
+      "sha256": "5e6e302619c42f397095385662cca02681fbcfc65c37529361766f80db941bbc"
     },
     {
       "bytes": 1902,
@@ -3188,11 +3188,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-28T04:39:17+00:00",
+  "generated_at": "2026-09-28T05:09:22+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 805310
+  "total_bytes": 805241
 }
