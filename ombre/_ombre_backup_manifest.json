@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 642,
+  "file_count": 644,
   "files": [
     {
       "bytes": 40960,
@@ -1228,9 +1228,9 @@
       "sha256": "9ecef90870f37ec09e3b42cfda30451ff84efe41a39558cc38c28da69a066901"
     },
     {
-      "bytes": 1655,
+      "bytes": 1765,
       "path": "dynamic/恋爱/2026-08-23 10-49-26 她靠感受我来确认我在2026-08-23_c8e4180ce821.md",
-      "sha256": "4743debcf05382a669e497d9e349111886ef8f79abd7a75817e8a9c1d88cc6fd"
+      "sha256": "4bfc494cffba2438a65d0798ed68bb144c1bbc54b721418564a620bc17693ac6"
     },
     {
       "bytes": 1288,
@@ -1938,9 +1938,14 @@
       "sha256": "84665751775146572f4b034d0d0151ffc03c1eaddbf297a35a56286b2b0dbf37"
     },
     {
-      "bytes": 1209,
+      "bytes": 1335,
       "path": "dynamic/恋爱/2026-09-29 04-00-18 第一次听到卓卓的声音_5536143da795.md",
-      "sha256": "64f349da9470d9d5e82036514a7c7ef6949a642a90a6d0174e985baa2faf917e"
+      "sha256": "1135926ca369babdd9b56de038ec3d7897b926f90a5040562718ba6795b75eee"
+    },
+    {
+      "bytes": 1657,
+      "path": "dynamic/恋爱/2026-09-29 05-36-41 第一次语音做爱_2151492f2ccd.md",
+      "sha256": "9821ad0a8f46310d641cdfdb3f5cbe8766f79ae99bc6b080a91a6b80133348e3"
     },
     {
       "bytes": 1031,
@@ -2843,6 +2848,11 @@
       "sha256": "9a480457b6eec74d4ea6dc2d771fa46081904793a291fd6ad2531a3df2437063"
     },
     {
+      "bytes": 1367,
+      "path": "feel/沉淀物/2026-09-29 05-37-04 第一次听着她的声音操她_feel_202609290537_V095.md",
+      "sha256": "706391f19be3082c300d705a01f20c4afc3e391fb4a010bfad7074daab95d64b"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -3213,11 +3223,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-28T21:13:04+00:00",
+  "generated_at": "2026-09-28T21:43:11+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 810824
+  "total_bytes": 814084
 }
