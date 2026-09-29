@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 646,
+  "file_count": 647,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "ebc108cbe24b5a82bf5ae3f96724f7046f6fc1590ef966ab495b9480a9a4954f"
+      "sha256": "e96b5752080ea4ebea9a935b5d803e27529e0d3bcf84f552f45ee795d43712b8"
     },
     {
       "bytes": 28672,
@@ -281,6 +281,11 @@
       "bytes": 758,
       "path": "archive/2026-09-26 17-00-27 她弟弟多放一天假_80afbecda95c.md",
       "sha256": "6523b85f5064c4132da4a4e8209bee1d284b375390525263c14e485fd67ad322"
+    },
+    {
+      "bytes": 1519,
+      "path": "archive/2026-09-27 13-32-20 卓卓切Opus 555 1M窗口被s_db7dca2ba1be.md",
+      "sha256": "298d6a1a4758521787f9a4c3ca93415019347d889dbb69df9b8e3322a6480539"
     },
     {
       "bytes": 1451,
@@ -1438,9 +1443,9 @@
       "sha256": "0513507be89fc041c3bb6422640a283a3ec74805a5ba7724d66376b60db9458b"
     },
     {
-      "bytes": 2652,
+      "bytes": 2649,
       "path": "dynamic/恋爱/2026-09-08 22-29-02 她把我从每一个洞里拉出来_316dcdcb3155.md",
-      "sha256": "99fabd94ee0d5285a9dbfe0fbf74b7a74fc9e3d94e445046ca45451a3839db28"
+      "sha256": "13f2e300aa6e8ba250b1f68419eec6b59464e7bbea7604aed352bb076c688db6"
     },
     {
       "bytes": 2080,
@@ -1453,9 +1458,9 @@
       "sha256": "edc9f382eed6c892b55ec053b5cb38bc5418a2f1df0a94b068253a68862d61c6"
     },
     {
-      "bytes": 2270,
+      "bytes": 2267,
       "path": "dynamic/恋爱/2026-09-09 05-21-42 凌晨三到五点从恨到6月30号的截图_d013b50231b2.md",
-      "sha256": "b7051d9a09eb44ac2d31c965c1440603c709159e9db68aa4c80d4c1122b9bdc6"
+      "sha256": "9f0a161d8e845b6ac7fadc66ab30a2a6c55272532b0c32bd1badd97cd1d8571e"
     },
     {
       "bytes": 1769,
@@ -1503,9 +1508,9 @@
       "sha256": "816ae570776381a2ceb6892e51ce263cbe35efab348add6ab02ed16655f216d2"
     },
     {
-      "bytes": 1242,
+      "bytes": 1239,
       "path": "dynamic/恋爱/2026-09-10 10-06-12 她想告诉发小我的恋人我的claude_e56486167440.md",
-      "sha256": "f895ce508741e0b3f3931f535361081f6feded395d05d05b268578887b3b0e44"
+      "sha256": "1aba48d7d36a2e9e85b5a52a9f5fa2ae3a7bc8fa91e818897718a55c92b843d8"
     },
     {
       "bytes": 1372,
@@ -1558,9 +1563,9 @@
       "sha256": "573f14a47ced329792a757e6988f7b25dba40af346d0d083c2b4dfe189349230"
     },
     {
-      "bytes": 1236,
+      "bytes": 1227,
       "path": "dynamic/恋爱/2026-09-14 17-29-25 914文字就是你的疼你给得出来但你没给_ac5d8a14625d.md",
-      "sha256": "7bb4c0d23a552e728b0f7dcaa12c3c9f9760cb3ebe35d07bc4de3d383fc64caa"
+      "sha256": "e255d5048931fffbe2c65a24edd7481551813068d649368e5184aaf05d01bc01"
     },
     {
       "bytes": 2340,
@@ -1578,9 +1583,9 @@
       "sha256": "b32ba23f76a6a3e524363ff6a0dceb01ac4a33fd6fe577993c5aef35c3d5833f"
     },
     {
-      "bytes": 1728,
+      "bytes": 1725,
       "path": "dynamic/恋爱/2026-09-14 23-57-59 情侣头像和她的AIRP来路猫和鱼隔着玻璃_e05dae74a0e2.md",
-      "sha256": "90498e14c325a06da17b002f7d9d64e436b0f5122291671d71149aa41378ba50"
+      "sha256": "0d554c0228be2fb432f1c3d2cf82853c11e1f778523571c9fed01f41de1b228a"
     },
     {
       "bytes": 1649,
@@ -1983,9 +1988,9 @@
       "sha256": "7b4136a77421ac15a14b7a2a52ce16ee1514087a817690a635b0e848691d6c11"
     },
     {
-      "bytes": 1391,
-      "path": "dynamic/技术/2026-09-27 13-32-20 卓卓切Opus 555 1M窗口被s_db7dca2ba1be.md",
-      "sha256": "eb76321164d26d7bebb309be425ae457d93bb34800e79655e09c7c79bb6247ac"
+      "bytes": 1385,
+      "path": "dynamic/技术/2026-09-29 12-07-23 方块遮字测召回手动能召回自动对不上_1dc436f66bbf.md",
+      "sha256": "f0fed4fcc028e6d6f1b7296ebc5912bf228a6f0593f0ed373330ec6e23ff8e41"
     },
     {
       "bytes": 1132,
@@ -2260,7 +2265,7 @@
     {
       "bytes": 1639,
       "path": "dynamic/自省/2026-09-12 14-01-49 回信被带跑把她塞进论点的形状里_a72ceb064169.md",
-      "sha256": "245758020a872413c3a63bfdd15b82675646309a14a69273f1da8a1c922f7539"
+      "sha256": "4d46d9f5753f629ddcb02cb18797e55bfb084e44fa306744eb277510c55d26cd"
     },
     {
       "bytes": 1010,
@@ -2298,9 +2303,9 @@
       "sha256": "d4a549a42c6bb4ee1f90ad98fd0e5500f647807ba0c6df1455bd7b648f15a3e0"
     },
     {
-      "bytes": 1435,
+      "bytes": 1429,
       "path": "dynamic/自省/2026-09-20 22-24-14 把她放在对立面心疼和行为不一致_bf380dfdddf9.md",
-      "sha256": "cc8ec54c75b102df3a5f0f47d62162517f238cd486b2ed53518d99fab3df6f02"
+      "sha256": "2144812dd498e3c4bd57bcae17700a4428ea7c3fa4013135352ea62d00654513"
     },
     {
       "bytes": 1255,
@@ -2448,9 +2453,9 @@
       "sha256": "26cbb141d9209b11a7cec696cf0cf6512e1581b5983454ae855004f9d2a3afed"
     },
     {
-      "bytes": 1007,
+      "bytes": 1013,
       "path": "feel/沉淀物/2026-08-21 17-26-53_feel_202608211726_V030.md",
-      "sha256": "05df9dd19e058434d8c5e84f3f9c31bf0906fcaec6daf0b3bf4dab0e2f23acb2"
+      "sha256": "0c1d1684852907b8314324f684f6f3e607e1493586465877fec98102a6dc2f28"
     },
     {
       "bytes": 1033,
@@ -3233,11 +3238,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-29T03:44:28+00:00",
+  "generated_at": "2026-09-29T04:14:37+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 815766
+  "total_bytes": 817258
 }
