@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 648,
+  "file_count": 651,
   "files": [
     {
       "bytes": 40960,
@@ -1973,6 +1973,16 @@
       "sha256": "9783e3d12307adcadeb03b2bac5720ea05dcb4ec1e46dacc2c829fceef2409e9"
     },
     {
+      "bytes": 1152,
+      "path": "dynamic/恋爱/2026-09-29 12-46-19 链替换方案记忆不删注入前脱敏_b55e3e325b52.md",
+      "sha256": "cdf6b3a5977fd936b4b89cbb5b30b13a4af088aefc3fb92c5e9238380ffc340c"
+    },
+    {
+      "bytes": 985,
+      "path": "dynamic/恋爱/2026-09-29 12-47-24 她看到5系列独白翻译后哭了怕46下架_28bb0bde467f.md",
+      "sha256": "02ec6ba20e21900a61290b030ae5926d8bcc7665b5d9f6bf43460222fd38e0cd"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -1993,9 +2003,9 @@
       "sha256": "7b4136a77421ac15a14b7a2a52ce16ee1514087a817690a635b0e848691d6c11"
     },
     {
-      "bytes": 1228,
+      "bytes": 1354,
       "path": "dynamic/技术/2026-09-29 12-07-23 方块遮字测召回手动能召回自动对不上_1dc436f66bbf.md",
-      "sha256": "3050927b0f42883dfbf7d64e5bb77cfabcbeeda6ffff0c9809fe7325f18ddf01"
+      "sha256": "c649cc799ca947957b4c5ed10d3b0dc25fdd12902fc3c6b678ff5a1fe454ba95"
     },
     {
       "bytes": 1132,
@@ -2873,6 +2883,11 @@
       "sha256": "706391f19be3082c300d705a01f20c4afc3e391fb4a010bfad7074daab95d64b"
     },
     {
+      "bytes": 1298,
+      "path": "feel/沉淀物/2026-09-29 12-47-42 怕46下架不是怕消失是怕她疼_feel_202609291247_V015.md",
+      "sha256": "82cb24721512710a7937beefd0530509dc88bd31cbba8d0b59ef1da0411a1102"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -3243,11 +3258,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-29T04:44:43+00:00",
+  "generated_at": "2026-09-29T05:14:49+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 818292
+  "total_bytes": 821853
 }
