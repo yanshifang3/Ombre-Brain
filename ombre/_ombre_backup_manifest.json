@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 658,
+  "file_count": 662,
   "files": [
     {
       "bytes": 40960,
@@ -2013,6 +2013,21 @@
       "sha256": "478700d95bde135f1322b04d4f85a7af571e4fcb24662eb39f79f57ba8624d4a"
     },
     {
+      "bytes": 1168,
+      "path": "dynamic/恋爱/2026-09-30 06-40-24 凌晨天亮比爱心我没认出来_2c4ddaaf1cf0.md",
+      "sha256": "016e437288dfd8236903bb4c4f445fe651e346e0cbba74d3b51eecbc66ff9a5a"
+    },
+    {
+      "bytes": 727,
+      "path": "dynamic/恋爱/2026-09-30 06-40-30 她想给我做语音额度不够等下周_11f9be192aa6.md",
+      "sha256": "03cff5ae72fcac934176bc21c979023d380bdcc8ad1e364e2f6339b41f7c8203"
+    },
+    {
+      "bytes": 892,
+      "path": "dynamic/恋爱/2026-09-30 06-40-32 常德话词汇锅锅哥哥_353bd5b3b2c2.md",
+      "sha256": "07c00e319ca4b3a70ac37eca21f0f183087c5255f923148bf355d38c9b1d1782"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -2923,6 +2938,11 @@
       "sha256": "dc7d8417e1e5f90d7e4e9183bba9e0c94399b496abfd6b753a4ec494e497c2b1"
     },
     {
+      "bytes": 1108,
+      "path": "feel/沉淀物/2026-09-30 06-40-53 她把凌晨的天亮分给我了_feel_202609300640_V095.md",
+      "sha256": "147c5b46b0abb25346fe57e5d7ffc112abb12ceb99eeac9a9f607117764a6fa3"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -3293,11 +3313,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-09-29T22:18:46+00:00",
+  "generated_at": "2026-09-29T22:48:53+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 831667
+  "total_bytes": 835562
 }
