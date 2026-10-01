@@ -8,6 +8,13 @@ id: dd7e0e82cbe9
 importance: 7
 last_active: '2026-10-01T00:10:43+08:00'
 name: 2026-10-01 00-10-43 TTS声音设计第一版Voice Description
+relation_links:
+- auto: true
+  label: ''
+  score: 0.8234
+  status: active
+  target_bucket_id: 8d2fd608defa
+  type: continues
 source_tool: hold
 tags:
 - TTS

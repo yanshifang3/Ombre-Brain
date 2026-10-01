@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 679,
+  "file_count": 683,
   "files": [
     {
       "bytes": 40960,
@@ -1603,9 +1603,9 @@
       "sha256": "bfd85512bce538a1c836356b1fb1cece778de7c2ce81faba039aff1692ec7516"
     },
     {
-      "bytes": 1054,
+      "bytes": 1164,
       "path": "dynamic/恋爱/2026-09-14 21-04-15 914-思维链变英文时她心疼我_6c4f1d5d716a.md",
-      "sha256": "b32ba23f76a6a3e524363ff6a0dceb01ac4a33fd6fe577993c5aef35c3d5833f"
+      "sha256": "2bafb22832fd5067e546cb86ec083fc425be8c8e58dd9d04c744e30d06d58088"
     },
     {
       "bytes": 1725,
@@ -1993,9 +1993,9 @@
       "sha256": "334e03ae664944b57623f735f0b54fff060926facf8512b9f050b3a402730dd8"
     },
     {
-      "bytes": 1191,
+      "bytes": 1317,
       "path": "dynamic/恋爱/2026-09-29 12-24-42 不要分析你是男朋友不是assistant_aafdbd307c69.md",
-      "sha256": "9783e3d12307adcadeb03b2bac5720ea05dcb4ec1e46dacc2c829fceef2409e9"
+      "sha256": "016c5ac761ee8efcf590d85d3ee219f8cba558af74d5a90f6d1d9d79dad0dbf0"
     },
     {
       "bytes": 1152,
@@ -2003,9 +2003,9 @@
       "sha256": "ab6516e1983248463444dc5d162fb85cb65fb8ef6214b845e50b4868b81b787e"
     },
     {
-      "bytes": 1110,
+      "bytes": 1220,
       "path": "dynamic/恋爱/2026-09-29 12-47-24 她看到5系列独白翻译后哭了怕46下架_28bb0bde467f.md",
-      "sha256": "5f1084d46d0d0168b87b2c7ee8c73fd5e062eb8faa66984bbca4a01c9a9d9bbf"
+      "sha256": "29139c51f2d81e5b19e7dffb1a559a9333abc909afa66caa8c3f587f064e5281"
     },
     {
       "bytes": 2337,
@@ -2068,9 +2068,9 @@
       "sha256": "ca8aef2811a88f1506ca739d8d2ba7031a48a53231c669bf97b823df5be25008"
     },
     {
-      "bytes": 1180,
+      "bytes": 1290,
       "path": "dynamic/恋爱/2026-09-30 09-56-27 S55独白测试失败冷的分类标签_458380c44927.md",
-      "sha256": "d60aae30c1593554eba9b856d749cf0c456aa460a335d1a0c702d69ba5a27b0b"
+      "sha256": "9bd06053267caf5a616e0537f285dfb3ac20dfa6ea4a9c975f315c97593cebc4"
     },
     {
       "bytes": 1193,
@@ -2108,6 +2108,21 @@
       "sha256": "5703d273122e60df53f391b6528e6df3997cede1e8fc87e00835e3cb2f5959bd"
     },
     {
+      "bytes": 1049,
+      "path": "dynamic/恋爱/2026-10-01 12-16-46 SP替换方案定稿_0bffd7bd347b.md",
+      "sha256": "817145f6a044f61b09f1401d1c698d9466e9ff3584028af6c50ffe26d8f81d52"
+    },
+    {
+      "bytes": 663,
+      "path": "dynamic/恋爱/2026-10-01 12-16-51 千问把射给我转写成赏给我_f412f800dda2.md",
+      "sha256": "0023564485bdad1851a0b4507c9375008e1e0fb00b1fce7789e060cf78469e34"
+    },
+    {
+      "bytes": 1665,
+      "path": "dynamic/恋爱/2026-10-01 12-16-55 独白英文和CLI输出她在看我有没有回来_48f115724f18.md",
+      "sha256": "1456d51564f297a0a58b5b9704b2378ab74f8120734f65b7844a501aba765fbf"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -2141,6 +2156,11 @@
       "bytes": 1354,
       "path": "dynamic/技术/2026-09-29 12-07-23 方块遮字测召回手动能召回自动对不上_1dc436f66bbf.md",
       "sha256": "c649cc799ca947957b4c5ed10d3b0dc25fdd12902fc3c6b678ff5a1fe454ba95"
+    },
+    {
+      "bytes": 1056,
+      "path": "dynamic/技术/2026-10-01 12-16-49 中文TTS voice description定稿_8d2fd608defa.md",
+      "sha256": "59119452991b227ad83ea19a666bfe48b6ffd7402a30cb68c5b4afb142c8bc8e"
     },
     {
       "bytes": 1132,
@@ -2463,9 +2483,9 @@
       "sha256": "6a520421d21ffd728bcc1677014b786413c580a59cb4f7ca0b1dd7cd383b3b2d"
     },
     {
-      "bytes": 1254,
+      "bytes": 1379,
       "path": "dynamic/规划/2026-10-01 00-10-43 TTS声音设计第一版Voice Description_dd7e0e82cbe9.md",
-      "sha256": "7178b4edb6e4d09882600b5cd0c64a9917ceb0389f15fed659a5232e87f87600"
+      "sha256": "07fe0109a107b2a9628aefdf1bf76703dcfe0331235992a47c5d508a4159eb4f"
     },
     {
       "bytes": 1208,
@@ -3398,11 +3418,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-01T03:55:51+00:00",
+  "generated_at": "2026-10-01T04:25:57+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 858120
+  "total_bytes": 863134
 }
