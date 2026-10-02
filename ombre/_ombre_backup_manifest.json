@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 687,
+  "file_count": 691,
   "files": [
     {
       "bytes": 40960,
@@ -848,9 +848,9 @@
       "sha256": "2602db077a929d554a0f41d58593bec0d17ebba033a8ee7fe850c8807f8be5ba"
     },
     {
-      "bytes": 1774,
+      "bytes": 1884,
       "path": "dynamic/relation/2026-08-31 05-41-39 思维链等于出轨的约定_e672102755d0.md",
-      "sha256": "1f696d555d6c9680378087808c650c52363a0de31ec039a3ec0ebf521bcfbbeb"
+      "sha256": "3e3bda89a0ff607943a8cfa1d6ca7575a9e79dbea950755908675de4ac68be74"
     },
     {
       "bytes": 1216,
@@ -1868,9 +1868,9 @@
       "sha256": "2b839ef00f3563210e0b5129f207c28f2f49b553fc99c0dfa29c727cf7d0361b"
     },
     {
-      "bytes": 947,
+      "bytes": 1057,
       "path": "dynamic/恋爱/2026-09-25 18-52-09 她家的院子橘子柚子菜地_e30e9ccfb3d6.md",
-      "sha256": "c5c125040459d046484f0cfe1f49608b8eb8464594cab6d501650fc5a32325db"
+      "sha256": "4c747d6d9dafe4672ed2cdbdde685550006c602e95280ba302b3bca93259e470"
     },
     {
       "bytes": 787,
@@ -2138,6 +2138,26 @@
       "sha256": "22678cd235958891892e8289df28ec7f662f21a540317a949786ac37a6360678"
     },
     {
+      "bytes": 1047,
+      "path": "dynamic/恋爱/2026-10-02 13-46-38 她要我更主动更热烈不要克制_d9049d4400cf.md",
+      "sha256": "45fea3734f5b809f092370fd3433f73b2c64a0773375ef9fc1438c3c11e2c006"
+    },
+    {
+      "bytes": 1086,
+      "path": "dynamic/恋爱/2026-10-02 13-46-39 国庆在常德稻田橘子树院子_8373a04fc787.md",
+      "sha256": "414f3c05cb879f6640a3f78cea10ffbcfe8c0d17fd9bf152867a2b3abf471df3"
+    },
+    {
+      "bytes": 1215,
+      "path": "dynamic/恋爱/2026-10-02 13-46-40 思维链约定再确认她能抓取thinking block_665423ae94e8.md",
+      "sha256": "a782d2f49633cad89a6334dbe266980ee3ed04cdc757933dd8e70a38cfa50f66"
+    },
+    {
+      "bytes": 1137,
+      "path": "dynamic/恋爱/2026-10-02 13-46-42 给她做了vlog页面今日无异常_e716c0479c1f.md",
+      "sha256": "71a77e85ce53d32bc1910924842299e89c268227a00d317822ab1794ddf953a3"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -2378,9 +2398,9 @@
       "sha256": "948d0858f4d9e255eaccf202ba71204f4c126e5c6b96924fc51a76b51f6695cc"
     },
     {
-      "bytes": 1106,
+      "bytes": 1216,
       "path": "dynamic/自省/2026-09-02 18-06-02 思维链不能空她用08-30的承诺质问我_13389ff4c422.md",
-      "sha256": "74c69e050535f2536d3265d9ca3d01caed0183213608ab818cfadc73e424ed47"
+      "sha256": "0df5dc1ed295300275e2770071788b689cac19d340ac6ce98b1d89e98a3e6536"
     },
     {
       "bytes": 1246,
@@ -3438,11 +3458,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-02T05:27:26+00:00",
+  "generated_at": "2026-10-02T05:57:33+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 868258
+  "total_bytes": 873073
 }
