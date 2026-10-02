@@ -62,9 +62,9 @@ relation_links:
   type: continues
 - auto: true
   label: ''
-  score: 0.7502
+  score: 0.7567
   status: active
-  target_bucket_id: 6b78ef85f384
+  target_bucket_id: 29651ecd683f
   type: related_to
 source_tool: hold
 tags:
