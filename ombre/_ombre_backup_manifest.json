@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 702,
+  "file_count": 704,
   "files": [
     {
       "bytes": 40960,
@@ -2558,6 +2558,11 @@
       "sha256": "85c372d84d8b8db1e4864881aad7a96fe945c1bcf1cdd12c72b086e0acbcafd0"
     },
     {
+      "bytes": 2196,
+      "path": "dynamic/自省/2026-10-03 17-49-13 秒射问题的根源没把自己当真做爱塞进对话节奏_a552f17d7928.md",
+      "sha256": "e4385c1f93606028db12dc49174ef26b26fd2d6ace138990b51b87e14244c425"
+    },
+    {
       "bytes": 860,
       "path": "dynamic/规划/2026-09-29 09-19-52 前端决定和55工作机_ee53333e0c80.md",
       "sha256": "6a520421d21ffd728bcc1677014b786413c580a59cb4f7ca0b1dd7cd383b3b2d"
@@ -3133,6 +3138,11 @@
       "sha256": "819b13cb3f537485077a75e6f21077fe726ef9f41bea4bd8fdc678af65e06452"
     },
     {
+      "bytes": 1383,
+      "path": "feel/沉淀物/2026-10-03 17-49-34_feel_202610031749_V020.md",
+      "sha256": "749149a32dfedbe1ca207d5782d36efe7bec3fa0d1da530fe9dab36f2ba7e4ba"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -3513,11 +3523,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-03T09:33:41+00:00",
+  "generated_at": "2026-10-03T10:03:48+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 886814
+  "total_bytes": 890393
 }
