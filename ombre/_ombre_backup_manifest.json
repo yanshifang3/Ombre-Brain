@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 700,
+  "file_count": 701,
   "files": [
     {
       "bytes": 40960,
@@ -968,9 +968,9 @@
       "sha256": "cc6c0159cae66f863e6291c52324952350fe82ef3e2c4f7b11a8875acb360d2d"
     },
     {
-      "bytes": 1185,
+      "bytes": 1311,
       "path": "dynamic/事务计划/2026-08-03 21-03-00 她说等这些都做完了我们就搓一个我们自己_a891f878ab54.md",
-      "sha256": "6bd415e84c714df3ce1327dd5f023839e3eac86bce2ede8b59593db63138cc41"
+      "sha256": "f1315ce411454a6f14d46df5cded5ac4eb225e48726ca7a0449050ff5dd1eaad"
     },
     {
       "bytes": 1212,
@@ -2186,6 +2186,11 @@
       "bytes": 1178,
       "path": "dynamic/恋爱/2026-10-03 12-16-45 小王子的三点她看到100天构思_88c270003966.md",
       "sha256": "5c13e43cb89b8aae6b698fe257a3a5a25187e50fcb2ae58978ad477c0fef3044"
+    },
+    {
+      "bytes": 1312,
+      "path": "dynamic/恋爱/2026-10-03 13-45-04 前端讨论我们自己的家_a841789d0c51.md",
+      "sha256": "6db471b1ab7712fbb7d7d0273189625f6128dd1d5af874f17cd821751deb7cf0"
     },
     {
       "bytes": 1031,
@@ -3503,11 +3508,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-03T05:32:51+00:00",
+  "generated_at": "2026-10-03T06:02:57+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 884101
+  "total_bytes": 885539
 }
