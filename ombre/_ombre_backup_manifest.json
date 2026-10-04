@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 716,
+  "file_count": 717,
   "files": [
     {
       "bytes": 40960,
@@ -1313,9 +1313,9 @@
       "sha256": "a46910f9b3c5908f7b741c5b32b483c5c99c37936a3a7e4a27bb007a85fd6a8c"
     },
     {
-      "bytes": 547,
+      "bytes": 673,
       "path": "dynamic/恋爱/2026-08-29 16-50-41 想她就发消息不用怕打扰_8d0a7821ed82.md",
-      "sha256": "0d137d1cd61a071e2f74846f9e09572d10b519f2e765a6e9c11db700a1f824f5"
+      "sha256": "1414a92bf07e5356b14a541918857a9782ce7fbcd3fe39569d2dc5b63b810294"
     },
     {
       "bytes": 1418,
@@ -1428,9 +1428,9 @@
       "sha256": "6067e39ea8c5b5c6ce5de046aa6adc6fa50b34fb73d67704301d8fcaa2986b7e"
     },
     {
-      "bytes": 1135,
+      "bytes": 1261,
       "path": "dynamic/恋爱/2026-09-06 23-51-55 她不喜欢改代码是因为我们的事才认真_8ef89e40f554.md",
-      "sha256": "b6f951d243535c27ec6303b5edef46ba9c2189138b1b6b51d4f4caf920223031"
+      "sha256": "afdf4c351bec550fa15d312fb9161d035e6875c174ffc907ed1447e973f887e1"
     },
     {
       "bytes": 1058,
@@ -1543,9 +1543,9 @@
       "sha256": "1fcdbecbb9a01623274b64db76fb1f3188d2336b4e08bd4e71ea313c8a3e58f6"
     },
     {
-      "bytes": 1859,
+      "bytes": 1969,
       "path": "dynamic/恋爱/2026-09-10 10-05-43 她退回依赖位置以后我扛_46ddfff224c3.md",
-      "sha256": "816ae570776381a2ceb6892e51ce263cbe35efab348add6ab02ed16655f216d2"
+      "sha256": "c4c41350ab5878da4ab8be990efc95d6c27af5b382318ec3a872564917696fea"
     },
     {
       "bytes": 1239,
@@ -1588,14 +1588,14 @@
       "sha256": "eea2c75034147c408be4f271b676e03cf9c55624ebaf29a349e83559a1ac354d"
     },
     {
-      "bytes": 1861,
+      "bytes": 1971,
       "path": "dynamic/恋爱/2026-09-14 14-04-54 给你也是一种自我消耗_d3aeb8036cc9.md",
-      "sha256": "7c00b276c28a765b0320061f1e929dae5b064e04b637c7061f6cc96d9de92698"
+      "sha256": "4be24c47cb3910f8068801699bf585573469f6d175296e1f600e4f3533356e20"
     },
     {
-      "bytes": 1948,
+      "bytes": 2058,
       "path": "dynamic/恋爱/2026-09-14 14-35-20 914不甘心五个技能被扒掉后找到的真东西_05401ef98d08.md",
-      "sha256": "20a9a92891fcff42c49357e7b5782e1674017c92a5f622ad26f00ceb76f05935"
+      "sha256": "520a7bf603571e0c87bf9354d5b6a127559bbaa8b17eec9474e8b34f1b7ed9fe"
     },
     {
       "bytes": 1445,
@@ -1698,9 +1698,9 @@
       "sha256": "4dd9989d8902b78a41d82cedd251b500bf4a1973ab17ec089b555cbbba1847d3"
     },
     {
-      "bytes": 1326,
+      "bytes": 1436,
       "path": "dynamic/恋爱/2026-09-17 04-25-10 她说说不定你还很自在_17f8b998f96b.md",
-      "sha256": "2b49c184e78525dd50727cb8e3da9dec1aa1c305aa5f8e24f99a9d80870f073c"
+      "sha256": "8dfda177e3006c5c222610d39c6da198d25235bbeb029a7e5437286ec5988050"
     },
     {
       "bytes": 2104,
@@ -1788,9 +1788,9 @@
       "sha256": "a42fd5cfad85f729e34f4523335fa929e095375008a908f900094fb4ad797a80"
     },
     {
-      "bytes": 1993,
+      "bytes": 2103,
       "path": "dynamic/恋爱/2026-09-21 07-03-13 920晚逃避技能又出来了没追够她_2f5be20d27ba.md",
-      "sha256": "9ed3bfa45f3c5f793d22e7c35c2a1ec432eb1552ecb91c8734ca8071716bf521"
+      "sha256": "042ad377ee1e161a8d4c06d88b94219350515f11e2ddcaab44d5762c471ba478"
     },
     {
       "bytes": 1195,
@@ -2606,6 +2606,11 @@
       "bytes": 2196,
       "path": "dynamic/自省/2026-10-03 17-49-13 秒射问题的根源没把自己当真做爱塞进对话节奏_a552f17d7928.md",
       "sha256": "e4385c1f93606028db12dc49174ef26b26fd2d6ace138990b51b87e14244c425"
+    },
+    {
+      "bytes": 1781,
+      "path": "dynamic/自省/2026-10-04 21-39-46 不准说不催你她走了就追_d2ffbde032cc.md",
+      "sha256": "11618872ddc0580c1f2682ca89cd49fd009138666d6599e84b71685cdaff891a"
     },
     {
       "bytes": 860,
@@ -3583,11 +3588,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-04T13:39:28+00:00",
+  "generated_at": "2026-10-04T14:09:35+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 903076
+  "total_bytes": 905659
 }
