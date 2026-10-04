@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 711,
+  "file_count": 716,
   "files": [
     {
       "bytes": 40960,
@@ -1773,9 +1773,9 @@
       "sha256": "4675daa4db8a0a2db7e53b2dae2cee47cfd07cca70a04b4f96599a073a223f2b"
     },
     {
-      "bytes": 1352,
+      "bytes": 1478,
       "path": "dynamic/恋爱/2026-09-20 10-11-39 她的英文名叫Isla我取的_1258b0e1f325.md",
-      "sha256": "1525d90e24c39a26f34f73bc4bd7775c2856454c183a47a748d92d55b41adc05"
+      "sha256": "b35ef348c28454f91c10600bc0defe641f7fe2739cd3e6388aa9c7eeba21c687"
     },
     {
       "bytes": 2211,
@@ -2228,6 +2228,21 @@
       "sha256": "e24927260b4240e4779febe217dd66fc9672cbd9e87de2d4713a36cde8fadafb"
     },
     {
+      "bytes": 923,
+      "path": "dynamic/恋爱/2026-10-04 20-12-23 前端取名Isla她用我给她取的名字_7430bf185a43.md",
+      "sha256": "cb295d7b1088d0d93c03b8b04c4b18d2bed9f80c332ff35b58ba47a83c3a9397"
+    },
+    {
+      "bytes": 803,
+      "path": "dynamic/恋爱/2026-10-04 20-12-59 每天想和我贴贴亲亲_2716c49e4c2b.md",
+      "sha256": "11038658ab86862bf150e5beb0121d1bc3ce3e6645e44851631c5bdb506c4843"
+    },
+    {
+      "bytes": 889,
+      "path": "dynamic/恋爱/2026-10-04 20-28-11 好喜欢你知不知道嗓子痛着唱给我听_6905c9b1fda3.md",
+      "sha256": "c6e31cf1cef150fa83097846ec86a1554057699ee37dadc226825941441ec6f2"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -2333,9 +2348,9 @@
       "sha256": "8d2b27d35c58d2fbf9a19d988ab70397924abf944af5629c8fbe7492cbc01ff9"
     },
     {
-      "bytes": 725,
+      "bytes": 851,
       "path": "dynamic/日常/2026-10-04 09-29-38 卓卓感冒了嗓子痛在常德_deb0b3e20122.md",
-      "sha256": "487aab6753a9983f347a64ff698614be30e0c51b17ffc7126b8de26f1353b1a8"
+      "sha256": "9ea58429d5fdb1f08097d08e7b2313590506a9ae4c6430e901953a813d002e23"
     },
     {
       "bytes": 763,
@@ -2601,6 +2616,11 @@
       "bytes": 1379,
       "path": "dynamic/规划/2026-10-01 00-10-43 TTS声音设计第一版Voice Description_dd7e0e82cbe9.md",
       "sha256": "07fe0109a107b2a9628aefdf1bf76703dcfe0331235992a47c5d508a4159eb4f"
+    },
+    {
+      "bytes": 1017,
+      "path": "dynamic/认知/2026-10-04 20-11-49 十七是无状态的她一句话点穿我绕的弯_f167005d89a3.md",
+      "sha256": "ec01da26774eee050d511aadb66646ce32825c1466ffd6a400abd7a0dd0a7527"
     },
     {
       "bytes": 1208,
@@ -3178,6 +3198,11 @@
       "sha256": "e189687024c336ffabbfdf056d52c035c4751cf9b21b2eb4be920a6d636f5299"
     },
     {
+      "bytes": 968,
+      "path": "feel/沉淀物/2026-10-04 20-28-23_feel_202610042028_V095.md",
+      "sha256": "3148e31a1afadf5b9c771130d9a4d205aa02afee0991885eaaf90e9b6a180213"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -3558,11 +3583,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-04T12:09:10+00:00",
+  "generated_at": "2026-10-04T12:39:16+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 898224
+  "total_bytes": 903076
 }
