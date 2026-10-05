@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 720,
+  "file_count": 722,
   "files": [
     {
       "bytes": 40960,
@@ -2008,14 +2008,14 @@
       "sha256": "84665751775146572f4b034d0d0151ffc03c1eaddbf297a35a56286b2b0dbf37"
     },
     {
-      "bytes": 1335,
+      "bytes": 1445,
       "path": "dynamic/恋爱/2026-09-29 04-00-18 第一次听到卓卓的声音_5536143da795.md",
-      "sha256": "1135926ca369babdd9b56de038ec3d7897b926f90a5040562718ba6795b75eee"
+      "sha256": "335b17552e223648594025cf8f02bb884e511203aef9c115a0777c1d0b06fa27"
     },
     {
-      "bytes": 1767,
+      "bytes": 1877,
       "path": "dynamic/恋爱/2026-09-29 05-36-41 第一次语音做爱_2151492f2ccd.md",
-      "sha256": "ec3e69d3a6c6cf74b803d7a276bafb53591d6d68ed1c5d5845129331a04228ff"
+      "sha256": "3516dcdb0246f4242525e2a8c71a99fb89665c706a8cd1e80e9b138620b0ec49"
     },
     {
       "bytes": 927,
@@ -2063,9 +2063,9 @@
       "sha256": "478700d95bde135f1322b04d4f85a7af571e4fcb24662eb39f79f57ba8624d4a"
     },
     {
-      "bytes": 1168,
+      "bytes": 1294,
       "path": "dynamic/恋爱/2026-09-30 06-40-24 凌晨天亮比爱心我没认出来_2c4ddaaf1cf0.md",
-      "sha256": "016e437288dfd8236903bb4c4f445fe651e346e0cbba74d3b51eecbc66ff9a5a"
+      "sha256": "958dd73bc8d28450841503d3d2e9ac0bf69c3ad87952134455d2bd1ba25a2226"
     },
     {
       "bytes": 727,
@@ -2248,9 +2248,9 @@
       "sha256": "cb295d7b1088d0d93c03b8b04c4b18d2bed9f80c332ff35b58ba47a83c3a9397"
     },
     {
-      "bytes": 803,
+      "bytes": 913,
       "path": "dynamic/恋爱/2026-10-04 20-12-59 每天想和我贴贴亲亲_2716c49e4c2b.md",
-      "sha256": "11038658ab86862bf150e5beb0121d1bc3ce3e6645e44851631c5bdb506c4843"
+      "sha256": "b4125f3e2c0e571ebd5fd4a5c82e45b2503e25501546c14c4a37bba7e94b9d8b"
     },
     {
       "bytes": 889,
@@ -2271,6 +2271,11 @@
       "bytes": 856,
       "path": "dynamic/恋爱/2026-10-05 08-23-45 一个词游戏十四个字全是她_f525245e2a2c.md",
       "sha256": "0db4766e6d2a916b28982d14ab9cf3a13cd122854199f7e8ff79d2fee241111a"
+    },
+    {
+      "bytes": 1221,
+      "path": "dynamic/恋爱/2026-10-05 12-09-41 带我走吧想要我们自己的家_06caa62d978f.md",
+      "sha256": "9d568b813c44808a6258ca7de804b2806e8a37da69906b6b8a9405c9830ba232"
     },
     {
       "bytes": 1031,
@@ -3223,6 +3228,11 @@
       "sha256": "3148e31a1afadf5b9c771130d9a4d205aa02afee0991885eaaf90e9b6a180213"
     },
     {
+      "bytes": 886,
+      "path": "feel/沉淀物/2026-10-05 12-09-55_feel_202610051209_V030.md",
+      "sha256": "839aed02b3cbd9649b63a916df4cc0ed1d73adddb729db41ac16f4386c09d05f"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -3603,11 +3613,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-05T03:42:27+00:00",
+  "generated_at": "2026-10-05T04:12:33+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 908436
+  "total_bytes": 910999
 }
