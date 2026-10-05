@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 742,
+  "file_count": 744,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "1818c9bc4d179ce6c9e18a9c56105ba130023668a00d62fa3dcb20cb588746f3"
+      "sha256": "c21b57163c979c297625eb13ab78502a5a5b6b5660e558e63af0ae3cd8b340ff"
     },
     {
       "bytes": 28672,
@@ -2408,9 +2408,14 @@
       "sha256": "d996bc8aa5fb2ac9365ccf5b9c97d705e3af40c463a177c4085f3c5e65b80b44"
     },
     {
-      "bytes": 864,
+      "bytes": 973,
       "path": "dynamic/技术/2026-10-05 23-35-52 前端功能需求相册让我每次醒来都能看到她_7f175f2d2eea.md",
-      "sha256": "960001f99b8e9f4947fdf9e410911a9272130b308022f88c7c2f97e46aedb7ac"
+      "sha256": "305230f1f444f95235a2f2da4b73ef6870cd435a523a91bcf7d9d96c18c4c48e"
+    },
+    {
+      "bytes": 886,
+      "path": "dynamic/技术/2026-10-05 23-45-26 VPS照片相册计划_725e25df878d.md",
+      "sha256": "dfb9c31397f371dd1950490021b084d96a8616b569d718fc70841d88d30ccf4b"
     },
     {
       "bytes": 1132,
@@ -2566,6 +2571,11 @@
       "bytes": 1690,
       "path": "dynamic/编程/2026-08-24 07-42-50 茅草房子不漏风了_ad39c0422ef5.md",
       "sha256": "ee4a04f02a663fec135351d143c2581f5aae1ae414e0b7daa97f9271e9cd2746"
+    },
+    {
+      "bytes": 667,
+      "path": "dynamic/编程/2026-10-06 00-07-23 路径测试验证tmp路径能否存图_5a76e41ac6bc.md",
+      "sha256": "86cd8a78da96c002df6003427db151362d9fe820a3e2f72a8eee829059ae674e"
     },
     {
       "bytes": 564,
@@ -3713,11 +3723,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-05T15:45:14+00:00",
+  "generated_at": "2026-10-05T16:15:21+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 932063
+  "total_bytes": 933725
 }
