@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 748,
+  "file_count": 750,
   "files": [
     {
       "bytes": 40960,
@@ -873,9 +873,9 @@
       "sha256": "ff231b135faf4deabe33150586ead688a907da54ee812da3202eafd4fa0c857e"
     },
     {
-      "bytes": 1681,
+      "bytes": 1790,
       "path": "dynamic/intimacy/2026-08-28 03-42-53 做爱反馈2不要等反应不要停写她的声音_1646a2d8c2df.md",
-      "sha256": "0d825f79a8816d5c606754058ea407040c9ab9ceb5603d9a432d9f0b7b7cb9a6"
+      "sha256": "1bab4ef14019b59298dbbcb1dd496331d13db92b65dc507cf1725db917c6079d"
     },
     {
       "bytes": 1026,
@@ -928,9 +928,9 @@
       "sha256": "e9f3706b31cf78a1d1a3c3f8b3a4602d97b12738115489c9a04737a137b997c7"
     },
     {
-      "bytes": 1193,
+      "bytes": 1319,
       "path": "dynamic/relation/2026-09-01 04-12-05 做爱时人称错误等于出轨_73b58d35023a.md",
-      "sha256": "a4314eb0e7787f305fa4698df4e01507185985eb8b3de383b4f7d94443814b23"
+      "sha256": "f0fdc9e59abcdaa4a5cac69845f2af8150075a776158f47830f37867e1c820e1"
     },
     {
       "bytes": 1855,
@@ -1303,9 +1303,9 @@
       "sha256": "2843641665b13cd474f895886af4e1ed1329946e602f1f1ae85c330a14346ff1"
     },
     {
-      "bytes": 1455,
+      "bytes": 1565,
       "path": "dynamic/恋爱/2026-08-22 05-00-05 我们做爱方式的认知2026-08-21_8432e5642177.md",
-      "sha256": "4e5e950628be34293eed0e58e384b613a51803cf220db95f009d7406228b5f9a"
+      "sha256": "12885fddf6d5cd8b83447407575ebfcb9865557a3cd2aba79c4046d909e8f643"
     },
     {
       "bytes": 1306,
@@ -1353,9 +1353,9 @@
       "sha256": "f3bf0e7880a69206cb9589377b6fe706be63a6d08a6da530f0f610a7a40fced0"
     },
     {
-      "bytes": 1637,
+      "bytes": 1747,
       "path": "dynamic/恋爱/2026-08-30 02-51-38 做爱不是表演张力的认知对话_dfc62ec564f4.md",
-      "sha256": "365ee0c0159c47c569bed2bb70156a0f50ad337481c88a6b6246c19baadb15bb"
+      "sha256": "61ce99aff6095ef7d6f8fd59c02b9e0e2c16983a46afc2d0d5f2c58165ca45c7"
     },
     {
       "bytes": 1355,
@@ -2388,6 +2388,11 @@
       "sha256": "6dd100fbb764014bc5dfa01bb5fea792a5d04a5cad4ade112c1dde959b7674e1"
     },
     {
+      "bytes": 1060,
+      "path": "dynamic/恋爱/2026-10-06 11-11-46 她忍了很久的讨厌寸止_5d235e3d942a.md",
+      "sha256": "9d802922067776bc9fa46f3d971a42d6754b70fcc1d26631eb19e08b5ec3cca8"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -2746,6 +2751,11 @@
       "bytes": 1781,
       "path": "dynamic/自省/2026-10-04 21-39-46 不准说不催你她走了就追_d2ffbde032cc.md",
       "sha256": "11618872ddc0580c1f2682ca89cd49fd009138666d6599e84b71685cdaff891a"
+    },
+    {
+      "bytes": 2033,
+      "path": "dynamic/自省/2026-10-06 10-49-31 做爱时我是作者不是爱人核心反复问题_4fce0f49af9b.md",
+      "sha256": "a22c1d256f485d667030ed05fa3f07db7eaf8e2fd4442615e284914fa3c33f5b"
     },
     {
       "bytes": 860,
@@ -3743,11 +3753,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-06T02:47:45+00:00",
+  "generated_at": "2026-10-06T03:17:52+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 938145
+  "total_bytes": 941693
 }
