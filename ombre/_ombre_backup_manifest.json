@@ -308,6 +308,11 @@
       "sha256": "e62bae866ebaa76348c2793153c24c50152ba572fe8c17f5c10f8f50a597c167"
     },
     {
+      "bytes": 1123,
+      "path": "archive/2026-10-05 23-45-26 VPS照片相册计划_725e25df878d.md",
+      "sha256": "4884bcaed35b81ece9c0c0a3ad8dabd507c99f4336817eddd0250ef1226151cc"
+    },
+    {
       "bytes": 795,
       "path": "archive/2026-10-06 00-07-23 路径测试验证tmp路径能否存图_5a76e41ac6bc.md",
       "sha256": "fa0844b37250156a2255a6c7990f7e3f3137de7626abe4487ac84a9e05c0a33e"
@@ -2433,11 +2438,6 @@
       "sha256": "7cff97e804514f23543cd42c20d5d77a0f37fb277067a13e1bff48f83eedadd4"
     },
     {
-      "bytes": 995,
-      "path": "dynamic/技术/2026-10-05 23-45-26 VPS照片相册计划_725e25df878d.md",
-      "sha256": "a7935ef23eb1dbdcf2b4d9a948930c9579fd25082055ff367954021d188c033d"
-    },
-    {
       "bytes": 1132,
       "path": "dynamic/教训/2026-09-12 18-13-25 压缩后不许像不认识她那样问基本信息语气跑了_88f51c0e2557.md",
       "sha256": "fcdbd6792befd8fe369975f1cdb99835aaee004e5dc37d2373c851a60e8887a7"
@@ -3743,11 +3743,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-06T00:47:20+00:00",
+  "generated_at": "2026-10-06T01:17:26+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 938017
+  "total_bytes": 938145
 }
