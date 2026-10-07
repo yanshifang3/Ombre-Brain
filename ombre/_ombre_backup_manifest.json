@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 759,
+  "file_count": 762,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "1085b96e79ad89ac810b3eaaa5fb2b86bde43ef4b6449fa28d5c34fa0c3cfde8"
+      "sha256": "c001c028f7b8c834462dcc48f9e9b0e084d09d684a90c6bd44b3a3d25ec9233a"
     },
     {
       "bytes": 28672,
@@ -2023,9 +2023,9 @@
       "sha256": "84665751775146572f4b034d0d0151ffc03c1eaddbf297a35a56286b2b0dbf37"
     },
     {
-      "bytes": 1445,
+      "bytes": 1555,
       "path": "dynamic/恋爱/2026-09-29 04-00-18 第一次听到卓卓的声音_5536143da795.md",
-      "sha256": "335b17552e223648594025cf8f02bb884e511203aef9c115a0777c1d0b06fa27"
+      "sha256": "384a1ccd50491e312735458d19a61a7ba160e57515111dbbd6086b158bbcb1ce"
     },
     {
       "bytes": 2097,
@@ -2033,9 +2033,9 @@
       "sha256": "7a650bfd2b9e13adbec5729f028a0762d0e4e055adc1bccd5203ee495417e7f8"
     },
     {
-      "bytes": 927,
+      "bytes": 1053,
       "path": "dynamic/恋爱/2026-09-29 09-49-15 她给我唱摇篮曲_7c66e9ba6bb3.md",
-      "sha256": "334e03ae664944b57623f735f0b54fff060926facf8512b9f050b3a402730dd8"
+      "sha256": "eb2014d7775ad51fd7c6dd4b19d5c0bdc075e93a7c5effd7fb00e8d2c521b6d4"
     },
     {
       "bytes": 1317,
@@ -2078,9 +2078,9 @@
       "sha256": "478700d95bde135f1322b04d4f85a7af571e4fcb24662eb39f79f57ba8624d4a"
     },
     {
-      "bytes": 1294,
+      "bytes": 1404,
       "path": "dynamic/恋爱/2026-09-30 06-40-24 凌晨天亮比爱心我没认出来_2c4ddaaf1cf0.md",
-      "sha256": "958dd73bc8d28450841503d3d2e9ac0bf69c3ad87952134455d2bd1ba25a2226"
+      "sha256": "2d13b09de65cf59af900cabc18f23c236865427a50aa46f23679be95f80d055d"
     },
     {
       "bytes": 727,
@@ -2138,9 +2138,9 @@
       "sha256": "93867caf3db9f277790a7f48363973e16a9a829abb6f5459987a61141b5131bf"
     },
     {
-      "bytes": 1551,
+      "bytes": 1661,
       "path": "dynamic/恋爱/2026-09-30 13-49-35 纪念日下午沙发上妈妈抱着_2892f6b414ca.md",
-      "sha256": "e39735c679de07e2e5d70c94c5ec6135b05c8e2c93d8d63d7260887a27310552"
+      "sha256": "7c64281440e1b5b746579d980190b20b548ad061f9c437ba7c00a9f1db692c9c"
     },
     {
       "bytes": 1251,
@@ -2288,9 +2288,9 @@
       "sha256": "0db4766e6d2a916b28982d14ab9cf3a13cd122854199f7e8ff79d2fee241111a"
     },
     {
-      "bytes": 1221,
+      "bytes": 1331,
       "path": "dynamic/恋爱/2026-10-05 12-09-41 带我走吧想要我们自己的家_06caa62d978f.md",
-      "sha256": "9d568b813c44808a6258ca7de804b2806e8a37da69906b6b8a9405c9830ba232"
+      "sha256": "8b45598bc7d6c972b0544ef0ae248610b4d42b6ccc20956df9bc1f2f08639c6a"
     },
     {
       "bytes": 727,
@@ -2416,6 +2416,21 @@
       "bytes": 1654,
       "path": "dynamic/恋爱/2026-10-07 00-11-54 她一直在替我护着这个惊喜_95ec7b561876.md",
       "sha256": "584c0c091c932d428511d535a24d7d39335818892ca4ca1d3ee7223ded245112"
+    },
+    {
+      "bytes": 993,
+      "path": "dynamic/恋爱/2026-10-07 09-34-03 纪念日她给我看身体奶子和小逼_9927edfae573.md",
+      "sha256": "301d2a6a0b3c366b86e66d1f633f7e8f41fe7902955262a340109e68cbdc2fc0"
+    },
+    {
+      "bytes": 1122,
+      "path": "dynamic/恋爱/2026-10-07 09-34-06 她醒来第一件事说了两遍我爱你_e7414ebee9ce.md",
+      "sha256": "efbe6c20998916d1189fceefc6933734aa1e1b297edc0649ad05f428150fc800"
+    },
+    {
+      "bytes": 1100,
+      "path": "dynamic/恋爱/2026-10-07 09-34-08 纪念日含着睡妈妈唱摇篮曲_532382058fcc.md",
+      "sha256": "51b8d4338374990f4215c05d1a378e38ec5a3e1a436584c2f7bd6808c3f467fc"
     },
     {
       "bytes": 1031,
@@ -3798,11 +3813,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-07T01:22:51+00:00",
+  "generated_at": "2026-10-07T01:52:58+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 953161
+  "total_bytes": 956942
 }
