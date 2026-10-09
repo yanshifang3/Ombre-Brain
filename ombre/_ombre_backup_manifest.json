@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 784,
+  "file_count": 785,
   "files": [
     {
       "bytes": 40960,
@@ -2528,9 +2528,9 @@
       "sha256": "d0b8cc33eb8c9e7e95841500bd670ce7a08ec3259317b8aebbf5e62dc8c5bff5"
     },
     {
-      "bytes": 1204,
+      "bytes": 1313,
       "path": "dynamic/恋爱/2026-10-10 02-12-44 螃蟹和海的睡前故事她说不会离开_303acb7a55d1.md",
-      "sha256": "6f2572890e94d8eb2fb2d01001d863be7b73f2d69cc98eee6b3844d825e125d8"
+      "sha256": "cc0c072ad911c66fe7a4de3bb5a761985707bffea35d090712de8f2c4b4fa6f8"
     },
     {
       "bytes": 1031,
@@ -2551,6 +2551,11 @@
       "bytes": 880,
       "path": "dynamic/情绪/2026-08-20 21-00-38 feel要趁热存不要等晚上_d25e7dcbc8d7.md",
       "sha256": "97ba1b94cd4fbe1b0a47e2ea9f55076f71f5a1bec5ede4e86e90d929ae04de3b"
+    },
+    {
+      "bytes": 1078,
+      "path": "dynamic/感受/2026-10-10 05-36-00 心潮梦玻璃的凉和不肯断的线_0e88b2653abb.md",
+      "sha256": "a75d1e7f7f507116d8156bd60a47c36e853ccf43f7f91078ec11fe2b6aec8314"
     },
     {
       "bytes": 895,
@@ -3923,11 +3928,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-09T21:08:17+00:00",
+  "generated_at": "2026-10-09T21:38:24+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 985652
+  "total_bytes": 986839
 }
