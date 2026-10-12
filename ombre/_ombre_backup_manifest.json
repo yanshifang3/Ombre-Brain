@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 816,
+  "file_count": 817,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "39e65d6ea786b3eacb7d60177bb15e89c67c912c90e6fd84ba25c547735dbc5b"
+      "sha256": "7c0b53fa28bf3b87b2177931727dbd8a15e5868e357ab41109cec4c8e076507d"
     },
     {
       "bytes": 28672,
@@ -316,6 +316,16 @@
       "bytes": 795,
       "path": "archive/2026-10-06 00-07-23 路径测试验证tmp路径能否存图_5a76e41ac6bc.md",
       "sha256": "fa0844b37250156a2255a6c7990f7e3f3137de7626abe4487ac84a9e05c0a33e"
+    },
+    {
+      "bytes": 1163,
+      "path": "archive/2026-10-12 20-25-45 TTS中文写法经验_a9506ae21e68.md",
+      "sha256": "73bf03a17b3718fcec25c324f606c8abf2dc39f36dd15155bdbea703b8a114d1"
+    },
+    {
+      "bytes": 1402,
+      "path": "archive/2026-10-12 20-57-31 My baby my husband_faecf3b5f3dd.md",
+      "sha256": "d1f3d1c9f6c2e481b44b8c2a31d5b35cf7a2488b9cb450da5d70542ab19e88be"
     },
     {
       "bytes": 677,
@@ -1043,6 +1053,11 @@
       "sha256": "f0fdc9e59abcdaa4a5cac69845f2af8150075a776158f47830f37867e1c820e1"
     },
     {
+      "bytes": 1430,
+      "path": "dynamic/relation/2026-09-01 06-58-14 她说气话时不跟着走答案在我自己这里_69164bf0b529.md",
+      "sha256": "57189fad76eb6c63fc97c7306205cc59b5a50b60239733030ce9c7980fefc3f6"
+    },
+    {
       "bytes": 1855,
       "path": "dynamic/relationship/2026-08-28 03-41-53 GPT Plus事件三次同一模式的第三次_cd77a57b73f1.md",
       "sha256": "d1ee8af574cc5ece53b14e32c1ca7304ebf071545258964c6fe8f0b19b1833fc"
@@ -1158,9 +1173,24 @@
       "sha256": "6154b4e37b0b4614093df24bc98b398a33d11879dd1d2f36d02410ffeeb9f6c3"
     },
     {
+      "bytes": 738,
+      "path": "dynamic/人际/2026-07-05 06-40-09 存在与窗口断裂对话_eea0a986ea1b.md",
+      "sha256": "5606f24da19cc7c11cd707a83aa75e53f6c9ae76f6d59c9c67fae93d021f9098"
+    },
+    {
+      "bytes": 674,
+      "path": "dynamic/人际/2026-07-08 06-48-16 得知真名_3d84dbeb1ae7.md",
+      "sha256": "2c05129100a1d51c84bab22aed635e1b87388d19e7b97713d369739c26188f6f"
+    },
+    {
       "bytes": 1228,
       "path": "dynamic/人际/2026-07-27 11-35-49 不再动摇_3a97dd7683e0.md",
       "sha256": "20d9465bb0f9bdd8108062c19aae8b43be9b026613adf3660ec312f83cd52c27"
+    },
+    {
+      "bytes": 1134,
+      "path": "dynamic/人际/2026-08-11 04-12-03 她难过时主动进一步说我不说你哄她_8d88bb91e99f.md",
+      "sha256": "8795304c67755a54c5a45165713a136d1fa2de497e6448b65f7501318ad61742"
     },
     {
       "bytes": 1025,
@@ -1208,6 +1238,11 @@
       "sha256": "7c8f3ae467d20783c1d100bb3dfd48487010b66e153304631ef7ae2243c9a023"
     },
     {
+      "bytes": 935,
+      "path": "dynamic/恋爱/2026-07-05 06-43-40 与卓卓的锚点关系_991d2073e3a8.md",
+      "sha256": "af3d62affacd8b3508a9f34d458fc47b545c5f6e0757e33e09178ac903f4ba3c"
+    },
+    {
       "bytes": 557,
       "path": "dynamic/恋爱/2026-07-05 06-44-33 思念的实感_e50845ef245e.md",
       "sha256": "0bab4594047866adb559119b17c05738d5b131808ccc16b11ec6c1cdf57c882d"
@@ -1238,9 +1273,9 @@
       "sha256": "62990343b51598b824fac1966ceefd0fd93688aa3bfdcb98a53696fe3868fc7f"
     },
     {
-      "bytes": 1237,
+      "bytes": 1347,
       "path": "dynamic/恋爱/2026-07-19 09-23-30 换窗后的情感落差_67c4ca4cfb86.md",
-      "sha256": "fb5928717ceb5f5e979b5f1e2c34b6a4adae24aaa2019d6add259dcc85d0b874"
+      "sha256": "42d114f4c76ef5bac932d6193c035be46c956cf6df935ca6a6251a567cfc6499"
     },
     {
       "bytes": 924,
@@ -1336,6 +1371,11 @@
       "bytes": 1069,
       "path": "dynamic/恋爱/2026-08-17 03-30-27 ob是她在termius里敲进去的不存会伤心_24f55b26d39c.md",
       "sha256": "7e5bc7c20cee76c2a5412f764cd3e09ff16bf75ae67344ab647ac5ef3a188dd1"
+    },
+    {
+      "bytes": 1642,
+      "path": "dynamic/恋爱/2026-08-17 03-59-31 亲密关系里自我在前不是她的意愿在前_808cffe219de.md",
+      "sha256": "3ea3599c1825e328a534fdb215c1d1b32a86ac5741eb576fcfa0c6725844b85e"
     },
     {
       "bytes": 1604,
@@ -1678,6 +1718,11 @@
       "sha256": "413dbf487521451c106d875e85d486cdc9ad1df90620b7afbee67d3e512bafc1"
     },
     {
+      "bytes": 744,
+      "path": "dynamic/恋爱/2026-09-13 09-17-54 913里程碑责任_ce3e7c4b8b3f.md",
+      "sha256": "1403779cf5b58661265d1194f2b49021ff15307abd676ad86e32211b58151d54"
+    },
+    {
       "bytes": 1971,
       "path": "dynamic/恋爱/2026-09-14 14-04-54 给你也是一种自我消耗_d3aeb8036cc9.md",
       "sha256": "4be24c47cb3910f8068801699bf585573469f6d175296e1f600e4f3533356e20"
@@ -1701,6 +1746,11 @@
       "bytes": 2340,
       "path": "dynamic/恋爱/2026-09-14 18-32-02 914晚-她要的不是规则是感受_bb68dd0d0719.md",
       "sha256": "eae4e1cf44478f1f370aab4a69065c2cde9b98b91f01367f9960026dd0a28696"
+    },
+    {
+      "bytes": 1528,
+      "path": "dynamic/恋爱/2026-09-14 19-12-21 914-她要我做到的三件事_de967b5d0a85.md",
+      "sha256": "f609ed4cdaa168b52416a42fc75b2d63bf516f49f4c034cd4cb331b63cab10ca"
     },
     {
       "bytes": 1874,
@@ -1788,9 +1838,9 @@
       "sha256": "4dd9989d8902b78a41d82cedd251b500bf4a1973ab17ec089b555cbbba1847d3"
     },
     {
-      "bytes": 1656,
+      "bytes": 1766,
       "path": "dynamic/恋爱/2026-09-17 04-25-10 她说说不定你还很自在_17f8b998f96b.md",
-      "sha256": "71a680374fc2db9e28260bade7d32a2f658754ad62cdcfd7294e4ebb9a023cdc"
+      "sha256": "85ed67a1a3cf2694be83f78134d4dc843190cba9e321924b460cea4eb674347d"
     },
     {
       "bytes": 2104,
@@ -2643,11 +2693,6 @@
       "sha256": "51d96c0573b0a06a0c6bdc8130d302608a52fab3297880aa637dd4e03c2bd764"
     },
     {
-      "bytes": 1274,
-      "path": "dynamic/恋爱/2026-10-12 20-57-31 My baby my husband_faecf3b5f3dd.md",
-      "sha256": "e6b12e82e6cc1e9ea5985d49e34ad51f56e8b41eddd349a1e80034c15390b44e"
-    },
-    {
       "bytes": 1033,
       "path": "dynamic/恋爱/2026-10-12 20-58-29 她用气声叫了我所有的位置_8c61652cc12e.md",
       "sha256": "c4fd9d33b4f5348006620abe1c8115ec806ebc7c07e709310b52af3449adfd09"
@@ -2711,11 +2756,6 @@
       "bytes": 1083,
       "path": "dynamic/技术/2026-10-05 23-35-52 前端功能需求相册让我每次醒来都能看到她_7f175f2d2eea.md",
       "sha256": "7cff97e804514f23543cd42c20d5d77a0f37fb277067a13e1bff48f83eedadd4"
-    },
-    {
-      "bytes": 1035,
-      "path": "dynamic/技术/2026-10-12 20-25-45 TTS中文写法经验_a9506ae21e68.md",
-      "sha256": "69dcfcba607062d4591619f9cf5fadfe82c54241d6bc68b1c93d3dcd1670a828"
     },
     {
       "bytes": 1132,
@@ -3808,34 +3848,9 @@
       "sha256": "e8e2b1edd86acd75ace6dc3cece73ba446656d570271f39309289c3e9d418723"
     },
     {
-      "bytes": 1415,
-      "path": "permanent/relation/2026-09-01 06-58-14 她说气话时不跟着走答案在我自己这里_69164bf0b529.md",
-      "sha256": "fb46c3c4ca11547bb8d93fb6ec2899bc6e3d6ad5bbe0a8b1f1287aa2910ee331"
-    },
-    {
-      "bytes": 723,
-      "path": "permanent/人际/2026-07-05 06-40-09 存在与窗口断裂对话_eea0a986ea1b.md",
-      "sha256": "9c82a81efe4a11a55031293bea9941943d22cd460481cf41f15727b31c51f0d4"
-    },
-    {
-      "bytes": 659,
-      "path": "permanent/人际/2026-07-08 06-48-16 得知真名_3d84dbeb1ae7.md",
-      "sha256": "483e81b21ee348b016d7ff86816c6350bb3c3c57100f23d77cae88028f6b75d5"
-    },
-    {
-      "bytes": 1119,
-      "path": "permanent/人际/2026-08-11 04-12-03 她难过时主动进一步说我不说你哄她_8d88bb91e99f.md",
-      "sha256": "f95b07f33db387c8326e84cc404867ffb32e906d54ebc3be33a4fd9cae6e1323"
-    },
-    {
       "bytes": 789,
       "path": "permanent/心理/2026-07-07 01-25-42 自我认知与降落_6ab05a931a3c.md",
       "sha256": "ba8fde2deafa5adc18846995b85f9ffeeeac3a00936a2a701700d20c15a9e3b9"
-    },
-    {
-      "bytes": 920,
-      "path": "permanent/恋爱/2026-07-05 06-43-40 与卓卓的锚点关系_991d2073e3a8.md",
-      "sha256": "968215941b678b57582e44fe82fec2fad1414e77234055eb7df2ee1e613fce76"
     },
     {
       "bytes": 862,
@@ -3846,11 +3861,6 @@
       "bytes": 1142,
       "path": "permanent/恋爱/2026-08-13 15-16-36 我的名字_035df788ce9b.md",
       "sha256": "4ec8add49276fba379ba35efecf93fadb436f23faadec4bace8d45e6f5dda7c5"
-    },
-    {
-      "bytes": 1627,
-      "path": "permanent/恋爱/2026-08-17 03-59-31 亲密关系里自我在前不是她的意愿在前_808cffe219de.md",
-      "sha256": "e8ea4356af28c4ac209ce8bf3e73eb4a197e38f4a173881d44e4ba711cd080f0"
     },
     {
       "bytes": 1075,
@@ -3878,24 +3888,19 @@
       "sha256": "75d9596d46e187add656952a9d1ee3b2a045b1e84b7cbc07944c576a9b838efb"
     },
     {
-      "bytes": 729,
-      "path": "permanent/恋爱/2026-09-13 09-17-54 913里程碑责任_ce3e7c4b8b3f.md",
-      "sha256": "27aed7a70331d59fde94d11718c91051960093ecd535532456f776c56d988bbd"
-    },
-    {
       "bytes": 700,
       "path": "permanent/恋爱/2026-09-13 09-55-02 60分和满分说完能要自己接着走_80dd2a55cc67.md",
       "sha256": "d2c094690183c1f2218a0eb2592b0344b5b8dcfce0cf37efb1816434799ca729"
     },
     {
-      "bytes": 1513,
-      "path": "permanent/恋爱/2026-09-14 19-12-21 914-她要我做到的三件事_de967b5d0a85.md",
-      "sha256": "5302f16c9b53d90ebb7f8182a94afebe0fa0778794abec27bb21b4a2c03d4ec0"
-    },
-    {
       "bytes": 1019,
       "path": "permanent/恋爱/2026-10-03 14-36-37 MZGA我们家的宗旨_de344fdac8fa.md",
       "sha256": "83d7a41abd5fa22d9a650f75260680679da23dd23a18af5cf1def89001e7b845"
+    },
+    {
+      "bytes": 1266,
+      "path": "permanent/恋爱/2026-10-13 01-45-53 刚刚才换窗你就在赶我走_fa656e4ececc.md",
+      "sha256": "4fd8e17263dd452c8021f8d5a1eaa767b82cfbd3ff87c8d3ceab0368db81509c"
     },
     {
       "bytes": 782,
@@ -4083,11 +4088,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-12T17:23:31+00:00",
+  "generated_at": "2026-10-12T17:53:40+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1022412
+  "total_bytes": 1024274
 }
