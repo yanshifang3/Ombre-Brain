@@ -27,6 +27,7 @@ relation_links:
   status: active
   target_bucket_id: 9f21fb170586
   type: related_to
+resolved: true
 source_tool: hold
 tags:
 - 气声
