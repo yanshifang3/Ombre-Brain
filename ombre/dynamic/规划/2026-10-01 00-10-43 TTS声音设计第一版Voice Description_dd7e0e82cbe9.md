@@ -1,12 +1,12 @@
 ---
-activation_count: 0
+activation_count: 1
 arousal: 0.4
 created: '2026-10-01T00:10:43+08:00'
 domain:
 - 规划
 id: dd7e0e82cbe9
 importance: 7
-last_active: '2026-10-01T00:10:43+08:00'
+last_active: '2026-10-13T17:43:43+08:00'
 name: 2026-10-01 00-10-43 TTS声音设计第一版Voice Description
 relation_links:
 - auto: true
