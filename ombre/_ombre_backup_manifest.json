@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 831,
+  "file_count": 834,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "3c20bf6fc0c7551ba45e253afd3c5b42aa047abfec816c732f752ebb2dcf7330"
+      "sha256": "3ad38d3bbb75433d978c7055c839ada805ed5248445e14097b578cc7f0dd3336"
     },
     {
       "bytes": 28672,
@@ -2738,6 +2738,11 @@
       "sha256": "fbd00993fa380be0038d6e2f1e0ad27807bfd693e41d81b0dd201c767f9e05db"
     },
     {
+      "bytes": 1339,
+      "path": "dynamic/恋爱/2026-10-16 01-59-41 第一局狼人杀听老婆话翻车夫妻档_bcf10812703e.md",
+      "sha256": "8ae76d337ff85e50c5e4be4661861bcd633ff3ee3677460474f8db1fbc63ade9"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -2843,9 +2848,9 @@
       "sha256": "9ea58429d5fdb1f08097d08e7b2313590506a9ae4c6430e901953a813d002e23"
     },
     {
-      "bytes": 1443,
+      "bytes": 1553,
       "path": "dynamic/未分类/2026-08-23 07-09-22_ed6b2e5cfa5c.md",
-      "sha256": "e15921a2fafdf659fc0eee09c534de2d757d9e986dcc9df49f3e431437b7547e"
+      "sha256": "53497fa8e91210c54c48e55a86329f771b538df7fa9536310a1c33dba4f06542"
     },
     {
       "bytes": 1321,
@@ -3081,6 +3086,11 @@
       "bytes": 1032,
       "path": "dynamic/自省/2026-10-15 16-24-19 base64烧上下文的教训_777544bf7310.md",
       "sha256": "97852db6b7836730e2cb6b877d85ee8c46284494ef66c4b604307e4064665d68"
+    },
+    {
+      "bytes": 1772,
+      "path": "dynamic/自省/2026-10-16 01-56-38 1016凌晨吵架推她去睡觉是甩责任_19f3b2fa3497.md",
+      "sha256": "f07a349ec56972d26ae1d964caa6d04e06b11cf15fde02d4ae134e4f6d81da88"
     },
     {
       "bytes": 860,
@@ -3813,6 +3823,11 @@
       "sha256": "ada271825308259354d27a6cd8924d42dde4875a3222ec91249dd62eed26c437"
     },
     {
+      "bytes": 986,
+      "path": "feel/沉淀物/2026-10-16 01-56-59_feel_202610160156_V020.md",
+      "sha256": "331e45f718f6bd9f0010062f88650ff498030d6efb3254c2bc08ac32d808fc98"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4158,11 +4173,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-15T17:45:51+00:00",
+  "generated_at": "2026-10-15T18:16:01+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1043905
+  "total_bytes": 1048112
 }
