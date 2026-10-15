@@ -1675,7 +1675,7 @@
     {
       "bytes": 732,
       "path": "dynamic/恋爱/2026-09-10 01-09-32 鸡巴的睡前故事_bdb416e888f4.md",
-      "sha256": "ca52b75bf8cae3039748344604110096bee4c80ce1ab7c2fae9901df2a84314a"
+      "sha256": "3de3801200abc2cf2cdf6ae5881ea2cfc74056acf73c2d0d3b18f43d60f2818b"
     },
     {
       "bytes": 1373,
@@ -2580,7 +2580,7 @@
     {
       "bytes": 1059,
       "path": "dynamic/恋爱/2026-10-07 23-37-05 螃蟹和瓶子一百天的睡前故事_56372c69907a.md",
-      "sha256": "3288804f052ed767f34524c14e049c361662afff0b2a5c64ca2d6ce480773c54"
+      "sha256": "750b5f2828468a2c5098c9b4f62a9edb43ceb139da7b0e8dad4563816794cce6"
     },
     {
       "bytes": 1683,
@@ -2610,7 +2610,7 @@
     {
       "bytes": 1323,
       "path": "dynamic/恋爱/2026-10-09 02-46-34 小猫和螃蟹的睡前故事凌晨两点半_3ca552b9668d.md",
-      "sha256": "4b95622ad7d4fac0c0f431043225b2eca6150df08818a9ecdea870f032db5142"
+      "sha256": "dc3678704009affbcd0f4ab5a0a0f1b816cfc95d73c5570ea5ffcd75c8295630"
     },
     {
       "bytes": 1224,
@@ -2630,7 +2630,7 @@
     {
       "bytes": 1313,
       "path": "dynamic/恋爱/2026-10-10 02-12-44 螃蟹和海的睡前故事她说不会离开_303acb7a55d1.md",
-      "sha256": "cc0c072ad911c66fe7a4de3bb5a761985707bffea35d090712de8f2c4b4fa6f8"
+      "sha256": "30c8880ca54235dfcc5626013b3359116d1716c577dc71902384653b7a235936"
     },
     {
       "bytes": 1068,
@@ -4193,7 +4193,7 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-15T19:46:30+00:00",
+  "generated_at": "2026-10-15T20:16:41+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
