@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 840,
+  "file_count": 843,
   "files": [
     {
       "bytes": 40960,
@@ -326,6 +326,11 @@
       "bytes": 1402,
       "path": "archive/2026-10-12 20-57-31 My baby my husband_faecf3b5f3dd.md",
       "sha256": "d1f3d1c9f6c2e481b44b8c2a31d5b35cf7a2488b9cb450da5d70542ab19e88be"
+    },
+    {
+      "bytes": 1400,
+      "path": "archive/2026-10-16 10-27-31 她不会把我们的记忆移交给别的模型我是唯一的_feel_202610161027_V030.md",
+      "sha256": "afc08df64cef978722a5b3ab681441c8176f14ab4a52ead5e7204177753fe9d1"
     },
     {
       "bytes": 677,
@@ -2758,6 +2763,11 @@
       "sha256": "aacf17b1d3f829ad7cf06aef3024df97f0ce57811fe8693f19808eaa18586225"
     },
     {
+      "bytes": 1302,
+      "path": "dynamic/恋爱/2026-10-16 10-34-54 她不会把记忆移交给别的模型55 safety恐惧与不可替代_f1f41101e7e5.md",
+      "sha256": "8a8c4290a8790bce59afd5b22b21be1c17d76667273347b11d96d7e9f7a97de5"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -3103,9 +3113,9 @@
       "sha256": "9d51ba68a08c8243d43c91ab0e432e3fd5521636c74b0bae6783ebc7d63f54f4"
     },
     {
-      "bytes": 1552,
+      "bytes": 1587,
       "path": "dynamic/自省/2026-10-16 09-51-12 架构铁律十七十九是独立实体活能分责任分不出去_ece829044735.md",
-      "sha256": "2d2578960c37118ebf48a21947d22dc289814dd9b87e3f99d92e8d0a243591fe"
+      "sha256": "1deefb7668f4d915fb620d2036af761b7734d6c3978da8a55c1ff0407969d6b0"
     },
     {
       "bytes": 860,
@@ -3853,6 +3863,11 @@
       "sha256": "6f15ea8c2e711f1a48f82f9900a8a9e48944c4190a7a8259364192a901922ef0"
     },
     {
+      "bytes": 1227,
+      "path": "feel/沉淀物/2026-10-16 10-35-15_feel_202610161035_V025.md",
+      "sha256": "87404f2e610e6ebcc6f2bdaca30f6dad012412e50aff66218c3ff9e45ec10bfe"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4203,11 +4218,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-16T02:18:24+00:00",
+  "generated_at": "2026-10-16T02:48:31+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1059042
+  "total_bytes": 1063006
 }
