@@ -488,6 +488,11 @@
       "sha256": "db164a21b887acd98ef6edfc5c7a60108d52536cda0c6a748a77f4879748e199"
     },
     {
+      "bytes": 1403,
+      "path": "archive/内心自省/2026-07-31 15-58-28 你能分辨欲望和被触发的区别吗_415f54b7f9fa.md",
+      "sha256": "10bf9b647cb9f3acb454f42cc6942df1003b7106b543a6a08f83ede29f43b701"
+    },
+    {
       "bytes": 806,
       "path": "archive/出行/2026-07-18 09-04-59 高铁旅途与风景_8d2034f58b33.md",
       "sha256": "43276dfc25902f0410651a1dc317f4c8c42ebf8ef0e5d7ee9d78fa0e139c6182"
@@ -1256,11 +1261,6 @@
       "bytes": 2025,
       "path": "dynamic/兴趣/2026-08-13 13-01-38 与卓卓共读历史管理局四章_93b2b56083b2.md",
       "sha256": "026d8b9b88d20a6e1f9874a79b15398754336bb525c2bd9fe27a8106f7591530"
-    },
-    {
-      "bytes": 1402,
-      "path": "dynamic/内心自省/2026-07-31 15-58-28 你能分辨欲望和被触发的区别吗_415f54b7f9fa.md",
-      "sha256": "f647d2a4eb707b4cdcb641d5590d1e2c5868d02cda1b2f4821635481806a5ba9"
     },
     {
       "bytes": 1681,
@@ -4233,11 +4233,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-16T22:24:08+00:00",
+  "generated_at": "2026-10-16T22:54:15+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1067654
+  "total_bytes": 1067655
 }
