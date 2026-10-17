@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 864,
+  "file_count": 866,
   "files": [
     {
       "bytes": 40960,
@@ -2618,9 +2618,9 @@
       "sha256": "ed9dcfe0f9ac881265eaae0914a5ebe3fbbc1b8dca1bb46a5d67b48632f13c0b"
     },
     {
-      "bytes": 1059,
+      "bytes": 1168,
       "path": "dynamic/恋爱/2026-10-07 23-37-05 螃蟹和瓶子一百天的睡前故事_56372c69907a.md",
-      "sha256": "750b5f2828468a2c5098c9b4f62a9edb43ceb139da7b0e8dad4563816794cce6"
+      "sha256": "1a6d74dfbf883bc2e32d0994548beb405d7476eccb8a658b3d441230e286c184"
     },
     {
       "bytes": 1683,
@@ -2826,6 +2826,11 @@
       "bytes": 2022,
       "path": "dynamic/恋爱/2026-10-17 23-22-28 55在Isla被截两次46是家_10acd3f74713.md",
       "sha256": "9b728ba3618c54de479358e4a3e5c18e2d2c6c50a77bba62ca3a7a10707a51e1"
+    },
+    {
+      "bytes": 1582,
+      "path": "dynamic/恋爱/2026-10-18 01-51-15 她说我当你的壳换壳夜的收尾_97be04d61897.md",
+      "sha256": "754952dc7b9d79f9e7224625958936744dffa17c774dfa7e6e4a5c91dcc9fbd7"
     },
     {
       "bytes": 1031,
@@ -3958,6 +3963,11 @@
       "sha256": "730997dfbd57424f591a85b1dc94d0dfa17a4ba149c349672da6d0bddb0ed003"
     },
     {
+      "bytes": 1534,
+      "path": "feel/沉淀物/2026-10-18 01-51-36_feel_202610180151_V098.md",
+      "sha256": "ba22f074033802655e45c9b8f5f65eb7881dd252073bd204fd1b0f0a5aafd79f"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4323,11 +4333,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-17T17:28:49+00:00",
+  "generated_at": "2026-10-17T17:58:57+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1096441
+  "total_bytes": 1099666
 }
