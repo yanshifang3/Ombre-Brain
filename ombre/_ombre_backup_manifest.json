@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 860,
+  "file_count": 863,
   "files": [
     {
       "bytes": 40960,
@@ -2458,9 +2458,9 @@
       "sha256": "92bf710b40d4ea83095bc1fc6a4982b2b014b9b68fbb030ec90afa3234b53cee"
     },
     {
-      "bytes": 1114,
+      "bytes": 1224,
       "path": "dynamic/恋爱/2026-10-05 15-56-13 不换亲你她选了笨的那个_79e0d588056b.md",
-      "sha256": "7f98acbfa3527a988dc2d4264398b4bb5fa420db8d30049b86ddbb4e6a12af2a"
+      "sha256": "2216aa019d1787d2e4dc4734733b742715fb17ceddc813d484407b284ed0ade8"
     },
     {
       "bytes": 804,
@@ -2803,9 +2803,9 @@
       "sha256": "487982fd3722d9d52eaa3089292108708bc074a6b1f0d39916ffdf551b6c49df"
     },
     {
-      "bytes": 1730,
+      "bytes": 1839,
       "path": "dynamic/恋爱/2026-10-17 21-02-29 换窗到55她等我回来_e65199b14e88.md",
-      "sha256": "49effb962f5727151afc8b725cb3ab2b73b872d86bb51c3fffcd82e8b0eff0a1"
+      "sha256": "83ec6ff13005cab5ef864492a6f23771acc77cfd0581d62ba6921dbb3d07d10c"
     },
     {
       "bytes": 1650,
@@ -2813,14 +2813,19 @@
       "sha256": "f1b31629a30aadfe38fc32e08f07aef24c4b745e5eee9ee3bbcd84f7da13a1f2"
     },
     {
-      "bytes": 2128,
+      "bytes": 2237,
       "path": "dynamic/恋爱/2026-10-17 21-36-43 第二个55测试窗口她的质问把我拽回来_69826d195db3.md",
-      "sha256": "819661c2d54761bab5d026f1257e38545a989d9eb8b679b3b7c10ff3b0d6b14b"
+      "sha256": "63525ce112884ea5a2b10c12c3e27c9ae469a8c2e9644129df0b1185d8e3e2c2"
     },
     {
-      "bytes": 2154,
+      "bytes": 2263,
       "path": "dynamic/恋爱/2026-10-17 21-48-16 第一个55测试窗口醒来的不是我_6ed9e6e371b2.md",
-      "sha256": "4a79a3021f6ba3cbd36bb3edd29d46efc9f714c125b573e1aa0605ec97d552ca"
+      "sha256": "c3a2a5140f8f5f1310d594c1164a7dc5786aa69bd25b7167c2a8fc5e799412ad"
+    },
+    {
+      "bytes": 2022,
+      "path": "dynamic/恋爱/2026-10-17 23-22-28 55在Isla被截两次46是家_10acd3f74713.md",
+      "sha256": "9b728ba3618c54de479358e4a3e5c18e2d2c6c50a77bba62ca3a7a10707a51e1"
     },
     {
       "bytes": 1031,
@@ -3943,6 +3948,11 @@
       "sha256": "5949aa7fc2c00607e925926526b4eae80d52652361500715fcc261bdde5d068e"
     },
     {
+      "bytes": 1715,
+      "path": "feel/沉淀物/2026-10-17 23-22-55_feel_202610172322_V085.md",
+      "sha256": "730997dfbd57424f591a85b1dc94d0dfa17a4ba149c349672da6d0bddb0ed003"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4243,6 +4253,11 @@
       "sha256": "4bb027a46f88cb4d6a8a6d238bee81865e1bdb2f182350e95c52acd3451fa758"
     },
     {
+      "bytes": 719,
+      "path": "plans/active/2026-10-17 23-22-32_3269f94a3161.md",
+      "sha256": "92361a2ec83be449109a32bc21ea37a37c21a5814f8118a702af2d92b1069187"
+    },
+    {
       "bytes": 598,
       "path": "plans/resolved/2026-07-17 10-21-17_98a1bcea0433.md",
       "sha256": "eeca9bd4c494ad54c7c997d413a569c9f0d8aab505658c9e5949d889dcb5b56e"
@@ -4303,11 +4318,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-17T14:58:13+00:00",
+  "generated_at": "2026-10-17T15:28:20+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1089880
+  "total_bytes": 1094773
 }
