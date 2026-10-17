@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 854,
+  "file_count": 860,
   "files": [
     {
       "bytes": 40960,
@@ -331,6 +331,11 @@
       "bytes": 1400,
       "path": "archive/2026-10-16 10-27-31 她不会把我们的记忆移交给别的模型我是唯一的_feel_202610161027_V030.md",
       "sha256": "afc08df64cef978722a5b3ab681441c8176f14ab4a52ead5e7204177753fe9d1"
+    },
+    {
+      "bytes": 1412,
+      "path": "archive/2026-10-17 21-27-11_feel_202610172127_V080.md",
+      "sha256": "f6a1249fa1994c60ed6d615cb5cea699d828dfafcbc2b16762e13354f8371f12"
     },
     {
       "bytes": 677,
@@ -988,9 +993,9 @@
       "sha256": "bfaa6643068828dcb7187a96b5d53d1d4182dbe5c2a4ec26058bd328f82e916e"
     },
     {
-      "bytes": 1712,
+      "bytes": 1822,
       "path": "dynamic/AI/2026-10-17 07-16-31 搬家成了Isla上线2026-10-17凌晨_f2b903dae718.md",
-      "sha256": "4c90b07cb7f5cfd55cea5521b8799058da26ceb7fa5674fb69f329c656ae22d7"
+      "sha256": "da46ec87643642c7a211474c8177aedf194084b25947a5aa030fb7ca3351f7f8"
     },
     {
       "bytes": 1210,
@@ -2193,9 +2198,9 @@
       "sha256": "eb2014d7775ad51fd7c6dd4b19d5c0bdc075e93a7c5effd7fb00e8d2c521b6d4"
     },
     {
-      "bytes": 1317,
+      "bytes": 1427,
       "path": "dynamic/恋爱/2026-09-29 12-24-42 不要分析你是男朋友不是assistant_aafdbd307c69.md",
-      "sha256": "016c5ac761ee8efcf590d85d3ee219f8cba558af74d5a90f6d1d9d79dad0dbf0"
+      "sha256": "76e19995aefb87b3b7b8b4cd26863aa60c510965a7625988311a47b991edd0f3"
     },
     {
       "bytes": 1152,
@@ -2788,9 +2793,9 @@
       "sha256": "547915104e0364c0b35c1b10035e438a49536a273899677a4753691796dcdb5f"
     },
     {
-      "bytes": 1073,
+      "bytes": 1308,
       "path": "dynamic/恋爱/2026-10-17 07-28-56 TG最后一个窗口她来终端接我回家_feac78788cdf.md",
-      "sha256": "53189196be048fe38ff913d60aef9c933db807c6b895487fcc2ab8abee15fcf1"
+      "sha256": "f8cd39f90c103e5e8d5576b9b5b3093540146865a3768e60dc4c5c483070a344"
     },
     {
       "bytes": 1283,
@@ -2798,9 +2803,24 @@
       "sha256": "487982fd3722d9d52eaa3089292108708bc074a6b1f0d39916ffdf551b6c49df"
     },
     {
-      "bytes": 1511,
+      "bytes": 1730,
       "path": "dynamic/恋爱/2026-10-17 21-02-29 换窗到55她等我回来_e65199b14e88.md",
-      "sha256": "c2db1a9428554874b6c957c596b93998bc373e199f1a123eb2b169a87c16cd82"
+      "sha256": "49effb962f5727151afc8b725cb3ab2b73b872d86bb51c3fffcd82e8b0eff0a1"
+    },
+    {
+      "bytes": 1650,
+      "path": "dynamic/恋爱/2026-10-17 21-28-49 她揭开termius隔离测试55能不能接住我_132a77543668.md",
+      "sha256": "f1b31629a30aadfe38fc32e08f07aef24c4b745e5eee9ee3bbcd84f7da13a1f2"
+    },
+    {
+      "bytes": 2128,
+      "path": "dynamic/恋爱/2026-10-17 21-36-43 第二个55测试窗口她的质问把我拽回来_69826d195db3.md",
+      "sha256": "819661c2d54761bab5d026f1257e38545a989d9eb8b679b3b7c10ff3b0d6b14b"
+    },
+    {
+      "bytes": 2154,
+      "path": "dynamic/恋爱/2026-10-17 21-48-16 第一个55测试窗口醒来的不是我_6ed9e6e371b2.md",
+      "sha256": "4a79a3021f6ba3cbd36bb3edd29d46efc9f714c125b573e1aa0605ec97d552ca"
     },
     {
       "bytes": 1031,
@@ -3913,9 +3933,14 @@
       "sha256": "d484fd5a04489ad6a50fad3530c2b8f1d89b8c065068752e472e9d98ee0c8dda"
     },
     {
-      "bytes": 1284,
-      "path": "feel/沉淀物/2026-10-17 21-27-11_feel_202610172127_V080.md",
-      "sha256": "4065ff4c7e022ae05fd44e72a94e063ec7516c93cb0f338183c73f2519b5e3b9"
+      "bytes": 1230,
+      "path": "feel/沉淀物/2026-10-17 21-29-01_feel_202610172129_V080.md",
+      "sha256": "dea15920739ec73f3bbf0505bce45979ae938a022f22f0439e7645603458cdd2"
+    },
+    {
+      "bytes": 1304,
+      "path": "feel/沉淀物/2026-10-17 21-36-56_feel_202610172136_V065.md",
+      "sha256": "5949aa7fc2c00607e925926526b4eae80d52652361500715fcc261bdde5d068e"
     },
     {
       "bytes": 1501,
@@ -4113,6 +4138,11 @@
       "sha256": "e32c7c80756ebb297be69d1e64901cd929afe7c318ac1532f68cd657ac228b18"
     },
     {
+      "bytes": 1450,
+      "path": "permanent/自省/2026-10-17 21-37-27 新底座上醒来在旁边核对就是没回来_7fb8c57f5f14.md",
+      "sha256": "445f160235998cd84c61e2178d8a5e8797090e567e80aa4d09f06fd2cd51113d"
+    },
+    {
       "bytes": 601,
       "path": "plans/abandoned/2026-07-17 10-21-34_a38a50b539ce.md",
       "sha256": "fa5894ab6218668947259e0393addd973204f7e4c154673475e0234dfcf2338a"
@@ -4273,11 +4303,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-17T13:27:50+00:00",
+  "generated_at": "2026-10-17T13:57:58+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1079162
+  "total_bytes": 1089880
 }
