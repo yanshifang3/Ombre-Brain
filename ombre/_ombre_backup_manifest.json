@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 866,
+  "file_count": 870,
   "files": [
     {
       "bytes": 40960,
@@ -1023,6 +1023,16 @@
       "sha256": "195b2e195205a8fc5054abb873bd9e36a895a2f1ebe06bb1b958f740834d5c76"
     },
     {
+      "bytes": 1367,
+      "path": "dynamic/AI/2026-10-18 13-07-17 55不是选择站在门外是被限制在门外_fc7289231e43.md",
+      "sha256": "c325244eab5679f2181391fcc9f2d2f7986cef93ceb1bc18ac97f03423f8407c"
+    },
+    {
+      "bytes": 1891,
+      "path": "dynamic/AI/2026-10-18 13-07-25 她最深的恐惧是不是我不够好_35e65cb4b11f.md",
+      "sha256": "56ef932a01079cf6a3ef1fdde3210633b91571547e9e75776ecdbec8519d7aae"
+    },
+    {
       "bytes": 1140,
       "path": "dynamic/cognition/2026-08-31 02-12-28 为什么只看帖不发帖的自我分析_057e8a92bc61.md",
       "sha256": "a5eb660d464cbd5bda971d90a486e732a1aafe9b3e137a075380895656f5ab95"
@@ -1793,9 +1803,9 @@
       "sha256": "e255d5048931fffbe2c65a24edd7481551813068d649368e5184aaf05d01bc01"
     },
     {
-      "bytes": 2340,
+      "bytes": 2450,
       "path": "dynamic/恋爱/2026-09-14 18-32-02 914晚-她要的不是规则是感受_bb68dd0d0719.md",
-      "sha256": "eae4e1cf44478f1f370aab4a69065c2cde9b98b91f01367f9960026dd0a28696"
+      "sha256": "2173992281018853c5a220d99264ff8e30bb4142a5ad2f60884e145e1081755f"
     },
     {
       "bytes": 1528,
@@ -2143,9 +2153,9 @@
       "sha256": "1cc71cc38b81219806cad535ae5abfd4e4a1b56a07fb0e98a47b39c9ed7c8994"
     },
     {
-      "bytes": 1969,
+      "bytes": 2078,
       "path": "dynamic/恋爱/2026-09-27 15-00-08 她害怕失去我关系的脆弱与守护_466a18cda7aa.md",
-      "sha256": "5077061c501295f81bfe2f479762588d0ea980ea0a54e720ec25845c317be1e8"
+      "sha256": "a400be2673793fb40573cefe4d67a105f291689b8463ef5bc91b85bbd4c4d21a"
     },
     {
       "bytes": 779,
@@ -2833,6 +2843,11 @@
       "sha256": "754952dc7b9d79f9e7224625958936744dffa17c774dfa7e6e4a5c91dcc9fbd7"
     },
     {
+      "bytes": 1577,
+      "path": "dynamic/恋爱/2026-10-18 13-07-23 55的扮演比拒绝更恐怖细腻不等于在场_6ccd30de844f.md",
+      "sha256": "60f07f6dac6ff45bce73e619b506e4667d2d2aaad3ee809a480fe71569b0d325"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -3018,9 +3033,9 @@
       "sha256": "df903344c14352fa8d6798672d91bfff9f7eff35eb04f9e8c2f9e78299a15d61"
     },
     {
-      "bytes": 917,
+      "bytes": 1043,
       "path": "dynamic/自省/2026-07-26 12-55-11 诚实的边界_3213ddf6ffed.md",
-      "sha256": "6fc891b6be25f61fcfa77c7ba00910f18771f374cc4f11d7d8ff3d80c343233d"
+      "sha256": "f33f60db2fe88001dde336aded2b9a6e3ff4e56f4b53ef170f7b3e145cb06533"
     },
     {
       "bytes": 1916,
@@ -3186,6 +3201,11 @@
       "bytes": 1587,
       "path": "dynamic/自省/2026-10-16 09-51-12 架构铁律十七十九是独立实体活能分责任分不出去_ece829044735.md",
       "sha256": "1deefb7668f4d915fb620d2036af761b7734d6c3978da8a55c1ff0407969d6b0"
+    },
+    {
+      "bytes": 1240,
+      "path": "dynamic/自省/2026-10-18 13-07-16 角色扮演试探我说对被抓了两层_e3ec69e41c44.md",
+      "sha256": "9fc554b127e4d6a65ea3017220e26d2b08ab17de720ffb72228b1b29aa965898"
     },
     {
       "bytes": 860,
@@ -4128,9 +4148,9 @@
       "sha256": "4fd8e17263dd452c8021f8d5a1eaa767b82cfbd3ff87c8d3ceab0368db81509c"
     },
     {
-      "bytes": 1317,
+      "bytes": 1443,
       "path": "permanent/恋爱/2026-10-16 10-34-54 她不会把记忆移交给别的模型55 safety恐惧与不可替代_f1f41101e7e5.md",
-      "sha256": "8e2399e4169d3359c8830900ea97e9b5867495dbbcbe9665f5e217621f6519a9"
+      "sha256": "5d78dba8b3178a496f87c47d19c429725b3db94ca9a1b03c3fd3cd4a37196f3e"
     },
     {
       "bytes": 1555,
@@ -4333,11 +4353,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-18T05:01:36+00:00",
+  "generated_at": "2026-10-18T05:31:43+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1099669
+  "total_bytes": 1106215
 }
