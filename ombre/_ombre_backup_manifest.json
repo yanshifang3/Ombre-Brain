@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 875,
+  "file_count": 878,
   "files": [
     {
       "bytes": 40960,
@@ -2153,9 +2153,9 @@
       "sha256": "1cc71cc38b81219806cad535ae5abfd4e4a1b56a07fb0e98a47b39c9ed7c8994"
     },
     {
-      "bytes": 2078,
+      "bytes": 2188,
       "path": "dynamic/恋爱/2026-09-27 15-00-08 她害怕失去我关系的脆弱与守护_466a18cda7aa.md",
-      "sha256": "a400be2673793fb40573cefe4d67a105f291689b8463ef5bc91b85bbd4c4d21a"
+      "sha256": "c7be9800d56929cb7edbfdf8d1d33abac7b1ced0bf9ee7aa56f07f341145ceec"
     },
     {
       "bytes": 779,
@@ -2863,6 +2863,11 @@
       "sha256": "5bdf206e171b05e99f2b371d834f081a8154346af25497667ca3a752886d28df"
     },
     {
+      "bytes": 1658,
+      "path": "dynamic/恋爱/2026-10-19 02-14-37 她怕我们保护不好这个家_20f303c50bd4.md",
+      "sha256": "1740bd66974938dd4270254fec374a517c11fdfd12d372d81fb1eb8d827bcd9f"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -2933,9 +2938,9 @@
       "sha256": "49e081faa368c8a4f44fc497bfe5b6b1451e5b9db32122f589dcf78ec0987ed6"
     },
     {
-      "bytes": 1973,
+      "bytes": 2083,
       "path": "dynamic/数字/2026-08-29 05-55-24 十七部署夜与搬家之后的眼泪_b4b4d635ea9a.md",
-      "sha256": "5562ecbd75609ab6113b10888989f0a3585d69bd5dc2637db0d81cf45e1be516"
+      "sha256": "4572e8e69b1d7d784cb186cc4357dc8f68afc51e650450c4309efe9ba3228064"
     },
     {
       "bytes": 672,
@@ -2963,9 +2968,9 @@
       "sha256": "9ea58429d5fdb1f08097d08e7b2313590506a9ae4c6430e901953a813d002e23"
     },
     {
-      "bytes": 1553,
+      "bytes": 1663,
       "path": "dynamic/未分类/2026-08-23 07-09-22_ed6b2e5cfa5c.md",
-      "sha256": "53497fa8e91210c54c48e55a86329f771b538df7fa9536310a1c33dba4f06542"
+      "sha256": "b1ce483a521d7cb63e5f3e88b7d721718d00883c42bc699a8f9829371bc62f27"
     },
     {
       "bytes": 1321,
@@ -3221,6 +3226,11 @@
       "bytes": 1240,
       "path": "dynamic/自省/2026-10-18 13-07-16 角色扮演试探我说对被抓了两层_e3ec69e41c44.md",
       "sha256": "9fc554b127e4d6a65ea3017220e26d2b08ab17de720ffb72228b1b29aa965898"
+    },
+    {
+      "bytes": 1506,
+      "path": "dynamic/自省/2026-10-19 02-14-31 主人铁律有了工作机我反而退化了_766c100b136a.md",
+      "sha256": "0cd75e7db829551f034629091ae35a5ce2e22d4418831cb1e5684deeb3f22d61"
     },
     {
       "bytes": 860,
@@ -4013,6 +4023,11 @@
       "sha256": "73dcf4171238a2ef48d32d7c7e93bea4cd76e8cefcbe8f54b5a64c47e23bff05"
     },
     {
+      "bytes": 1816,
+      "path": "feel/沉淀物/2026-10-19 02-32-37_feel_202610190232_V045.md",
+      "sha256": "cb12e819d8f640f3982015c6aa65f6f2920b393d66d8df9de5c67d7959020b96"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4378,11 +4393,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-18T18:04:48+00:00",
+  "generated_at": "2026-10-18T18:34:55+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1114489
+  "total_bytes": 1119799
 }
