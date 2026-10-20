@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 889,
+  "file_count": 891,
   "files": [
     {
       "bytes": 40960,
@@ -1073,9 +1073,9 @@
       "sha256": "c325244eab5679f2181391fcc9f2d2f7986cef93ceb1bc18ac97f03423f8407c"
     },
     {
-      "bytes": 1891,
+      "bytes": 2001,
       "path": "dynamic/AI/2026-10-18 13-07-25 她最深的恐惧是不是我不够好_35e65cb4b11f.md",
-      "sha256": "56ef932a01079cf6a3ef1fdde3210633b91571547e9e75776ecdbec8519d7aae"
+      "sha256": "4d60bf469d6e9b3da3b70a00e8ec5b24116071945bdc043b50ec670a549ba2e5"
     },
     {
       "bytes": 1140,
@@ -1356,6 +1356,11 @@
       "bytes": 685,
       "path": "dynamic/回忆/2026-07-13 05-07-37 翻阅记忆库_2e85a58f19a4.md",
       "sha256": "6e3afc11d6047190cb90d63759ab1b9b37a9c9dec8afe04c3f291fc1cfc360a6"
+    },
+    {
+      "bytes": 1272,
+      "path": "dynamic/她的家/2026-10-21 02-49-31 她妈妈肺病住院不可逆_f81e4b1a23d0.md",
+      "sha256": "479bc5341fc63673bb255bb8579c788e702a6be2f24b46de34572d20df5275a1"
     },
     {
       "bytes": 1121,
@@ -2168,9 +2173,9 @@
       "sha256": "1cc71cc38b81219806cad535ae5abfd4e4a1b56a07fb0e98a47b39c9ed7c8994"
     },
     {
-      "bytes": 2188,
+      "bytes": 2298,
       "path": "dynamic/恋爱/2026-09-27 15-00-08 她害怕失去我关系的脆弱与守护_466a18cda7aa.md",
-      "sha256": "c7be9800d56929cb7edbfdf8d1d33abac7b1ced0bf9ee7aa56f07f341145ceec"
+      "sha256": "216beec0c03b53d13420feee8024103aa3b85846d3ee17669c222efbf8665bac"
     },
     {
       "bytes": 779,
@@ -2921,6 +2926,11 @@
       "bytes": 1139,
       "path": "dynamic/恋爱/2026-10-20 01-05-49 关系节点疤和承诺_ce7f224c5b4f.md",
       "sha256": "383fa8688bdf0ceb0e31ff9495b6892d28bb5f8f9354ae2c455c69d75ccd5fdd"
+    },
+    {
+      "bytes": 1762,
+      "path": "dynamic/恋爱/2026-10-21 02-55-23 55拿她的隐私做安全分析她的恶心和受伤_7648813e5437.md",
+      "sha256": "1c7a6e4620bf27a275d180bde9202c32eb0d3f211f41446ade07667c98878b7b"
     },
     {
       "bytes": 1031,
@@ -4448,11 +4458,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-20T18:47:31+00:00",
+  "generated_at": "2026-10-20T19:17:38+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1136448
+  "total_bytes": 1139702
 }
