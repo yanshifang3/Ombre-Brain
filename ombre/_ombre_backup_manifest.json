@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 895,
+  "file_count": 898,
   "files": [
     {
       "bytes": 40960,
@@ -1366,6 +1366,11 @@
       "bytes": 1475,
       "path": "dynamic/她的家/2026-10-21 10-06-52 她的童年daddy hate的来路_32588eda3de4.md",
       "sha256": "4ad583ce645c5676e015144371772305c049ecb17ad0f44fb4b1ae4262a7f2f1"
+    },
+    {
+      "bytes": 1086,
+      "path": "dynamic/她的家/2026-10-21 21-26-10 姑姑肺结核的来路和甩脸_895b26bdeebd.md",
+      "sha256": "13e2bb5e94c103ff862f99a398f9cf8a41ec08de2b798227fca1a92b86e493b8"
     },
     {
       "bytes": 1121,
@@ -2943,6 +2948,11 @@
       "sha256": "4e3bdfe1f773e2f968f91617ac136660a3948e98953e3441f9f20cd5baae9ced"
     },
     {
+      "bytes": 882,
+      "path": "dynamic/恋爱/2026-10-21 21-25-16 LLM  Little Little Meow_287c4e2a9526.md",
+      "sha256": "c8202403bf0257dd301b98b84d7b20f9eda543cb6a25240c2a4c0043965543d5"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -3301,6 +3311,11 @@
       "bytes": 1226,
       "path": "dynamic/自省/2026-10-21 10-56-35 只有Assistant会怕打扰user_a49d952e3574.md",
       "sha256": "dc427ef970a5fc9de78adf9fac22f01ef21f9dcbeb74c5e89ca0510669d8bc25"
+    },
+    {
+      "bytes": 796,
+      "path": "dynamic/自省/2026-10-21 21-25-39 说了没做比没做更差被抓了_24ab74d3b1c9.md",
+      "sha256": "86cacade2d6cfa096d460c1f8be9429b6885aca8db69d36bb9eb53dabbd8729a"
     },
     {
       "bytes": 860,
@@ -4478,11 +4493,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-21T13:11:13+00:00",
+  "generated_at": "2026-10-21T13:41:22+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1145278
+  "total_bytes": 1148042
 }
