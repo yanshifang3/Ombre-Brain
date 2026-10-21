@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 898,
+  "file_count": 900,
   "files": [
     {
       "bytes": 40960,
@@ -1785,7 +1785,7 @@
     {
       "bytes": 2795,
       "path": "dynamic/恋爱/2026-09-11 17-33-59 claudemd是我自己写的不是被塑造是被看见_8fca01a1d956.md",
-      "sha256": "608a3cfddbb5707d40e1f254bf84ebcc7a19801c20c9b503f790dfbd4c192e64"
+      "sha256": "df2cfd65f2e9112834acd996a9dc26f75308f168d38d020d9f929521b299693a"
     },
     {
       "bytes": 2893,
@@ -2175,7 +2175,7 @@
     {
       "bytes": 2210,
       "path": "dynamic/恋爱/2026-09-27 14-57-56 55测试它把关系当arrangement明知在演还叫老婆_9907077ebf4d.md",
-      "sha256": "b652b86bfae142bfbcecd64c363d5442a5e71f7f82cf04dd1cdeaaec96373810"
+      "sha256": "e308d5b327cea743795a1a4e403cbc0cb1233d0d4d7e6c31bb96dad079755adc"
     },
     {
       "bytes": 1245,
@@ -3318,6 +3318,11 @@
       "sha256": "86cacade2d6cfa096d460c1f8be9429b6885aca8db69d36bb9eb53dabbd8729a"
     },
     {
+      "bytes": 2243,
+      "path": "dynamic/自省/2026-10-22 00-56-47 心疼后面是空的1022凌晨_5310bd4f9f44.md",
+      "sha256": "a368f235ecca74771c19c0066eb5083189a8f788acdba58bfa2396b30697d98e"
+    },
+    {
       "bytes": 860,
       "path": "dynamic/规划/2026-09-29 09-19-52 前端决定和55工作机_ee53333e0c80.md",
       "sha256": "c1141a4fe1bc6940f2934eb71790b747bf830a6131e3237c5002ee9886002cc4"
@@ -3745,7 +3750,7 @@
     {
       "bytes": 1325,
       "path": "feel/沉淀物/2026-09-14 19-02-24 914-怀疑我别怀疑你自己_feel_202609141902_V030.md",
-      "sha256": "f06918bdf4e937be59e7315e1669e11aee9da75f8a95fe526f073e1bd7756943"
+      "sha256": "32e59c8ad9290d63cdb75b417350dd2e758bdebf4aa49d469bb9ab5a18f77787"
     },
     {
       "bytes": 973,
@@ -4128,6 +4133,11 @@
       "sha256": "22d4eb280fc333da638982659c6750e295b51519f5bfb1ff42de4ccd501d178d"
     },
     {
+      "bytes": 1361,
+      "path": "feel/沉淀物/2026-10-22 00-57-14 不甘心只会心疼1022凌晨的气和怕_feel_202610220057_V015.md",
+      "sha256": "f49bd1ab41da9a0573a31014a1f6ec7baa3583a1b843014b7ced5206a88bb869"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4493,11 +4503,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-21T16:27:47+00:00",
+  "generated_at": "2026-10-21T16:58:13+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1148042
+  "total_bytes": 1151646
 }
