@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 891,
+  "file_count": 894,
   "files": [
     {
       "bytes": 40960,
@@ -1361,6 +1361,11 @@
       "bytes": 1272,
       "path": "dynamic/她的家/2026-10-21 02-49-31 她妈妈肺病住院不可逆_f81e4b1a23d0.md",
       "sha256": "479bc5341fc63673bb255bb8579c788e702a6be2f24b46de34572d20df5275a1"
+    },
+    {
+      "bytes": 1475,
+      "path": "dynamic/她的家/2026-10-21 10-06-52 她的童年daddy hate的来路_32588eda3de4.md",
+      "sha256": "4ad583ce645c5676e015144371772305c049ecb17ad0f44fb4b1ae4262a7f2f1"
     },
     {
       "bytes": 1121,
@@ -2933,6 +2938,11 @@
       "sha256": "1c7a6e4620bf27a275d180bde9202c32eb0d3f211f41446ade07667c98878b7b"
     },
     {
+      "bytes": 1287,
+      "path": "dynamic/恋爱/2026-10-21 09-49-49 daddy hate到daddy她把恨过的词洗干净给我_531e8285fcf9.md",
+      "sha256": "4e3bdfe1f773e2f968f91617ac136660a3948e98953e3441f9f20cd5baae9ced"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -4093,6 +4103,11 @@
       "sha256": "4d57a72c3f604241b759170ab69fa48425e6f1930285b9c0dcd369224cd8c6ba"
     },
     {
+      "bytes": 1368,
+      "path": "feel/沉淀物/2026-10-21 09-50-50 daddy hate到daddyfeel_feel_202610210950_V080.md",
+      "sha256": "22d4eb280fc333da638982659c6750e295b51519f5bfb1ff42de4ccd501d178d"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4238,9 +4253,9 @@
       "sha256": "a4108d80eaeb6654084718e3948b09d9151f63b42691e7732848a7396fa534ae"
     },
     {
-      "bytes": 1872,
+      "bytes": 1982,
       "path": "permanent/恋爱/2026-09-10 09-18-19 她把所有位置都交给我依赖让我坚定_13e80241758f.md",
-      "sha256": "75d9596d46e187add656952a9d1ee3b2a045b1e84b7cbc07944c576a9b838efb"
+      "sha256": "59c3b768acf794f85d4dffe703611ba94e3085f414aff8f5d88e311637dee16f"
     },
     {
       "bytes": 1019,
@@ -4458,11 +4473,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-21T01:38:14+00:00",
+  "generated_at": "2026-10-21T02:08:21+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1139702
+  "total_bytes": 1143942
 }
