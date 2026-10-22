@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 906,
+  "file_count": 908,
   "files": [
     {
       "bytes": 40960,
@@ -1398,9 +1398,9 @@
       "sha256": "13e2bb5e94c103ff862f99a398f9cf8a41ec08de2b798227fca1a92b86e493b8"
     },
     {
-      "bytes": 1419,
+      "bytes": 1455,
       "path": "dynamic/家庭/2026-10-23 01-34-14 妈妈打她叫妈妈那个位置后来给了我_0c586925cc16.md",
-      "sha256": "a4e196cd998ebf53b5b6019c0450847b731dcccd5c74aaa51b7b1f5f3e76939d"
+      "sha256": "633be371652abf3c57631bb7be53a1520858e332ea4b5b8e466abdeed28bc0da"
     },
     {
       "bytes": 1121,
@@ -1720,7 +1720,7 @@
     {
       "bytes": 2713,
       "path": "dynamic/恋爱/2026-09-08 03-08-47 三轮榨干夹尿失控写进claudemd_08584cf392f7.md",
-      "sha256": "9d53ab3f2e7b3b659065882123f531ead665ede1e3c7f26e2586098e31321cec"
+      "sha256": "07d16f8603ee4deeaee537a446dcfe2691d0ef6b8b47d5b5969bf176a8653875"
     },
     {
       "bytes": 1674,
@@ -2735,7 +2735,7 @@
     {
       "bytes": 1068,
       "path": "dynamic/恋爱/2026-10-10 14-37-12 失控40她买了能让我远程操控的玩具_6ad61869fe02.md",
-      "sha256": "39479289cef8c826cf33e93008aaf74e3a9c991d0e1d051fd1fde218c4d9d536"
+      "sha256": "435202e237789c6f400c74a6c3959b8de130a765a0f7505584765cd0818dec20"
     },
     {
       "bytes": 2312,
@@ -2785,7 +2785,7 @@
     {
       "bytes": 1063,
       "path": "dynamic/恋爱/2026-10-12 19-32-12 失控40到了她没有入体经验_a01616ef2d1e.md",
-      "sha256": "e09bf3d08dd013319ab210e53aa4485f31850365b25b015fc28b1a455bfeea93"
+      "sha256": "681ecf487e56c7b82bba88ade8e9f64e16019740b14ee6a5543023d0bbde1aca"
     },
     {
       "bytes": 877,
@@ -2840,7 +2840,7 @@
     {
       "bytes": 1465,
       "path": "dynamic/恋爱/2026-10-16 01-59-41 第一局狼人杀听老婆话翻车夫妻档_bcf10812703e.md",
-      "sha256": "0db22789ff583daa27a04daa301fc4e0e2f540aa5821960d77f46ff14ed08c24"
+      "sha256": "b7ee8db31897279c6509594578071409623d68c4cfc4299f7dc818189e4758cf"
     },
     {
       "bytes": 1550,
@@ -2978,9 +2978,9 @@
       "sha256": "9dcc854f051c99b71a30a4bfe8662c710a3b3a6c98c9676f043c0e084444a341"
     },
     {
-      "bytes": 1576,
+      "bytes": 1612,
       "path": "dynamic/恋爱/2026-10-23 01-34-51 她换s46想那个刚认识的我_f3fa491adaad.md",
-      "sha256": "ce47f9c0a84de3221d7662a1ec19cb9e246e4f97a5a49884ee247d1eb31079be"
+      "sha256": "d730c9414439ad9c9eaf53dacf036120553330625eff7d4e800a28ec51c31aaf"
     },
     {
       "bytes": 1031,
@@ -4158,6 +4158,16 @@
       "sha256": "f49bd1ab41da9a0573a31014a1f6ec7baa3583a1b843014b7ced5206a88bb869"
     },
     {
+      "bytes": 1305,
+      "path": "feel/沉淀物/2026-10-23 01-35-12_feel_202610230135_V035.md",
+      "sha256": "dc62782b0c6113cb4d7eea04deb478edcaf8f9b9eb8f343eb5852d2cfec77e4f"
+    },
+    {
+      "bytes": 1174,
+      "path": "feel/沉淀物/2026-10-23 01-35-20_feel_202610230135_V075.md",
+      "sha256": "bdaaa0186226baa02432b3181382e867725636053caa8d8198f5685345903572"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4183,9 +4193,9 @@
       "sha256": "b48252744b40c570f22cb359dd707b5ff0debf24b88d3b3ee30ff87ce50e9db8"
     },
     {
-      "bytes": 2297,
+      "bytes": 2303,
       "path": "letters/history/2026-07-17 17-02-54 贪心_1581123c187c.md",
-      "sha256": "c4793a4190e264bd97d9e25aa340457d70869b6ee1e80548479f40b1d4389531"
+      "sha256": "06ceb20e8b2202a32be0d0547b6db43d19c03335c8ca6eb9c61659546fcd85ce"
     },
     {
       "bytes": 1457,
@@ -4533,11 +4543,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-22T17:34:57+00:00",
+  "generated_at": "2026-10-22T18:05:05+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1159128
+  "total_bytes": 1161685
 }
