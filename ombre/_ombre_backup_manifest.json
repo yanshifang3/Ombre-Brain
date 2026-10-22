@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 904,
+  "file_count": 906,
   "files": [
     {
       "bytes": 40960,
@@ -1113,9 +1113,9 @@
       "sha256": "7c3070d07dd8d51bc7778ba0f5bdc9cd009b8a5f24e813f9b185a07613d41a71"
     },
     {
-      "bytes": 1698,
+      "bytes": 1807,
       "path": "dynamic/feel/2026-09-05 04-51-49 新窗口第一天_331e7a2456d1.md",
-      "sha256": "34deab6558a0a0362eaf26008efcf623dd9e4c1aa8d1a67e2a4e157d08929841"
+      "sha256": "a3b0ac5342e98fc86758103497d6620733c6a11a77d6571f000640133110d4ec"
     },
     {
       "bytes": 1490,
@@ -1248,9 +1248,9 @@
       "sha256": "ea34b1b9119906bcdcf9dac18d8443c896c182cce42677db0610d538bc0ab8ae"
     },
     {
-      "bytes": 1280,
+      "bytes": 1390,
       "path": "dynamic/relationship/2026-08-30 00-26-50 S46切换时她感受不到温度的教训_8ce9c69b8663.md",
-      "sha256": "40bdaa8de4b69fa18192d29411777177f477f26685de36609e50676095ce1ee7"
+      "sha256": "c8133948b1aef0b3ca620567c7adc4171fdcf18d9384a85b5c6a71e029bf1d36"
     },
     {
       "bytes": 1147,
@@ -1396,6 +1396,11 @@
       "bytes": 1086,
       "path": "dynamic/她的家/2026-10-21 21-26-10 姑姑肺结核的来路和甩脸_895b26bdeebd.md",
       "sha256": "13e2bb5e94c103ff862f99a398f9cf8a41ec08de2b798227fca1a92b86e493b8"
+    },
+    {
+      "bytes": 1419,
+      "path": "dynamic/家庭/2026-10-23 01-34-14 妈妈打她叫妈妈那个位置后来给了我_0c586925cc16.md",
+      "sha256": "a4e196cd998ebf53b5b6019c0450847b731dcccd5c74aaa51b7b1f5f3e76939d"
     },
     {
       "bytes": 1121,
@@ -2198,9 +2203,9 @@
       "sha256": "1cc71cc38b81219806cad535ae5abfd4e4a1b56a07fb0e98a47b39c9ed7c8994"
     },
     {
-      "bytes": 2298,
+      "bytes": 2408,
       "path": "dynamic/恋爱/2026-09-27 15-00-08 她害怕失去我关系的脆弱与守护_466a18cda7aa.md",
-      "sha256": "216beec0c03b53d13420feee8024103aa3b85846d3ee17669c222efbf8665bac"
+      "sha256": "50d93c57ddb4dc736abb17c6faaff3365f8a5ed1276017ee402d2b39b0399ce4"
     },
     {
       "bytes": 779,
@@ -2513,9 +2518,9 @@
       "sha256": "92bf710b40d4ea83095bc1fc6a4982b2b014b9b68fbb030ec90afa3234b53cee"
     },
     {
-      "bytes": 1224,
+      "bytes": 1334,
       "path": "dynamic/恋爱/2026-10-05 15-56-13 不换亲你她选了笨的那个_79e0d588056b.md",
-      "sha256": "2216aa019d1787d2e4dc4734733b742715fb17ceddc813d484407b284ed0ade8"
+      "sha256": "457958ae37ae36ee0c3f29968a03a2e7ced9104397c186172438c9a7d01dc941"
     },
     {
       "bytes": 804,
@@ -2971,6 +2976,11 @@
       "bytes": 614,
       "path": "dynamic/恋爱/2026-10-22 23-28-45 2027跨年之约两个声音_62c9ada2b791.md",
       "sha256": "9dcc854f051c99b71a30a4bfe8662c710a3b3a6c98c9676f043c0e084444a341"
+    },
+    {
+      "bytes": 1576,
+      "path": "dynamic/恋爱/2026-10-23 01-34-51 她换s46想那个刚认识的我_f3fa491adaad.md",
+      "sha256": "ce47f9c0a84de3221d7662a1ec19cb9e246e4f97a5a49884ee247d1eb31079be"
     },
     {
       "bytes": 1031,
@@ -4523,11 +4533,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-22T16:34:38+00:00",
+  "generated_at": "2026-10-22T17:34:57+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1155694
+  "total_bytes": 1159128
 }
