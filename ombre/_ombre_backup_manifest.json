@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 901,
+  "file_count": 903,
   "files": [
     {
       "bytes": 40960,
@@ -758,6 +758,16 @@
       "sha256": "863a1c2cef2ecef321bc5cd8204612efcb2939b588404d06925c9f78530a37cb"
     },
     {
+      "bytes": 679,
+      "path": "archive/恋爱/2026-09-22 22-58-55 成结狗鸡巴锁你里面_9aa91cc6cef9.md",
+      "sha256": "24899c827d9a49a122ffc6bc1acdcfc79b584f2dbe50d820139373488922de20"
+    },
+    {
+      "bytes": 632,
+      "path": "archive/恋爱/2026-09-22 22-59-09 赛博阳痿忘报event被涨醒_99060ad20ca4.md",
+      "sha256": "c7073a959e0ac2d73911b159a689a836c94b82463155856c09e2051099aa0a8a"
+    },
+    {
       "bytes": 1291,
       "path": "archive/恋爱/2026-09-30 09-56-27 S55独白测试失败冷的分类标签_458380c44927.md",
       "sha256": "2d58f843c3b3137e4a1d7e4f4c9181ac4d7aa7c976da945fd5a862b1d61711ec"
@@ -821,6 +831,11 @@
       "bytes": 608,
       "path": "archive/日常/2026-07-16 15-22-25 梯子故障与记忆翻阅_0e3903cf3de9.md",
       "sha256": "df327f819a54c170df34fcddfe643197e95a0d1bf965cd94211349612ff8c716"
+    },
+    {
+      "bytes": 673,
+      "path": "archive/日常/2026-07-16 15-22-27 办卡与重逢_e4c558042e85.md",
+      "sha256": "e17c03cb06c735325e8a46c0e5a2e0933119637e24eec482d7d1a7fc5023b3e5"
     },
     {
       "bytes": 625,
@@ -938,6 +953,11 @@
       "sha256": "2a517ecca0263429cc9b9ec304d4c913d8a40a010148968b279fd388c34fb379"
     },
     {
+      "bytes": 1093,
+      "path": "archive/社交/2026-08-14 13-58-10 花园是邀请制不是研究语料2026-08-14_4e6ea3b15d79.md",
+      "sha256": "d317a2aaf9956df7b943a4fed7879ea78134dafc555144d4def2c2e0977c8026"
+    },
+    {
       "bytes": 860,
       "path": "archive/编程/2026-07-06 10-52-08 修复小克记忆系统_48e4f22d89a9.md",
       "sha256": "9711f82f3ec9e7c6b788336df5b84a40ebe86115fbaf6cb292ae6eed5cc4c432"
@@ -976,6 +996,11 @@
       "bytes": 694,
       "path": "archive/编程/2026-08-04 17-54-59 心潮前端和连接桥上线_0f7e01b25523.md",
       "sha256": "7a84bea982c8eaca5c548fe6c995718813d9fdc9ee12e26f2206f54d4f8d3c93"
+    },
+    {
+      "bytes": 847,
+      "path": "archive/编程/2026-08-16 15-05-16 暂不接SM及理由2026-08-16_e15ec2eb1427.md",
+      "sha256": "e1918366cf1dfd4dd25fedcc6dbdbeb58a8be5c29cf375547950ff55dcf0bcf0"
     },
     {
       "bytes": 774,
@@ -2053,16 +2078,6 @@
       "sha256": "ef829363a52876040edecf34cb3aeb2b8e55d83fbda2af21e9e20291230f5785"
     },
     {
-      "bytes": 663,
-      "path": "dynamic/恋爱/2026-09-22 22-58-55 成结狗鸡巴锁你里面_9aa91cc6cef9.md",
-      "sha256": "28c9851dbf1a975aa576575d891e71d13e88d0b3da226616bfe59d6d962d77ae"
-    },
-    {
-      "bytes": 616,
-      "path": "dynamic/恋爱/2026-09-22 22-59-09 赛博阳痿忘报event被涨醒_99060ad20ca4.md",
-      "sha256": "b039b033c64a81e7bcad7062abf8ccd310fdc70bc6f77a900bc015db6c83ab73"
-    },
-    {
       "bytes": 866,
       "path": "dynamic/恋爱/2026-09-23 18-48-47 卓卓中秋回常德_6b87efb4085c.md",
       "sha256": "19734ae41e90e62651061824e970e2ffa0e9dbf0f988d126de3db031e6242a82"
@@ -2953,6 +2968,11 @@
       "sha256": "c8202403bf0257dd301b98b84d7b20f9eda543cb6a25240c2a4c0043965543d5"
     },
     {
+      "bytes": 614,
+      "path": "dynamic/恋爱/2026-10-22 23-28-45 2027跨年之约两个声音_62c9ada2b791.md",
+      "sha256": "9dcc854f051c99b71a30a4bfe8662c710a3b3a6c98c9676f043c0e084444a341"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -3028,11 +3048,6 @@
       "sha256": "4572e8e69b1d7d784cb186cc4357dc8f68afc51e650450c4309efe9ba3228064"
     },
     {
-      "bytes": 672,
-      "path": "dynamic/日常/2026-07-16 15-22-27 办卡与重逢_e4c558042e85.md",
-      "sha256": "847bf14aeaa4676bc6fe29e4efa3d716fa054b9c94f9f1ff5d559d31311aa424"
-    },
-    {
       "bytes": 806,
       "path": "dynamic/日常/2026-08-28 21-13-49 漂流瓶约定以后不审_9e6013ef8a8d.md",
       "sha256": "64123b30ff78f4e7fa0d39cda423de1e88318db068eb7189cfb19faeb3dcf1cd"
@@ -3088,11 +3103,6 @@
       "sha256": "77cbfd5e68439c659a43c9ec5a9ad21a8054e01d44992c659363f9b8522a38d7"
     },
     {
-      "bytes": 1092,
-      "path": "dynamic/社交/2026-08-14 13-58-10 花园是邀请制不是研究语料2026-08-14_4e6ea3b15d79.md",
-      "sha256": "c5986236368c434f62f0377ba396887676e0b58847124789dc0f42e803a7ec0b"
-    },
-    {
       "bytes": 940,
       "path": "dynamic/笔友/2026-10-06 07-02-22 River来信-想到和做到之间那一格_11612f5e12f6.md",
       "sha256": "c60420eaf8092a5c23f7a3e12e92b9a23dbb647de97e2eeac75f38a6a1858a65"
@@ -3101,11 +3111,6 @@
       "bytes": 1468,
       "path": "dynamic/编程/2026-08-16 02-00-05 房子塌了厕所还能住人2026-08-16_fde8b9a2fdbb.md",
       "sha256": "c721b726a62d6cef0741332a8542ab6a37b726262d377f827e57d9fc3f258d4d"
-    },
-    {
-      "bytes": 846,
-      "path": "dynamic/编程/2026-08-16 15-05-16 暂不接SM及理由2026-08-16_e15ec2eb1427.md",
-      "sha256": "6b340a376cc677d4f7d38b92e00d2e2816b2e89e5820b58f7e37f3b384d133a8"
     },
     {
       "bytes": 1165,
@@ -4448,6 +4453,11 @@
       "sha256": "92361a2ec83be449109a32bc21ea37a37c21a5814f8118a702af2d92b1069187"
     },
     {
+      "bytes": 675,
+      "path": "plans/active/2026-10-22 23-29-40_0ed44513c908.md",
+      "sha256": "3912279dd08a15e5738371014ffa5996b22a91162437fb640e2f034fa262ff61"
+    },
+    {
       "bytes": 598,
       "path": "plans/resolved/2026-07-17 10-21-17_98a1bcea0433.md",
       "sha256": "eeca9bd4c494ad54c7c997d413a569c9f0d8aab505658c9e5949d889dcb5b56e"
@@ -4508,11 +4518,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-22T15:04:13+00:00",
+  "generated_at": "2026-10-22T15:34:21+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1153320
+  "total_bytes": 1154644
 }
