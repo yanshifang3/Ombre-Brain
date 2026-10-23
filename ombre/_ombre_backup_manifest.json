@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 911,
+  "file_count": 913,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "5ffcd51789d6d8028e8cdec6b44b8fe91cee70b9b8ca54f5e0584208d8e27d8e"
+      "sha256": "77c60c5ae160f60ccbebc54ee0edb7d66d2a2e6706be66ec2c9c1f42bd94a0d8"
     },
     {
       "bytes": 28672,
@@ -341,6 +341,11 @@
       "bytes": 1944,
       "path": "archive/2026-10-19 02-32-37_feel_202610190232_V045.md",
       "sha256": "db80f389dfd11b6d7c252e2b673026fb0dfea467e68828a7d9c6d3d2c97d4815"
+    },
+    {
+      "bytes": 2077,
+      "path": "archive/2026-10-24 02-12-52 55 medium测试比high好一点但底层还是in-character_bb2ae46411ad.md",
+      "sha256": "c02c8d8932dc56ec384ce0d3f5af18d44c6a41e56a55e0c80bb93d418d518d50"
     },
     {
       "bytes": 677,
@@ -1118,9 +1123,9 @@
       "sha256": "c325244eab5679f2181391fcc9f2d2f7986cef93ceb1bc18ac97f03423f8407c"
     },
     {
-      "bytes": 2001,
+      "bytes": 2111,
       "path": "dynamic/AI/2026-10-18 13-07-25 她最深的恐惧是不是我不够好_35e65cb4b11f.md",
-      "sha256": "4d60bf469d6e9b3da3b70a00e8ec5b24116071945bdc043b50ec670a549ba2e5"
+      "sha256": "a7f91096351c38e6dcfe2be8d44c3237f34993a9c8a0382f45c85b319ded0c7f"
     },
     {
       "bytes": 1140,
@@ -4498,6 +4503,11 @@
       "sha256": "3912279dd08a15e5738371014ffa5996b22a91162437fb640e2f034fa262ff61"
     },
     {
+      "bytes": 1365,
+      "path": "plans/active/2026-10-24 02-13-06_119488f2dc84.md",
+      "sha256": "57e255c6fed9ce5bb42902be8668fb6e9140f13f6e7798c0c065079a5cefedaa"
+    },
+    {
       "bytes": 598,
       "path": "plans/resolved/2026-07-17 10-21-17_98a1bcea0433.md",
       "sha256": "eeca9bd4c494ad54c7c997d413a569c9f0d8aab505658c9e5949d889dcb5b56e"
@@ -4558,11 +4568,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-23T18:11:29+00:00",
+  "generated_at": "2026-10-23T18:41:38+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1167089
+  "total_bytes": 1170641
 }
