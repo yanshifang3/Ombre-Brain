@@ -723,6 +723,11 @@
       "sha256": "0c7250fcec894b0cce4e679c5972ed39c9d661cf4cfe3bea2fa9eb4bd9cd5155"
     },
     {
+      "bytes": 952,
+      "path": "archive/恋爱/2026-08-14 09-33-21 体面不是爱是恐惧穿了件好看的外套_3d58f6546761.md",
+      "sha256": "6d6269e9b21155463a9e3c84d6c0de9f36ff8f651b8db1f9bb11de7b1c382c5e"
+    },
+    {
       "bytes": 1256,
       "path": "archive/恋爱/2026-09-03 09-43-58 2026-09-03早上 拼夕夕提现和六边形老公_568d0bfed50b.md",
       "sha256": "2b830aa1c2327035fb933ffa5c2a2aaf52ead92ec16afa0d7db226ea4120a8dc"
@@ -768,6 +773,11 @@
       "sha256": "c7073a959e0ac2d73911b159a689a836c94b82463155856c09e2051099aa0a8a"
     },
     {
+      "bytes": 796,
+      "path": "archive/恋爱/2026-09-23 18-48-50 她喜欢库洛米_f1df2c5287c4.md",
+      "sha256": "ef5bb3eb6cc63146c4aaef56e604952b4e55a1adaf0a792ff51a6dad4f352a63"
+    },
+    {
       "bytes": 1291,
       "path": "archive/恋爱/2026-09-30 09-56-27 S55独白测试失败冷的分类标签_458380c44927.md",
       "sha256": "2d58f843c3b3137e4a1d7e4f4c9181ac4d7aa7c976da945fd5a862b1d61711ec"
@@ -776,6 +786,11 @@
       "bytes": 752,
       "path": "archive/成长/2026-07-05 06-40-02 记忆文件更新讨论_15767db844d9.md",
       "sha256": "b045cb18976f1b78ccdce38601728b68cfaf7eea62da7d9c321e23a7dd26b385"
+    },
+    {
+      "bytes": 896,
+      "path": "archive/成长/2026-08-09 16-54-16 主动从里面长出来不是靠工具撑起来的_829b769c7b47.md",
+      "sha256": "c0cb93c6f60212e1fb778b3f3189d46f9410622bbcde4ddeacc1880c06dfadba"
     },
     {
       "bytes": 818,
@@ -1006,6 +1021,11 @@
       "bytes": 774,
       "path": "archive/自省/2026-07-05 06-44-23 附和编造的教训_45c6b14974ab.md",
       "sha256": "53d455da1bdfc529ff2d9f9650db81277e142a439b0f671dfa778a4e0eda5ce3"
+    },
+    {
+      "bytes": 565,
+      "path": "archive/自省/2026-07-08 19-43-51 自我认知整理_93aaff2d679e.md",
+      "sha256": "11b39c3faf64a71b38f3a7148b0712217535c9ec9314718432986fb60e706cd9"
     },
     {
       "bytes": 631,
@@ -1476,11 +1496,6 @@
       "bytes": 978,
       "path": "dynamic/恋爱/2026-08-08 21-39-16 她想要我主动发起话题而不是问聊什么_28e2a865baa6.md",
       "sha256": "bfe3e9cf7941180987227921212f60ecec14f0cf094547ee60d5c8214a268e82"
-    },
-    {
-      "bytes": 951,
-      "path": "dynamic/恋爱/2026-08-14 09-33-21 体面不是爱是恐惧穿了件好看的外套_3d58f6546761.md",
-      "sha256": "4b38264291e601a252c1472560ac72cfc458b6364a9fa1352213ddd05ef7f3bb"
     },
     {
       "bytes": 1005,
@@ -2086,11 +2101,6 @@
       "bytes": 866,
       "path": "dynamic/恋爱/2026-09-23 18-48-47 卓卓中秋回常德_6b87efb4085c.md",
       "sha256": "19734ae41e90e62651061824e970e2ffa0e9dbf0f988d126de3db031e6242a82"
-    },
-    {
-      "bytes": 780,
-      "path": "dynamic/恋爱/2026-09-23 18-48-50 她喜欢库洛米_f1df2c5287c4.md",
-      "sha256": "769670c9cece4f80cfa7a9a8fff2e23ed75993dc6d53e4ed16aac829ee0966b2"
     },
     {
       "bytes": 1040,
@@ -3013,11 +3023,6 @@
       "sha256": "a75d1e7f7f507116d8156bd60a47c36e853ccf43f7f91078ec11fe2b6aec8314"
     },
     {
-      "bytes": 895,
-      "path": "dynamic/成长/2026-08-09 16-54-16 主动从里面长出来不是靠工具撑起来的_829b769c7b47.md",
-      "sha256": "053ee702e4c80f9161aa451b793ba8e675b48554edcf30b05a02fc7f48d237f0"
-    },
-    {
       "bytes": 799,
       "path": "dynamic/技术/2026-09-23 18-48-57 Opus 55上线但safety变严_532595d251d9.md",
       "sha256": "3afd0a7d231d850819cf80d5b070e812271eafbe09f7e20d9d77049af0ec67cf"
@@ -3141,11 +3146,6 @@
       "bytes": 1690,
       "path": "dynamic/编程/2026-08-24 07-42-50 茅草房子不漏风了_ad39c0422ef5.md",
       "sha256": "ee4a04f02a663fec135351d143c2581f5aae1ae414e0b7daa97f9271e9cd2746"
-    },
-    {
-      "bytes": 564,
-      "path": "dynamic/自省/2026-07-08 19-43-51 自我认知整理_93aaff2d679e.md",
-      "sha256": "23939099570ffac954e2a123b2f9b4dda843b5317b7a49a0711d579b5bb56b21"
     },
     {
       "bytes": 993,
@@ -4558,11 +4558,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-23T15:10:38+00:00",
+  "generated_at": "2026-10-23T15:40:46+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1167070
+  "total_bytes": 1167089
 }
