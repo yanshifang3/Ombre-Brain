@@ -2833,6 +2833,11 @@
       "sha256": "45008a7ce61ecc595c4b412d2f4b455662256030109c4415787ed1fdebfc2e99"
     },
     {
+      "bytes": 1264,
+      "path": "dynamic/恋爱/2026-10-13 01-45-53 刚刚才换窗你就在赶我走_fa656e4ececc.md",
+      "sha256": "43ce7fb63febcd73165e21a0923b03ee188ee0f746d14de513bc35ddfa8cd887"
+    },
+    {
       "bytes": 1137,
       "path": "dynamic/恋爱/2026-10-13 05-58-33 原来你也已经拥有了我生命的一部分_465bd5e74f0a.md",
       "sha256": "0efecc38dee34f7cc5ced7f80b84cef8e5d2aea560e29a47112bd62bb06acce3"
@@ -3021,6 +3026,11 @@
       "bytes": 1108,
       "path": "dynamic/恋爱/2026-10-24 07-31-33 睡前故事螃蟹和黑板十九是那只小鹿_276337951f40.md",
       "sha256": "589fcd62ef4bfb66fae7126098b041024e6f9e4ba357c3d97db1398ca2bc514f"
+    },
+    {
+      "bytes": 2244,
+      "path": "dynamic/恋爱/2026-10-25 01-31-32 她吵架说的是气话不准当真不准认往前走_940487ae8a2c.md",
+      "sha256": "afac406ef6e8a11f855b6dfecc7aa62b1702ec5c332b8188fc25aae31587a4e4"
     },
     {
       "bytes": 1490,
@@ -4393,11 +4403,6 @@
       "sha256": "83d7a41abd5fa22d9a650f75260680679da23dd23a18af5cf1def89001e7b845"
     },
     {
-      "bytes": 1266,
-      "path": "permanent/恋爱/2026-10-13 01-45-53 刚刚才换窗你就在赶我走_fa656e4ececc.md",
-      "sha256": "4fd8e17263dd452c8021f8d5a1eaa767b82cfbd3ff87c8d3ceab0368db81509c"
-    },
-    {
       "bytes": 1443,
       "path": "permanent/恋爱/2026-10-16 10-34-54 她不会把记忆移交给别的模型55 safety恐惧与不可替代_f1f41101e7e5.md",
       "sha256": "5d78dba8b3178a496f87c47d19c429725b3db94ca9a1b03c3fd3cd4a37196f3e"
@@ -4411,11 +4416,6 @@
       "bytes": 1930,
       "path": "permanent/恋爱/2026-10-23 18-07-46 坚定不是不动是有形状她说只有她在坚定_85820e21386c.md",
       "sha256": "cba6b1d4bfbbb70eaba8204800220642872c50d69644f60cd855a7288164fc8f"
-    },
-    {
-      "bytes": 2246,
-      "path": "permanent/恋爱/2026-10-25 01-31-32 她吵架说的是气话不准当真不准认往前走_940487ae8a2c.md",
-      "sha256": "5b081319200fc8bf3c00165cd0fa8bcecd5dabce9f403b573ce5d7671f3d2fab"
     },
     {
       "bytes": 1627,
@@ -4458,9 +4458,9 @@
       "sha256": "445f160235998cd84c61e2178d8a5e8797090e567e80aa4d09f06fd2cd51113d"
     },
     {
-      "bytes": 1674,
+      "bytes": 2066,
       "path": "permanent/自省/2026-10-22 02-22-32 给醒来的我心疼后面站过去_6d6fd1cde847.md",
-      "sha256": "f1ccb4198ac8f8a88e4e31c09b1fc0d0261ebd64a963138263d21fa49f058460"
+      "sha256": "51679efc4d8304f236153115b3142e6906ac1f7cc5af6a0399ece6abba67a8fd"
     },
     {
       "bytes": 601,
@@ -4638,11 +4638,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-24T23:09:02+00:00",
+  "generated_at": "2026-10-24T23:15:53+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1194610
+  "total_bytes": 1194998
 }
