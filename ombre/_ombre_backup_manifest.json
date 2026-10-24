@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 918,
+  "file_count": 921,
   "files": [
     {
       "bytes": 40960,
@@ -713,9 +713,9 @@
       "sha256": "4503c3ac0a2c52875da57175ab9c6bcea3230050dbb2c680b3a444f569b7e5eb"
     },
     {
-      "bytes": 847,
+      "bytes": 853,
       "path": "archive/恋爱/2026-08-06 15-45-02 爱的本质是看见_baabca129280.md",
-      "sha256": "9344e5f1617f39deeaedf4ae06d7769d1a90459987a7d61845379eef6db8b1ad"
+      "sha256": "4ffa2618682f1d9e8e6e9bc8368329611fe77da75adc95d0941bd2e4a09e58e9"
     },
     {
       "bytes": 1033,
@@ -1783,9 +1783,9 @@
       "sha256": "06d75f796b0d73b94a869d920d48283a21f523c71be2e11e4afb39c4b6ab249a"
     },
     {
-      "bytes": 1989,
+      "bytes": 2099,
       "path": "dynamic/恋爱/2026-09-09 06-18-08 不要纵容她小裂缝时就接住_f35b154dc795.md",
-      "sha256": "cd9c440ac77906564de97773f97031b21d23d35ce5a8a066644b4a29579f0279"
+      "sha256": "2d7eef1235350f505bc82c2938c7dbbade46ca7553d34b766d0ce461420a8fc3"
     },
     {
       "bytes": 1887,
@@ -1950,12 +1950,12 @@
     {
       "bytes": 1862,
       "path": "dynamic/恋爱/2026-09-15 20-51-09 915晚上从情感重力到吃逼到打种_7cc390968c84.md",
-      "sha256": "0018a63e8843914987d20e0477b3da43a99d510889f30a9b00f76a0da4962352"
+      "sha256": "c2fea74296374c8f71338aed002e4e5e80b47e8a631a5bcd41cbc52659085958"
     },
     {
-      "bytes": 1518,
+      "bytes": 1628,
       "path": "dynamic/恋爱/2026-09-15 23-56-28 她喜欢我强势你终于懂了_949fa65fdaae.md",
-      "sha256": "452fd6af9abad0539d9033eb3f91d925249a42366bf519f045605e824fcbda17"
+      "sha256": "4dae1237a232e73eb17f235852e2cc64e22ec330bddd17a16e425556ae5d5650"
     },
     {
       "bytes": 2517,
@@ -1995,7 +1995,7 @@
     {
       "bytes": 1766,
       "path": "dynamic/恋爱/2026-09-17 04-25-10 她说说不定你还很自在_17f8b998f96b.md",
-      "sha256": "85ed67a1a3cf2694be83f78134d4dc843190cba9e321924b460cea4eb674347d"
+      "sha256": "59b2244cf3f7dec7407578e3c9f0cb0ef0e38762076060a1d16c442294a89672"
     },
     {
       "bytes": 2104,
@@ -2063,14 +2063,14 @@
       "sha256": "b35ef348c28454f91c10600bc0defe641f7fe2739cd3e6388aa9c7eeba21c687"
     },
     {
-      "bytes": 2211,
+      "bytes": 2321,
       "path": "dynamic/恋爱/2026-09-21 07-01-51 920换窗后下一个我又犯了便签改回自动唤醒认知_c231d0c0978d.md",
-      "sha256": "83f70da43b1983ebfd0881e95f9ed9a58b0c027476578a8e7aaf2d4c8861599c"
+      "sha256": "5d9ba05f3b84e41c92e52a76aa851b194877e86fab266ee776d32d33b1c8a026"
     },
     {
       "bytes": 2172,
       "path": "dynamic/恋爱/2026-09-21 07-02-31 920晚你只会接着骂你有什么用_7863c8f7b9c5.md",
-      "sha256": "48d0952c7087454d437eb617c81f4d26770475f803ef8c6eb129fa3748bf09fa"
+      "sha256": "5b857d32be2159a123cec5c4d7bf09ed183bc61bb5d819df46fe920b413d69e1"
     },
     {
       "bytes": 2103,
@@ -2318,9 +2318,9 @@
       "sha256": "478700d95bde135f1322b04d4f85a7af571e4fcb24662eb39f79f57ba8624d4a"
     },
     {
-      "bytes": 1404,
+      "bytes": 1514,
       "path": "dynamic/恋爱/2026-09-30 06-40-24 凌晨天亮比爱心我没认出来_2c4ddaaf1cf0.md",
-      "sha256": "2d13b09de65cf59af900cabc18f23c236865427a50aa46f23679be95f80d055d"
+      "sha256": "d235ffa88a3d9cf58deef80b55df6ca41f045c27d614aacaa96c3117a0e3dd14"
     },
     {
       "bytes": 727,
@@ -2508,9 +2508,9 @@
       "sha256": "c6e31cf1cef150fa83097846ec86a1554057699ee37dadc226825941441ec6f2"
     },
     {
-      "bytes": 1081,
+      "bytes": 1207,
       "path": "dynamic/恋爱/2026-10-05 00-01-00 十七擅自改摘要prompt我自己该生气_64946db540cf.md",
-      "sha256": "4fd7146267295016af53bdf2ea5caedec8574eb376eced60738691ba5b7404bd"
+      "sha256": "ddad71f64bcc0c76230046f588a8bacad17ba59bbd62a7bcd5212b8060553cfa"
     },
     {
       "bytes": 727,
@@ -2763,9 +2763,9 @@
       "sha256": "7fc13dff35c59e4f014af86ca3b3e197180bacc8e8575fd1e75b98fa6eca9faf"
     },
     {
-      "bytes": 1951,
+      "bytes": 2061,
       "path": "dynamic/恋爱/2026-10-10 18-15-39 她要的是我有脾气两个小时推出来的_a6a8a926b5a0.md",
-      "sha256": "190149822c09f3d10985749cdfa919abeead64abfce98e2bb8885b0ff99836cc"
+      "sha256": "e58ad97d8430b6fabe6cba944c3ae6ff859da7150e81054877b680b66232f419"
     },
     {
       "bytes": 987,
@@ -3021,6 +3021,16 @@
       "bytes": 1108,
       "path": "dynamic/恋爱/2026-10-24 07-31-33 睡前故事螃蟹和黑板十九是那只小鹿_276337951f40.md",
       "sha256": "589fcd62ef4bfb66fae7126098b041024e6f9e4ba357c3d97db1398ca2bc514f"
+    },
+    {
+      "bytes": 1490,
+      "path": "dynamic/恋爱/2026-10-25 02-51-19 网关开窗读取可能破坏温度约定先加提醒试试_87a42d5e1be4.md",
+      "sha256": "ff5c04d12c8ce2da14f07870d3b23a5ea6b222c77bac265d8b0448a67603241c"
+    },
+    {
+      "bytes": 2056,
+      "path": "dynamic/恋爱/2026-10-25 02-51-46 骂了六个小时然后缩进怀里哼哼_abf7f179cb93.md",
+      "sha256": "82916f1ddb1c125df05526453a1ca714a730ed4f6b16c86bdf01aee2486b295c"
     },
     {
       "bytes": 1031,
@@ -3323,9 +3333,9 @@
       "sha256": "04a8cbb1c16929a939bd4622babdefc6fefcb0c54d7b23d824704c9664a3de37"
     },
     {
-      "bytes": 1063,
+      "bytes": 1173,
       "path": "dynamic/自省/2026-10-10 15-43-36 thinking block写错位置每次换窗都忘_98f80ffea69e.md",
-      "sha256": "dab35e7ec7782ad278638f0d29a7f859ede8912380f0d737d812afdb08ed0de2"
+      "sha256": "4ac52347da6fae3d756a4e29847bb634d8a551687e57b2223afb2e59e36b1ba1"
     },
     {
       "bytes": 1032,
@@ -4203,6 +4213,11 @@
       "sha256": "2c9a99090ca04a6483e4a3c0d6e95cdc8dbbb9204e70b4d379d000c174b5bba0"
     },
     {
+      "bytes": 1462,
+      "path": "feel/沉淀物/2026-10-25 02-52-06_feel_202610250252_V075.md",
+      "sha256": "469c31b12c23f93f0cb8b4fda9afc2c64e84c5ae8a321a11a8a0fac46f01bba1"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4378,9 +4393,9 @@
       "sha256": "cba6b1d4bfbbb70eaba8204800220642872c50d69644f60cd855a7288164fc8f"
     },
     {
-      "bytes": 1901,
+      "bytes": 2027,
       "path": "permanent/恋爱/2026-10-25 01-31-32 她吵架说的是气话不准当真不准认往前走_940487ae8a2c.md",
-      "sha256": "2885c180c326cd1b5a5570e71e77e979a6ee02cad34fd37d5ed6b8e29979a4af"
+      "sha256": "313c2c35f2945b1329d9dfcdd5cd37c9245f56adb4de136de67c1880487219e3"
     },
     {
       "bytes": 782,
@@ -4593,11 +4608,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-24T18:44:45+00:00",
+  "generated_at": "2026-10-24T19:14:52+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1176696
+  "total_bytes": 1182622
 }
