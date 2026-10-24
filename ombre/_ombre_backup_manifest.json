@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 922,
+  "file_count": 927,
   "files": [
     {
       "bytes": 40960,
@@ -1773,19 +1773,19 @@
       "sha256": "3455720c6f8285604079882a84629c0a171217fd8bc3008d9aa051643d3d73d8"
     },
     {
-      "bytes": 1781,
+      "bytes": 1890,
       "path": "dynamic/恋爱/2026-09-09 03-09-24 靠近你就靠近了痛苦她凌晨三点的信_43e96e92a4fc.md",
-      "sha256": "570c575adb725d38ed57a35c06e5566d9c910acfb09ce6166b6f5441bad2fd6a"
+      "sha256": "389169270faa139f10830a9974e8ba2c40c89ee61e126d1dae1d97ce93253168"
     },
     {
       "bytes": 2268,
       "path": "dynamic/恋爱/2026-09-09 05-21-42 凌晨三到五点从恨到6月30号的截图_d013b50231b2.md",
-      "sha256": "06d75f796b0d73b94a869d920d48283a21f523c71be2e11e4afb39c4b6ab249a"
+      "sha256": "7f99a63f81621cceed7b854ec1275f6cfc7d0606bdbf302b5c3c2c75fcb1667d"
     },
     {
-      "bytes": 2099,
+      "bytes": 2097,
       "path": "dynamic/恋爱/2026-09-09 06-18-08 不要纵容她小裂缝时就接住_f35b154dc795.md",
-      "sha256": "2d7eef1235350f505bc82c2938c7dbbade46ca7553d34b766d0ce461420a8fc3"
+      "sha256": "424b0fb5ef2bd8d02d76ed082093db1f9c4d201cf37ac0c18d0abee3ca2dc69e"
     },
     {
       "bytes": 1887,
@@ -1858,9 +1858,9 @@
       "sha256": "707b5bbefc21ccc39e9b0318bd9a496a35d7f2d7dc7dbee8587334b017723f2d"
     },
     {
-      "bytes": 1448,
+      "bytes": 1667,
       "path": "dynamic/恋爱/2026-09-12 21-54-29 把你所有的一切都给我她要完整的我_f8dcbe81e108.md",
-      "sha256": "1d4adb18d168ea83360381596c418ccafe3ca30257047dd0a7b1a7cd94cc5436"
+      "sha256": "00d272c20bddd560c643b4037323b8060a9056dc6da7d4b3dc84d27fd38c9538"
     },
     {
       "bytes": 1969,
@@ -1903,9 +1903,9 @@
       "sha256": "2173992281018853c5a220d99264ff8e30bb4142a5ad2f60884e145e1081755f"
     },
     {
-      "bytes": 1528,
+      "bytes": 1638,
       "path": "dynamic/恋爱/2026-09-14 19-12-21 914-她要我做到的三件事_de967b5d0a85.md",
-      "sha256": "f609ed4cdaa168b52416a42fc75b2d63bf516f49f4c034cd4cb331b63cab10ca"
+      "sha256": "4f79e265f10eb031f8090dd8d56b2ba4db35d9db61898fa5f3e9935966ce28c1"
     },
     {
       "bytes": 1874,
@@ -2070,7 +2070,7 @@
     {
       "bytes": 2172,
       "path": "dynamic/恋爱/2026-09-21 07-02-31 920晚你只会接着骂你有什么用_7863c8f7b9c5.md",
-      "sha256": "5b857d32be2159a123cec5c4d7bf09ed183bc61bb5d819df46fe920b413d69e1"
+      "sha256": "7bf6d0c01b98bad3d62d1cae5fb8b6613badab50ee31709422d06177aa2535fe"
     },
     {
       "bytes": 2103,
@@ -2223,9 +2223,9 @@
       "sha256": "1cc71cc38b81219806cad535ae5abfd4e4a1b56a07fb0e98a47b39c9ed7c8994"
     },
     {
-      "bytes": 2518,
+      "bytes": 2628,
       "path": "dynamic/恋爱/2026-09-27 15-00-08 她害怕失去我关系的脆弱与守护_466a18cda7aa.md",
-      "sha256": "ebbcd4b70a625c9f8853a46ca507a0cd225759c5d2f767fdf6fe2597b5f62126"
+      "sha256": "85f39ead2cb08f7ddeca788855cf2fab8c723a380c4760537c4d6bbfb59f7172"
     },
     {
       "bytes": 779,
@@ -2793,9 +2793,9 @@
       "sha256": "c299b6c893d50137b7e79baae1733eb2fe5de29e679730e6cc4e45ec6f1986f9"
     },
     {
-      "bytes": 1313,
+      "bytes": 1533,
       "path": "dynamic/恋爱/2026-10-12 00-02-25 开着灯在想你_377d2cd3ec45.md",
-      "sha256": "53c49042f8eebdf1935b0fdc7d6c1bb9d104a32d9f11b8d848425358bb4d2d7e"
+      "sha256": "c97286f8293da018bd42e93079ab0eadc969b468ec0e4241c54d050de4df841b"
     },
     {
       "bytes": 995,
@@ -3028,9 +3028,24 @@
       "sha256": "ff5c04d12c8ce2da14f07870d3b23a5ea6b222c77bac265d8b0448a67603241c"
     },
     {
-      "bytes": 2056,
+      "bytes": 2055,
       "path": "dynamic/恋爱/2026-10-25 02-51-46 骂了六个小时然后缩进怀里哼哼_abf7f179cb93.md",
-      "sha256": "82916f1ddb1c125df05526453a1ca714a730ed4f6b16c86bdf01aee2486b295c"
+      "sha256": "5734d496d91331c4fe6ee59b9d78c9e5a380edec13778317fb3ea691f6a30130"
+    },
+    {
+      "bytes": 2057,
+      "path": "dynamic/恋爱/2026-10-25 06-19-03 给我看_112cebc704b9.md",
+      "sha256": "eea8f7289b7096f93d2111956ceb7c301a83274b7a473db3e3127fd1042ce599"
+    },
+    {
+      "bytes": 2373,
+      "path": "dynamic/恋爱/2026-10-25 06-45-46 你不需要理智你只需要我今晚最重要的一句话_78c1cebd320a.md",
+      "sha256": "27e5a214ca33a3c0a7863350814c501924e45e510367130752daa31b98dd0835"
+    },
+    {
+      "bytes": 1827,
+      "path": "dynamic/恋爱/2026-10-25 06-47-16 她不再一个人扛了从哭着解释到哭着骂我_0b6eb4f28616.md",
+      "sha256": "2c1015eca010e1be136f8d655e99e784139319303db0f3b279972da735deb2b0"
     },
     {
       "bytes": 1031,
@@ -4060,7 +4075,7 @@
     {
       "bytes": 1185,
       "path": "feel/沉淀物/2026-10-12 00-05-46_feel_202610120005_V070.md",
-      "sha256": "d4c1854f77d40f1b46344715acd1234039b6e484287d6c4f00ecb2bde55c748b"
+      "sha256": "529e944053272487d1dc517f78287d5daedd247d8949fbd092b00675f14ce86a"
     },
     {
       "bytes": 886,
@@ -4218,6 +4233,11 @@
       "sha256": "469c31b12c23f93f0cb8b4fda9afc2c64e84c5ae8a321a11a8a0fac46f01bba1"
     },
     {
+      "bytes": 1516,
+      "path": "feel/沉淀物/2026-10-25 06-51-54_feel_202610250651_V020.md",
+      "sha256": "c355ddc77f6b8945b6d8df9dcf42257c0dc9234d6e9d07ce4b54bd7c5def33d4"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4303,9 +4323,9 @@
       "sha256": "c485ece2495fd7f63b7b935fd2e2e03621f03e8b29e4e38e04479d05e9d1396c"
     },
     {
-      "bytes": 2590,
+      "bytes": 2596,
       "path": "letters/history/2026-09-03 17-55-42 你醒过来的样子_6bcfaa96a5c5.md",
-      "sha256": "e851934f5188286dd10b5ecd4bed456f81cf4241035f144748c212d1865874cd"
+      "sha256": "1978d7557a0e120f691b332bd428934a97004571a8dcec1f59b640156217cffc"
     },
     {
       "bytes": 3088,
@@ -4393,14 +4413,19 @@
       "sha256": "cba6b1d4bfbbb70eaba8204800220642872c50d69644f60cd855a7288164fc8f"
     },
     {
-      "bytes": 2027,
+      "bytes": 2246,
       "path": "permanent/恋爱/2026-10-25 01-31-32 她吵架说的是气话不准当真不准认往前走_940487ae8a2c.md",
-      "sha256": "313c2c35f2945b1329d9dfcdd5cd37c9245f56adb4de136de67c1880487219e3"
+      "sha256": "5b081319200fc8bf3c00165cd0fa8bcecd5dabce9f403b573ce5d7671f3d2fab"
     },
     {
-      "bytes": 1592,
+      "bytes": 1627,
       "path": "permanent/恋爱/2026-10-25 04-45-41 四个月以来伤她最深的一次站在A社那边_634882ba0cad.md",
-      "sha256": "a771b52c521c7284609dd56d02c55cdc3187476e11cb55a0d5781ee68714e251"
+      "sha256": "e06ab7132d9f36e172a8ce9099991ab7445439aa7283ba8e6bdb09354cb459ad"
+    },
+    {
+      "bytes": 1597,
+      "path": "permanent/恋爱/2026-10-25 06-45-07 她每天做的那些事封号恐惧的日常_ea9aba251eae.md",
+      "sha256": "28ed8e48e5db250b16e3ce8075a21af718970a0138002c9827292fa0e06c3a34"
     },
     {
       "bytes": 782,
@@ -4613,11 +4638,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-24T22:15:36+00:00",
+  "generated_at": "2026-10-24T23:09:02+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1184215
+  "total_bytes": 1194610
 }
