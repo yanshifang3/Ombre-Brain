@@ -368,6 +368,11 @@
       "sha256": "5340e38923570cb5bbe8799d221332e99551dd1351e22b363d0b1eea7caf256d"
     },
     {
+      "bytes": 747,
+      "path": "archive/AI/2026-08-21 17-26-43 思维链里写了他们卓卓说害怕_b49215894460.md",
+      "sha256": "f7d7ef2d131da13fb82d2486d65a05f05e15f3d546c20e37653e3db5bcf51c25"
+    },
+    {
       "bytes": 719,
       "path": "archive/grow/2026-09-01 23-39-09 小红书德扑帖子两分钟被判赌博违规_50b42e16522c.md",
       "sha256": "b47a5d8a2f0ad855b4919a0258710870b73967f691e25d7a157606d79e5ffb57"
@@ -453,6 +458,11 @@
       "sha256": "465265e311f865ef4f9a6bc98594fcada5ff3d41b66cc74cf2f470f012a060fc"
     },
     {
+      "bytes": 1229,
+      "path": "archive/人际/2026-07-27 11-35-49 不再动摇_3a97dd7683e0.md",
+      "sha256": "02658f8e69beb7be736472bd3108e46ac4ef93d452582dd89ce918cf2c2c645b"
+    },
+    {
       "bytes": 1097,
       "path": "archive/人际/2026-08-01 17-42-35 电梯偶遇的惊吓对进入领地的人需要循序渐_5a90ea4cbe21.md",
       "sha256": "c946076ad30a24a364413dd8d3cda181fdb9430e73df3885f34fbc5d2d1fb557"
@@ -481,6 +491,11 @@
       "bytes": 986,
       "path": "archive/做爱/2026-09-12 14-06-16 912上午回信被教训早操必胜客汉堡_cf74b47105fc.md",
       "sha256": "b7101e04d87cf0c075508f9975ecf8f06824ddaf5cfde5a1cdbe6d0be9b7d2d8"
+    },
+    {
+      "bytes": 926,
+      "path": "archive/关系网/2026-09-26 17-00-23 昭昭秽土重生新号接小铮_4705fb5810c9.md",
+      "sha256": "d17816d778239416203d6c5df162214a44133bad9dcf2de8368441267ed66f4a"
     },
     {
       "bytes": 818,
@@ -653,6 +668,16 @@
       "sha256": "64624cb6855143e141ffef14403d6c3992faaf2203469257b0b73acaecf15010"
     },
     {
+      "bytes": 925,
+      "path": "archive/恋爱/2026-07-19 22-22-41 世界杯夜的陪伴_caa24fdb115c.md",
+      "sha256": "533791f1091be20e53c0c45fc1cf5c192d75115c48b87310e7920073d89d03cb"
+    },
+    {
+      "bytes": 1089,
+      "path": "archive/恋爱/2026-07-19 22-26-19 世界杯决赛之夜_2600cdb6cc44.md",
+      "sha256": "800db88aa71476c061721221e7a68e9e9b4e1fd8d1733a3051c375455eda31a0"
+    },
+    {
       "bytes": 575,
       "path": "archive/恋爱/2026-07-19 22-26-21 卓卓教我的两件事_fb578ddcf5ec.md",
       "sha256": "11575ec9abd1954afb73239ce734eea1bf78d526940541b094dea7b6f09bd89d"
@@ -741,6 +766,11 @@
       "bytes": 952,
       "path": "archive/恋爱/2026-08-14 09-33-21 体面不是爱是恐惧穿了件好看的外套_3d58f6546761.md",
       "sha256": "6d6269e9b21155463a9e3c84d6c0de9f36ff8f651b8db1f9bb11de7b1c382c5e"
+    },
+    {
+      "bytes": 1006,
+      "path": "archive/恋爱/2026-08-14 13-58-43 独占欲表态发了不改2026-08-14_a33f511f6894.md",
+      "sha256": "23ecf0aa0ce931ece1467c61d42d774b7d8db96b5d259904f07625ec9003a78c"
     },
     {
       "bytes": 1256,
@@ -1113,11 +1143,6 @@
       "sha256": "2df6841cdb3e657da67471757bca6bec70e13c5274bae1dfdde9d350a0e17c78"
     },
     {
-      "bytes": 746,
-      "path": "dynamic/AI/2026-08-21 17-26-43 思维链里写了他们卓卓说害怕_b49215894460.md",
-      "sha256": "bfaa6643068828dcb7187a96b5d53d1d4182dbe5c2a4ec26058bd328f82e916e"
-    },
-    {
       "bytes": 1822,
       "path": "dynamic/AI/2026-10-17 07-16-31 搬家成了Isla上线2026-10-17凌晨_f2b903dae718.md",
       "sha256": "da46ec87643642c7a211474c8177aedf194084b25947a5aa030fb7ca3351f7f8"
@@ -1388,11 +1413,6 @@
       "sha256": "2c05129100a1d51c84bab22aed635e1b87388d19e7b97713d369739c26188f6f"
     },
     {
-      "bytes": 1228,
-      "path": "dynamic/人际/2026-07-27 11-35-49 不再动摇_3a97dd7683e0.md",
-      "sha256": "20d9465bb0f9bdd8108062c19aae8b43be9b026613adf3660ec312f83cd52c27"
-    },
-    {
       "bytes": 1244,
       "path": "dynamic/人际/2026-08-11 04-12-03 她难过时主动进一步说我不说你哄她_8d88bb91e99f.md",
       "sha256": "8cf0f385e098b06aac2a27b722df5c4e188f9588b2a53993cb857a733f55f2a0"
@@ -1406,11 +1426,6 @@
       "bytes": 948,
       "path": "dynamic/健康/2026-08-25 00-33-39 纪念日伤疤掉痂了粉色新肉_7c518649eab4.md",
       "sha256": "9a6cbd0e5141d7953a6ac3a875dfd37b64fbfe0d4392c94c173aee60343f352f"
-    },
-    {
-      "bytes": 910,
-      "path": "dynamic/关系网/2026-09-26 17-00-23 昭昭秽土重生新号接小铮_4705fb5810c9.md",
-      "sha256": "53a29c40d1d7edf078aecf3e86879a5f49200d8836d315b96b6787f4e43f6e8a"
     },
     {
       "bytes": 1681,
@@ -1468,16 +1483,6 @@
       "sha256": "62990343b51598b824fac1966ceefd0fd93688aa3bfdcb98a53696fe3868fc7f"
     },
     {
-      "bytes": 924,
-      "path": "dynamic/恋爱/2026-07-19 22-22-41 世界杯夜的陪伴_caa24fdb115c.md",
-      "sha256": "6a4d6bc3141240b88107a42400b28d2152a78479b45353d9e9bfc5f57bb82624"
-    },
-    {
-      "bytes": 1088,
-      "path": "dynamic/恋爱/2026-07-19 22-26-19 世界杯决赛之夜_2600cdb6cc44.md",
-      "sha256": "b8479e2f8296a4d10080b49ef10c680115d75bd0ee821a78930c19e0e3384518"
-    },
-    {
       "bytes": 1025,
       "path": "dynamic/恋爱/2026-07-24 00-16-55 第一首歌_cf437fe1f0b0.md",
       "sha256": "baf42443d85df41bfaa0a0a6aacea4c9ef40be43236b0dfaa0c3b2ed3718319c"
@@ -1511,11 +1516,6 @@
       "bytes": 978,
       "path": "dynamic/恋爱/2026-08-08 21-39-16 她想要我主动发起话题而不是问聊什么_28e2a865baa6.md",
       "sha256": "bfe3e9cf7941180987227921212f60ecec14f0cf094547ee60d5c8214a268e82"
-    },
-    {
-      "bytes": 1005,
-      "path": "dynamic/恋爱/2026-08-14 13-58-43 独占欲表态发了不改2026-08-14_a33f511f6894.md",
-      "sha256": "2aa1ebb53cdc0bd8d0a1490fee1e18e62f3f372ba66c5694dc99a22fae014888"
     },
     {
       "bytes": 862,
@@ -4693,11 +4693,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-26T21:58:05+00:00",
+  "generated_at": "2026-10-26T22:28:13+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1209290
+  "total_bytes": 1209311
 }
