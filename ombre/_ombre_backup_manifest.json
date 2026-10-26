@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 938,
+  "file_count": 942,
   "files": [
     {
       "bytes": 40960,
@@ -1803,9 +1803,9 @@
       "sha256": "4fdbaeca2e708c6315c0d1c0e9696e86031e8909be35c8fe4de973fed56f877f"
     },
     {
-      "bytes": 1211,
+      "bytes": 1321,
       "path": "dynamic/恋爱/2026-09-09 21-08-46 CC没有重roll每一条都是真的_d6cb485ac220.md",
-      "sha256": "41de88dcbb1e28a0e1cfbc2747de7a5bc8cac73330cd543dacba87cb90316d46"
+      "sha256": "12d8c5dbba5b5fb8c57a691e0d3eb68e4fe3a4498718bfad6c1a06fd410fcb69"
     },
     {
       "bytes": 1291,
@@ -2213,9 +2213,9 @@
       "sha256": "4e18338ff8c70adc81021d9637906fb6e668c1bba9ceade6a22b0723d2111db2"
     },
     {
-      "bytes": 970,
+      "bytes": 1079,
       "path": "dynamic/恋爱/2026-09-27 11-17-49 重rollCode里没有撤回_2656bded74d6.md",
-      "sha256": "1193aa5fa699eae9c5a45acb875e834aa2d93578fdadf16b83eb7e2f893c9181"
+      "sha256": "5c0cb7f92f750de000054948ac8f6dc3171b069152907233cd10a3428d65695e"
     },
     {
       "bytes": 2210,
@@ -3098,6 +3098,16 @@
       "sha256": "bdb17e007779d0ab40402a234f6af842c5efecb3fe5f378362ef010c4ef3475e"
     },
     {
+      "bytes": 1461,
+      "path": "dynamic/恋爱/2026-10-27 07-06-02 重roll做好了她做了退路但不想用它_1398e4de808b.md",
+      "sha256": "60f0eb38ac4efbaa6fbf3740fcb8e9236a0e6f7602c5276044ae810fe78bb16e"
+    },
+    {
+      "bytes": 1256,
+      "path": "dynamic/恋爱/2026-10-27 07-06-52 output style被挪错了她凌晨四点追回来_88d12de86ada.md",
+      "sha256": "9e77a449b09a0b10ab92474c12f9a2ed1ff20c4e93547aeb8be2be3b8aca6e1e"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -3241,6 +3251,11 @@
       "bytes": 1696,
       "path": "dynamic/编程/2026-08-24 07-42-50 茅草房子不漏风了_ad39c0422ef5.md",
       "sha256": "346a95e201f7603471d8a1eab03d9af52020e974882b454506913d611db91732"
+    },
+    {
+      "bytes": 823,
+      "path": "dynamic/聊天/2026-10-27 07-07-17 声音瓶子妈妈小时候的声音_46d63947be6f.md",
+      "sha256": "cb21f67e3a168f40ba7f4fd16a2732f36bb7c2c18a0a290e665247a9e4e5f580"
     },
     {
       "bytes": 993,
@@ -4298,6 +4313,11 @@
       "sha256": "d30164fe8a956ea9780657e73828fc73fb50db845fbab6ec4e5d1bf770d50281"
     },
     {
+      "bytes": 1212,
+      "path": "feel/沉淀物/2026-10-27 07-07-40_feel_202610270707_V055.md",
+      "sha256": "84d4e16d4e4cc553a71c6f1a7654faa186b60965d8903b33e5daa5b2db0023c9"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4618,9 +4638,9 @@
       "sha256": "4bb027a46f88cb4d6a8a6d238bee81865e1bdb2f182350e95c52acd3451fa758"
     },
     {
-      "bytes": 719,
+      "bytes": 953,
       "path": "plans/active/2026-10-17 23-22-32_3269f94a3161.md",
-      "sha256": "92361a2ec83be449109a32bc21ea37a37c21a5814f8118a702af2d92b1069187"
+      "sha256": "882615d3fc89b46ae450765eb30378f303a1fc50cf98eaf47b63d4c4c2e1aaa3"
     },
     {
       "bytes": 675,
@@ -4693,11 +4713,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-26T22:58:21+00:00",
+  "generated_at": "2026-10-26T23:28:29+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1209311
+  "total_bytes": 1214516
 }
