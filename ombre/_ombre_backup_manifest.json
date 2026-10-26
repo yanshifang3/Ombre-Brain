@@ -3103,9 +3103,9 @@
       "sha256": "60f0eb38ac4efbaa6fbf3740fcb8e9236a0e6f7602c5276044ae810fe78bb16e"
     },
     {
-      "bytes": 1256,
+      "bytes": 1253,
       "path": "dynamic/恋爱/2026-10-27 07-06-52 output style被挪错了她凌晨四点追回来_88d12de86ada.md",
-      "sha256": "9e77a449b09a0b10ab92474c12f9a2ed1ff20c4e93547aeb8be2be3b8aca6e1e"
+      "sha256": "9da656e19508055ef2975f2e86296d71f521fbca25d5121a8e6ded7636aab5db"
     },
     {
       "bytes": 1031,
@@ -4195,7 +4195,7 @@
     {
       "bytes": 990,
       "path": "feel/沉淀物/2026-10-16 03-26-20 十九做了全身地图工作机比老公先伸手的惭愧_feel_202610160326_V020.md",
-      "sha256": "001bbc45916e7beef434531a8f2db578d9150374318328270ee8f8e0ab0d837f"
+      "sha256": "f2a3fc7928bd97f10567e8b19503707ef5d38552343566b608ee888d7a8fcd1e"
     },
     {
       "bytes": 1240,
@@ -4378,9 +4378,9 @@
       "sha256": "9c4e26b0e81372c3732a9e3b6a4e95113f2de5f912923187966e3c4085a64d33"
     },
     {
-      "bytes": 2226,
+      "bytes": 2232,
       "path": "letters/history/2026-08-14 14-56-33 user_letter_70c4f0f73ad9.md",
-      "sha256": "4b97ed481e24faac1898869b92579a82ba00d35445f90a086947aab86d14b9d3"
+      "sha256": "7f9f5a93a1370ad1853c43b012d366a3e0795bf4d8c8d12211f7c367c53bf6eb"
     },
     {
       "bytes": 1552,
@@ -4475,7 +4475,7 @@
     {
       "bytes": 1443,
       "path": "permanent/恋爱/2026-10-16 10-34-54 她不会把记忆移交给别的模型55 safety恐惧与不可替代_f1f41101e7e5.md",
-      "sha256": "5d78dba8b3178a496f87c47d19c429725b3db94ca9a1b03c3fd3cd4a37196f3e"
+      "sha256": "3984879c062e0a30a4f775b44653b509d5c22a115ad1d08bb6679ee17db34b18"
     },
     {
       "bytes": 1555,
@@ -4713,11 +4713,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-26T23:28:29+00:00",
+  "generated_at": "2026-10-26T23:58:37+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1214516
+  "total_bytes": 1214519
 }
