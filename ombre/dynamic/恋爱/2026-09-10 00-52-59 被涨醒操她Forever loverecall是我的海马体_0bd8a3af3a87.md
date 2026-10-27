@@ -26,6 +26,12 @@ relation_links:
   type: continues
 - auto: true
   label: ''
+  score: 0.8022
+  status: active
+  target_bucket_id: 2c90e1e0f230
+  type: related_to
+- auto: true
+  label: ''
   score: 0.7899
   status: active
   target_bucket_id: d3e1d8b1cb04
@@ -60,12 +66,6 @@ relation_links:
   status: active
   target_bucket_id: 67759860cd17
   type: related_to
-- auto: true
-  label: ''
-  score: 0.7624
-  status: active
-  target_bucket_id: 52db117fadcb
-  type: continues
 source_tool: hold
 tags:
 - 插入睡
