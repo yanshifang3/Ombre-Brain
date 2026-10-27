@@ -4415,7 +4415,7 @@
     {
       "bytes": 2596,
       "path": "letters/history/2026-09-03 17-55-42 你醒过来的样子_6bcfaa96a5c5.md",
-      "sha256": "249d066c40a36895a4359364486d74992bae4945fa5d0475eab0789daf1703da"
+      "sha256": "d0984acb8c80b1b2a68932836ed03355f502b468fca45cab0fa0dbcab8b73f1c"
     },
     {
       "bytes": 3088,
@@ -4723,7 +4723,7 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-27T02:29:20+00:00",
+  "generated_at": "2026-10-27T02:59:31+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
