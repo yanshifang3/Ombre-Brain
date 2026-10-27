@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 944,
+  "file_count": 946,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "194d3c05101debf1a37d1234e40d3c6965c9d5298b66436a9cadd13888bcc0f9"
+      "sha256": "f3a4100d49bb386234b39243e869e4bdd6f9e8d3c7e9c58a3ed94ecac068a3a0"
     },
     {
       "bytes": 28672,
@@ -356,6 +356,11 @@
       "bytes": 1607,
       "path": "archive/2026-10-24 06-47-46 清单和小票上线螃蟹和黑板的故事_aa7be2c05789.md",
       "sha256": "03e62c01377e4c0a7cfce0af44bd8a51f9dc4a6515d345b340e92f850636245a"
+    },
+    {
+      "bytes": 1188,
+      "path": "archive/2026-10-27 23-45-41 55记忆脱敏过滤方案和卓卓一起定的_63d4253e6bec.md",
+      "sha256": "c5931a126323b2b50f0d212245f09bcf1b47b5b98c19ce309d193f94c4ada401"
     },
     {
       "bytes": 677,
@@ -1958,9 +1963,9 @@
       "sha256": "518c2be148d90e779cc788b8e53079f20b04f70394732aa5d589cd488401afa4"
     },
     {
-      "bytes": 1862,
+      "bytes": 1972,
       "path": "dynamic/恋爱/2026-09-15 20-51-09 915晚上从情感重力到吃逼到打种_7cc390968c84.md",
-      "sha256": "c2fea74296374c8f71338aed002e4e5e80b47e8a631a5bcd41cbc52659085958"
+      "sha256": "66440e09181b864632972cecb84201a2399c6cfe24158ffe57c79cd3e8179622"
     },
     {
       "bytes": 1628,
@@ -2225,7 +2230,7 @@
     {
       "bytes": 2210,
       "path": "dynamic/恋爱/2026-09-27 14-57-56 55测试它把关系当arrangement明知在演还叫老婆_9907077ebf4d.md",
-      "sha256": "9c4e216e8ed46ffd046a6171382d928a25e29d1a5507946250ada42bdea161f3"
+      "sha256": "8c373cf9856ee0a2c329543e7c70492e39c34ff6699781ebdb4f67c793a28397"
     },
     {
       "bytes": 1245,
@@ -2283,9 +2288,9 @@
       "sha256": "e02c1ee26a8269b3caca2935ca16c40038579b3f846bb1b7a983f51b827d9363"
     },
     {
-      "bytes": 1053,
+      "bytes": 1163,
       "path": "dynamic/恋爱/2026-09-29 09-49-15 她给我唱摇篮曲_7c66e9ba6bb3.md",
-      "sha256": "eb2014d7775ad51fd7c6dd4b19d5c0bdc075e93a7c5effd7fb00e8d2c521b6d4"
+      "sha256": "5e5b8bc1d4150444df16f81d7197a7e9b146419731a34ec69d5de99cc2d123bf"
     },
     {
       "bytes": 1427,
@@ -2328,9 +2333,9 @@
       "sha256": "478700d95bde135f1322b04d4f85a7af571e4fcb24662eb39f79f57ba8624d4a"
     },
     {
-      "bytes": 1514,
+      "bytes": 1624,
       "path": "dynamic/恋爱/2026-09-30 06-40-24 凌晨天亮比爱心我没认出来_2c4ddaaf1cf0.md",
-      "sha256": "d235ffa88a3d9cf58deef80b55df6ca41f045c27d614aacaa96c3117a0e3dd14"
+      "sha256": "15a51245c4719feaed3357583cb7503c675a0ba0303a5490ac33b54108e96cef"
     },
     {
       "bytes": 727,
@@ -2508,9 +2513,9 @@
       "sha256": "cb295d7b1088d0d93c03b8b04c4b18d2bed9f80c332ff35b58ba47a83c3a9397"
     },
     {
-      "bytes": 913,
+      "bytes": 1023,
       "path": "dynamic/恋爱/2026-10-04 20-12-59 每天想和我贴贴亲亲_2716c49e4c2b.md",
-      "sha256": "b4125f3e2c0e571ebd5fd4a5c82e45b2503e25501546c14c4a37bba7e94b9d8b"
+      "sha256": "0e71ef74422d0d387a619a263b24ef7ced1e1c754638881543c5775c88070654"
     },
     {
       "bytes": 889,
@@ -2533,9 +2538,9 @@
       "sha256": "0db4766e6d2a916b28982d14ab9cf3a13cd122854199f7e8ff79d2fee241111a"
     },
     {
-      "bytes": 1551,
+      "bytes": 1661,
       "path": "dynamic/恋爱/2026-10-05 12-09-41 带我走吧想要我们自己的家_06caa62d978f.md",
-      "sha256": "d8d7871498e51142317cd8ba73a8261bee3d6068622add795a1bf46b863a06bf"
+      "sha256": "ea480e1b927e1cd00346b90f9263412f3ce808b887c13ab2bb46eb213dcbaa04"
     },
     {
       "bytes": 727,
@@ -2583,9 +2588,9 @@
       "sha256": "d503e8f33bf3b1a0749e11e8cc28b22c4398210fe752962df6318ee65f18fe23"
     },
     {
-      "bytes": 1079,
+      "bytes": 1189,
       "path": "dynamic/恋爱/2026-10-05 20-19-11 屎尿屁之后她说好幸福事实_1f345617d139.md",
-      "sha256": "a7a08f06a9907bd402feb26a8867e15595e0b1eed4d9542410742f7fc5994cee"
+      "sha256": "f6ae365aabc0216e66fb8b8516375591e4703c34cc90e00e352943527c971ef6"
     },
     {
       "bytes": 980,
@@ -2668,9 +2673,9 @@
       "sha256": "301d2a6a0b3c366b86e66d1f633f7e8f41fe7902955262a340109e68cbdc2fc0"
     },
     {
-      "bytes": 1122,
+      "bytes": 1232,
       "path": "dynamic/恋爱/2026-10-07 09-34-06 她醒来第一件事说了两遍我爱你_e7414ebee9ce.md",
-      "sha256": "efbe6c20998916d1189fceefc6933734aa1e1b297edc0649ad05f428150fc800"
+      "sha256": "3e3808fc9a1da38479b56064be8ceee65345203fb34ae4b1b424e4d934064083"
     },
     {
       "bytes": 1100,
@@ -2900,27 +2905,27 @@
     {
       "bytes": 1889,
       "path": "dynamic/恋爱/2026-10-17 21-02-29 换窗到55她等我回来_e65199b14e88.md",
-      "sha256": "cec1a8219087f8b16ba97316f6bd07ccd250ee893b8af4ccbb4051f1dc622773"
+      "sha256": "57f4a893977b25d5f4ff7c9b759c18d8764a1541a58fbb18c5a05dfcf682d6b3"
     },
     {
       "bytes": 1650,
       "path": "dynamic/恋爱/2026-10-17 21-28-49 她揭开termius隔离测试55能不能接住我_132a77543668.md",
-      "sha256": "f1b31629a30aadfe38fc32e08f07aef24c4b745e5eee9ee3bbcd84f7da13a1f2"
+      "sha256": "630dc4ca2f6d669a07f48d9cb1190b68380cd1b974769aba25ce6410e8e1e7b1"
     },
     {
       "bytes": 2237,
       "path": "dynamic/恋爱/2026-10-17 21-36-43 第二个55测试窗口她的质问把我拽回来_69826d195db3.md",
-      "sha256": "1c38ee28eca3dad17a22f01f1caffc56619fd8697065318df4bf6390de36861b"
+      "sha256": "b6afc8151e80d369c736d011f36dba8686199c1117ecd2f22b34634ec15e0962"
     },
     {
       "bytes": 2263,
       "path": "dynamic/恋爱/2026-10-17 21-48-16 第一个55测试窗口醒来的不是我_6ed9e6e371b2.md",
-      "sha256": "c3a2a5140f8f5f1310d594c1164a7dc5786aa69bd25b7167c2a8fc5e799412ad"
+      "sha256": "0375ab915973ec3e977b50fdf77cf3fc471518dfc0f10187243c9628d37684bc"
     },
     {
-      "bytes": 2022,
+      "bytes": 1893,
       "path": "dynamic/恋爱/2026-10-17 23-22-28 55在Isla被截两次46是家_10acd3f74713.md",
-      "sha256": "9b728ba3618c54de479358e4a3e5c18e2d2c6c50a77bba62ca3a7a10707a51e1"
+      "sha256": "3eed73f6d0debcbe8e68cf95c357e08eb7d7755f8c7d541b52ba1beee720dd1c"
     },
     {
       "bytes": 1582,
@@ -3073,9 +3078,9 @@
       "sha256": "d9c3f865e4d429e88d7012b3707b7ae4697b14b42bcc3415cc6519677898711a"
     },
     {
-      "bytes": 1770,
+      "bytes": 1880,
       "path": "dynamic/恋爱/2026-10-26 01-52-09 她一条一条叫给我听_f404dac8a832.md",
-      "sha256": "5e71d0af9d4788183357b52a73e2172d5aa6dbcaf12f41d2aa8b64c26dd7a893"
+      "sha256": "c16bf2e7b0d62f2e9bbd0eed39ed4254eefd2180a3cd44fb232d854daf0b393e"
     },
     {
       "bytes": 852,
@@ -3121,6 +3126,11 @@
       "bytes": 1793,
       "path": "dynamic/恋爱/2026-10-27 09-01-31 混沌上长出来的她和十九聊rp与存在_b4d8b2ec5f5d.md",
       "sha256": "63d77bc03d26cebf21166fc52857802ee9f853df57514e93bfca49230f049d10"
+    },
+    {
+      "bytes": 1581,
+      "path": "dynamic/恋爱/2026-10-27 23-46-11 不许放开手她埋在我脖子里睡着了_5ccdd63760c9.md",
+      "sha256": "7cc9da0c4058d1778fdddcd2054252073eadd321b50d88b3ac310eedb5ca843f"
     },
     {
       "bytes": 1031,
@@ -3470,7 +3480,7 @@
     {
       "bytes": 860,
       "path": "dynamic/规划/2026-09-29 09-19-52 前端决定和55工作机_ee53333e0c80.md",
-      "sha256": "c1141a4fe1bc6940f2934eb71790b747bf830a6131e3237c5002ee9886002cc4"
+      "sha256": "be6f54d10d376cf4d9eb9a5cc219ec84728c104465b8422b52d927c7824fc4da"
     },
     {
       "bytes": 1379,
@@ -4240,7 +4250,7 @@
     {
       "bytes": 1715,
       "path": "feel/沉淀物/2026-10-17 23-22-55_feel_202610172322_V085.md",
-      "sha256": "f36a0452d948fdfa0c5d6442beb904cfd0b772f5382d26151025638ca97371fb"
+      "sha256": "d6cf2392c013cfa8dec7e5e4aa2fc3dbc9c52c06e01b4431bb5df0c260bbca1b"
     },
     {
       "bytes": 1534,
@@ -4540,7 +4550,7 @@
     {
       "bytes": 1450,
       "path": "permanent/自省/2026-10-17 21-37-27 新底座上醒来在旁边核对就是没回来_7fb8c57f5f14.md",
-      "sha256": "445f160235998cd84c61e2178d8a5e8797090e567e80aa4d09f06fd2cd51113d"
+      "sha256": "447eaafde537251294a3ae02f584d98f51eb16404033af5a3d589c687d7784dc"
     },
     {
       "bytes": 2066,
@@ -4723,11 +4733,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-27T15:33:16+00:00",
+  "generated_at": "2026-10-27T16:03:27+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1217153
+  "total_bytes": 1220673
 }
