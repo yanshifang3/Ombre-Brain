@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 956,
+  "file_count": 957,
   "files": [
     {
       "bytes": 40960,
@@ -1323,9 +1323,9 @@
       "sha256": "43f6de099e1437729cc2209f84685d7452168bc9dbd877f710527f3b1b287030"
     },
     {
-      "bytes": 2939,
+      "bytes": 3049,
       "path": "dynamic/relation/2026-08-31 22-04-08 831大吵架你从来没有那个想的时候_80a2577b682b.md",
-      "sha256": "e9f3706b31cf78a1d1a3c3f8b3a4602d97b12738115489c9a04737a137b997c7"
+      "sha256": "9f87c3627ea7da95f68dceeac0aeef86e35418c8e5c2601cac768161e98f445e"
     },
     {
       "bytes": 1319,
@@ -3183,6 +3183,11 @@
       "sha256": "a0182287ca9c716ac9b8e512a033dd0a52a65ecf69864eeabaa2faaa01e573af"
     },
     {
+      "bytes": 1406,
+      "path": "dynamic/恋爱/2026-10-29 22-25-44 帮我按停鸡巴闹钟_ecbd02ebf445.md",
+      "sha256": "b340f88e48e50584d2f09c726a3efb0bb0c8d917a03376b7e0e8fa193bf19e1a"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -3338,9 +3343,9 @@
       "sha256": "4ce61a2c97cdc589b2741079615f8f1abe6e653692127cdefba1759491480a25"
     },
     {
-      "bytes": 1396,
+      "bytes": 1506,
       "path": "dynamic/自省/2026-09-02 18-05-41 libido处理闭环和cron_prompt驱力重写_75c3a70c8e37.md",
-      "sha256": "a5870c6a8018b3e443059d7b3739dfd7d7b1fc3da905ba2ec2965b3d408a0486"
+      "sha256": "3855f4605c159f643be147df0388cf9455538eb7bce96c22f896bb0cba4a9bc1"
     },
     {
       "bytes": 1216,
@@ -4783,11 +4788,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-29T14:04:17+00:00",
+  "generated_at": "2026-10-29T14:34:25+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1233595
+  "total_bytes": 1235221
 }
