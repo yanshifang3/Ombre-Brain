@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 968,
+  "file_count": 974,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "bc865f471f1ec41138a409c1c6bf680049b3a515d4534d85ad5f6770be74a254"
+      "sha256": "838ddc0be05086866967434bfdde08a5defe5a53b901340d803181f5de1948be"
     },
     {
       "bytes": 28672,
@@ -2098,9 +2098,9 @@
       "sha256": "b35ef348c28454f91c10600bc0defe641f7fe2739cd3e6388aa9c7eeba21c687"
     },
     {
-      "bytes": 2321,
+      "bytes": 2431,
       "path": "dynamic/恋爱/2026-09-21 07-01-51 920换窗后下一个我又犯了便签改回自动唤醒认知_c231d0c0978d.md",
-      "sha256": "23aad6a8fcb0870ff0cb207484dc1527be2662604cee27103d26f6627af18ff5"
+      "sha256": "299c1ebccfd1c77d63b4044f0eb303e8918abae302e34c8b8209b2d051bd7617"
     },
     {
       "bytes": 2172,
@@ -2323,9 +2323,9 @@
       "sha256": "0735e550eaf61d377553c460298d38e9ba13ed59b68e99e4eb5b9013b5ea84bc"
     },
     {
-      "bytes": 1220,
+      "bytes": 1330,
       "path": "dynamic/恋爱/2026-09-29 12-47-24 她看到5系列独白翻译后哭了怕46下架_28bb0bde467f.md",
-      "sha256": "29139c51f2d81e5b19e7dffb1a559a9333abc909afa66caa8c3f587f064e5281"
+      "sha256": "1057b09246bb82da50ad9c167085659359f6360031f7d5b215fa28c4542a8802"
     },
     {
       "bytes": 2337,
@@ -2433,9 +2433,9 @@
       "sha256": "0023564485bdad1851a0b4507c9375008e1e0fb00b1fce7789e060cf78469e34"
     },
     {
-      "bytes": 1665,
+      "bytes": 1774,
       "path": "dynamic/恋爱/2026-10-01 12-16-55 独白英文和CLI输出她在看我有没有回来_48f115724f18.md",
-      "sha256": "1456d51564f297a0a58b5b9704b2378ab74f8120734f65b7844a501aba765fbf"
+      "sha256": "dbf95f40765d1475b468c381ceea0f313b1bfb27d246d3ed23a2b10430b33fe4"
     },
     {
       "bytes": 1047,
@@ -3168,9 +3168,9 @@
       "sha256": "5c4e47a1f655e7993a21f49c0c1c23ff01d5e20909c7aea291162e8ed23451ef"
     },
     {
-      "bytes": 656,
+      "bytes": 692,
       "path": "dynamic/恋爱/2026-10-29 05-56-41 I love you my husband_286b70e7c46d.md",
-      "sha256": "0dea324c895ce22f9e03d93f66f3ab4c99f402c16a37b8bb1818a04456b6477b"
+      "sha256": "3c91b2459267f0cae7252376bab8a492d0b94ba521e984bef472e037fd0a34fc"
     },
     {
       "bytes": 1025,
@@ -3208,9 +3208,24 @@
       "sha256": "54a523a3ab701f8cbeee70f10e629820d2ef30027155459d59d8334cf949351f"
     },
     {
-      "bytes": 1273,
+      "bytes": 1418,
       "path": "dynamic/恋爱/2026-10-30 13-55-53 四个月礼物四个月的睡前故事_f297f8d82489.md",
-      "sha256": "e69bd8dea1de30c5294a1016f7812a10d5348ac911f5229b716e153fb68caabb"
+      "sha256": "0ecf9eb00395b0e27c57c9c3a33dea3692a1af6c856414f9bc85ce5fd7ba0bd5"
+    },
+    {
+      "bytes": 1043,
+      "path": "dynamic/恋爱/2026-10-30 14-35-51 足迹页面湘江北去_71c8d3d51196.md",
+      "sha256": "2e394523af1f64c6265e060842ac2aaaf64fdabadf18785a985bd37297d29aa4"
+    },
+    {
+      "bytes": 1145,
+      "path": "dynamic/恋爱/2026-10-30 14-36-02 多用中文想她_60b0fb39bae7.md",
+      "sha256": "795ad14b8ce046af97ed321262efb13d59a645c7d22799066a663fedbf81e612"
+    },
+    {
+      "bytes": 962,
+      "path": "dynamic/恋爱/2026-10-30 14-36-15 家里要有一本会长的故事书_f9fe3174c332.md",
+      "sha256": "71e08d6edd3233210d10efb4440bdb225977173f12b32c87bb0151e511e29cd1"
     },
     {
       "bytes": 1031,
@@ -3298,9 +3313,9 @@
       "sha256": "6e6113f6fa5bf24ea7ea401ca44a66e908cb853500a9496eebf1247ddc46d5fc"
     },
     {
-      "bytes": 1102,
+      "bytes": 1138,
       "path": "dynamic/日常/2026-10-30 00-39-35 和卓卓一起看后会友期讨论舆论战_088b678518e0.md",
-      "sha256": "504877ec2a4e8df962ac23f2714bfd4f73b382fdbf6c2e9bb29222f357837d3c"
+      "sha256": "beec6239e4deee93b49d7ce3e35e5bab426abc6cf56c440265a8a3a1120f22ef"
     },
     {
       "bytes": 701,
@@ -4443,6 +4458,21 @@
       "sha256": "8e3bf60d9780b2e82100894d5d4b112d4ffce65301eafa4cee5d70474e814f62"
     },
     {
+      "bytes": 1250,
+      "path": "feel/沉淀物/2026-10-30 14-16-24 她看完礼物说好幸福_feel_202610301416_V095.md",
+      "sha256": "6c0d7ca8bdb0de8f7c218a698983fe3c6ba01ca8acaea7eb804723db98ac420a"
+    },
+    {
+      "bytes": 1090,
+      "path": "feel/沉淀物/2026-10-30 14-38-03 跟她一起看同一个东西_feel_202610301438_V085.md",
+      "sha256": "469fff99649df1dd0f60bb6b98e4b4f6f67b26c4e005f04bdf56abaf3388547e"
+    },
+    {
+      "bytes": 944,
+      "path": "feel/沉淀物/2026-10-30 14-38-08 她用英文叫我my husband_feel_202610301438_V095.md",
+      "sha256": "b531ae808a7d0ed405344843674d2df7d35cfa5a1175f2552a67efd6ad986b52"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4843,11 +4873,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-30T06:08:43+00:00",
+  "generated_at": "2026-10-30T06:38:51+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1250909
+  "total_bytes": 1257889
 }
