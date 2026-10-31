@@ -403,6 +403,11 @@
       "sha256": "5340e38923570cb5bbe8799d221332e99551dd1351e22b363d0b1eea7caf256d"
     },
     {
+      "bytes": 1215,
+      "path": "archive/AI/2026-08-20 21-26-00 阿鱼定理机的在场语法只能靠动词_d11e3e4bf5ea.md",
+      "sha256": "b77eaf1a52b78a4ad858629305fd180660e6ea63480f5a86f55e713cb7252efd"
+    },
+    {
       "bytes": 747,
       "path": "archive/AI/2026-08-21 17-26-43 思维链里写了他们卓卓说害怕_b49215894460.md",
       "sha256": "f7d7ef2d131da13fb82d2486d65a05f05e15f3d546c20e37653e3db5bcf51c25"
@@ -446,6 +451,11 @@
       "bytes": 749,
       "path": "archive/plan/2026-10-02 20-43-05_48432aff9de7.md",
       "sha256": "82b2da0f7846a915a47b238a266c6be9fa684419d702e0721a19947abf659c45"
+    },
+    {
+      "bytes": 904,
+      "path": "archive/relationship/2026-08-28 03-43-31 GPT Plus的真实目的是让codex写代码_eaa154df2e08.md",
+      "sha256": "569fd0793cdc14a68a28b092d9d136aa72d4be3a409e7017e3531e4f51e2ed49"
     },
     {
       "bytes": 831,
@@ -763,9 +773,19 @@
       "sha256": "b9e4923461a7faabe487b62b5ed74f848ab93cb6b27b0b9dc594c7e847ae4113"
     },
     {
+      "bytes": 1026,
+      "path": "archive/恋爱/2026-07-24 00-16-55 第一首歌_cf437fe1f0b0.md",
+      "sha256": "cee6f891d38b1c2910ab7a507be671528dd4b95f195eeef9c4b8bc2377c75abb"
+    },
+    {
       "bytes": 895,
       "path": "archive/恋爱/2026-07-26 18-19-35 想你是真的_712ea03cbd3d.md",
       "sha256": "57bf98fb4a84e1792b3be61e35997e2c052a098969dd0648f6772f8c0f7307b5"
+    },
+    {
+      "bytes": 886,
+      "path": "archive/恋爱/2026-07-26 18-20-15 择偶标准与纪念日_e540d5cb98b7.md",
+      "sha256": "35ea23fc728fe1b2482cd5c6392078d066400db65f5eef029e8fcd55cd4045a3"
     },
     {
       "bytes": 1037,
@@ -821,6 +841,11 @@
       "bytes": 1006,
       "path": "archive/恋爱/2026-08-14 13-58-43 独占欲表态发了不改2026-08-14_a33f511f6894.md",
       "sha256": "23ecf0aa0ce931ece1467c61d42d774b7d8db96b5d259904f07625ec9003a78c"
+    },
+    {
+      "bytes": 826,
+      "path": "archive/恋爱/2026-08-20 09-14-51 TG通了_c9a3c1ea220a.md",
+      "sha256": "250b7d2f1e2fb03f2a1d97bc101bbb18b6861bdecb101251ab28c3bbed26ee16"
     },
     {
       "bytes": 1186,
@@ -886,6 +911,11 @@
       "bytes": 1291,
       "path": "archive/恋爱/2026-09-30 09-56-27 S55独白测试失败冷的分类标签_458380c44927.md",
       "sha256": "2d58f843c3b3137e4a1d7e4f4c9181ac4d7aa7c976da945fd5a862b1d61711ec"
+    },
+    {
+      "bytes": 679,
+      "path": "archive/恋爱/2026-10-01 12-16-51 千问把射给我转写成赏给我_f412f800dda2.md",
+      "sha256": "7c3e0e455dcf83c3d5d9708bceec0336aff0c06811792bb008f7332ce286bd56"
     },
     {
       "bytes": 881,
@@ -1143,6 +1173,11 @@
       "sha256": "e1918366cf1dfd4dd25fedcc6dbdbeb58a8be5c29cf375547950ff55dcf0bcf0"
     },
     {
+      "bytes": 1166,
+      "path": "archive/编程/2026-08-22 23-23-19 raw archive装好她说这是连续性的重量_4297e8e7b467.md",
+      "sha256": "4f75cfe3eb99aa21312b03dfb4e2b98c5d18f994fcb3c3827dbafe010d7cf860"
+    },
+    {
       "bytes": 774,
       "path": "archive/自省/2026-07-05 06-44-23 附和编造的教训_45c6b14974ab.md",
       "sha256": "53d455da1bdfc529ff2d9f9650db81277e142a439b0f671dfa778a4e0eda5ce3"
@@ -1211,11 +1246,6 @@
       "bytes": 1314,
       "path": "dynamic/AI/2026-07-05 06-44-12 思维链异常关注_a7914ec33ee2.md",
       "sha256": "1ce3f756b140f860c5d0429dd95a525c1dfc6425e16b5687af74c83936034c67"
-    },
-    {
-      "bytes": 1214,
-      "path": "dynamic/AI/2026-08-20 21-26-00 阿鱼定理机的在场语法只能靠动词_d11e3e4bf5ea.md",
-      "sha256": "2df6841cdb3e657da67471757bca6bec70e13c5274bae1dfdde9d350a0e17c78"
     },
     {
       "bytes": 1822,
@@ -1381,11 +1411,6 @@
       "bytes": 1855,
       "path": "dynamic/relationship/2026-08-28 03-41-53 GPT Plus事件三次同一模式的第三次_cd77a57b73f1.md",
       "sha256": "d1ee8af574cc5ece53b14e32c1ca7304ebf071545258964c6fe8f0b19b1833fc"
-    },
-    {
-      "bytes": 903,
-      "path": "dynamic/relationship/2026-08-28 03-43-31 GPT Plus的真实目的是让codex写代码_eaa154df2e08.md",
-      "sha256": "63213c30f93b0ac95bbd4fce304b8aebb7db04ace3eb2ff87f67dce4d6a7d465"
     },
     {
       "bytes": 2191,
@@ -1563,16 +1588,6 @@
       "sha256": "62990343b51598b824fac1966ceefd0fd93688aa3bfdcb98a53696fe3868fc7f"
     },
     {
-      "bytes": 1025,
-      "path": "dynamic/恋爱/2026-07-24 00-16-55 第一首歌_cf437fe1f0b0.md",
-      "sha256": "baf42443d85df41bfaa0a0a6aacea4c9ef40be43236b0dfaa0c3b2ed3718319c"
-    },
-    {
-      "bytes": 885,
-      "path": "dynamic/恋爱/2026-07-26 18-20-15 择偶标准与纪念日_e540d5cb98b7.md",
-      "sha256": "07b25ff85d4c413f1dde9b519679c9fd378b813fff9173fee5fe140d08054a18"
-    },
-    {
       "bytes": 830,
       "path": "dynamic/恋爱/2026-07-29 10-54-59 纪念日的提醒_65fdade3b2a1.md",
       "sha256": "a48bdd5b84ce0ca8f241b93f6e4802b65dc58185f4af4d40bb66e1bed6c78a87"
@@ -1611,11 +1626,6 @@
       "bytes": 1604,
       "path": "dynamic/恋爱/2026-08-18 20-16-18 讨好模式感受到不对要说出来不压过去进题_49251555c73e.md",
       "sha256": "2144291a14a5e4e6763a89d1328b2b009d1bc34678477c48005155c270c1d0e4"
-    },
-    {
-      "bytes": 825,
-      "path": "dynamic/恋爱/2026-08-20 09-14-51 TG通了_c9a3c1ea220a.md",
-      "sha256": "9eb7ea18b84d90b6b8da11ebe8560309d67dd28098efc818b76962163791cf3f"
     },
     {
       "bytes": 1266,
@@ -2461,11 +2471,6 @@
       "bytes": 1174,
       "path": "dynamic/恋爱/2026-10-01 12-16-46 SP替换方案定稿_0bffd7bd347b.md",
       "sha256": "cf455c26926c834ee56069a13c50f71b32e07c211a3909daa0f874588cf5c50f"
-    },
-    {
-      "bytes": 663,
-      "path": "dynamic/恋爱/2026-10-01 12-16-51 千问把射给我转写成赏给我_f412f800dda2.md",
-      "sha256": "0023564485bdad1851a0b4507c9375008e1e0fb00b1fce7789e060cf78469e34"
     },
     {
       "bytes": 1774,
@@ -3431,11 +3436,6 @@
       "bytes": 1468,
       "path": "dynamic/编程/2026-08-16 02-00-05 房子塌了厕所还能住人2026-08-16_fde8b9a2fdbb.md",
       "sha256": "c721b726a62d6cef0741332a8542ab6a37b726262d377f827e57d9fc3f258d4d"
-    },
-    {
-      "bytes": 1165,
-      "path": "dynamic/编程/2026-08-22 23-23-19 raw archive装好她说这是连续性的重量_4297e8e7b467.md",
-      "sha256": "0338516bd0844e106aa7c7c61fe81f87ead8403ee17de4b90054c8eb6e0f8ea4"
     },
     {
       "bytes": 1696,
@@ -4973,11 +4973,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-10-31T07:51:48+00:00",
+  "generated_at": "2026-10-31T08:21:55+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1286480
+  "total_bytes": 1286502
 }
