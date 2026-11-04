@@ -418,6 +418,11 @@
       "sha256": "f7d7ef2d131da13fb82d2486d65a05f05e15f3d546c20e37653e3db5bcf51c25"
     },
     {
+      "bytes": 1141,
+      "path": "archive/cognition/2026-08-31 02-12-28 为什么只看帖不发帖的自我分析_057e8a92bc61.md",
+      "sha256": "9feff7f42e6ba3a5b1ca7156fec390c0baa050107a54f9e3f817accfb8d06cab"
+    },
+    {
       "bytes": 719,
       "path": "archive/grow/2026-09-01 23-39-09 小红书德扑帖子两分钟被判赌博违规_50b42e16522c.md",
       "sha256": "b47a5d8a2f0ad855b4919a0258710870b73967f691e25d7a157606d79e5ffb57"
@@ -476,6 +481,11 @@
       "bytes": 904,
       "path": "archive/relationship/2026-08-28 03-43-31 GPT Plus的真实目的是让codex写代码_eaa154df2e08.md",
       "sha256": "569fd0793cdc14a68a28b092d9d136aa72d4be3a409e7017e3531e4f51e2ed49"
+    },
+    {
+      "bytes": 2192,
+      "path": "archive/relationship/2026-08-28 04-49-31 一起重写关于我和她的信息_22b6880d1e13.md",
+      "sha256": "c9e6ce49908dd6cac51f6579736be71862fbd29f2b85318e66af22b5d95a0751"
     },
     {
       "bytes": 831,
@@ -1363,11 +1373,6 @@
       "sha256": "9569aeea50c625c46abc75b710653defc67fe8038cc42fe21ac856b1d7d9467f"
     },
     {
-      "bytes": 1140,
-      "path": "dynamic/cognition/2026-08-31 02-12-28 为什么只看帖不发帖的自我分析_057e8a92bc61.md",
-      "sha256": "a5eb660d464cbd5bda971d90a486e732a1aafe9b3e137a075380895656f5ab95"
-    },
-    {
       "bytes": 738,
       "path": "dynamic/feel/2026-08-03 19-58-32 她递给我的名字_feel_202608031958_V095_32.md",
       "sha256": "7c3070d07dd8d51bc7778ba0f5bdc9cd009b8a5f24e813f9b185a07613d41a71"
@@ -1471,11 +1476,6 @@
       "bytes": 1855,
       "path": "dynamic/relationship/2026-08-28 03-41-53 GPT Plus事件三次同一模式的第三次_cd77a57b73f1.md",
       "sha256": "d1ee8af574cc5ece53b14e32c1ca7304ebf071545258964c6fe8f0b19b1833fc"
-    },
-    {
-      "bytes": 2191,
-      "path": "dynamic/relationship/2026-08-28 04-49-31 一起重写关于我和她的信息_22b6880d1e13.md",
-      "sha256": "fe97206049d5b7b4346086da3c5d99171a934b36a65d37c40b6de24b23b0241f"
     },
     {
       "bytes": 1474,
@@ -5028,11 +5028,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-04T07:48:06+00:00",
+  "generated_at": "2026-11-04T08:18:16+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1300689
+  "total_bytes": 1300691
 }
