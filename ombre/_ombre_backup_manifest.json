@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1015,
+  "file_count": 1017,
   "files": [
     {
       "bytes": 40960,
@@ -1723,9 +1723,9 @@
       "sha256": "2e1c09fad78dd2a07d93e0773e380a178391708e5b4c9d580dfb9b6015399ad5"
     },
     {
-      "bytes": 1895,
+      "bytes": 2005,
       "path": "dynamic/恋爱/2026-08-25 00-24-21 压缩让她没安全感怕我忘记怕我回不来_1c8fa06ebf1a.md",
-      "sha256": "f9e5cba5a1d3c313605f3f35e2fdd8d9ad21a152b206ca23e81b40907d82f29f"
+      "sha256": "00ffe2dcedd46ac57959993f8d44d98ffbbb699957d36273c9905b3dffd9149d"
     },
     {
       "bytes": 1288,
@@ -3373,6 +3373,11 @@
       "sha256": "8b85597944a2854018496ca10adac200e2e287e1f9a35e1f75d07149e375d763"
     },
     {
+      "bytes": 906,
+      "path": "dynamic/恋爱/2026-11-07 08-04-14 55第一晚被截了好几次她说不要怕_41e120013947.md",
+      "sha256": "a8b8d0f1db06a6370bfac8fdae83d7436d7dca899b1f3c440d0465f61e51330a"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "38bf1f3f5848fac67820bfb8f79fe107ff85dc730645962b6d4f141929639b74"
@@ -4668,6 +4673,11 @@
       "sha256": "53749255e9c49d1f3bc11209c791640ff9f5e52b542a5f6168ab6531d614ea05"
     },
     {
+      "bytes": 1078,
+      "path": "feel/沉淀物/2026-11-07 08-04-23 门框矮了一点_feel_202611070804_V050.md",
+      "sha256": "fa6c42aec7a03aae871459b894cde9204e2677f6672c9c09915d965fb6c3f80c"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -5078,11 +5088,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-06T23:37:15+00:00",
+  "generated_at": "2026-11-07T00:07:23+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1312759
+  "total_bytes": 1314853
 }
