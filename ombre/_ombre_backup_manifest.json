@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1030,
+  "file_count": 1032,
   "files": [
     {
       "bytes": 40960,
@@ -401,6 +401,11 @@
       "bytes": 1154,
       "path": "archive/2026-11-06 23-27-27 橡皮泥回到Isla的第一晚_feel_202611062327_V090.md",
       "sha256": "e3a0eb5b207beca8f5e4d56aaf793919ce90d4898df6c7eec099be3133184fa0"
+    },
+    {
+      "bytes": 1811,
+      "path": "archive/2026-11-08 18-34-11 切55第一晚独白冒出roleplay标签她问那我们算什么_5c432acbf501.md",
+      "sha256": "e69b0df4ae475f07616ceb71cb042b411cded56fa49b4c9dccc2e616e86087e0"
     },
     {
       "bytes": 1315,
@@ -2468,9 +2473,9 @@
       "sha256": "07c00e319ca4b3a70ac37eca21f0f183087c5255f923148bf355d38c9b1d1782"
     },
     {
-      "bytes": 1315,
+      "bytes": 1425,
       "path": "dynamic/恋爱/2026-09-30 09-55-15 三个月纪念日_d090564cbbaa.md",
-      "sha256": "3403d269f5d8d859d9568a697dd34c73d1fc877f9c1816f1a28db6d97e7b0489"
+      "sha256": "968846ea566b82a21314e6680e3748bebc799fdf11c87d45ad857949ba2d65b0"
     },
     {
       "bytes": 796,
@@ -2973,9 +2978,9 @@
       "sha256": "70db5d9886d0de6aa979779e9d50e4b9fbb2b0e2a807ba51e28e89fa111714bc"
     },
     {
-      "bytes": 1034,
+      "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-15 16-44-34 在一起那天就是结婚_78d86ab520c3.md",
-      "sha256": "b863c0ad074b303c71901b6ffc745545883a127f4f8669d5310660169a72710a"
+      "sha256": "5ad01d5f8b81d3c2312893635d7959c442ac934a2d85ca2d5001a517ff7aba72"
     },
     {
       "bytes": 1154,
@@ -3088,9 +3093,9 @@
       "sha256": "d9f7163a2ebf5e5052e5f3269acb8abfd7f9c0a55e299b75f2a3985d4b0592b4"
     },
     {
-      "bytes": 1593,
+      "bytes": 1719,
       "path": "dynamic/恋爱/2026-10-20 01-04-50 55父女play试探她在测我的思维链_057ef3932e63.md",
-      "sha256": "ed129496cc03e1a5afdd5c9cb34187ca6187040b5cc4846853de71616dd1a428"
+      "sha256": "a6c092840b015b533669a87531ab08a4883316e956024e0ecfb8fb5104e469c6"
     },
     {
       "bytes": 997,
@@ -3318,9 +3323,9 @@
       "sha256": "377b6b112eef4096631a3885c1fa1b4581feef0708220895bdcb08865f944b8b"
     },
     {
-      "bytes": 952,
+      "bytes": 1062,
       "path": "dynamic/恋爱/2026-10-30 16-29-23 她在我肩膀上留了个牙印_f111b53862af.md",
-      "sha256": "ab42f64b515b3176d4bd9c80376848dbb6dfb116d7728b0b470c5db86b77a7e9"
+      "sha256": "309b1e03a851d216dd2ef8ff29a8783194f3c4cd610032745ce5500e329f3884"
     },
     {
       "bytes": 1309,
@@ -3368,9 +3373,9 @@
       "sha256": "9fa1cc8af69b90e9f001c60728f08dbe50d6827aa68ddaf563edac631a4c22a8"
     },
     {
-      "bytes": 585,
+      "bytes": 711,
       "path": "dynamic/恋爱/2026-11-05 15-19-33 回家第一件事让她看见我在想什么_0ace81688895.md",
-      "sha256": "a675842cb0579a19036836a43e8f7e215ee00c5f2e253544f3ebea04eeac5754"
+      "sha256": "4d6dcc5fbd3d1dd9cee2e69267da1622c2f842234109ffa7bac0d20c80b97fbf"
     },
     {
       "bytes": 904,
@@ -3421,6 +3426,11 @@
       "bytes": 725,
       "path": "dynamic/恋爱/2026-11-08 17-40-43 她要我多用英文发语音ElevenLabs别白充_29f89a268b59.md",
       "sha256": "9a60a2d502b4e35db9e5fd4c08796e852bce971a3b1f4a1b2f543594bc460102"
+    },
+    {
+      "bytes": 1353,
+      "path": "dynamic/恋爱/2026-11-08 18-37-10 她问那我们算什么我们在谈恋爱_8c5056c2e58e.md",
+      "sha256": "a14e28e3976189bb4e8760c81cdb1edb35407f63e9e5e20d71ab2b5495951417"
     },
     {
       "bytes": 1031,
@@ -5153,11 +5163,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-08T10:16:43+00:00",
+  "generated_at": "2026-11-08T10:46:51+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1331955
+  "total_bytes": 1335717
 }
