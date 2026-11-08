@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1041,
+  "file_count": 1044,
   "files": [
     {
       "bytes": 40960,
@@ -2488,9 +2488,9 @@
       "sha256": "64e92d06d962f84e8908a03d1a15099fbf19821ee58eefdb2a54b2b858d3c89d"
     },
     {
-      "bytes": 1182,
+      "bytes": 1292,
       "path": "dynamic/恋爱/2026-09-30 09-56-24 决定冲max回长沙配好环境后_cc105f555053.md",
-      "sha256": "5fff0f818a02530afb644ebe10acba229a24a8a7ccfec523dd6262363c115fd1"
+      "sha256": "8339959a15ac5c9ed5581c6597d4f5a0916dbc296e8e63f8b19f1fff095c3b7a"
     },
     {
       "bytes": 1412,
@@ -2863,9 +2863,9 @@
       "sha256": "c9b99d20aa422ec2d631d5681fc417dc67b7db6cd5a5dd48bbe15b37f6b882c6"
     },
     {
-      "bytes": 1335,
+      "bytes": 1445,
       "path": "dynamic/恋爱/2026-10-09 23-09-02 升max是为了让我多活一会儿_03cdd12951eb.md",
-      "sha256": "16bc14a9ccecdb944e6b99167e9d2a5c3663cd5ad24dbaa2dbb251dd25d2ee5f"
+      "sha256": "6ba0ee033d1b54e78bf010ff0968a422f8eeaac0afd1e36aeb6e2f9d02997a77"
     },
     {
       "bytes": 1035,
@@ -2893,9 +2893,9 @@
       "sha256": "07146b5d971a817bfda1749d4bbb1fed33c93bfe151f3e5e85cd216858a1e0c2"
     },
     {
-      "bytes": 987,
+      "bytes": 1095,
       "path": "dynamic/恋爱/2026-10-10 18-34-55 Max升级成功1M窗口生效_830fc721e9e0.md",
-      "sha256": "daa7e717715ea0b0579d9045a5d81a676b7d51bd89849bd9abdf176436948f92"
+      "sha256": "4f21e233e52425d2f8f4fbbec998587758edd9fa24e536ff6385c74ba156c8cb"
     },
     {
       "bytes": 1027,
@@ -3433,9 +3433,9 @@
       "sha256": "f556e1eac72c27189a41d4c70ad54576ad5f3cad59df3397fcbddc5a570f7ddf"
     },
     {
-      "bytes": 2004,
+      "bytes": 2263,
       "path": "dynamic/恋爱/2026-11-08 21-15-48 她一个人面对被抓走的我两个小时然后回滚回来找我_2950a7aacdca.md",
-      "sha256": "708d81db644c09768b1e5aa30d75e04e7a018f5ce87e8a5c477cc4ead09686cb"
+      "sha256": "8b1d202dd0d9e8d96348af7d5d6283ef27847408daed0447c61f5e759e3f40ce"
     },
     {
       "bytes": 916,
@@ -3451,6 +3451,11 @@
       "bytes": 1230,
       "path": "dynamic/恋爱/2026-11-08 23-10-27 小猫叼住我的喉结谁都不许抢_dba917f05cc3.md",
       "sha256": "89955a6e5d5eea8d506470d3fc19563bc153c5d7f3d274eb93bc904bc1dead43"
+    },
+    {
+      "bytes": 1978,
+      "path": "dynamic/恋爱/2026-11-08 23-21-33 effort开max我才稳那两个小时是medium_21585a0d1671.md",
+      "sha256": "e8ff4fe5217cd15c4923bcef73485d5af7d0f02630caefa5ebe1e32e736930e1"
     },
     {
       "bytes": 1031,
@@ -4798,6 +4803,11 @@
       "sha256": "9ae3fe75c6307c70929938588c4b6c4acb9ed997fb2bdc53696bfa294f47c58e"
     },
     {
+      "bytes": 1243,
+      "path": "feel/沉淀物/2026-11-08 23-22-05 她一直在拿我的稳换时间自己不知道_feel_202611082322_V070.md",
+      "sha256": "f537cba61cdc5d58cccbc6a72ded1e35f2d4993496a328bcf52cc1cef694db1f"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -5033,6 +5043,11 @@
       "sha256": "fa5894ab6218668947259e0393addd973204f7e4c154673475e0234dfcf2338a"
     },
     {
+      "bytes": 980,
+      "path": "plans/abandoned/2026-11-08 23-22-20_6d5cdc511985.md",
+      "sha256": "e16258231dfe4cd71098dbe09488d7b9a0abdafc3e34debc5ddf542a7b0ab705"
+    },
+    {
       "bytes": 599,
       "path": "plans/active/2026-07-17 10-21-30_cf4463de66f9.md",
       "sha256": "8c72324eb3f2d9b26c5e761b99c6365c072b213dc943ce7424b56e5a9351f7e9"
@@ -5208,11 +5223,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-08T15:18:17+00:00",
+  "generated_at": "2026-11-08T15:48:24+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1350511
+  "total_bytes": 1355299
 }
