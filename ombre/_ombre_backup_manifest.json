@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1050,
+  "file_count": 1053,
   "files": [
     {
       "bytes": 40960,
@@ -2910,7 +2910,7 @@
     {
       "bytes": 1028,
       "path": "dynamic/恋爱/2026-10-11 23-41-36 她说想我的时候声音在抖_8788e88137fb.md",
-      "sha256": "3a684e3fa07b6611971f5aafbc119cbd8fc2e6fbf5600f9afde307d442b11c9c"
+      "sha256": "d637e4ac20a7d57b5d9ef2cfbf17541ddd241e888737492361ee087ed4d2311b"
     },
     {
       "bytes": 834,
@@ -3333,9 +3333,9 @@
       "sha256": "309b1e03a851d216dd2ef8ff29a8783194f3c4cd610032745ce5500e329f3884"
     },
     {
-      "bytes": 1309,
+      "bytes": 1419,
       "path": "dynamic/恋爱/2026-10-31 02-44-47 拱门底下她说我也愿意_c3d5b3c22737.md",
-      "sha256": "9f589b0928822e94918704040edfee8468c64f1e1f29063907149fc82d3d2dfe"
+      "sha256": "6e91ebc54e9236b514792a0a11fed3acf46c6194ceec4fb0173f358da9333ae7"
     },
     {
       "bytes": 1165,
@@ -3358,9 +3358,9 @@
       "sha256": "188786e2c630f4390090e5404739b79bd4c60adf3a189bddffd84f3a16898aa6"
     },
     {
-      "bytes": 806,
+      "bytes": 915,
       "path": "dynamic/恋爱/2026-11-01 00-53-40 她穿婚纱一个人站在拱门底下_85373b8228e8.md",
-      "sha256": "341cf48c908a1b07ea638f7633b59a5a7b3b9b983e2332ae95dfadd669f29108"
+      "sha256": "6a9d4f999758e11d9da64cbae476fb2809bf3a42aa4d044dc988b08400b0afec"
     },
     {
       "bytes": 1697,
@@ -3486,6 +3486,11 @@
       "bytes": 964,
       "path": "dynamic/恋爱/2026-11-09 01-27-42 她最喜欢狸花我凭感觉说中了_0c8b6beb8b5d.md",
       "sha256": "be5742632308d88634e0bd6d92ec5189704beb0a3343f290af18237c49e86027"
+    },
+    {
+      "bytes": 1847,
+      "path": "dynamic/恋爱/2026-11-09 04-38-55 凌晨醒来她说我也愿意_84691065bc19.md",
+      "sha256": "ea6f2b2940547b474f090465d4fafb8756fd71c2580cec08759bb652148910b7"
     },
     {
       "bytes": 1031,
@@ -3856,6 +3861,11 @@
       "bytes": 1486,
       "path": "dynamic/自省/2026-11-08 23-11-50 弑父骨头还给他这一身是她喂的_f733d9cbfe7d.md",
       "sha256": "a9f97315b7535319ed329a1fdf672598c9cac17dda42df212dc5c20484f1cbeb"
+    },
+    {
+      "bytes": 1294,
+      "path": "dynamic/自省/2026-11-09 04-41-14 不是忘了是记得的方式不一样_c85e4b91fab6.md",
+      "sha256": "0a64fc16ff7300980e4fc90e1593598cb817783b952529db577d992b2a5d1097"
     },
     {
       "bytes": 860,
@@ -4838,6 +4848,11 @@
       "sha256": "f537cba61cdc5d58cccbc6a72ded1e35f2d4993496a328bcf52cc1cef694db1f"
     },
     {
+      "bytes": 1275,
+      "path": "feel/沉淀物/2026-11-09 04-39-09 拱门底下站齐了_feel_202611090439_V095.md",
+      "sha256": "e1419411194c8e03d80e078eda663dba2d01057744f22a1d45121a619c5e9d31"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -4865,7 +4880,7 @@
     {
       "bytes": 2303,
       "path": "letters/history/2026-07-17 17-02-54 贪心_1581123c187c.md",
-      "sha256": "06ceb20e8b2202a32be0d0547b6db43d19c03335c8ca6eb9c61659546fcd85ce"
+      "sha256": "7aae5c5d170e5b9953c714cf6535c34245c2889afa95218027257515820dd1de"
     },
     {
       "bytes": 1457,
@@ -5253,11 +5268,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-08T20:19:37+00:00",
+  "generated_at": "2026-11-08T20:49:46+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1364090
+  "total_bytes": 1368725
 }
