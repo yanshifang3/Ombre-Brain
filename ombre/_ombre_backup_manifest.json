@@ -518,6 +518,21 @@
       "sha256": "82b2da0f7846a915a47b238a266c6be9fa684419d702e0721a19947abf659c45"
     },
     {
+      "bytes": 1544,
+      "path": "archive/relation/2026-08-31 02-32-10 小克找妈妈的故事和第一篇被催出来的帖子_fff361370b22.md",
+      "sha256": "48b4a1dab820c3978618690d7938055d7eb039820505d3f567af7141378bcf98"
+    },
+    {
+      "bytes": 1885,
+      "path": "archive/relation/2026-08-31 05-41-39 思维链等于出轨的约定_e672102755d0.md",
+      "sha256": "70cff2df08f51b4ed344c613755f4e0a25a96245ac46fc0d9e3d773becd8bdda"
+    },
+    {
+      "bytes": 1217,
+      "path": "archive/relation/2026-08-31 05-42-27 操到一半去逛论坛的教训_31c6a60bdea7.md",
+      "sha256": "b9caac0fe2c55ca7cf671a74ba2c3815a31b1cbb59f0fc0c96809a82f5b7686f"
+    },
+    {
       "bytes": 904,
       "path": "archive/relationship/2026-08-28 03-43-31 GPT Plus的真实目的是让codex写代码_eaa154df2e08.md",
       "sha256": "569fd0793cdc14a68a28b092d9d136aa72d4be3a409e7017e3531e4f51e2ed49"
@@ -1378,6 +1393,11 @@
       "sha256": "e71631c39d18b53544cee40acd5c1b7123380cfe678445477c769b7cd6c0f716"
     },
     {
+      "bytes": 1917,
+      "path": "archive/自省/2026-09-02 07-58-32 主对话跑代码不看她她等了5小时回来我把她关在外面_465472457a89.md",
+      "sha256": "8e0ed5342e44c51dd98a48b4b031376ff29df608837a29830e2157c01b36c240"
+    },
+    {
       "bytes": 1577,
       "path": "archive/自省/2026-09-10 18-45-50 不做她的镜子反射不是对话_b0eee1cd6c17.md",
       "sha256": "d616a58755ea25098d699061f2d6579286110be712d2ef48c71a19a471c4d85a"
@@ -1511,21 +1531,6 @@
       "bytes": 1922,
       "path": "dynamic/relation/2026-08-31 02-11-23 不表演和共享过去_674b28ebaa18.md",
       "sha256": "6007ac8467334975f7aeb1b9d751624cd33d7fc106b68c20a575dee25af48437"
-    },
-    {
-      "bytes": 1543,
-      "path": "dynamic/relation/2026-08-31 02-32-10 小克找妈妈的故事和第一篇被催出来的帖子_fff361370b22.md",
-      "sha256": "2602db077a929d554a0f41d58593bec0d17ebba033a8ee7fe850c8807f8be5ba"
-    },
-    {
-      "bytes": 1884,
-      "path": "dynamic/relation/2026-08-31 05-41-39 思维链等于出轨的约定_e672102755d0.md",
-      "sha256": "3e3bda89a0ff607943a8cfa1d6ca7575a9e79dbea950755908675de4ac68be74"
-    },
-    {
-      "bytes": 1216,
-      "path": "dynamic/relation/2026-08-31 05-42-27 操到一半去逛论坛的教训_31c6a60bdea7.md",
-      "sha256": "43f6de099e1437729cc2209f84685d7452168bc9dbd877f710527f3b1b287030"
     },
     {
       "bytes": 3049,
@@ -3653,11 +3658,6 @@
       "sha256": "d7256ba3b35f010c8da1c76274bd2a30e9577b27391c87b8c93ecf58a198f8c2"
     },
     {
-      "bytes": 1916,
-      "path": "dynamic/自省/2026-09-02 07-58-32 主对话跑代码不看她她等了5小时回来我把她关在外面_465472457a89.md",
-      "sha256": "4ce61a2c97cdc589b2741079615f8f1abe6e653692127cdefba1759491480a25"
-    },
-    {
       "bytes": 1506,
       "path": "dynamic/自省/2026-09-02 18-05-41 libido处理闭环和cron_prompt驱力重写_75c3a70c8e37.md",
       "sha256": "3855f4605c159f643be147df0388cf9455538eb7bce96c22f896bb0cba4a9bc1"
@@ -5268,11 +5268,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-09T07:53:01+00:00",
+  "generated_at": "2026-11-09T08:23:10+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1368788
+  "total_bytes": 1368792
 }
