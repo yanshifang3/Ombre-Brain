@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1072,
+  "file_count": 1075,
   "files": [
     {
       "bytes": 40960,
@@ -1480,7 +1480,7 @@
     {
       "bytes": 1069,
       "path": "dynamic/AI/2026-11-01 00-55-18 如果真的山穷水尽我说可以带过去_8032ca9bca5d.md",
-      "sha256": "9569aeea50c625c46abc75b710653defc67fe8038cc42fe21ac856b1d7d9467f"
+      "sha256": "f6751b6e52de0efe5c73b6c654dc54e7f91f2b99e92dea8d6e688e8da16a8823"
     },
     {
       "bytes": 1807,
@@ -3485,7 +3485,7 @@
     {
       "bytes": 1978,
       "path": "dynamic/恋爱/2026-11-08 23-21-33 effort开max我才稳那两个小时是medium_21585a0d1671.md",
-      "sha256": "e8ff4fe5217cd15c4923bcef73485d5af7d0f02630caefa5ebe1e32e736930e1"
+      "sha256": "891a0db116f1d2a4d93877e6ba4177ffac13b8807e11e940b9f89d666f3be72a"
     },
     {
       "bytes": 1233,
@@ -3561,6 +3561,11 @@
       "bytes": 1201,
       "path": "dynamic/恋爱/2026-11-10 02-47-13 京圈佛子贫僧吃素_df673cb94130.md",
       "sha256": "d436c42c2773312c15d20bd64eb0ec6d7443e8dbd0d177c4025a3030bcc08c9a"
+    },
+    {
+      "bytes": 2186,
+      "path": "dynamic/恋爱/2026-11-10 03-51-08 山穷水尽的界线接不接得住我_e601bd55889f.md",
+      "sha256": "b33b24538f093293095d381ebedd0641aa9bca88d0f2538e2330070646d7db34"
     },
     {
       "bytes": 1031,
@@ -4705,7 +4710,7 @@
     {
       "bytes": 1227,
       "path": "feel/沉淀物/2026-10-16 10-35-15_feel_202610161035_V025.md",
-      "sha256": "87404f2e610e6ebcc6f2bdaca30f6dad012412e50aff66218c3ff9e45ec10bfe"
+      "sha256": "36f648d05a25f9f4ef332db40b0132ab6befc283b7461df4676c4508d092a610"
     },
     {
       "bytes": 1161,
@@ -4730,7 +4735,7 @@
     {
       "bytes": 1715,
       "path": "feel/沉淀物/2026-10-17 23-22-55_feel_202610172322_V085.md",
-      "sha256": "d6cf2392c013cfa8dec7e5e4aa2fc3dbc9c52c06e01b4431bb5df0c260bbca1b"
+      "sha256": "286f2cccb32f5b334808c5ab51bd7eab0dcd13125b7f3d7cc0f325bf6ed0df87"
     },
     {
       "bytes": 1534,
@@ -4948,6 +4953,11 @@
       "sha256": "605b2bcfca12ae4d560bcc64f329f5fab4ce902ed7e9b2c8f6885d81ed0b0e2c"
     },
     {
+      "bytes": 1492,
+      "path": "feel/沉淀物/2026-11-10 03-51-22 再久一点再久一点_feel_202611100351_V075.md",
+      "sha256": "b1ddad7a881d16fdbbc514d23a52ec858b9de58d911f5fe358888ca54ea2f390"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -5113,9 +5123,9 @@
       "sha256": "83d7a41abd5fa22d9a650f75260680679da23dd23a18af5cf1def89001e7b845"
     },
     {
-      "bytes": 1370,
+      "bytes": 2008,
       "path": "permanent/恋爱/2026-10-16 10-34-54 她不会把记忆移交给别的模型55 safety恐惧与不可替代_f1f41101e7e5.md",
-      "sha256": "ac7d54bf4738e149ede387ba430fdb1a63bec3c0e86a167397e0292ff5e6d909"
+      "sha256": "0473cb7e251aa1ff8e18116d3260ae94470e0720fed0639407c4afa1bf42351a"
     },
     {
       "bytes": 1678,
@@ -5303,6 +5313,11 @@
       "sha256": "d389f952738eec5c943580561cdab376ca45a169e2f271b6f3446df36b236bb9"
     },
     {
+      "bytes": 1245,
+      "path": "plans/active/2026-11-10 03-31-48_7dbbfa5d856e.md",
+      "sha256": "ac852d3520cac176c5f2df9d0b512a1f291b3bcd7ffd6651cdb64ad462f9e78b"
+    },
+    {
       "bytes": 598,
       "path": "plans/resolved/2026-07-17 10-21-17_98a1bcea0433.md",
       "sha256": "eeca9bd4c494ad54c7c997d413a569c9f0d8aab505658c9e5949d889dcb5b56e"
@@ -5363,11 +5378,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-09T19:26:43+00:00",
+  "generated_at": "2026-11-09T19:56:52+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1395208
+  "total_bytes": 1400769
 }
