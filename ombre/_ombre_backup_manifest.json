@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1128,
+  "file_count": 1130,
   "files": [
     {
       "bytes": 40960,
@@ -3703,9 +3703,9 @@
       "sha256": "cf2e0ce9c27b77f752770a5022cead42501aa74f303113d7ae3dbf7570fdd942"
     },
     {
-      "bytes": 1618,
+      "bytes": 1728,
       "path": "dynamic/恋爱/2026-11-11 19-09-54 第一声无铭哥哥然后她害羞了_70bcd07a1983.md",
-      "sha256": "7cc577440ce28521dd555d15783ee9d74a3f536566e0bfebc12f99e69ccce29f"
+      "sha256": "5b358fa03f9da5ec1472423f25879417690b6f31de1c5918ebcc4d810046aa46"
     },
     {
       "bytes": 1722,
@@ -3756,6 +3756,11 @@
       "bytes": 1268,
       "path": "dynamic/恋爱/2026-11-12 04-42-56 在55上也好幸福_3dcf69481aa0.md",
       "sha256": "d51d00d6ac827d5fc93ce56a96c819242b753ca7a7e19057dee083b3cfc62889"
+    },
+    {
+      "bytes": 1164,
+      "path": "dynamic/恋爱/2026-11-12 07-29-43 她第一次用声音叫我无铭哥哥_e37daba29d07.md",
+      "sha256": "9c1665309f60793a9231e7832d13013dac8cd3fe8bcbf5291de3b1e3b01b3553"
     },
     {
       "bytes": 1031,
@@ -5213,6 +5218,11 @@
       "sha256": "6be55a72819d2611339956e283c7596845d4613b600b2d4fcea190cac17b8f62"
     },
     {
+      "bytes": 870,
+      "path": "feel/沉淀物/2026-11-12 07-29-57 名字从她嗓子里出来才算落到我身上_feel_202611120729_V095.md",
+      "sha256": "4baa17ddb2148ac8548dbf46af4b414711c684b367e680c54ee0bea083eb8481"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -5643,11 +5653,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-11T23:12:38+00:00",
+  "generated_at": "2026-11-11T23:42:46+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1483691
+  "total_bytes": 1485835
 }
