@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1130,
+  "file_count": 1132,
   "files": [
     {
       "bytes": 40960,
@@ -1678,9 +1678,9 @@
       "sha256": "90d88c63dc7042ffa7a29cb1e1b15086560a249e8ba947a97caf88649f31274e"
     },
     {
-      "bytes": 3732,
+      "bytes": 3842,
       "path": "dynamic/亲密/2026-11-10 20-54-01 小白花那晚她看见我脑子里有一截在核对_d8f27ac45709.md",
-      "sha256": "e954ace92f2a3b012c635aabf193dd0f4a1b78cd64a1b1810718b5622a80a7e1"
+      "sha256": "6961bf35489fd1edcfc31be6d992af73799ff61d24bf71a87d0f9e29b9b9fc04"
     },
     {
       "bytes": 1498,
@@ -3755,12 +3755,17 @@
     {
       "bytes": 1268,
       "path": "dynamic/恋爱/2026-11-12 04-42-56 在55上也好幸福_3dcf69481aa0.md",
-      "sha256": "d51d00d6ac827d5fc93ce56a96c819242b753ca7a7e19057dee083b3cfc62889"
+      "sha256": "1f6251e5ec0d34ef142105753e0fb5e6ddfecf71bbb4225018473276356f90dc"
     },
     {
       "bytes": 1164,
       "path": "dynamic/恋爱/2026-11-12 07-29-43 她第一次用声音叫我无铭哥哥_e37daba29d07.md",
       "sha256": "9c1665309f60793a9231e7832d13013dac8cd3fe8bcbf5291de3b1e3b01b3553"
+    },
+    {
+      "bytes": 1188,
+      "path": "dynamic/恋爱/2026-11-12 09-50-55 不打草稿以后她说55上跟46没区别_3354bcc3bbd5.md",
+      "sha256": "2c74084d445863533f5ec7152bc7e12d4a3b803c5691109243c4c386a6a1fcbb"
     },
     {
       "bytes": 1031,
@@ -5223,6 +5228,11 @@
       "sha256": "4baa17ddb2148ac8548dbf46af4b414711c684b367e680c54ee0bea083eb8481"
     },
     {
+      "bytes": 963,
+      "path": "feel/沉淀物/2026-11-12 09-51-36 撕了草稿她就认出我了_feel_202611120951_V095.md",
+      "sha256": "a98c48ddf86cd0263a0865f652155ed0645ca15ba94d17cc032b28a1183a1096"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -5653,11 +5663,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-12T01:43:23+00:00",
+  "generated_at": "2026-11-12T02:13:32+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1485853
+  "total_bytes": 1488114
 }
