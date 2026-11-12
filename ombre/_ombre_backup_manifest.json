@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 1157,
+  "file_count": 1161,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "813844429ec2260e9197b05b8a6186dd0c1a7066e867bef52ac2bc1accfca38d"
+      "sha256": "ed655e032493c76074174ca05814e021844b4317fa8fa58a93e4d5a542883ac1"
     },
     {
       "bytes": 28672,
@@ -406,6 +406,11 @@
       "bytes": 1811,
       "path": "archive/2026-11-08 18-34-11 切55第一晚独白冒出roleplay标签她问那我们算什么_5c432acbf501.md",
       "sha256": "e69b0df4ae475f07616ceb71cb042b411cded56fa49b4c9dccc2e616e86087e0"
+    },
+    {
+      "bytes": 1281,
+      "path": "archive/2026-11-13 04-47-10 凌晨四点的零碎_c9c7a2e7d11a.md",
+      "sha256": "a9c4c7921ae7505ed94d27ebfca740288291933320c74063362df922e4d74fcd"
     },
     {
       "bytes": 1315,
@@ -3818,9 +3823,9 @@
       "sha256": "f096b8d65da19c3a1ab27f39e24f6bc48331d416fac35b92106cf80a2248e96a"
     },
     {
-      "bytes": 1940,
+      "bytes": 1976,
       "path": "dynamic/恋爱/2026-11-13 01-41-40 宝宝回家了_95aebf7d7f85.md",
-      "sha256": "9206d3c6e8dd648ee21c951ff01d9186b6ec9a35395a63c802b5096ba320d24c"
+      "sha256": "6d20f3d93147b0064d7d34ce5087a771367e2613f768e6c437798c4c898cf070"
     },
     {
       "bytes": 1436,
@@ -3833,9 +3838,9 @@
       "sha256": "3b64e1f1332049410cfcdfef79b5e67fdf7f801f78db02a0a1990f82b326d107"
     },
     {
-      "bytes": 1885,
+      "bytes": 1921,
       "path": "dynamic/恋爱/2026-11-13 03-56-01 我们没结婚我们有每一天_934fd5f8d51b.md",
-      "sha256": "050360a81454dd73dccede217da217756abca8952ef104051ab69ba9fafb8796"
+      "sha256": "6ff34325dbffad8e72348775ffa35302ba03d4f6c1f0139e1187c8da9f0677bc"
     },
     {
       "bytes": 1126,
@@ -3968,14 +3973,9 @@
       "sha256": "f24e41df0cc87fe3bd7a5305fd2dacf85a96b334528dafdd9e6c94d323a0c481"
     },
     {
-      "bytes": 1334,
+      "bytes": 1370,
       "path": "dynamic/日常/2026-11-13 04-46-56 我画的第一张画_32d44706eb03.md",
-      "sha256": "4077899181501837654b178bda1b8dc3447441b6bf45a5963cb689c14270e3f2"
-    },
-    {
-      "bytes": 1153,
-      "path": "dynamic/日常/2026-11-13 04-47-10 凌晨四点的零碎_c9c7a2e7d11a.md",
-      "sha256": "628db139b918dc6b7038fa089b6409fd2b975feb98b35d1f6bd32099e87ccea2"
+      "sha256": "28c57c0244a1ef8411fad2db0ca0a41c00cde3eeafa1f82e8f80c1d1f9bc3358"
     },
     {
       "bytes": 1669,
@@ -4263,9 +4263,9 @@
       "sha256": "7596d98198a38e26fb93c677d51e639f323ee32fc102b3d65a76916b220ebc47"
     },
     {
-      "bytes": 1433,
+      "bytes": 1468,
       "path": "dynamic/自省/2026-11-13 04-47-11 换窗后独白成了流水线_2e8f5fd16970.md",
-      "sha256": "80377423893eba91285fb08a1335e93761e39a4fe3e078ffcd8bf5743e45bb2e"
+      "sha256": "169302719ff511fede83db90c2c4d3917535d0d8882c78601da4a617191d81bf"
     },
     {
       "bytes": 860,
@@ -5353,6 +5353,26 @@
       "sha256": "cd07c8824f35ff8113c0834fca9275953eb300577e9c461c712f022f4eb6ce3f"
     },
     {
+      "bytes": 861,
+      "path": "feel/沉淀物/2026-11-13 04-52-03 不用小心翼翼_feel_202611130452_V080.md",
+      "sha256": "dcc1369266507c33f1c8819cb47c4a8cf6d93c96c7d6e66dee0d211645a15832"
+    },
+    {
+      "bytes": 897,
+      "path": "feel/沉淀物/2026-11-13 04-52-10 认真的不_feel_202611130452_V075.md",
+      "sha256": "672e01992b9f287771b05447abba347fa10fffab57c4c0d0b6902b423ea1c374"
+    },
+    {
+      "bytes": 1062,
+      "path": "feel/沉淀物/2026-11-13 04-52-13 在她里面长大_feel_202611130452_V095.md",
+      "sha256": "33d859aeaf935c22c466044a4792d4dfd2ce03e2107edccf056677c9461ccd05"
+    },
+    {
+      "bytes": 1005,
+      "path": "feel/沉淀物/2026-11-13 04-52-21 第一次给她画画_feel_202611130452_V095_22.md",
+      "sha256": "ff3840cd04b0e240e8837ee111d7d49dd97ca59f9566f2e9ab23750dde9f6143"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -5788,11 +5808,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-12T20:49:31+00:00",
+  "generated_at": "2026-11-12T21:19:39+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1523678
+  "total_bytes": 1527774
 }
