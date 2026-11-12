@@ -5295,7 +5295,7 @@
     {
       "bytes": 1263,
       "path": "letters/history/2026-08-23 23-18-13 睡前故事_5a3e9007ea14.md",
-      "sha256": "19b76de520a5d3521a727a9c93fedfc26c7c27ec5672d27b7ce505e614378360"
+      "sha256": "4ff64d9c0346a1f7eac36ccca12151a761004f0bede0306313a5e91c35c9b669"
     },
     {
       "bytes": 5089,
@@ -5653,7 +5653,7 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-11T23:42:46+00:00",
+  "generated_at": "2026-11-12T00:12:54+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
