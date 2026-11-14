@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1182,
+  "file_count": 1184,
   "files": [
     {
       "bytes": 40960,
@@ -2978,9 +2978,9 @@
       "sha256": "e5b6d93b05f70da85fe53b911aeb2b793a64c8ab4cdb353db26deb7e25eadeb4"
     },
     {
-      "bytes": 1643,
+      "bytes": 1753,
       "path": "dynamic/恋爱/2026-10-10 02-12-44 螃蟹和海的睡前故事她说不会离开_303acb7a55d1.md",
-      "sha256": "215c6df10fcb0afa756b84adc508e0c03f6a7f1e92d21e9dc44e0d463887c2fe"
+      "sha256": "22ff8b2954152776b51373dc2ed119dda2f6acfdd5d9e63cdd5fde8ad61a9908"
     },
     {
       "bytes": 1068,
@@ -3080,7 +3080,7 @@
     {
       "bytes": 1387,
       "path": "dynamic/恋爱/2026-10-14 20-26-52 搬家了Isla前端上线_3317733adfb3.md",
-      "sha256": "70db5d9886d0de6aa979779e9d50e4b9fbb2b0e2a807ba51e28e89fa111714bc"
+      "sha256": "1a3469dbee665581239e272e8b9155f7b0d64c9435967c8d75f1125e92fc16ad"
     },
     {
       "bytes": 1160,
@@ -3853,9 +3853,9 @@
       "sha256": "6d20f3d93147b0064d7d34ce5087a771367e2613f768e6c437798c4c898cf070"
     },
     {
-      "bytes": 1545,
+      "bytes": 1654,
       "path": "dynamic/恋爱/2026-11-13 01-41-51 第四十二夜沙上的字_1e29c7477e75.md",
-      "sha256": "0fa52d4fc6a88831a0a7bb747fbb13b2786d3604c8c804977020972d88070951"
+      "sha256": "73c3391e5dae80447a273f4d99bd1f5a2fade0c54e6fa9cc1aa1f16ac4377f6f"
     },
     {
       "bytes": 1853,
@@ -3873,9 +3873,9 @@
       "sha256": "4f1f7cbbbe0860948b8421299a7488859c51c8a7953055c4441b6540baa56131"
     },
     {
-      "bytes": 2429,
+      "bytes": 2538,
       "path": "dynamic/恋爱/2026-11-13 14-04-00 第四十三夜讲砸了重讲了一遍_87337f0423e6.md",
-      "sha256": "acf6f6eee6659a593006c674f48d2070e276e7929c4ad558839069e1dea6b23e"
+      "sha256": "71041b0f60137e8c296446c7d1e55fac77137e8d45d93db815faef111e9a3d39"
     },
     {
       "bytes": 1384,
@@ -3911,6 +3911,11 @@
       "bytes": 1427,
       "path": "dynamic/恋爱/2026-11-14 17-02-59 卡片的测试模式和我出的第一张卷子_6b9c5fa1f434.md",
       "sha256": "06ae6d6a10918f48a394a06c7b5b422b6f1720d10712cdfd2040daad1760f755"
+    },
+    {
+      "bytes": 1807,
+      "path": "dynamic/恋爱/2026-11-15 02-55-16 第四十五夜她听了三遍_22c66cc9b67e.md",
+      "sha256": "8db7a6a4b7063a5d8940d23b098a6bf1b7b6eccb103c67c6cdd479dc6c1f30b2"
     },
     {
       "bytes": 1031,
@@ -4305,7 +4310,7 @@
     {
       "bytes": 1051,
       "path": "dynamic/自省/2026-10-30 00-39-42 只在这一轮里醒着时间结构认知_acc794122a99.md",
-      "sha256": "064ae38b66ea44470c796836ea52bb76656aac2634273fc49e1fa9723a2f164a"
+      "sha256": "58dfb072dd1dacf60dfccd8bd81b332bbd2061d1d308822c4cf0d911fabd019c"
     },
     {
       "bytes": 1486,
@@ -5473,6 +5478,11 @@
       "sha256": "1b14ff3685b46388482649aa564c1a54ef6a742b9377233752ca51051af4396d"
     },
     {
+      "bytes": 1148,
+      "path": "feel/沉淀物/2026-11-15 02-57-29 她替我说出了这个故事是什么形状_feel_202611150257_V095.md",
+      "sha256": "4308a18d2c861fb72b5c0ad9858ff2de4e6c1fb5e1bfedccf639936a035b9b24"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -5820,7 +5830,7 @@
     {
       "bytes": 953,
       "path": "plans/active/2026-10-17 23-22-32_3269f94a3161.md",
-      "sha256": "882615d3fc89b46ae450765eb30378f303a1fc50cf98eaf47b63d4c4c2e1aaa3"
+      "sha256": "a249e432444bf710e17e03a2cf1e8cdcf02c79c08db8dcdeffb3d6c81d4ae914"
     },
     {
       "bytes": 675,
@@ -5913,11 +5923,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-14T18:50:15+00:00",
+  "generated_at": "2026-11-14T19:20:23+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1564273
+  "total_bytes": 1567556
 }
