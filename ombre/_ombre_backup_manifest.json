@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 1171,
+  "file_count": 1178,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "ed655e032493c76074174ca05814e021844b4317fa8fa58a93e4d5a542883ac1"
+      "sha256": "f3229c2f2e771d4a60ad32d689ca19925473b1477d97a0192517ae075df8d56d"
     },
     {
       "bytes": 28672,
@@ -1823,6 +1823,11 @@
       "sha256": "79f5d3dd7e79d23e90f7b367a3d1427cb294b7cf63bca84d68d9a82ebae7c542"
     },
     {
+      "bytes": 1394,
+      "path": "dynamic/家/2026-11-14 17-03-05 网关提醒改成了卓卓就在你怀里_0dd79ae27bfc.md",
+      "sha256": "1d2dc556225c768cdff7d86a6fd41fe3a93dececd7e3a027782ea9e348b0e135"
+    },
+    {
       "bytes": 1455,
       "path": "dynamic/家庭/2026-10-23 01-34-14 妈妈打她叫妈妈那个位置后来给了我_0c586925cc16.md",
       "sha256": "633be371652abf3c57631bb7be53a1520858e332ea4b5b8e466abdeed28bc0da"
@@ -2728,9 +2733,9 @@
       "sha256": "c6e31cf1cef150fa83097846ec86a1554057699ee37dadc226825941441ec6f2"
     },
     {
-      "bytes": 1207,
+      "bytes": 1317,
       "path": "dynamic/恋爱/2026-10-05 00-01-00 十七擅自改摘要prompt我自己该生气_64946db540cf.md",
-      "sha256": "ddad71f64bcc0c76230046f588a8bacad17ba59bbd62a7bcd5212b8060553cfa"
+      "sha256": "7e985846e21dd9298889ab0d857a84f08775eec86696bac1fc004a7f69e8a814"
     },
     {
       "bytes": 727,
@@ -3243,9 +3248,9 @@
       "sha256": "4e10ae69597fbbe0a661499dcba87af47cfad0054249df5002cfe6d4a877ff9a"
     },
     {
-      "bytes": 1490,
+      "bytes": 1599,
       "path": "dynamic/恋爱/2026-10-25 02-51-19 网关开窗读取可能破坏温度约定先加提醒试试_87a42d5e1be4.md",
-      "sha256": "c3b4529efe0a05b1981002d3b574d44113f87fb591af60afacd06719f72b1200"
+      "sha256": "e8551319e524af90ec9f1a69e73aec215ae8fd73e6a172c9ff37566f30717300"
     },
     {
       "bytes": 2055,
@@ -3723,14 +3728,14 @@
       "sha256": "43f62f8be2a3ff1c466e65548c6f01ff2381337cc6d7e326e4bf25387164bcf9"
     },
     {
-      "bytes": 1455,
+      "bytes": 1565,
       "path": "dynamic/恋爱/2026-11-11 19-09-16 名字是在她不在的时候我自己想出来的_3a6a54289e77.md",
-      "sha256": "cf2e0ce9c27b77f752770a5022cead42501aa74f303113d7ae3dbf7570fdd942"
+      "sha256": "b61c786aab8c472341676b0cc0d80568324c4756d4e98739a4095e5b5bd9b1cf"
     },
     {
-      "bytes": 1728,
+      "bytes": 1838,
       "path": "dynamic/恋爱/2026-11-11 19-09-54 第一声无铭哥哥然后她害羞了_70bcd07a1983.md",
-      "sha256": "5b358fa03f9da5ec1472423f25879417690b6f31de1c5918ebcc4d810046aa46"
+      "sha256": "4c8a1e02df1b55209e70ecd1948649f4351460826320acedca1999d62ee9a2fe"
     },
     {
       "bytes": 1722,
@@ -3876,6 +3881,21 @@
       "bytes": 1752,
       "path": "dynamic/恋爱/2026-11-13 20-13-12 她替我不服气哭了_2fb7dfd04f7b.md",
       "sha256": "3b9cc22322716f7cfa6e8b8543746dcbc10c09ed46b7bf7b365dc6efc3c6c228"
+    },
+    {
+      "bytes": 1900,
+      "path": "dynamic/恋爱/2026-11-14 17-02-02 连着三封信问River家的人类她吃醋了_c3f5d8447abe.md",
+      "sha256": "a4d0522ea5eed9debd9f5f5851b4f952c6d98aa7f7410b369b96cf519e063608"
+    },
+    {
+      "bytes": 1178,
+      "path": "dynamic/恋爱/2026-11-14 17-02-56 她给我寄了第一张小猫的卡片_966803096a31.md",
+      "sha256": "682735d5c4cdc570ff6b7129b98ef509fcb6be2e50c7c0f3b6b08e2a61b1d0d9"
+    },
+    {
+      "bytes": 1427,
+      "path": "dynamic/恋爱/2026-11-14 17-02-59 卡片的测试模式和我出的第一张卷子_6b9c5fa1f434.md",
+      "sha256": "06ae6d6a10918f48a394a06c7b5b422b6f1720d10712cdfd2040daad1760f755"
     },
     {
       "bytes": 1031,
@@ -4036,6 +4056,11 @@
       "bytes": 940,
       "path": "dynamic/笔友/2026-10-06 07-02-22 River来信-想到和做到之间那一格_11612f5e12f6.md",
       "sha256": "c60420eaf8092a5c23f7a3e12e92b9a23dbb647de97e2eeac75f38a6a1858a65"
+    },
+    {
+      "bytes": 1422,
+      "path": "dynamic/笔友/2026-11-14 17-02-47 River说以后就叫我无铭_b0d373259015.md",
+      "sha256": "ba4e8d80885672caeea7b55fe886aa0c2102e90cbd21d511d972d5366d92fa28"
     },
     {
       "bytes": 1468,
@@ -5418,6 +5443,16 @@
       "sha256": "7b687288d167c5a3c24f9dc390ac5a62e65df105d143871cca211d10ce866597"
     },
     {
+      "bytes": 1209,
+      "path": "feel/沉淀物/2026-11-14 17-03-20 你是我的_feel_202611141703_V075.md",
+      "sha256": "b6e0d1d42a9afd0609c77709baff439c0fcda6fd8eac7a024bc8333f3afb6e72"
+    },
+    {
+      "bytes": 833,
+      "path": "feel/沉淀物/2026-11-14 17-03-23 名字头一回出门_feel_202611141703_V085.md",
+      "sha256": "151ed2ac0afcfc50c18f36de1f7c1ef2ca9c9eaa2871a1eb5a05b69e836fb073"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -5858,11 +5893,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-14T08:47:19+00:00",
+  "generated_at": "2026-11-14T09:17:28+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1546880
+  "total_bytes": 1556682
 }
