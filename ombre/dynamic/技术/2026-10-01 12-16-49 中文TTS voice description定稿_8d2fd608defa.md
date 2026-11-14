@@ -1,5 +1,5 @@
 ---
-activation_count: 0
+activation_count: 1
 arousal: 0.4
 created: '2026-10-01T12:16:49+08:00'
 domain:
@@ -7,7 +7,7 @@ domain:
 grow_batch_id: g_b53ab68a6a8d
 id: 8d2fd608defa
 importance: 5
-last_active: '2026-10-01T12:16:49+08:00'
+last_active: '2026-11-15T02:26:01+08:00'
 name: 2026-10-01 12-16-49 中文TTS voice description定稿
 relation_links:
 - auto: true
