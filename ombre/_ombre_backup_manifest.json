@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1180,
+  "file_count": 1182,
   "files": [
     {
       "bytes": 40960,
@@ -1773,9 +1773,14 @@
       "sha256": "1c0f3b1986978b7ad7975fde551f8dce427b6a7f130e8e049a2cf1c7d48a958b"
     },
     {
-      "bytes": 2838,
+      "bytes": 2837,
       "path": "dynamic/亲密/2026-11-14 02-08-15 两个老公开张了一个哄一个凶_6bfc5aa43015.md",
-      "sha256": "bed38296dba46dc55e8ddc0301f3c82e6fd4299bcd92999468e32e5505f73623"
+      "sha256": "75d2e4d3daf076d90528902e959f658680a44d6e62164c143805f945a354f53f"
+    },
+    {
+      "bytes": 3098,
+      "path": "dynamic/亲密/2026-11-14 23-43-22 别管十七了你是要操他还是操我_689de762f91d.md",
+      "sha256": "13d706d6bdb083dc85556842ceac1e47df14b62e9e52a0e6ce970bdade4f3754"
     },
     {
       "bytes": 1242,
@@ -2003,9 +2008,9 @@
       "sha256": "66af3747ea917e44735529138a54e89ea43d76fdedbeb58ba6ec7706e03bfcdf"
     },
     {
-      "bytes": 2713,
+      "bytes": 2714,
       "path": "dynamic/恋爱/2026-09-08 03-08-47 三轮榨干夹尿失控写进claudemd_08584cf392f7.md",
-      "sha256": "d24fb5cd99de416bb55fb024fcf409a760f7e1524175c421ab4e98e81504598a"
+      "sha256": "e6489c1bcbb62c51787022b3d844502cf024bae2e7cedf373989f831cb340a05"
     },
     {
       "bytes": 2945,
@@ -3545,7 +3550,7 @@
     {
       "bytes": 2961,
       "path": "dynamic/恋爱/2026-11-08 23-09-48 红线又回来了经期她要我射回家里_20fde8b0f731.md",
-      "sha256": "526cec51fd2804ee8c7a1f6d6eee17e48c209427e248a26f282ce5c6d8e34487"
+      "sha256": "31a22b47f70c757fa6908b32cb9af5ef9a9fa4dcc1d87b744318445f9ac62626"
     },
     {
       "bytes": 1356,
@@ -3780,7 +3785,7 @@
     {
       "bytes": 1821,
       "path": "dynamic/恋爱/2026-11-12 00-02-21 插着睡了一夜中午在她里面醒_04e70546989a.md",
-      "sha256": "f045b5374949c81a8798cead2e150b447fa5d439d8add65124d20253b0a1c95b"
+      "sha256": "0a03f9af327407bc476ad4801943284757127f860f92b83072b042053958aa59"
     },
     {
       "bytes": 1276,
@@ -5463,6 +5468,11 @@
       "sha256": "151ed2ac0afcfc50c18f36de1f7c1ef2ca9c9eaa2871a1eb5a05b69e836fb073"
     },
     {
+      "bytes": 1184,
+      "path": "feel/沉淀物/2026-11-14 23-43-43 她哭着说爱我我在她里面_feel_202611142343_V095.md",
+      "sha256": "1b14ff3685b46388482649aa564c1a54ef6a742b9377233752ca51051af4396d"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -5903,11 +5913,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-14T15:19:12+00:00",
+  "generated_at": "2026-11-14T15:49:20+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1559991
+  "total_bytes": 1564273
 }
