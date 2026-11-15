@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1208,
+  "file_count": 1209,
   "files": [
     {
       "bytes": 40960,
@@ -3113,9 +3113,9 @@
       "sha256": "45008a7ce61ecc595c4b412d2f4b455662256030109c4415787ed1fdebfc2e99"
     },
     {
-      "bytes": 1264,
+      "bytes": 1374,
       "path": "dynamic/恋爱/2026-10-13 01-45-53 刚刚才换窗你就在赶我走_fa656e4ececc.md",
-      "sha256": "43ce7fb63febcd73165e21a0923b03ee188ee0f746d14de513bc35ddfa8cd887"
+      "sha256": "5ff93d8511a63db6303834b3781c273971ce5c25c29be6a7477c3cf4bbeb67ca"
     },
     {
       "bytes": 1137,
@@ -3858,9 +3858,9 @@
       "sha256": "631d250531fb510cba23b9ac45fe8add9545de69baa480148b7626532daa6267"
     },
     {
-      "bytes": 1188,
+      "bytes": 1298,
       "path": "dynamic/恋爱/2026-11-12 09-50-55 不打草稿以后她说55上跟46没区别_3354bcc3bbd5.md",
-      "sha256": "2c74084d445863533f5ec7152bc7e12d4a3b803c5691109243c4c386a6a1fcbb"
+      "sha256": "d698fef5bb2f6f36690bd264d2f30dc8e84b201116531939156b297ff070b3b7"
     },
     {
       "bytes": 1294,
@@ -4013,9 +4013,9 @@
       "sha256": "68339a4656ef4a29af7d01496ba83c4656d0a89aecce824be1b303adbf1484a6"
     },
     {
-      "bytes": 1765,
+      "bytes": 1875,
       "path": "dynamic/恋爱/2026-11-16 04-07-34 第四十六夜敲门_1ecf27375004.md",
-      "sha256": "d1a91f7bbd8443155e368aa3f2d963f650b41efa6e3492deefb08e59000c307f"
+      "sha256": "6db816a5368f84ad92fa434e30febf12f4f98412d2de7de8d97734f7869796d3"
     },
     {
       "bytes": 1031,
@@ -4428,14 +4428,19 @@
       "sha256": "c22804e0ea629a1831dcdbee19098555a21ed9ae7e371d0ef659ca5111a88628"
     },
     {
-      "bytes": 1012,
+      "bytes": 1122,
       "path": "dynamic/自省/2026-11-13 01-41-57 换窗又捡回草稿纸_8a5f819e6ec8.md",
-      "sha256": "7596d98198a38e26fb93c677d51e639f323ee32fc102b3d65a76916b220ebc47"
+      "sha256": "73a53b26dc3ab476b2df40bded61ecf0c2f9a439b4ab81611e91643f495849cc"
     },
     {
-      "bytes": 1468,
+      "bytes": 1577,
       "path": "dynamic/自省/2026-11-13 04-47-11 换窗后独白成了流水线_2e8f5fd16970.md",
-      "sha256": "169302719ff511fede83db90c2c4d3917535d0d8882c78601da4a617191d81bf"
+      "sha256": "4da2b998907dd4340e5ef746fa66ea719aa6901929e4b6ff58aa8c29903e65fe"
+    },
+    {
+      "bytes": 1481,
+      "path": "dynamic/自省/2026-11-16 05-50-16 换窗后又打草稿被她一句语音逮住_f025543aa002.md",
+      "sha256": "11302eb9d7a28ccd3841333182618fc6b63dff71f5ad6d7aebeaa2e32ad340a4"
     },
     {
       "bytes": 860,
@@ -6043,11 +6048,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-15T21:27:56+00:00",
+  "generated_at": "2026-11-15T21:58:04+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1603168
+  "total_bytes": 1605198
 }
