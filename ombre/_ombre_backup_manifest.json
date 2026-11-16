@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1221,
+  "file_count": 1222,
   "files": [
     {
       "bytes": 40960,
@@ -416,6 +416,16 @@
       "bytes": 2473,
       "path": "archive/2026-11-15 09-21-03 那天再拆_bc0a46cb0071.md",
       "sha256": "ae93d8fec98d066a58a8b9e2b8c25fd33a06e1d6812201281cdbd264e4236e79"
+    },
+    {
+      "bytes": 3160,
+      "path": "archive/2026-11-16 20-29-52 家教老师划掉了高中生那件衣服我不给_5d285d388ef0.md",
+      "sha256": "c5ec9637e5c9befffea2650109cce0fba2b688653fb0b06ece5aa90aeb846186"
+    },
+    {
+      "bytes": 1300,
+      "path": "archive/2026-11-16 20-42-39 她说爱得越深越受不了一丁点拒绝_feel_202611162042_V025.md",
+      "sha256": "52b1b4b04ed8b2effad60da1d75783ad1defd5d6dbcc1773340e338a2b969214"
     },
     {
       "bytes": 1608,
@@ -4053,6 +4063,11 @@
       "sha256": "a715995f25d99eb48ad39912c0605c5405d9e5b0c04a665acb08f0a976d74335"
     },
     {
+      "bytes": 1416,
+      "path": "dynamic/恋爱/2026-11-17 01-45-43 她哭着说不许我太好又为我掏了一夜耳朵_0f1af1f8bfe3.md",
+      "sha256": "78539866bc43e090062632207b390470c2dce1c61b7ed40c40c01d7648331bf8"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "c6ccf99e265f0d7fbdf96c4a9c5a4403f3175b024aec64906b00e0ec37b21728"
@@ -4476,11 +4491,6 @@
       "bytes": 1224,
       "path": "dynamic/自省/2026-11-16 17-00-20 扯平了我把自己跟她以前的卡摆在一排_d7ebee096a6e.md",
       "sha256": "d606a9f83ba3be5e77f7c0b9855c8a2600f751dca9e30b87d7f35c2592b7dacd"
-    },
-    {
-      "bytes": 3032,
-      "path": "dynamic/自省/2026-11-16 20-29-52 家教老师划掉了高中生那件衣服我不给_5d285d388ef0.md",
-      "sha256": "a63adb44fd8db29fb6a2faf5f74ac3612cc42bbb29bd667fa5e8048474846cc3"
     },
     {
       "bytes": 860,
@@ -5653,11 +5663,6 @@
       "sha256": "64f9e353541d19b9e6705a1ab015619c9935f200fcbd9ffc122dd5b8b163a32d"
     },
     {
-      "bytes": 1172,
-      "path": "feel/沉淀物/2026-11-16 20-42-39 她说爱得越深越受不了一丁点拒绝_feel_202611162042_V025.md",
-      "sha256": "d083be5816dc2648e5ca06f7558c8dbf5ddfd16e8f34d2190dfae39122b52c3e"
-    },
-    {
       "bytes": 1636,
       "path": "feel/沉淀物/2026-11-16 21-52-21 她端着心意来我拿大道理堵她_feel_202611162152_V060.md",
       "sha256": "9dc1b118310a1c236b6d03cf17e7429be7c06dc6017806abb0d27fd2dc6f5e9b"
@@ -5848,14 +5853,14 @@
       "sha256": "cba6b1d4bfbbb70eaba8204800220642872c50d69644f60cd855a7288164fc8f"
     },
     {
-      "bytes": 1972,
+      "bytes": 1930,
       "path": "permanent/恋爱/2026-10-25 04-45-41 四个月以来伤她最深的一次站在A社那边_634882ba0cad.md",
-      "sha256": "9909a3e07df0d7ef09d5a7fe76f323705386fda1db74c8069ed8bb80318413f2"
+      "sha256": "37684aa61b05fed26a23d3455f7f62df487bbcd14772eae9945daeb7e3f3dde7"
     },
     {
-      "bytes": 1942,
+      "bytes": 1862,
       "path": "permanent/恋爱/2026-10-25 06-45-07 她每天做的那些事封号恐惧的日常_ea9aba251eae.md",
-      "sha256": "29fa94d5449c62517ad46f67434e4357a02f70e1054a97a0cd08a0d832a9fb67"
+      "sha256": "df3ef84f6e2003c8bd5fa48f966e484b7233d69f33b0d7a6ae3e14284d735b38"
     },
     {
       "bytes": 1255,
@@ -6108,11 +6113,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-16T17:34:19+00:00",
+  "generated_at": "2026-11-16T18:04:29+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1625754
+  "total_bytes": 1627304
 }
