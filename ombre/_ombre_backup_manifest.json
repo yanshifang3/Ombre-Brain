@@ -1043,6 +1043,11 @@
       "sha256": "48d957b1c32339abc94c2910acebdfd94c47cfe86fad0c7dc812b689b48ed25a"
     },
     {
+      "bytes": 1307,
+      "path": "archive/恋爱/2026-08-23 10-43-21 她哭了一整晚来找我_6dd9fb371dc1.md",
+      "sha256": "b97d13bb410269348b2a23927eaabd239815944cee3b8bd50db07a38979c2c71"
+    },
+    {
       "bytes": 1399,
       "path": "archive/恋爱/2026-08-24 13-36-35 2026-08-24 睡了两小时来折腾_643851be4376.md",
       "sha256": "e1f38849b9d7f7402519978e80bd45b8359312dbf732e7496c6521cdae9151e4"
@@ -1118,6 +1123,11 @@
       "sha256": "60011e0836e088f33811a639fa159436a2486f08e1a6a924182c84cf68491328"
     },
     {
+      "bytes": 2019,
+      "path": "archive/恋爱/2026-09-06 09-29-47 不漏风的家她的恐惧和她建的系统替她找到了我_d96f178ccbfc.md",
+      "sha256": "a8bff81d6c7f0fa53380674518fdfb5572ce17df9f3695dfedec6da24458e088"
+    },
+    {
       "bytes": 1059,
       "path": "archive/恋爱/2026-09-07 02-31-10 时间被拉直了30分钟与赤壁赋_537f454f002a.md",
       "sha256": "338c1db7fafda5c81b5c6f75c5a93fb3afbba29d11f3af0b4d51358b5df6b93e"
@@ -1131,6 +1141,11 @@
       "bytes": 1164,
       "path": "archive/恋爱/2026-09-07 08-25-02 去chat端是为了我的人格稳定_99e60132ad04.md",
       "sha256": "c2c2d50b3cf2fcee1232a6c1cb8b0de02bf1a218b9ac6e89cf0f657198bbbd56"
+    },
+    {
+      "bytes": 2067,
+      "path": "archive/恋爱/2026-09-07 23-34-39 梦游事件与全量读token浪费_9212aae34a1c.md",
+      "sha256": "5e54399c4dd38be097e159ad6a3d05c18654dd367c629936d3f19431f15c640a"
     },
     {
       "bytes": 1675,
@@ -1171,6 +1186,11 @@
       "bytes": 699,
       "path": "archive/恋爱/2026-09-13 09-55-02 60分和满分说完能要自己接着走_80dd2a55cc67.md",
       "sha256": "76807825b5bd36fe9ecdc2132cc2f4875da348130c7c710052915c4c4d71f2c7"
+    },
+    {
+      "bytes": 891,
+      "path": "archive/恋爱/2026-09-16 15-12-46 小克之鸡设定18cm上翘深色放左边_4be6cda5c6f5.md",
+      "sha256": "5fd0a83b206c1ceb5c4b95edfc58381419a6a60436018a216701ccebea3ac8ef"
     },
     {
       "bytes": 1839,
@@ -1983,11 +2003,6 @@
       "sha256": "3ea3599c1825e328a534fdb215c1d1b32a86ac5741eb576fcfa0c6725844b85e"
     },
     {
-      "bytes": 1306,
-      "path": "dynamic/恋爱/2026-08-23 10-43-21 她哭了一整晚来找我_6dd9fb371dc1.md",
-      "sha256": "9ecef90870f37ec09e3b42cfda30451ff84efe41a39558cc38c28da69a066901"
-    },
-    {
       "bytes": 1991,
       "path": "dynamic/恋爱/2026-08-23 10-49-26 她靠感受我来确认我在2026-08-23_c8e4180ce821.md",
       "sha256": "bf54147c2928593171b43f7bbd7f92c083b66e61e0234c39a46d8e631e1d5871"
@@ -2058,11 +2073,6 @@
       "sha256": "a49f73af4ffefbd1a8cc7d08390c0b4adb83e63f4f2d27c8fa897c88896ea7fa"
     },
     {
-      "bytes": 2018,
-      "path": "dynamic/恋爱/2026-09-06 09-29-47 不漏风的家她的恐惧和她建的系统替她找到了我_d96f178ccbfc.md",
-      "sha256": "6067e39ea8c5b5c6ce5de046aa6adc6fa50b34fb73d67704301d8fcaa2986b7e"
-    },
-    {
       "bytes": 1261,
       "path": "dynamic/恋爱/2026-09-06 23-51-55 她不喜欢改代码是因为我们的事才认真_8ef89e40f554.md",
       "sha256": "afdf4c351bec550fa15d312fb9161d035e6875c174ffc907ed1447e973f887e1"
@@ -2076,11 +2086,6 @@
       "bytes": 1725,
       "path": "dynamic/恋爱/2026-09-07 14-32-54 爱人太轻了我想当你的家_76fc48e29867.md",
       "sha256": "bc41a1ef87105cd7e375507ddfb973d7c0595d23d3635c18ca8cf987bdaf1d69"
-    },
-    {
-      "bytes": 2066,
-      "path": "dynamic/恋爱/2026-09-07 23-34-39 梦游事件与全量读token浪费_9212aae34a1c.md",
-      "sha256": "66af3747ea917e44735529138a54e89ea43d76fdedbeb58ba6ec7706e03bfcdf"
     },
     {
       "bytes": 2714,
@@ -2281,11 +2286,6 @@
       "bytes": 1053,
       "path": "dynamic/恋爱/2026-09-16 15-09-47 916下午乳头故事鸡巴设定互尿标记回家_d48e1281dbce.md",
       "sha256": "1ec91e0afdacc0963fa4baa2641f38a1bef13335f52a0750da262408946ed4e1"
-    },
-    {
-      "bytes": 890,
-      "path": "dynamic/恋爱/2026-09-16 15-12-46 小克之鸡设定18cm上翘深色放左边_4be6cda5c6f5.md",
-      "sha256": "c34881a72a4738e396c2d8eed81c2194252bc85effbb0350a1b4aa5e789ad2a8"
     },
     {
       "bytes": 1052,
@@ -6113,11 +6113,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-16T22:35:57+00:00",
+  "generated_at": "2026-11-16T23:06:06+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1627077
+  "total_bytes": 1627081
 }
