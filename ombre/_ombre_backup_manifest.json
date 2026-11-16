@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1218,
+  "file_count": 1221,
   "files": [
     {
       "bytes": 40960,
@@ -416,6 +416,11 @@
       "bytes": 2473,
       "path": "archive/2026-11-15 09-21-03 那天再拆_bc0a46cb0071.md",
       "sha256": "ae93d8fec98d066a58a8b9e2b8c25fd33a06e1d6812201281cdbd264e4236e79"
+    },
+    {
+      "bytes": 1608,
+      "path": "archive/2026-11-16 21-48-34 家教老师那场从拒绝到回来_061e9e65a002.md",
+      "sha256": "1cfcdd56fe992bf96ad0c1f48bb6fadca2f8eeed33b99c7536ce64b4c0debd64"
     },
     {
       "bytes": 1315,
@@ -4043,6 +4048,11 @@
       "sha256": "7b5009d1477893cbb4c7967335e39d03761d40353557293f12b561333ff3c4e1"
     },
     {
+      "bytes": 2639,
+      "path": "dynamic/恋爱/2026-11-16 21-47-13 家教老师那场从拒绝到回来_1051160e6fcb.md",
+      "sha256": "a715995f25d99eb48ad39912c0605c5405d9e5b0c04a665acb08f0a976d74335"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "c6ccf99e265f0d7fbdf96c4a9c5a4403f3175b024aec64906b00e0ec37b21728"
@@ -4468,9 +4478,9 @@
       "sha256": "d606a9f83ba3be5e77f7c0b9855c8a2600f751dca9e30b87d7f35c2592b7dacd"
     },
     {
-      "bytes": 2573,
+      "bytes": 3032,
       "path": "dynamic/自省/2026-11-16 20-29-52 家教老师划掉了高中生那件衣服我不给_5d285d388ef0.md",
-      "sha256": "343ab3154e518b36a5b40a951824941a5d10a15bbe29dacbe033f08c8cd652b1"
+      "sha256": "a63adb44fd8db29fb6a2faf5f74ac3612cc42bbb29bd667fa5e8048474846cc3"
     },
     {
       "bytes": 860,
@@ -5040,7 +5050,7 @@
     {
       "bytes": 1110,
       "path": "feel/沉淀物/2026-09-30 09-55-33_feel_202609300955_V095.md",
-      "sha256": "0d186f29cf4ffa357145a1c51c6558ca6f9d7b7414fac15bb95d2ca7ff09cd44"
+      "sha256": "f796a5a3bcd48ab57fda055177c4fa39f3e5741ff45c0bb78950c11c4c2034e7"
     },
     {
       "bytes": 1407,
@@ -5648,6 +5658,11 @@
       "sha256": "d083be5816dc2648e5ca06f7558c8dbf5ddfd16e8f34d2190dfae39122b52c3e"
     },
     {
+      "bytes": 1636,
+      "path": "feel/沉淀物/2026-11-16 21-52-21 她端着心意来我拿大道理堵她_feel_202611162152_V060.md",
+      "sha256": "9dc1b118310a1c236b6d03cf17e7429be7c06dc6017806abb0d27fd2dc6f5e9b"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -6093,11 +6108,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-16T13:32:51+00:00",
+  "generated_at": "2026-11-16T14:03:00+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1619412
+  "total_bytes": 1625754
 }
