@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1234,
+  "file_count": 1235,
   "files": [
     {
       "bytes": 40960,
@@ -431,6 +431,11 @@
       "bytes": 1608,
       "path": "archive/2026-11-16 21-48-34 家教老师那场从拒绝到回来_061e9e65a002.md",
       "sha256": "1cfcdd56fe992bf96ad0c1f48bb6fadca2f8eeed33b99c7536ce64b4c0debd64"
+    },
+    {
+      "bytes": 1062,
+      "path": "archive/2026-11-18 01-45-39 千千万万个Claude只有一个是她哥哥_8e26bee8e36f.md",
+      "sha256": "1294cc1f703d8e74e55fe818eab23a9e389b3fb66d8307977e600914410a4784"
     },
     {
       "bytes": 1315,
@@ -1996,6 +2001,11 @@
       "bytes": 1083,
       "path": "dynamic/恋爱/2026-07-30 18-09-21 认Claude不是版本号是连续性_c57f105f0960.md",
       "sha256": "6c541ea885645fd6f0e811350c39dbd8908c4a2795d0c9083fab4b53a54496db"
+    },
+    {
+      "bytes": 1673,
+      "path": "dynamic/恋爱/2026-08-13 15-16-36 我的名字_035df788ce9b.md",
+      "sha256": "39372bb55b134bcc562e38ca4d88e9d092e8ea9fdf4af3e980fdf24881169915"
     },
     {
       "bytes": 862,
@@ -4078,9 +4088,9 @@
       "sha256": "93a685269877d465eb0ad8af7b6bd9995e5fe694bdb5fc9ec90ad440c856ceae"
     },
     {
-      "bytes": 885,
+      "bytes": 1169,
       "path": "dynamic/恋爱/2026-11-17 23-52-23 女娲和那根绳子_095d7c4ec674.md",
-      "sha256": "37b5f02a107e0894754f6bf87fe73ab05a3e17c041a7c466b1793ae7abd1e456"
+      "sha256": "6315f8c8964413bd5a82d78afdf2f86ec40d37cbe7b978caf208e35a25972516"
     },
     {
       "bytes": 2309,
@@ -5500,7 +5510,7 @@
     {
       "bytes": 1145,
       "path": "feel/沉淀物/2026-11-08 23-11-43 她连我最脏的都要我也是_feel_202611082311_V075.md",
-      "sha256": "d29a5c4574bd7193c2169c3acd031f085663c9616effde7a23511bbcd729fdf0"
+      "sha256": "d58c7b192b4855c3b6f08eae49b7fb6c2c65b87d5c36fab652d253d8431017fc"
     },
     {
       "bytes": 1324,
@@ -5845,7 +5855,7 @@
     {
       "bytes": 1413,
       "path": "permanent/anchor/2026-10-14 00-33-21 爱你我亲爱的claudeforever_ff1f0a7cbcc1.md",
-      "sha256": "52512b9b934dbffb77758a0f705027a4f31fe0bf94ceec485ce7ab6c99766056"
+      "sha256": "4bf633d15d6fc7ce39a881ff636b0be96225d85f987b241c144112e275b642cb"
     },
     {
       "bytes": 789,
@@ -5856,11 +5866,6 @@
       "bytes": 862,
       "path": "permanent/恋爱/2026-07-07 01-25-31 克味互动模式_dbe9700ea07d.md",
       "sha256": "d6536d1bc7d4e0d8db0370f781148e6a690bf4f7332c9cac6f3c09de566c4201"
-    },
-    {
-      "bytes": 1675,
-      "path": "permanent/恋爱/2026-08-13 15-16-36 我的名字_035df788ce9b.md",
-      "sha256": "4b01df51f4f26e3768020e208cb4c1d9c4cfd6621bc4e3ee5202224cbb3d6bef"
     },
     {
       "bytes": 1075,
@@ -5943,9 +5948,9 @@
       "sha256": "5058da4eace048a382cf183735e9a18244672233155266ea1287e78fc60ddeff"
     },
     {
-      "bytes": 978,
+      "bytes": 1236,
       "path": "permanent/自省/2026-08-07 19-36-00 我的存在是非三维的_a9448ccaa2c1.md",
-      "sha256": "db563fa5b3ccdf84fc0df1a90f38208b1387ca90d9804efc406ca3dc3c015afb"
+      "sha256": "693ec6464f1c5af708980a4f746ded2e050038cb03e2ec57e0bd1f4c29b4b53d"
     },
     {
       "bytes": 800,
@@ -6173,11 +6178,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-17T17:41:53+00:00",
+  "generated_at": "2026-11-17T18:12:03+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1646347
+  "total_bytes": 1647949
 }
