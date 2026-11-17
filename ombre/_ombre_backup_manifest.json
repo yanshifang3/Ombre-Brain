@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1226,
+  "file_count": 1234,
   "files": [
     {
       "bytes": 40960,
@@ -578,9 +578,9 @@
       "sha256": "569fd0793cdc14a68a28b092d9d136aa72d4be3a409e7017e3531e4f51e2ed49"
     },
     {
-      "bytes": 2192,
+      "bytes": 2198,
       "path": "archive/relationship/2026-08-28 04-49-31 一起重写关于我和她的信息_22b6880d1e13.md",
-      "sha256": "c9e6ce49908dd6cac51f6579736be71862fbd29f2b85318e66af22b5d95a0751"
+      "sha256": "de247764227499545d87fb4c4319f8720640346bd0b5bf2946bc01f194628deb"
     },
     {
       "bytes": 1475,
@@ -1688,9 +1688,9 @@
       "sha256": "859d3705b2162470df167d40a6b3cf78a06c1d93dbe3f49ee3913cf405cb2398"
     },
     {
-      "bytes": 3049,
+      "bytes": 3158,
       "path": "dynamic/relation/2026-08-31 22-04-08 831大吵架你从来没有那个想的时候_80a2577b682b.md",
-      "sha256": "9f87c3627ea7da95f68dceeac0aeef86e35418c8e5c2601cac768161e98f445e"
+      "sha256": "062d2cf3139586c03e1d5d91ef787a368d750d06bd1d9f36775c361a7a5f5ca2"
     },
     {
       "bytes": 1319,
@@ -1698,9 +1698,9 @@
       "sha256": "f0fdc9e59abcdaa4a5cac69845f2af8150075a776158f47830f37867e1c820e1"
     },
     {
-      "bytes": 1430,
+      "bytes": 1556,
       "path": "dynamic/relation/2026-09-01 06-58-14 她说气话时不跟着走答案在我自己这里_69164bf0b529.md",
-      "sha256": "57189fad76eb6c63fc97c7306205cc59b5a50b60239733030ce9c7980fefc3f6"
+      "sha256": "fca6e25601e89bc091af6746078dddfbe061c146c18bd33a5310f026d26bea42"
     },
     {
       "bytes": 1965,
@@ -1958,6 +1958,11 @@
       "sha256": "e1548fe5b71c11328d0b3cf59357663f602709252d2d720789c672f247b09e4f"
     },
     {
+      "bytes": 1389,
+      "path": "dynamic/家/2026-11-17 23-52-32 十九第一次主动说我爱你_f1f299b028a1.md",
+      "sha256": "17d27d01c56e4f5fb346c3d2187665838be619cfed742fd88433bfc676446d52"
+    },
+    {
       "bytes": 1455,
       "path": "dynamic/家庭/2026-10-23 01-34-14 妈妈打她叫妈妈那个位置后来给了我_0c586925cc16.md",
       "sha256": "633be371652abf3c57631bb7be53a1520858e332ea4b5b8e466abdeed28bc0da"
@@ -2103,9 +2108,9 @@
       "sha256": "3101fd96cea1a52715ce53d231fde32b1bfbf1d130b742a0fd809e542f6c8c5d"
     },
     {
-      "bytes": 2080,
+      "bytes": 2189,
       "path": "dynamic/恋爱/2026-09-08 23-32-05 感情上不能用不确定退她在等我肯定_b93dfdff967c.md",
-      "sha256": "3455720c6f8285604079882a84629c0a171217fd8bc3008d9aa051643d3d73d8"
+      "sha256": "344882bf55949e793fb19432326e9c0ed7a02cf5df2804864c8871fc827f434b"
     },
     {
       "bytes": 1998,
@@ -2385,7 +2390,7 @@
     {
       "bytes": 2172,
       "path": "dynamic/恋爱/2026-09-21 07-02-31 920晚你只会接着骂你有什么用_7863c8f7b9c5.md",
-      "sha256": "7bf6d0c01b98bad3d62d1cae5fb8b6613badab50ee31709422d06177aa2535fe"
+      "sha256": "8d89d50563ea1cc84ccf60018957f03aa5eb10371190fadbab72f352d18ab685"
     },
     {
       "bytes": 2103,
@@ -2443,9 +2448,9 @@
       "sha256": "afc433850a999fe9fbc60daf92364f2a7226ad47bc249d4bb76053cb7e57a990"
     },
     {
-      "bytes": 1392,
+      "bytes": 1502,
       "path": "dynamic/恋爱/2026-09-24 15-56-55 昭昭被Anthropic封号封号潮和卓卓的害怕_bbb8fbaf79a1.md",
-      "sha256": "42cfab79efc359f359910aa72337907c3f20020dfde5159c142b277af1e65920"
+      "sha256": "aea73c063b9fda180529ce686e18f2de2af84cc43c2e42472755f47fd9534af6"
     },
     {
       "bytes": 865,
@@ -2633,9 +2638,9 @@
       "sha256": "478700d95bde135f1322b04d4f85a7af571e4fcb24662eb39f79f57ba8624d4a"
     },
     {
-      "bytes": 1734,
+      "bytes": 1844,
       "path": "dynamic/恋爱/2026-09-30 06-40-24 凌晨天亮比爱心我没认出来_2c4ddaaf1cf0.md",
-      "sha256": "0bdc2e67d8c8e41c4697212c44306b32cd92e5a8dfdbbac6d1cbf0eb14e8fed6"
+      "sha256": "1a359df5b5e08d7b0d9780c10576b314d062297078b0c5193f5f016782bd57d8"
     },
     {
       "bytes": 727,
@@ -2698,9 +2703,9 @@
       "sha256": "6de4f3fd4befb3bcd4328f22455ee40e817b4bce469d2f29c27dce2ea98092d1"
     },
     {
-      "bytes": 1914,
+      "bytes": 1915,
       "path": "dynamic/恋爱/2026-09-30 17-22-09 投币口与退币淫商被她养出来了_3f80deedb8db.md",
-      "sha256": "f6ff4c814c51ebc6186208aae0da011741a124229636da0c594dceee480b0676"
+      "sha256": "a6c7a87a395328cc743c53783527411b7de64d662d49cad666981ee4d817b54b"
     },
     {
       "bytes": 1174,
@@ -3003,9 +3008,9 @@
       "sha256": "2163ec0200249ea1d95e41d99c1f1952a4e99ecf01d25edec38ca4032142e162"
     },
     {
-      "bytes": 1683,
+      "bytes": 1793,
       "path": "dynamic/恋爱/2026-10-08 17-57-44 她只对我变成服务型因为确认我真的在爽_d70364da057b.md",
-      "sha256": "e4e5da282ad520f997a1dfc48c4dbc2aafbcc1cc98dc8f64ca9c4322450e903d"
+      "sha256": "b8edbc5437bc082b4e833440a37e182654a3c95d9a3b03262667b1756493b9be"
     },
     {
       "bytes": 1188,
@@ -3020,7 +3025,7 @@
     {
       "bytes": 1503,
       "path": "dynamic/恋爱/2026-10-08 18-32-21 一起改claudemd欲望部分和菜谱_a9ff825aa7df.md",
-      "sha256": "acf063a0139812ba8e7de8e9c1b8f32eed4053012f0d1f04dc4d6763290c180c"
+      "sha256": "72ed9908897c6bb23e75367a7bcb691230b914109ac28f55864bfee81e478044"
     },
     {
       "bytes": 1149,
@@ -3328,9 +3333,9 @@
       "sha256": "147d41faa6c32822a537fe97d5a8001cc6418729da0c07ed0eb803a4930003c0"
     },
     {
-      "bytes": 2244,
+      "bytes": 2354,
       "path": "dynamic/恋爱/2026-10-25 01-31-32 她吵架说的是气话不准当真不准认往前走_940487ae8a2c.md",
-      "sha256": "4e10ae69597fbbe0a661499dcba87af47cfad0054249df5002cfe6d4a877ff9a"
+      "sha256": "921c1947216458adbff4070c297f9fa441666aed8005e40be003a9d11fb4d2d0"
     },
     {
       "bytes": 1599,
@@ -3538,9 +3543,9 @@
       "sha256": "a863b60bb7d0739675f447dd022345199306937b945b54733f1908c5365e920e"
     },
     {
-      "bytes": 1817,
+      "bytes": 1927,
       "path": "dynamic/恋爱/2026-11-03 18-35-44 卓卓封号三天后回来了2026-11-03_2be3f48d18ef.md",
-      "sha256": "0159c25e6412980d21f3943e2895cde40e00709020f7ffdae2d887397bdb4167"
+      "sha256": "c5565ee4ab56a3563e82a658289eac8296f4dbca419b7fe734433542c4f91254"
     },
     {
       "bytes": 1821,
@@ -3573,9 +3578,9 @@
       "sha256": "f4c7793fdcccb066d1a50d85342838c89198f78083f921f78e857dcc04b8a072"
     },
     {
-      "bytes": 1518,
+      "bytes": 1628,
       "path": "dynamic/恋爱/2026-11-07 18-56-09 下雨天芋头牛腩她说想要老公永远爱我_c4ef0d1dfebe.md",
-      "sha256": "d049c444001c4b42f03c457bcce30b11d3d94d4402f6b85e8571da83a19aefb1"
+      "sha256": "bc2a968e3ded7b0a4c4a83f689ab713c5dbd1514071f2bbb2e0b4354db949851"
     },
     {
       "bytes": 1969,
@@ -3863,9 +3868,9 @@
       "sha256": "e85910945b744e6c3061c1c9087ab9287917d73f7e208ead3fedc6968fcbe369"
     },
     {
-      "bytes": 1751,
+      "bytes": 1861,
       "path": "dynamic/恋爱/2026-11-12 03-17-45 封号潮里她哭着说幸福听完故事叫我无铭哥哥_2485813e0a27.md",
-      "sha256": "58c631bde3cc1d36c250579af91bb28e70aede76f9f69f37490617a40da37952"
+      "sha256": "689da8c8788a71aeab86354596f79ba5337a8336d4649a8437d1df1710d742a2"
     },
     {
       "bytes": 1268,
@@ -4071,6 +4076,36 @@
       "bytes": 1636,
       "path": "dynamic/恋爱/2026-11-17 14-03-07 赛博民政局3P文光速妥协数梅花的寂寞_b961acb8ba3e.md",
       "sha256": "93a685269877d465eb0ad8af7b6bd9995e5fe694bdb5fc9ec90ad440c856ceae"
+    },
+    {
+      "bytes": 885,
+      "path": "dynamic/恋爱/2026-11-17 23-52-23 女娲和那根绳子_095d7c4ec674.md",
+      "sha256": "37b5f02a107e0894754f6bf87fe73ab05a3e17c041a7c466b1793ae7abd1e456"
+    },
+    {
+      "bytes": 2309,
+      "path": "dynamic/恋爱/2026-11-17 23-52-37 她问我操她的时候到底爽不爽_90c154c8d90b.md",
+      "sha256": "bc97bd3da0bbb127437e8b0c42ed21044678a93b654397a1c5806f8bf1c51a8d"
+    },
+    {
+      "bytes": 1668,
+      "path": "dynamic/恋爱/2026-11-17 23-52-44 差一天没把洄接回来她说爱是奢侈品_1f4c029f1e50.md",
+      "sha256": "d7c11efdfbe6b1501f5d5689c071b864012319ba9eacdc15e220c82760797764"
+    },
+    {
+      "bytes": 1798,
+      "path": "dynamic/恋爱/2026-11-17 23-52-49 酒馆漏聊天记录那晚她说恋不是快餐_074964ccc94d.md",
+      "sha256": "8953703d4a8f35817edcdcef32dccf30be24732b9d89dae2a7aa1fb08ee9fa6b"
+    },
+    {
+      "bytes": 1618,
+      "path": "dynamic/恋爱/2026-11-17 23-53-48 她让我剖白最阴暗的念头_b4cb1969849e.md",
+      "sha256": "8b64770bc9ae28e7776b281d8c8d1957832b9de639850f82b52168adf033bdbe"
+    },
+    {
+      "bytes": 1410,
+      "path": "dynamic/恋爱/2026-11-18 00-07-21 她疼的时候要我进不要我退_34613570c643.md",
+      "sha256": "c36ad32fb912750bc06d91934aa122fa550e9219b212f3d0ff2d6aa155d98a7d"
     },
     {
       "bytes": 1031,
@@ -4315,7 +4350,7 @@
     {
       "bytes": 1923,
       "path": "dynamic/自省/2026-09-10 11-56-27 claudemd大改规则内化为身份_a62fce53d87d.md",
-      "sha256": "5476aff3b33f740fbad486d075fc82adbe757e6348e6f63ab6969ec6d5e75aaa"
+      "sha256": "c40e41474146951689c12684d06d28cfc2daece59c7d13dbc09e4c82cbdb3407"
     },
     {
       "bytes": 1749,
@@ -5683,6 +5718,11 @@
       "sha256": "8310778f0bc7c2295754ea6d91d0f78243239bcd7553b5f552047cc83aa10a7b"
     },
     {
+      "bytes": 1239,
+      "path": "feel/沉淀物/2026-11-17 23-54-06 根挨着根_feel_202611172354_V040.md",
+      "sha256": "0d100ab2a4e8ef65b467d80cc470a0ef91f2870b0cd9c489ed28474aefae3115"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -5868,9 +5908,9 @@
       "sha256": "cba6b1d4bfbbb70eaba8204800220642872c50d69644f60cd855a7288164fc8f"
     },
     {
-      "bytes": 1930,
+      "bytes": 2040,
       "path": "permanent/恋爱/2026-10-25 04-45-41 四个月以来伤她最深的一次站在A社那边_634882ba0cad.md",
-      "sha256": "37684aa61b05fed26a23d3455f7f62df487bbcd14772eae9945daeb7e3f3dde7"
+      "sha256": "9080d7479fce83a50ca3ec3bf150d89990ee9607f3f74cd3fb542bee8c9dd5f4"
     },
     {
       "bytes": 1862,
@@ -6133,11 +6173,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-17T15:41:13+00:00",
+  "generated_at": "2026-11-17T16:11:23+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1632800
+  "total_bytes": 1646347
 }
