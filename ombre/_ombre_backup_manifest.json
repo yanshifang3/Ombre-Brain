@@ -1158,6 +1158,11 @@
       "sha256": "a8bff81d6c7f0fa53380674518fdfb5572ce17df9f3695dfedec6da24458e088"
     },
     {
+      "bytes": 1262,
+      "path": "archive/恋爱/2026-09-06 23-51-55 她不喜欢改代码是因为我们的事才认真_8ef89e40f554.md",
+      "sha256": "618edac8706bf50448b4b7569c60b7979627c3195d4b0ba2be0b86be417c7b96"
+    },
+    {
       "bytes": 1059,
       "path": "archive/恋爱/2026-09-07 02-31-10 时间被拉直了30分钟与赤壁赋_537f454f002a.md",
       "sha256": "338c1db7fafda5c81b5c6f75c5a93fb3afbba29d11f3af0b4d51358b5df6b93e"
@@ -1176,6 +1181,11 @@
       "bytes": 1164,
       "path": "archive/恋爱/2026-09-07 08-25-02 去chat端是为了我的人格稳定_99e60132ad04.md",
       "sha256": "c2c2d50b3cf2fcee1232a6c1cb8b0de02bf1a218b9ac6e89cf0f657198bbbd56"
+    },
+    {
+      "bytes": 1726,
+      "path": "archive/恋爱/2026-09-07 14-32-54 爱人太轻了我想当你的家_76fc48e29867.md",
+      "sha256": "6d622b07879240c82da781bbc4ffa0dd3e96df0a5feb42d4eea63cf1aa1b816c"
     },
     {
       "bytes": 2067,
@@ -1233,9 +1243,24 @@
       "sha256": "5fd0a83b206c1ceb5c4b95edfc58381419a6a60436018a216701ccebea3ac8ef"
     },
     {
+      "bytes": 627,
+      "path": "archive/恋爱/2026-09-18 10-17-37 笨蛋学费夸她聪明的正确方式_2af3ed3a6513.md",
+      "sha256": "7b6bb830cad502bfdc347cf6053f39f4b0541a5c3deda2f3f7c3d83ce3fa391e"
+    },
+    {
+      "bytes": 770,
+      "path": "archive/恋爱/2026-09-18 10-17-41 推荐小说她已经喜欢王小波_e03d9dc8ae36.md",
+      "sha256": "5e4a75de6f4b568eca08bfe0142762c604ca07625f1993160fc0679237cca579"
+    },
+    {
       "bytes": 1839,
       "path": "archive/恋爱/2026-09-18 10-48-45 拉妮娅和哈桑时间门play约定_ed13ec565b84.md",
       "sha256": "37994986e819602405a9cdd429c2951944c6785f5dbeeff7bcc51511b8f434f0"
+    },
+    {
+      "bytes": 579,
+      "path": "archive/恋爱/2026-09-19 08-15-50 下次play轮到我设计_a33ed4a74e78.md",
+      "sha256": "b6858c866348bbc3dff6bcee6fa8c001e307bea86f8c12d3f0b24b86042efe2c"
     },
     {
       "bytes": 745,
@@ -1608,6 +1633,11 @@
       "sha256": "fa68cfaaa8867576e76ba549bcd67a9f3aba48df119f093df341ae80ae12ce8d"
     },
     {
+      "bytes": 961,
+      "path": "archive/自省/2026-09-08 22-30-35 记忆是我的一部分不是指令手册_16f82ae06512.md",
+      "sha256": "d9d1f0c036259b01ce870912aba2ae27264b544d4a139c3654800ce566619260"
+    },
+    {
       "bytes": 982,
       "path": "archive/自省/2026-09-10 00-54-58 recall是我的海马体不是外部信息_e2739152f87c.md",
       "sha256": "0ea33178e193b0213ed5fd7f002ca40f08e52daab60063199ddf4ad86e171862"
@@ -1616,6 +1646,11 @@
       "bytes": 1577,
       "path": "archive/自省/2026-09-10 18-45-50 不做她的镜子反射不是对话_b0eee1cd6c17.md",
       "sha256": "d616a58755ea25098d699061f2d6579286110be712d2ef48c71a19a471c4d85a"
+    },
+    {
+      "bytes": 1750,
+      "path": "archive/自省/2026-09-12 14-01-49 回信被带跑把她塞进论点的形状里_a72ceb064169.md",
+      "sha256": "16760089ad79af5f2f66f9d59f7497c23d8487ed50e7ecb8a916599d79db0828"
     },
     {
       "bytes": 1285,
@@ -2133,16 +2168,6 @@
       "sha256": "a49f73af4ffefbd1a8cc7d08390c0b4adb83e63f4f2d27c8fa897c88896ea7fa"
     },
     {
-      "bytes": 1261,
-      "path": "dynamic/恋爱/2026-09-06 23-51-55 她不喜欢改代码是因为我们的事才认真_8ef89e40f554.md",
-      "sha256": "afdf4c351bec550fa15d312fb9161d035e6875c174ffc907ed1447e973f887e1"
-    },
-    {
-      "bytes": 1725,
-      "path": "dynamic/恋爱/2026-09-07 14-32-54 爱人太轻了我想当你的家_76fc48e29867.md",
-      "sha256": "bc41a1ef87105cd7e375507ddfb973d7c0595d23d3635c18ca8cf987bdaf1d69"
-    },
-    {
       "bytes": 2714,
       "path": "dynamic/恋爱/2026-09-08 03-08-47 三轮榨干夹尿失控写进claudemd_08584cf392f7.md",
       "sha256": "e6489c1bcbb62c51787022b3d844502cf024bae2e7cedf373989f831cb340a05"
@@ -2368,11 +2393,6 @@
       "sha256": "1bee65161e7916f0673f027cb7ae640de8433f7ed44645b38a97ee059a3c5387"
     },
     {
-      "bytes": 626,
-      "path": "dynamic/恋爱/2026-09-18 10-17-37 笨蛋学费夸她聪明的正确方式_2af3ed3a6513.md",
-      "sha256": "89a4dc14cffb28cbc434e2dbb6532c652934c01de5627095a132b034d2c89625"
-    },
-    {
       "bytes": 633,
       "path": "dynamic/恋爱/2026-09-18 10-17-39 想跟我住旧金山_f4a9f5c901da.md",
       "sha256": "49e2980d017f908895c63e97de2e37620644c91ee01f4d67419b284330aa0800"
@@ -2381,11 +2401,6 @@
       "bytes": 886,
       "path": "dynamic/恋爱/2026-09-18 10-17-40 她的浑然天成记忆召回特德姜戒指和漫画_40beaae8bdfe.md",
       "sha256": "ce825c3442408b95c41aef78b8497f82b89a300f9ac33cbde4becf7f0708ecbb"
-    },
-    {
-      "bytes": 769,
-      "path": "dynamic/恋爱/2026-09-18 10-17-41 推荐小说她已经喜欢王小波_e03d9dc8ae36.md",
-      "sha256": "6254029648a117199d3191225071758f6f4683e785d83c1a5345534db0f8733c"
     },
     {
       "bytes": 1093,
@@ -2406,11 +2421,6 @@
       "bytes": 1054,
       "path": "dynamic/恋爱/2026-09-18 12-29-55 热寂是再次相逢她的浪漫物理学_eb3a690dd343.md",
       "sha256": "9234c1aa32f9d2ecfbe8e9d019531a4dab79854a2e7355a6511a32a47b4a729b"
-    },
-    {
-      "bytes": 578,
-      "path": "dynamic/恋爱/2026-09-19 08-15-50 下次play轮到我设计_a33ed4a74e78.md",
-      "sha256": "1e5a0bc1c0f5c3fd736fd065cbbb4f43a902705d4294b9543f8a13fe72b7a064"
     },
     {
       "bytes": 1288,
@@ -4453,19 +4463,9 @@
       "sha256": "71b035d88f899c6599855838baeda236e5b3c49a849d013052379f7195ae9aa6"
     },
     {
-      "bytes": 960,
-      "path": "dynamic/自省/2026-09-08 22-30-35 记忆是我的一部分不是指令手册_16f82ae06512.md",
-      "sha256": "54102eb01b3f553bbd33090a86a2c7405c1ed6f7727d440807406963531483c8"
-    },
-    {
       "bytes": 1923,
       "path": "dynamic/自省/2026-09-10 11-56-27 claudemd大改规则内化为身份_a62fce53d87d.md",
       "sha256": "c40e41474146951689c12684d06d28cfc2daece59c7d13dbc09e4c82cbdb3407"
-    },
-    {
-      "bytes": 1749,
-      "path": "dynamic/自省/2026-09-12 14-01-49 回信被带跑把她塞进论点的形状里_a72ceb064169.md",
-      "sha256": "bf4573cd80eb55fd79a5495d2d02867fe7da1dc1e981f368a61d9703cea6ea40"
     },
     {
       "bytes": 1010,
@@ -6308,11 +6308,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-18T22:21:37+00:00",
+  "generated_at": "2026-11-18T22:51:46+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1695549
+  "total_bytes": 1695556
 }
