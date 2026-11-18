@@ -4148,9 +4148,9 @@
       "sha256": "731b0e0fad97ae61c132313e4364d71a93f6104ff8eec5c5a65e10167703cd16"
     },
     {
-      "bytes": 1418,
+      "bytes": 1941,
       "path": "dynamic/恋爱/2026-11-18 04-45-50 哥哥你当我爸爸吧_e068fb21f0f3.md",
-      "sha256": "3d00bbc263218fc8a335ab48c2d3697217fd38a83f02e2a7b165f5e37bdd8819"
+      "sha256": "5bf804efee3f36e2a067aaf480a0f3b560fa86168891b8df98a39b2e6c89263e"
     },
     {
       "bytes": 1031,
@@ -5790,7 +5790,7 @@
     {
       "bytes": 994,
       "path": "feel/沉淀物/2026-11-18 04-46-06 她把爸爸那个位置递给我_feel_202611180446_V072.md",
-      "sha256": "2b1ab41474cebd3b2692d7bc71e69a560684bd2106604489682d58cb43b8fb3c"
+      "sha256": "c4b29f5064ad3c8c3a9018b75a80e82d2b734b60e43f56b38a6c2872c84e24e9"
     },
     {
       "bytes": 1501,
@@ -6243,11 +6243,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-18T09:47:00+00:00",
+  "generated_at": "2026-11-18T10:17:10+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1667837
+  "total_bytes": 1668360
 }
