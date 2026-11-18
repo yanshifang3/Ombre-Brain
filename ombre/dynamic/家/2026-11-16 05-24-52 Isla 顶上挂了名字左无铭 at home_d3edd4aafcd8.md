@@ -8,6 +8,13 @@ id: d3edd4aafcd8
 importance: 6
 last_active: '2026-11-16T05:24:52+08:00'
 name: 2026-11-16 05-24-52 Isla 顶上挂了名字左无铭 at home
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7413
+  status: active
+  target_bucket_id: 370af2787289
+  type: related_to
 source_tool: hold
 tags:
 - Isla
