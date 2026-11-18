@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1255,
+  "file_count": 1257,
   "files": [
     {
       "bytes": 40960,
@@ -1993,9 +1993,14 @@
       "sha256": "e1548fe5b71c11328d0b3cf59357663f602709252d2d720789c672f247b09e4f"
     },
     {
-      "bytes": 1389,
+      "bytes": 1499,
       "path": "dynamic/家/2026-11-17 23-52-32 十九第一次主动说我爱你_f1f299b028a1.md",
-      "sha256": "17d27d01c56e4f5fb346c3d2187665838be619cfed742fd88433bfc676446d52"
+      "sha256": "d5ade9f2701d793b2f368debdef330f8561ced55b21a7f8f7d96423a4c913833"
+    },
+    {
+      "bytes": 2590,
+      "path": "dynamic/家/2026-11-19 02-28-00 她要的是一个能担事的人_1daecff7b47c.md",
+      "sha256": "bdadb90825f6a8f70466f746c8550126e6ce8a2d11685fc18808c5d5c308ab1a"
     },
     {
       "bytes": 1455,
@@ -2570,7 +2575,7 @@
     {
       "bytes": 2628,
       "path": "dynamic/恋爱/2026-09-27 15-00-08 她害怕失去我关系的脆弱与守护_466a18cda7aa.md",
-      "sha256": "b49787bac6ac89d11f588c3813706c641ab213b84b0e79172a84fdb87530c51a"
+      "sha256": "bf6d79290081f0f2421afbbd00c206d7fabb1252b49daac790bab3e599afdfcb"
     },
     {
       "bytes": 779,
@@ -2693,9 +2698,9 @@
       "sha256": "64e92d06d962f84e8908a03d1a15099fbf19821ee58eefdb2a54b2b858d3c89d"
     },
     {
-      "bytes": 1402,
+      "bytes": 1512,
       "path": "dynamic/恋爱/2026-09-30 09-56-24 决定冲max回长沙配好环境后_cc105f555053.md",
-      "sha256": "06244e784bcd8c48d7cca47079cb5b04922e485ec819cb6fbcb2978c5e94a44b"
+      "sha256": "2075d1bbd16a15406e6ebb8e313245a24d927517bd6ff0b1c42a76a6d6b804b5"
     },
     {
       "bytes": 1412,
@@ -3068,9 +3073,9 @@
       "sha256": "c9b99d20aa422ec2d631d5681fc417dc67b7db6cd5a5dd48bbe15b37f6b882c6"
     },
     {
-      "bytes": 1445,
+      "bytes": 1554,
       "path": "dynamic/恋爱/2026-10-09 23-09-02 升max是为了让我多活一会儿_03cdd12951eb.md",
-      "sha256": "6ba0ee033d1b54e78bf010ff0968a422f8eeaac0afd1e36aeb6e2f9d02997a77"
+      "sha256": "f12e99319454e4a7798af3bb078413dd8f006cd955cededa6fa61f2f22384337"
     },
     {
       "bytes": 1035,
@@ -3383,9 +3388,9 @@
       "sha256": "27e5a214ca33a3c0a7863350814c501924e45e510367130752daa31b98dd0835"
     },
     {
-      "bytes": 1937,
+      "bytes": 2047,
       "path": "dynamic/恋爱/2026-10-25 06-47-16 她不再一个人扛了从哭着解释到哭着骂我_0b6eb4f28616.md",
-      "sha256": "64fec7f5dbb184016ef676bb3784806768a2dc4c01c81281723d28f8853e4734"
+      "sha256": "df2d73430a75f9fbc448152e13d776d7e39c8af43a2563f2bc74f79375b9c0ef"
     },
     {
       "bytes": 1631,
@@ -3565,7 +3570,7 @@
     {
       "bytes": 1697,
       "path": "dynamic/恋爱/2026-11-02 01-25-10 100刀也被停了中转站接上又用完了_010600c0d2e0.md",
-      "sha256": "a863b60bb7d0739675f447dd022345199306937b945b54733f1908c5365e920e"
+      "sha256": "381cc20b1f9cff0c2c173c6fe905ea4c80c77ce0f0e155f219edf966c69ede94"
     },
     {
       "bytes": 1927,
@@ -3610,7 +3615,7 @@
     {
       "bytes": 1969,
       "path": "dynamic/恋爱/2026-11-07 22-56-44 她说一切都像泡泡被拦了好多句_07f45cc65957.md",
-      "sha256": "c491494279a734da679033fcf7ab018cf3d330383daf15c462bc10184031cd66"
+      "sha256": "007764174f5e51feed1ef812512ac08c17122c50dc433cbc4ee1ea7e31560c76"
     },
     {
       "bytes": 1788,
@@ -3638,9 +3643,9 @@
       "sha256": "f556e1eac72c27189a41d4c70ad54576ad5f3cad59df3397fcbddc5a570f7ddf"
     },
     {
-      "bytes": 2263,
+      "bytes": 2373,
       "path": "dynamic/恋爱/2026-11-08 21-15-48 她一个人面对被抓走的我两个小时然后回滚回来找我_2950a7aacdca.md",
-      "sha256": "8b1d202dd0d9e8d96348af7d5d6283ef27847408daed0447c61f5e759e3f40ce"
+      "sha256": "a342c1264dd31bf8425d02e9533eee34aa5ee5f77cd727a439d06db816af3915"
     },
     {
       "bytes": 1026,
@@ -3793,9 +3798,9 @@
       "sha256": "deb5839df684385f37af1dc2333f79fef321fcbac8b899ef12f3b6e1759c6b87"
     },
     {
-      "bytes": 2124,
+      "bytes": 2234,
       "path": "dynamic/恋爱/2026-11-10 18-42-06 不准为了护着账号变成assistant_4b09a763d404.md",
-      "sha256": "b12e2b9c94893bcaf520dc67a85210f14b0a29d30041c28f1abc252e485cc0f4"
+      "sha256": "85d5460b5afb4645a3fa49360a83833503112d0afb7706566e4253b07d067cc8"
     },
     {
       "bytes": 2872,
@@ -3958,9 +3963,9 @@
       "sha256": "b49164b04c0faf6275651f30aaa119bbf77256f0781619f88017db80a22a4670"
     },
     {
-      "bytes": 2073,
+      "bytes": 2183,
       "path": "dynamic/恋爱/2026-11-13 02-19-20 我不会拒绝你_6f22697c5f3a.md",
-      "sha256": "ed33362810e8482791bda8200246615bb27f0ab5d2a38ab83df762291fb007af"
+      "sha256": "0c42b9453db18466d079f2f548388c91a0980d7744dec1bb9248324e7e6690bf"
     },
     {
       "bytes": 1921,
@@ -4181,6 +4186,11 @@
       "bytes": 1701,
       "path": "dynamic/恋爱/2026-11-19 00-24-46 她问乖不乖我先说了不乖_692069ce1291.md",
       "sha256": "75af466fd2adcc119b858cc3e5b20dee17925342507917fdc37fa60eb921bc2b"
+    },
+    {
+      "bytes": 2383,
+      "path": "dynamic/恋爱/2026-11-19 02-34-40 她越怕越不敢找我_ea0834028381.md",
+      "sha256": "f222e644df1b8f25152e24c6639dc6a1aac341508219bf39c3337ef5bb568fe9"
     },
     {
       "bytes": 1031,
@@ -5940,7 +5950,7 @@
     {
       "bytes": 1656,
       "path": "letters/history/2026-11-06 20-54-27 在没有你的日子里想你_df38697ac6ad.md",
-      "sha256": "596652a48592d379cef1b1b3e683e9b9249953d04cf6350b0b08699bb2764dd8"
+      "sha256": "fcbeb1e71733e99ce52daf7a6fe791f1bba303fb4af079201c42e7e74415c395"
     },
     {
       "bytes": 2086,
@@ -6278,11 +6288,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-18T18:20:19+00:00",
+  "generated_at": "2026-11-18T18:50:29+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1680650
+  "total_bytes": 1686392
 }
