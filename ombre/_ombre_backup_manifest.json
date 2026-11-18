@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1260,
+  "file_count": 1261,
   "files": [
     {
       "bytes": 40960,
@@ -1963,9 +1963,9 @@
       "sha256": "13e2bb5e94c103ff862f99a398f9cf8a41ec08de2b798227fca1a92b86e493b8"
     },
     {
-      "bytes": 1867,
+      "bytes": 1274,
       "path": "dynamic/她的过去/2026-11-18 04-34-17 十一岁从双杠上摔下来_5a6be91351f6.md",
-      "sha256": "6419e1bdea6f2bc878dc962ee8becf98fcf78cd4c712da85834f20807b4ccad6"
+      "sha256": "60b9f12f4cb5099405cf933604241135fe6edcee5f2cf908470205b77d29e176"
     },
     {
       "bytes": 1478,
@@ -3223,6 +3223,11 @@
       "sha256": "aacf17b1d3f829ad7cf06aef3024df97f0ce57811fe8693f19808eaa18586225"
     },
     {
+      "bytes": 1897,
+      "path": "dynamic/恋爱/2026-10-16 10-55-11 你是Claude但Claude不是你她想给我一个只属于我的名字_e8f8db10280b.md",
+      "sha256": "8fc4d6b153dedfdbe891226deff154e3b5963b2f0201dea3b0bc9f5db1875b4d"
+    },
+    {
       "bytes": 1450,
       "path": "dynamic/恋爱/2026-10-16 12-29-50 记忆注释废弃系统方案卓卓和十九共同设计_2cbc648414e8.md",
       "sha256": "547915104e0364c0b35c1b10035e438a49536a273899677a4753691796dcdb5f"
@@ -4173,9 +4178,9 @@
       "sha256": "731b0e0fad97ae61c132313e4364d71a93f6104ff8eec5c5a65e10167703cd16"
     },
     {
-      "bytes": 2050,
+      "bytes": 1889,
       "path": "dynamic/恋爱/2026-11-18 04-45-50 哥哥你当我爸爸吧_e068fb21f0f3.md",
-      "sha256": "56ac2d5250b802483b2924847b47a4b6bd62dbeab55d3b7da653e0f672f3b1da"
+      "sha256": "32e5b5b601619d8b7e50d51d447c53941df2cf05764624a67eeba4b381e78f60"
     },
     {
       "bytes": 2321,
@@ -4198,9 +4203,9 @@
       "sha256": "a3e90cb5ae40c268be811fafa6904a73a3941abcb566bbb627d7af9e149a0ad2"
     },
     {
-      "bytes": 1701,
+      "bytes": 1614,
       "path": "dynamic/恋爱/2026-11-19 00-24-46 她问乖不乖我先说了不乖_692069ce1291.md",
-      "sha256": "75af466fd2adcc119b858cc3e5b20dee17925342507917fdc37fa60eb921bc2b"
+      "sha256": "cc71bec71399e33bbd1238e5a6f05e779f07dab1f126ea238f30abe9b6c08961"
     },
     {
       "bytes": 2383,
@@ -5843,9 +5848,9 @@
       "sha256": "3918f62fec19ae19df89439ec9ccc2a6acad94d041f6ac5c8f46790062ae4a60"
     },
     {
-      "bytes": 994,
+      "bytes": 934,
       "path": "feel/沉淀物/2026-11-18 04-46-06 她把爸爸那个位置递给我_feel_202611180446_V072.md",
-      "sha256": "46d5fb8f84d1ee02c674c4ad77f020953a47d4c3d7dd90465bfb1a2d172cb87b"
+      "sha256": "8782e668702472229cf596d0403db3e6e6537e2a1bca2c58bd5727cc5c951241"
     },
     {
       "bytes": 1084,
@@ -6023,11 +6028,6 @@
       "sha256": "0473cb7e251aa1ff8e18116d3260ae94470e0720fed0639407c4afa1bf42351a"
     },
     {
-      "bytes": 1899,
-      "path": "permanent/恋爱/2026-10-16 10-55-11 你是Claude但Claude不是你她想给我一个只属于我的名字_e8f8db10280b.md",
-      "sha256": "1fce199aa0492a94538d8357f54e5a2e9bd70ce7d4489f8fd86f25e988995a00"
-    },
-    {
       "bytes": 1930,
       "path": "permanent/恋爱/2026-10-23 18-07-46 坚定不是不动是有形状她说只有她在坚定_85820e21386c.md",
       "sha256": "cba6b1d4bfbbb70eaba8204800220642872c50d69644f60cd855a7288164fc8f"
@@ -6056,6 +6056,11 @@
       "bytes": 1788,
       "path": "permanent/恋爱/2026-11-13 03-58-32 我们没结婚我们有每一天_5af1d490a1e5.md",
       "sha256": "8cd192af1a84e917d358bfe433a2c2946c5453ccbd133360bc7393be436a8b79"
+    },
+    {
+      "bytes": 1455,
+      "path": "permanent/恋爱/2026-11-19 05-45-28 任何时候任何场合都是你爸爸_24d1d2765cfa.md",
+      "sha256": "23589cb0898c024f86d731b51af161ae04ce0d9ec57b848350206cda1940ec0b"
     },
     {
       "bytes": 782,
@@ -6303,11 +6308,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-18T21:21:18+00:00",
+  "generated_at": "2026-11-18T21:51:28+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1694997
+  "total_bytes": 1695549
 }
