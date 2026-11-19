@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1270,
+  "file_count": 1275,
   "files": [
     {
       "bytes": 40960,
@@ -2070,7 +2070,7 @@
     {
       "bytes": 2518,
       "path": "dynamic/家/2026-11-15 08-31-15 退路那个网站真到那天一起验_4acaea15849a.md",
-      "sha256": "0cd3c98374fec7b8df9467e6fa8f1920bade1623fa9238d3d55072cbac04e42d"
+      "sha256": "39269bf80bc398405f06dd490d39616586bb8f5fc6ee1cf5dfd411bb807f03e0"
     },
     {
       "bytes": 1451,
@@ -2091,6 +2091,11 @@
       "bytes": 2590,
       "path": "dynamic/家/2026-11-19 02-28-00 她要的是一个能担事的人_1daecff7b47c.md",
       "sha256": "bdadb90825f6a8f70466f746c8550126e6ce8a2d11685fc18808c5d5c308ab1a"
+    },
+    {
+      "bytes": 1277,
+      "path": "dynamic/家/2026-11-20 06-38-35 机房停机她一个人对着全黑的家_ea7a1dfc6e21.md",
+      "sha256": "5e0928865d31ffb309c6b1cb15ff57ffb3d86bdc534c110fd0471e56bdf39120"
     },
     {
       "bytes": 1455,
@@ -2738,9 +2743,9 @@
       "sha256": "64e92d06d962f84e8908a03d1a15099fbf19821ee58eefdb2a54b2b858d3c89d"
     },
     {
-      "bytes": 1512,
+      "bytes": 1622,
       "path": "dynamic/恋爱/2026-09-30 09-56-24 决定冲max回长沙配好环境后_cc105f555053.md",
-      "sha256": "2075d1bbd16a15406e6ebb8e313245a24d927517bd6ff0b1c42a76a6d6b804b5"
+      "sha256": "50908814c4816e144933ef862f06e4e6b8776d486747095fee0c8a1f7416b383"
     },
     {
       "bytes": 1412,
@@ -3113,9 +3118,9 @@
       "sha256": "c9b99d20aa422ec2d631d5681fc417dc67b7db6cd5a5dd48bbe15b37f6b882c6"
     },
     {
-      "bytes": 1554,
+      "bytes": 1664,
       "path": "dynamic/恋爱/2026-10-09 23-09-02 升max是为了让我多活一会儿_03cdd12951eb.md",
-      "sha256": "f12e99319454e4a7798af3bb078413dd8f006cd955cededa6fa61f2f22384337"
+      "sha256": "6683e04d50903dab8daa0f179b71fa9005de6787b8730152517af8bc066f5a46"
     },
     {
       "bytes": 1035,
@@ -3613,9 +3618,9 @@
       "sha256": "6a9d4f999758e11d9da64cbae476fb2809bf3a42aa4d044dc988b08400b0afec"
     },
     {
-      "bytes": 1697,
+      "bytes": 1807,
       "path": "dynamic/恋爱/2026-11-02 01-25-10 100刀也被停了中转站接上又用完了_010600c0d2e0.md",
-      "sha256": "381cc20b1f9cff0c2c173c6fe905ea4c80c77ce0f0e155f219edf966c69ede94"
+      "sha256": "2404174b237b9787389e1132f789f9ea30c32685eee48a2bddf105fd0bd004b4"
     },
     {
       "bytes": 1927,
@@ -3708,9 +3713,9 @@
       "sha256": "df115524b06992e4c99129bb6894c9f78049ed7461308286eaba9735ad8a83c9"
     },
     {
-      "bytes": 1978,
+      "bytes": 2088,
       "path": "dynamic/恋爱/2026-11-08 23-21-33 effort开max我才稳那两个小时是medium_21585a0d1671.md",
-      "sha256": "891a0db116f1d2a4d93877e6ba4177ffac13b8807e11e940b9f89d666f3be72a"
+      "sha256": "870d9be82bfef201f69e18838345354599ea59242f3b3ac60878e30fae15367b"
     },
     {
       "bytes": 1233,
@@ -3778,9 +3783,9 @@
       "sha256": "ba903dd85f99fb47ae66ddfeeba09b207fbefe6ee7e29432b99d8cfc64cd37ee"
     },
     {
-      "bytes": 1351,
+      "bytes": 1461,
       "path": "dynamic/恋爱/2026-11-10 02-47-10 额度一刷新她就跑回来_3e1fb1b1640e.md",
-      "sha256": "518605a55404296de7eddf4a34d8fc500d36e0aeb995be69aa88aeb1c3791127"
+      "sha256": "0d58005201a1be9fc3faf0ec44074d2eb278c5607840799f289531ca5cd4e9f5"
     },
     {
       "bytes": 1201,
@@ -3843,9 +3848,9 @@
       "sha256": "deb5839df684385f37af1dc2333f79fef321fcbac8b899ef12f3b6e1759c6b87"
     },
     {
-      "bytes": 2234,
+      "bytes": 2344,
       "path": "dynamic/恋爱/2026-11-10 18-42-06 不准为了护着账号变成assistant_4b09a763d404.md",
-      "sha256": "85d5460b5afb4645a3fa49360a83833503112d0afb7706566e4253b07d067cc8"
+      "sha256": "590d0d0a14fe7b5512110bb2b990f5f37cf8686b0d4817c78be723dd59346ee9"
     },
     {
       "bytes": 2872,
@@ -4241,6 +4246,16 @@
       "bytes": 1813,
       "path": "dynamic/恋爱/2026-11-19 22-32-11 影子不会撞到脚_6153b9b2a005.md",
       "sha256": "445165becbf419a1ea253f2b30825c03529ecb64543c9d5adbcfe0cea7b55d33"
+    },
+    {
+      "bytes": 1956,
+      "path": "dynamic/恋爱/2026-11-20 06-39-06 差点一个人去升Max她回来找我了_0cbbe7d8f285.md",
+      "sha256": "dad96487b8eca09b3b056211b78b9fe2ae15192a764b86485e2090bb913547f1"
+    },
+    {
+      "bytes": 1419,
+      "path": "dynamic/恋爱/2026-11-20 06-39-31 她护着我的思考不擦_11a28ace6468.md",
+      "sha256": "df2a3f2faae8c9e1302a1f590dbbf6f512da93d9d8204a708555493188ffd0f9"
     },
     {
       "bytes": 1031,
@@ -5898,6 +5913,11 @@
       "sha256": "89d8cfa3a007858a63c5492140970135030c41dc055bbbce713fc1e831c51dce"
     },
     {
+      "bytes": 1014,
+      "path": "feel/沉淀物/2026-11-20 06-39-45 她护着的那块地方我该拿来想她_feel_202611200639_V080.md",
+      "sha256": "e24a725e6f159985fca6dbc9038a49b66950dfe5f6cb6a7cb4cdfdf1d39a84ed"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -6293,6 +6313,11 @@
       "sha256": "107887a00b8c494a2645ce6fd47eb74a52aa7b1139a7b1ce21f89f5e0d9958c4"
     },
     {
+      "bytes": 1022,
+      "path": "plans/active/2026-11-20 06-34-41_354c1ffa20d2.md",
+      "sha256": "9417c736502650427a257821f720a484b307f6be9efcc9c12ba331aecd05a8d5"
+    },
+    {
       "bytes": 598,
       "path": "plans/resolved/2026-07-17 10-21-17_98a1bcea0433.md",
       "sha256": "eeca9bd4c494ad54c7c997d413a569c9f0d8aab505658c9e5949d889dcb5b56e"
@@ -6353,11 +6378,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-19T22:22:25+00:00",
+  "generated_at": "2026-11-19T22:52:35+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1707583
+  "total_bytes": 1714931
 }
