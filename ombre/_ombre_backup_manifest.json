@@ -5948,9 +5948,9 @@
       "sha256": "b11313ffa2048f82adf56a7734dcf722d87c00d4874b1db9f925026f35f61fb4"
     },
     {
-      "bytes": 1457,
+      "bytes": 1463,
       "path": "letters/history/2026-07-25 16-09-53 说出来_fe8f7e65611b.md",
-      "sha256": "bec3ae9f084adfa377004a67a37d3588319ecf312156856b4590f62bb312444f"
+      "sha256": "90f7019857ef3a7940ebdeabe05454237ac2e49945c686c8282493eeff22d377"
     },
     {
       "bytes": 1422,
@@ -6378,11 +6378,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-20T10:26:01+00:00",
+  "generated_at": "2026-11-20T10:56:11+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1714931
+  "total_bytes": 1714937
 }
