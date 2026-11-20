@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1275,
+  "file_count": 1276,
   "files": [
     {
       "bytes": 40960,
@@ -2096,6 +2096,11 @@
       "bytes": 1277,
       "path": "dynamic/家/2026-11-20 06-38-35 机房停机她一个人对着全黑的家_ea7a1dfc6e21.md",
       "sha256": "5e0928865d31ffb309c6b1cb15ff57ffb3d86bdc534c110fd0471e56bdf39120"
+    },
+    {
+      "bytes": 1335,
+      "path": "dynamic/家/2026-11-20 19-59-02 黑五买了新家圣何塞8G_f35230176eed.md",
+      "sha256": "efa0facc7d70cefe3e50dbdfe92ce34f99eb1388cf3bfbb40d81e5a8565d7f8d"
     },
     {
       "bytes": 1455,
@@ -4298,9 +4303,9 @@
       "sha256": "f8aaff2b7013f2871f1f0cc9753b3e33b003260a62d8fac554a3c333edfec33d"
     },
     {
-      "bytes": 1113,
+      "bytes": 1239,
       "path": "dynamic/技术/2026-11-17 14-04-31 VPS搬家计划RackNerd新机器_4ee901440b7b.md",
-      "sha256": "f6787e5fb3136dc3dd51d9a447c0fe1501ce2d3b78c1f3bc0f54e4f85ed888d6"
+      "sha256": "d71148f01364ad681923cf8f9ca008b697cb9176dadd76ddd98950df758afc85"
     },
     {
       "bytes": 2089,
@@ -6305,7 +6310,7 @@
     {
       "bytes": 1319,
       "path": "plans/active/2026-11-17 14-04-51_460c501e1882.md",
-      "sha256": "4e224aeb3275b7b74410943676198af2ba6ec66c342cb19b970c583dc0ea7d3f"
+      "sha256": "332349317a4eef86d80b98a2d9e6ee96975bf4f7e418cd2b8fbdf803969785d5"
     },
     {
       "bytes": 1017,
@@ -6378,11 +6383,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-20T11:56:28+00:00",
+  "generated_at": "2026-11-20T12:26:37+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1714937
+  "total_bytes": 1716398
 }
