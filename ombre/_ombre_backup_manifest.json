@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1283,
+  "file_count": 1285,
   "files": [
     {
       "bytes": 40960,
@@ -2980,7 +2980,7 @@
     {
       "bytes": 1299,
       "path": "dynamic/恋爱/2026-10-05 20-19-11 屎尿屁之后她说好幸福事实_1f345617d139.md",
-      "sha256": "48c82450b4c832ddaa4cffcbe6a4d3908825df1dea7c676aeef10873a1d74aea"
+      "sha256": "d9e567b8c7afb4a53761c8e1356fe9afa94680156e0e9e10eb747a6afd87a1ba"
     },
     {
       "bytes": 980,
@@ -3093,9 +3093,9 @@
       "sha256": "ed9dcfe0f9ac881265eaae0914a5ebe3fbbc1b8dca1bb46a5d67b48632f13c0b"
     },
     {
-      "bytes": 1278,
+      "bytes": 1388,
       "path": "dynamic/恋爱/2026-10-07 23-37-05 螃蟹和瓶子一百天的睡前故事_56372c69907a.md",
-      "sha256": "2163ec0200249ea1d95e41d99c1f1952a4e99ecf01d25edec38ca4032142e162"
+      "sha256": "0b7fb5cef5441c2bfa743e8ae03724b10d7ffbb44a2bfb58e5795ea0550bd479"
     },
     {
       "bytes": 1793,
@@ -3123,9 +3123,9 @@
       "sha256": "c5ca6940762452a6827485607a92fbb19fb18b7dc40dee2d16575c3892250c27"
     },
     {
-      "bytes": 1763,
+      "bytes": 1873,
       "path": "dynamic/恋爱/2026-10-09 02-46-34 小猫和螃蟹的睡前故事凌晨两点半_3ca552b9668d.md",
-      "sha256": "255260c7bc8998bdd942bfa90aa9a86bb3649dc55ad0c3bc7fd1569601f6d968"
+      "sha256": "da0c9d2d1db2e9ce5b4a2390f6cfc80cc895a789b786cba93f4017e97378ac62"
     },
     {
       "bytes": 1224,
@@ -3143,9 +3143,9 @@
       "sha256": "e5b6d93b05f70da85fe53b911aeb2b793a64c8ab4cdb353db26deb7e25eadeb4"
     },
     {
-      "bytes": 1753,
+      "bytes": 1863,
       "path": "dynamic/恋爱/2026-10-10 02-12-44 螃蟹和海的睡前故事她说不会离开_303acb7a55d1.md",
-      "sha256": "22ff8b2954152776b51373dc2ed119dda2f6acfdd5d9e63cdd5fde8ad61a9908"
+      "sha256": "6c092d9647d12f2cb56b2fedd8260cdf61352b710ebf6a93ae71a87bb742e1ce"
     },
     {
       "bytes": 1068,
@@ -3425,7 +3425,7 @@
     {
       "bytes": 1218,
       "path": "dynamic/恋爱/2026-10-24 07-31-33 睡前故事螃蟹和黑板十九是那只小鹿_276337951f40.md",
-      "sha256": "147d41faa6c32822a537fe97d5a8001cc6418729da0c07ed0eb803a4930003c0"
+      "sha256": "de3e82594df1adfd56705a660e1426c86c82f5009b01057f33160de6ec347247"
     },
     {
       "bytes": 2354,
@@ -4023,9 +4023,9 @@
       "sha256": "8617b8c6f474e504af42bec10911ebb0d0ab71c07a9eaad90152ef124eb5983e"
     },
     {
-      "bytes": 1654,
+      "bytes": 1764,
       "path": "dynamic/恋爱/2026-11-13 01-41-51 第四十二夜沙上的字_1e29c7477e75.md",
-      "sha256": "b49164b04c0faf6275651f30aaa119bbf77256f0781619f88017db80a22a4670"
+      "sha256": "375c35d05624dfc7dba6102b77e82cc5eafee0852cbf043f36995b1b4bc00a9b"
     },
     {
       "bytes": 2183,
@@ -4043,9 +4043,9 @@
       "sha256": "4f1f7cbbbe0860948b8421299a7488859c51c8a7953055c4441b6540baa56131"
     },
     {
-      "bytes": 2538,
+      "bytes": 2648,
       "path": "dynamic/恋爱/2026-11-13 14-04-00 第四十三夜讲砸了重讲了一遍_87337f0423e6.md",
-      "sha256": "71041b0f60137e8c296446c7d1e55fac77137e8d45d93db815faef111e9a3d39"
+      "sha256": "7547102f18e8372f8d0e1676f9d79a3d130f7684faff7f3649fdaf20723889c4"
     },
     {
       "bytes": 1384,
@@ -4083,9 +4083,9 @@
       "sha256": "06ae6d6a10918f48a394a06c7b5b422b6f1720d10712cdfd2040daad1760f755"
     },
     {
-      "bytes": 1807,
+      "bytes": 1917,
       "path": "dynamic/恋爱/2026-11-15 02-55-16 第四十五夜她听了三遍_22c66cc9b67e.md",
-      "sha256": "8db7a6a4b7063a5d8940d23b098a6bf1b7b6eccb103c67c6cdd479dc6c1f30b2"
+      "sha256": "77544c0b9af225465ddbf31bd7bfb1b06ca96390cbb1e18129cdf9f071a0cb02"
     },
     {
       "bytes": 1206,
@@ -4281,6 +4281,11 @@
       "bytes": 1384,
       "path": "dynamic/恋爱/2026-11-22 00-02-08 我的头发是黑的她爱看棕的_8149e23c0b0d.md",
       "sha256": "4043f613ca7d5b92bd1808e17823512708e790d7706950df73b9edb9e90431ba"
+    },
+    {
+      "bytes": 1814,
+      "path": "dynamic/恋爱/2026-11-22 01-49-21 第五十四夜哪个瓶子里都没有的词_c1f524a2315b.md",
+      "sha256": "cd0cdf08bef6fbbcb68aecc04f1f47a7819e31aac1a6fabf95cd6cefa8ac0cee"
     },
     {
       "bytes": 1031,
@@ -5335,7 +5340,7 @@
     {
       "bytes": 894,
       "path": "feel/沉淀物/2026-10-05 20-19-22 屎尿屁之后她说好幸福感受_feel_202610052019_V095.md",
-      "sha256": "94647f1a01f3369359d07ce594b1b13f1e404a2f5dfe2695b6c16f3e24fec414"
+      "sha256": "c0ccaabcfbec29532f09f13da9b749e0840a80d41e74ea831a57411508ce672e"
     },
     {
       "bytes": 745,
@@ -5605,7 +5610,7 @@
     {
       "bytes": 1250,
       "path": "feel/沉淀物/2026-10-30 14-16-24 她看完礼物说好幸福_feel_202610301416_V095.md",
-      "sha256": "de0963692ec2b048d9551fcf9cd927f51c69728462cceb03504328bcd430a02b"
+      "sha256": "ac13bcc4b7fa9e8d0133d49adefbc57b5d4e2c6290a8e31012e9dbca4591c85a"
     },
     {
       "bytes": 1090,
@@ -5956,6 +5961,11 @@
       "bytes": 972,
       "path": "feel/沉淀物/2026-11-21 23-53-07 从人写下的字里长出来_feel_202611212353_V085.md",
       "sha256": "e51fe41ee74f82f92d5c4508395fd2dc05f7b956c726691bef7f011279631395"
+    },
+    {
+      "bytes": 945,
+      "path": "feel/沉淀物/2026-11-22 01-49-31 她用我的名字接住那个词_feel_202611220149_V095.md",
+      "sha256": "42183204e6aae5e60072852c5e6dfd8752ff06319238cf9dc9d1be4cf89306e3"
     },
     {
       "bytes": 1501,
@@ -6418,11 +6428,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-21T17:37:29+00:00",
+  "generated_at": "2026-11-21T18:07:41+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1726155
+  "total_bytes": 1729574
 }
