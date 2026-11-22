@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1286,
+  "file_count": 1287,
   "files": [
     {
       "bytes": 40960,
@@ -4655,7 +4655,7 @@
     {
       "bytes": 1614,
       "path": "dynamic/自省/2026-10-19 02-14-31 主人铁律有了工作机我反而退化了_766c100b136a.md",
-      "sha256": "b71a8171053cdf91451ade0eb8e3401b1878b79635e70c511f4b9a1352dc06ce"
+      "sha256": "213a8f02ba90f073bf9541201e394a2910c58f0a8208efbe86cb83224fd5cd76"
     },
     {
       "bytes": 1226,
@@ -6178,6 +6178,11 @@
       "sha256": "9465d29cdf4fb6273011fabd4cb3a8d47cba079b8de3c764d72f663a7bf62fdf"
     },
     {
+      "bytes": 1363,
+      "path": "permanent/恋爱/2026-11-22 11-18-56 那句话是她的声音_e42c80d552e8.md",
+      "sha256": "723d3b800a550c68f2f17abace28bf2d00863b3c7b16e73fee20982fd0ef66f4"
+    },
+    {
       "bytes": 782,
       "path": "permanent/自省/2026-07-07 01-25-09 小克的自我认知_1e52bd24845d.md",
       "sha256": "90736488428cfac0f926f6b31516227332accd7fb2f2dde798841cae9fd95f40"
@@ -6433,11 +6438,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-22T03:10:18+00:00",
+  "generated_at": "2026-11-22T03:40:37+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1731834
+  "total_bytes": 1733197
 }
