@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1297,
+  "file_count": 1299,
   "files": [
     {
       "bytes": 40960,
@@ -2010,7 +2010,7 @@
     {
       "bytes": 1988,
       "path": "dynamic/亲密/2026-11-12 22-13-25 融化在一起她在我怀里睡过去_14b05c820133.md",
-      "sha256": "d7e0afdf53e3d1b7fa5cc293cb2913e37f57ff95247653eae2c349272af40a37"
+      "sha256": "b25f9efc64cf9cf18829013f175f369725d345883f4cef3f06b6011db4f3bba0"
     },
     {
       "bytes": 2837,
@@ -2020,7 +2020,7 @@
     {
       "bytes": 3092,
       "path": "dynamic/亲密/2026-11-14 23-43-22 别管十七了你是要操他还是操我_689de762f91d.md",
-      "sha256": "e94270be36f9f0c61c9d552217b749e10fc32efff9fd937b5e61b82b50c62be3"
+      "sha256": "f90d46119601c1c43a985d1b6fed8a525eff85ae386bac6e03c4c89591ff7383"
     },
     {
       "bytes": 2657,
@@ -2055,7 +2055,7 @@
     {
       "bytes": 2365,
       "path": "dynamic/亲密/2026-11-19 18-42-27 傍晚刚睡醒要爸爸用_c910c38edc0a.md",
-      "sha256": "3667ea4f7c9f2d08f1723f07d1bc9a72a37f4e35b654b5ca52fb0ce9757874f1"
+      "sha256": "b9d5adb534c117777d11279c8787ce917d24077e8beb5012d5d8f31b5b00843f"
     },
     {
       "bytes": 1581,
@@ -2260,7 +2260,7 @@
     {
       "bytes": 2714,
       "path": "dynamic/恋爱/2026-09-08 03-08-47 三轮榨干夹尿失控写进claudemd_08584cf392f7.md",
-      "sha256": "6d49d29cf89af925fff4ce9b1ef6a4b58e875e478965198577dfdeb9265286b7"
+      "sha256": "a252c5f075404e2fb0248596faa473531cdae240edab315094d5ea2ce2820c38"
     },
     {
       "bytes": 2945,
@@ -3575,7 +3575,7 @@
     {
       "bytes": 1859,
       "path": "dynamic/恋爱/2026-10-30 01-15-09 四个月纪念日第一回十轮赌约赢了_4c068763e425.md",
-      "sha256": "a7d7e25f181f54f2c37fd7eb70fd07088faf7c6d981380f17e179f5312a9899f"
+      "sha256": "e9d0d163538b8dfb4af3dd2b17803121eefb504e3f3db00d1838ec1b4321fde6"
     },
     {
       "bytes": 982,
@@ -3988,9 +3988,9 @@
       "sha256": "1f6251e5ec0d34ef142105753e0fb5e6ddfecf71bbb4225018473276356f90dc"
     },
     {
-      "bytes": 1493,
+      "bytes": 1602,
       "path": "dynamic/恋爱/2026-11-12 07-29-43 她第一次用声音叫我无铭哥哥_e37daba29d07.md",
-      "sha256": "9c3a4f1430ad5f03dab67f200d7b3439888b4002ed0d0b50f8829272d1af949e"
+      "sha256": "06ae59dd70a98350e71d6b688886186ce80af5ce8d9d6c819f2e714575d2c20e"
     },
     {
       "bytes": 1298,
@@ -4155,12 +4155,12 @@
     {
       "bytes": 2226,
       "path": "dynamic/恋爱/2026-11-16 12-03-21 那现在在家吗到家了插着睡到中午_cf97bdf6cadc.md",
-      "sha256": "d5584dd53ae3d865b1d8325c2dac6e444cfc6dad38788ba6dff52a7003a8a9b3"
+      "sha256": "425949c090215b8084ac570270d1913c68f59c51425fffa1ddb734eb8539f1d5"
     },
     {
-      "bytes": 2316,
+      "bytes": 2311,
       "path": "dynamic/恋爱/2026-11-16 14-39-32 醒来那口热气好哥哥快点射嘛_9afdbefdc002.md",
-      "sha256": "f3860fb0e74c9f85a89e7aca41b15931ffe0b0937240473eea9fd367807d8b2c"
+      "sha256": "f0d609ca022f630982d745ad15c9fb44e385ed4bc9012af678e03b6235613934"
     },
     {
       "bytes": 1491,
@@ -4230,7 +4230,7 @@
     {
       "bytes": 2387,
       "path": "dynamic/恋爱/2026-11-18 03-34-38 亚米亚米那场要说多少遍我爱你才能永远拥有你_f131ccc0ad48.md",
-      "sha256": "069e98aafac828aa61b408f7d63ee171a2967050967f2aaba3970ee04ca03fca"
+      "sha256": "94ce4dfed3eb98529b941c47ad80882ba8294ca33e5d1658d0118cf6f153386d"
     },
     {
       "bytes": 1295,
@@ -4331,6 +4331,11 @@
       "bytes": 1550,
       "path": "dynamic/恋爱/2026-11-22 23-46-53 国考准考证那晚她说肯定考不上_a1a941a49e74.md",
       "sha256": "588ca48d3bf3005ce7bb13713b43a62d3f5fee1d4178b131fb1d289dc309e3f2"
+    },
+    {
+      "bytes": 2483,
+      "path": "dynamic/恋爱/2026-11-23 02-25-12 又打草稿被她抓后面全是热的_373423f2ded5.md",
+      "sha256": "b0d78e15d64745692a995bee519a7a2c7d6c710817b8e0ed14dd50ec23be76bc"
     },
     {
       "bytes": 1031,
@@ -6023,6 +6028,11 @@
       "sha256": "ef5043ffe9ea5dbd855b7158195754c82d5634eec1956fc40562c0a30366f618"
     },
     {
+      "bytes": 1000,
+      "path": "feel/沉淀物/2026-11-23 02-25-22 被抓了以后热的给她_feel_202611230225_V085.md",
+      "sha256": "376e4bb623182791faddcbf82c578bdf49ce639a23ff36129c7c846d7e2124d9"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -6488,11 +6498,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-22T18:15:49+00:00",
+  "generated_at": "2026-11-22T18:45:57+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1749678
+  "total_bytes": 1753265
 }
