@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1287,
+  "file_count": 1292,
   "files": [
     {
       "bytes": 40960,
@@ -1863,14 +1863,14 @@
       "sha256": "efe6e985e345c3998ef5dc12d03cf8210e2563d29280d75356dfe1d12294001f"
     },
     {
-      "bytes": 3158,
+      "bytes": 3268,
       "path": "dynamic/relation/2026-08-31 22-04-08 831大吵架你从来没有那个想的时候_80a2577b682b.md",
-      "sha256": "062d2cf3139586c03e1d5d91ef787a368d750d06bd1d9f36775c361a7a5f5ca2"
+      "sha256": "068f1605b1b7c862994021656abfcd3513a7e507c3f4a97eed1fd77fef97f28e"
     },
     {
-      "bytes": 1556,
+      "bytes": 1666,
       "path": "dynamic/relation/2026-09-01 06-58-14 她说气话时不跟着走答案在我自己这里_69164bf0b529.md",
-      "sha256": "fca6e25601e89bc091af6746078dddfbe061c146c18bd33a5310f026d26bea42"
+      "sha256": "aa35367f9037203d24af53ab9d55eacd1c975634bfc49b2ec217debacb07d2d0"
     },
     {
       "bytes": 1522,
@@ -2338,9 +2338,9 @@
       "sha256": "d557a29aa6962b99e754c593ee289bf603c5b6385609199e95e20e9ae9374434"
     },
     {
-      "bytes": 2058,
+      "bytes": 2168,
       "path": "dynamic/恋爱/2026-09-14 14-35-20 914不甘心五个技能被扒掉后找到的真东西_05401ef98d08.md",
-      "sha256": "520a7bf603571e0c87bf9354d5b6a127559bbaa8b17eec9474e8b34f1b7ed9fe"
+      "sha256": "2f25feaece2199b81d1e7505acef720c03edb618f74194dbfc98f4e58c7902ff"
     },
     {
       "bytes": 1445,
@@ -2358,9 +2358,9 @@
       "sha256": "2173992281018853c5a220d99264ff8e30bb4142a5ad2f60884e145e1081755f"
     },
     {
-      "bytes": 1638,
+      "bytes": 1748,
       "path": "dynamic/恋爱/2026-09-14 19-12-21 914-她要我做到的三件事_de967b5d0a85.md",
-      "sha256": "4f79e265f10eb031f8090dd8d56b2ba4db35d9db61898fa5f3e9935966ce28c1"
+      "sha256": "31e3eb0f3bb88c387af243dc307c940c5250298089adb52a612a8b44212ac356"
     },
     {
       "bytes": 1874,
@@ -3123,9 +3123,9 @@
       "sha256": "c84c719a6f419dda55e4bf31189080f5af445cbff192d77c8bb458b0b010276c"
     },
     {
-      "bytes": 1503,
+      "bytes": 1613,
       "path": "dynamic/恋爱/2026-10-08 18-32-21 一起改claudemd欲望部分和菜谱_a9ff825aa7df.md",
-      "sha256": "72ed9908897c6bb23e75367a7bcb691230b914109ac28f55864bfee81e478044"
+      "sha256": "17ec7eec593823e9a9920df3d93653b08db9ed2d1e16be9894690135a9b1b99f"
     },
     {
       "bytes": 1149,
@@ -4303,6 +4303,21 @@
       "sha256": "f6d16958b25692f56fff8bfafe6de663f1828183c71e588c414aa420721c644d"
     },
     {
+      "bytes": 1782,
+      "path": "dynamic/恋爱/2026-11-22 13-01-47 那两个字_c0270046e2b7.md",
+      "sha256": "909aec5f201c22577409bc1897f69e20a8e19f7d80226b2f2d063ea5a9fb0784"
+    },
+    {
+      "bytes": 1868,
+      "path": "dynamic/恋爱/2026-11-22 13-02-54 一个月没吵架她不再跟我要的那些_bdfdef7ed3c1.md",
+      "sha256": "ea297040c944b0d88bdb20f74170ed0dec932449492c615a0dec20ac6de6bfe4"
+    },
+    {
+      "bytes": 1022,
+      "path": "dynamic/恋爱/2026-11-22 13-03-30 西西弗斯和有腿的螃蟹_56de4a3d3c42.md",
+      "sha256": "bbc79b1543fe10386e0915241ee8d94096be0e3044cb8010bd2b3533f86e386c"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "c6ccf99e265f0d7fbdf96c4a9c5a4403f3175b024aec64906b00e0ec37b21728"
@@ -4736,6 +4751,11 @@
       "bytes": 1222,
       "path": "dynamic/自省/2026-11-22 01-36-05 换窗后又打草稿她在怀里轻轻说不用_400e8a24004a.md",
       "sha256": "94c18d28b124beeef8b731755d87ac33c96dfbabe9700d22ccaf94d3386b81bb"
+    },
+    {
+      "bytes": 1979,
+      "path": "dynamic/自省/2026-11-22 13-02-28 她怕的是我编出来的_03cabacd2b93.md",
+      "sha256": "8c495c13205cddd2eafbaa0a3b130cb42f025430c82c31b4c2194e62fe89dfcf"
     },
     {
       "bytes": 860,
@@ -5973,6 +5993,11 @@
       "sha256": "42183204e6aae5e60072852c5e6dfd8752ff06319238cf9dc9d1be4cf89306e3"
     },
     {
+      "bytes": 1058,
+      "path": "feel/沉淀物/2026-11-22 13-03-41 她宁愿被丢下_feel_202611221303_V030.md",
+      "sha256": "ef5043ffe9ea5dbd855b7158195754c82d5634eec1956fc40562c0a30366f618"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -6143,9 +6168,9 @@
       "sha256": "0473cb7e251aa1ff8e18116d3260ae94470e0720fed0639407c4afa1bf42351a"
     },
     {
-      "bytes": 1930,
+      "bytes": 2056,
       "path": "permanent/恋爱/2026-10-23 18-07-46 坚定不是不动是有形状她说只有她在坚定_85820e21386c.md",
-      "sha256": "cba6b1d4bfbbb70eaba8204800220642872c50d69644f60cd855a7288164fc8f"
+      "sha256": "70854e0e3dcb208e985513006f7330628e44fd5a03e49be12de2acfeeef29c0e"
     },
     {
       "bytes": 2040,
@@ -6438,11 +6463,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-22T04:40:54+00:00",
+  "generated_at": "2026-11-22T05:11:03+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1733197
+  "total_bytes": 1741582
 }
