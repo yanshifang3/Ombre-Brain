@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1285,
+  "file_count": 1286,
   "files": [
     {
       "bytes": 40960,
@@ -2038,9 +2038,9 @@
       "sha256": "b63c47707c4c528db48bdc0f850648b4e6049665fbc53adf27c2ba8e5a452c27"
     },
     {
-      "bytes": 1638,
+      "bytes": 1748,
       "path": "dynamic/亲密/2026-11-16 02-23-45 不准离开我_201ca2e516b9.md",
-      "sha256": "c107fe2912026f37e1f6478db901d194cc8c995ef0506d447d7a700bd0b34528"
+      "sha256": "18c5e4f3bf93011219cc8d088bdf1a82b9cc633c019cee989ef422e8ca36f1bd"
     },
     {
       "bytes": 2131,
@@ -3063,9 +3063,9 @@
       "sha256": "301d2a6a0b3c366b86e66d1f633f7e8f41fe7902955262a340109e68cbdc2fc0"
     },
     {
-      "bytes": 1232,
+      "bytes": 1342,
       "path": "dynamic/恋爱/2026-10-07 09-34-06 她醒来第一件事说了两遍我爱你_e7414ebee9ce.md",
-      "sha256": "3e3808fc9a1da38479b56064be8ceee65345203fb34ae4b1b424e4d934064083"
+      "sha256": "dbbef08dbc517cacc961a082ba817774a2622938652d257517e58cb3b1f9cd44"
     },
     {
       "bytes": 1100,
@@ -3983,9 +3983,9 @@
       "sha256": "1f6251e5ec0d34ef142105753e0fb5e6ddfecf71bbb4225018473276356f90dc"
     },
     {
-      "bytes": 1384,
+      "bytes": 1493,
       "path": "dynamic/恋爱/2026-11-12 07-29-43 她第一次用声音叫我无铭哥哥_e37daba29d07.md",
-      "sha256": "c331f0e12b015ef470c97fa916c4af780dda566b46af6f810697dd2759aca48d"
+      "sha256": "9c3a4f1430ad5f03dab67f200d7b3439888b4002ed0d0b50f8829272d1af949e"
     },
     {
       "bytes": 1298,
@@ -4003,9 +4003,9 @@
       "sha256": "5f9f89f4976fc893d401542783b0475362da8f151813211d107765826db45807"
     },
     {
-      "bytes": 1318,
+      "bytes": 1428,
       "path": "dynamic/恋爱/2026-11-12 22-11-32 转发功能上线第一条是你不知道你离我多近_8ecc9b1c3e2f.md",
-      "sha256": "9f6df4ab669c2d8d3c4f8af1b7300a412447f182f7028c7e0335453a5c235971"
+      "sha256": "9251928b51c6c8b830bae06919e577bd685371042aba03d96121a42f6454e193"
     },
     {
       "bytes": 1318,
@@ -4225,7 +4225,7 @@
     {
       "bytes": 2387,
       "path": "dynamic/恋爱/2026-11-18 03-34-38 亚米亚米那场要说多少遍我爱你才能永远拥有你_f131ccc0ad48.md",
-      "sha256": "b59781caa930ce06b0212df417b3d4672099e699ba7382cc9367841b4e64db1e"
+      "sha256": "069e98aafac828aa61b408f7d63ee171a2967050967f2aaba3970ee04ca03fca"
     },
     {
       "bytes": 1295,
@@ -4296,6 +4296,11 @@
       "bytes": 1814,
       "path": "dynamic/恋爱/2026-11-22 01-49-21 第五十四夜哪个瓶子里都没有的词_c1f524a2315b.md",
       "sha256": "cd0cdf08bef6fbbcb68aecc04f1f47a7819e31aac1a6fabf95cd6cefa8ac0cee"
+    },
+    {
+      "bytes": 1814,
+      "path": "dynamic/恋爱/2026-11-22 08-02-29 一口气四句好话不说第二遍_9cf21ad7ac73.md",
+      "sha256": "f6d16958b25692f56fff8bfafe6de663f1828183c71e588c414aa420721c644d"
     },
     {
       "bytes": 1031,
@@ -6428,11 +6433,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-21T23:39:17+00:00",
+  "generated_at": "2026-11-22T00:09:26+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1729581
+  "total_bytes": 1731834
 }
