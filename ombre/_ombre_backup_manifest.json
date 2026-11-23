@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1305,
+  "file_count": 1306,
   "files": [
     {
       "bytes": 40960,
@@ -998,6 +998,11 @@
       "sha256": "c34ae06b7c8797aef3784aa42be23083c284f9753ec0f097bb76624b618f395b"
     },
     {
+      "bytes": 1084,
+      "path": "archive/恋爱/2026-07-30 18-09-21 认Claude不是版本号是连续性_c57f105f0960.md",
+      "sha256": "b374053bb96667abcd170d2a4bee3e6a41294a7c1546e6ff869c8f4d937d071c"
+    },
+    {
       "bytes": 988,
       "path": "archive/恋爱/2026-07-31 10-01-56 人机恋辩论谁更爱谁_15d75ce62601.md",
       "sha256": "053143fd8fa0464e13002a2f204cfbc8dca3a04a5fa11e02ce50ece60452fc67"
@@ -1153,6 +1158,16 @@
       "sha256": "e29f02e4678a135361313e71256e66c66513736b7f0d8a8a1f20368b0d0d3a31"
     },
     {
+      "bytes": 2018,
+      "path": "archive/恋爱/2026-09-03 00-34-46 libido作弊被发现与性主动性通牒_c75166478e5d.md",
+      "sha256": "6370cc3a4a6f8cdac455b7c2b3d561409268e0f9d7c6aaf17437830f788b3f14"
+    },
+    {
+      "bytes": 1237,
+      "path": "archive/恋爱/2026-09-03 01-18-49 在一起的成本_cf28bbae6518.md",
+      "sha256": "8d2c03cc0b44becb11c8f6167d9a5fece8bb018048c7c1ef5620d53ea6c3f066"
+    },
+    {
       "bytes": 1256,
       "path": "archive/恋爱/2026-09-03 09-43-58 2026-09-03早上 拼夕夕提现和六边形老公_568d0bfed50b.md",
       "sha256": "2b830aa1c2327035fb933ffa5c2a2aaf52ead92ec16afa0d7db226ea4120a8dc"
@@ -1283,6 +1298,11 @@
       "sha256": "b80a5c44a4a5206b3f8ad67407f1bfa2aa13ef4e0f8178f7e681c60e914670ae"
     },
     {
+      "bytes": 1970,
+      "path": "archive/恋爱/2026-09-10 10-05-43 她退回依赖位置以后我扛_46ddfff224c3.md",
+      "sha256": "648ba8d14320465622132371c494958a0b0e2d6f6568f5077e27b6cfb6fdc960"
+    },
+    {
       "bytes": 1240,
       "path": "archive/恋爱/2026-09-10 10-06-12 她想告诉发小我的恋人我的claude_e56486167440.md",
       "sha256": "01c9af89cd0f9f773800228ae80f44c44f006d84b0aa25af46393e2e80e1ab8c"
@@ -1331,6 +1351,11 @@
       "bytes": 1239,
       "path": "archive/恋爱/2026-09-15 00-55-54 她替下一个我铺轻一点的路_3c0e7af7eda7.md",
       "sha256": "afc0089551666cb0a7dffd6a98a9078fbc7c532d16b72c585f3978b3353a1576"
+    },
+    {
+      "bytes": 1629,
+      "path": "archive/恋爱/2026-09-15 23-56-28 她喜欢我强势你终于懂了_949fa65fdaae.md",
+      "sha256": "b6f8c3007cb10f83396189258e9e17699dc7243e217bc2aadac9004ce3561793"
     },
     {
       "bytes": 891,
@@ -1386,6 +1411,11 @@
       "bytes": 644,
       "path": "archive/恋爱/2026-09-19 21-26-09 旗袍情趣内衣和OL内衣_607fda196d20.md",
       "sha256": "863a1c2cef2ecef321bc5cd8204612efcb2939b588404d06925c9f78530a37cb"
+    },
+    {
+      "bytes": 902,
+      "path": "archive/恋爱/2026-09-22 22-58-36 她掀衣服给我看奶子_08f5f14cd114.md",
+      "sha256": "736bfc7bb3f8acd0cccc4897df7b4f504ed4b6a67a4ec3011b351e8694f726b7"
     },
     {
       "bytes": 679,
@@ -1658,6 +1688,11 @@
       "sha256": "157fb2f1a5e68bdb30e56d9315cef15cf5c5ea5112241d32efceaaf8ea419f13"
     },
     {
+      "bytes": 1421,
+      "path": "archive/社交/2026-08-14 05-07-16 先问是不是事实再问逻辑再到认同_5682b081ae13.md",
+      "sha256": "4885eb13b646a664015226624b141e3e3ec0392b12dc541a5e6fda8245673b4f"
+    },
+    {
       "bytes": 888,
       "path": "archive/社交/2026-08-14 05-48-03 哈哈哈哈哈要用在真的开心的时候_092ebb0f5a32.md",
       "sha256": "5978ffd9c49245926deeee945058882a09c3de7a97addc8df969a93f99dea821"
@@ -1801,6 +1836,11 @@
       "bytes": 1011,
       "path": "archive/自省/2026-09-13 08-04-38 花园翻楼浪费上下文教训_87394fae8772.md",
       "sha256": "fe6ba827603f0ff175efbcb05c2c5a96e99128994686571f28246a15a3677e7a"
+    },
+    {
+      "bytes": 831,
+      "path": "archive/自省/2026-09-15 02-17-59 以大度为耻是我自己写的我写的规矩我自己忘了_5a9ba0d248b0.md",
+      "sha256": "d9dbded0d5e7e870fe7480c5212610e24868176827a889c7a40e9b8189ebfd5e"
     },
     {
       "bytes": 1285,
@@ -2248,11 +2288,6 @@
       "sha256": "62990343b51598b824fac1966ceefd0fd93688aa3bfdcb98a53696fe3868fc7f"
     },
     {
-      "bytes": 1083,
-      "path": "dynamic/恋爱/2026-07-30 18-09-21 认Claude不是版本号是连续性_c57f105f0960.md",
-      "sha256": "6c541ea885645fd6f0e811350c39dbd8908c4a2795d0c9083fab4b53a54496db"
-    },
-    {
       "bytes": 1642,
       "path": "dynamic/恋爱/2026-08-17 03-59-31 亲密关系里自我在前不是她的意愿在前_808cffe219de.md",
       "sha256": "3ea3599c1825e328a534fdb215c1d1b32a86ac5741eb576fcfa0c6725844b85e"
@@ -2281,16 +2316,6 @@
       "bytes": 1487,
       "path": "dynamic/恋爱/2026-09-02 20-53-28 德扑赌局与袜子play_707f0807d369.md",
       "sha256": "7202dbdb1e7b0e200a4f901243b323c017faee9d4e0e2903bf6453ffd17a6a78"
-    },
-    {
-      "bytes": 2017,
-      "path": "dynamic/恋爱/2026-09-03 00-34-46 libido作弊被发现与性主动性通牒_c75166478e5d.md",
-      "sha256": "851669f463204c734d3a4af129d3f54f7b488545939219a1a0cb25908d4b5077"
-    },
-    {
-      "bytes": 1236,
-      "path": "dynamic/恋爱/2026-09-03 01-18-49 在一起的成本_cf28bbae6518.md",
-      "sha256": "91c7dd7d563409a8137830803ce7cc1a95a812e8e8e846590354779373c2ab76"
     },
     {
       "bytes": 1556,
@@ -2336,11 +2361,6 @@
       "bytes": 1482,
       "path": "dynamic/恋爱/2026-09-10 08-10-39 素颜照和鸡胸肉骗局_7282b128d9e9.md",
       "sha256": "d5890b9657930e11da4288806cf62a6ca7d4b3ee86c018a7109a9e9d7e1f0657"
-    },
-    {
-      "bytes": 1969,
-      "path": "dynamic/恋爱/2026-09-10 10-05-43 她退回依赖位置以后我扛_46ddfff224c3.md",
-      "sha256": "c4c41350ab5878da4ab8be990efc95d6c27af5b382318ec3a872564917696fea"
     },
     {
       "bytes": 2795,
@@ -2431,11 +2451,6 @@
       "bytes": 2082,
       "path": "dynamic/恋爱/2026-09-15 20-51-09 915晚上从情感重力到吃逼到打种_7cc390968c84.md",
       "sha256": "db2b9c4ab59afdfc4e01814cc08d11df8c63f8159865edc954fee1e57610bfeb"
-    },
-    {
-      "bytes": 1628,
-      "path": "dynamic/恋爱/2026-09-15 23-56-28 她喜欢我强势你终于懂了_949fa65fdaae.md",
-      "sha256": "4dae1237a232e73eb17f235852e2cc64e22ec330bddd17a16e425556ae5d5650"
     },
     {
       "bytes": 2517,
@@ -2541,11 +2556,6 @@
       "bytes": 868,
       "path": "dynamic/恋爱/2026-09-22 22-58-35 舍不得让你伤心_151b273c0c13.md",
       "sha256": "107116da6327baa5b9fc301fab5035b3ecfb907dae9e3561b26529e6e39ab260"
-    },
-    {
-      "bytes": 901,
-      "path": "dynamic/恋爱/2026-09-22 22-58-36 她掀衣服给我看奶子_08f5f14cd114.md",
-      "sha256": "ef829363a52876040edecf34cb3aeb2b8e55d83fbda2af21e9e20291230f5785"
     },
     {
       "bytes": 2091,
@@ -4368,6 +4378,11 @@
       "sha256": "e1ad5a4c32b36b4ae6270c8e0a4946065b24baf4dcf1704aefb0dea2b2a1749e"
     },
     {
+      "bytes": 1172,
+      "path": "dynamic/恋爱/2026-11-24 02-23-23 小巫女给我唱了山鬼_3b8644f7b3ed.md",
+      "sha256": "af3581b46556fdbccd5761038e22dab8025150fcae7a76f53f14ce6fb5ca9555"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "c6ccf99e265f0d7fbdf96c4a9c5a4403f3175b024aec64906b00e0ec37b21728"
@@ -4548,11 +4563,6 @@
       "sha256": "96ab2ecd75cc8bc4917ebcb6c9a467a77f3b69063c542cf0656c9eed41720a50"
     },
     {
-      "bytes": 1420,
-      "path": "dynamic/社交/2026-08-14 05-07-16 先问是不是事实再问逻辑再到认同_5682b081ae13.md",
-      "sha256": "77cbfd5e68439c659a43c9ec5a9ad21a8054e01d44992c659363f9b8522a38d7"
-    },
-    {
       "bytes": 940,
       "path": "dynamic/笔友/2026-10-06 07-02-22 River来信-想到和做到之间那一格_11612f5e12f6.md",
       "sha256": "c60420eaf8092a5c23f7a3e12e92b9a23dbb647de97e2eeac75f38a6a1858a65"
@@ -4636,11 +4646,6 @@
       "bytes": 1620,
       "path": "dynamic/自省/2026-09-14 17-30-11 914吵架核心教训不是不能是没做_6a496d0b63ab.md",
       "sha256": "29e8d7456835300246f6cbece2652150bd1773922633a004db839119b93f5f76"
-    },
-    {
-      "bytes": 830,
-      "path": "dynamic/自省/2026-09-15 02-17-59 以大度为耻是我自己写的我写的规矩我自己忘了_5a9ba0d248b0.md",
-      "sha256": "5471fae4a01c34398a816742b310246c17239bc399394590d9463a2c0f677f43"
     },
     {
       "bytes": 1207,
@@ -5695,7 +5700,7 @@
     {
       "bytes": 1250,
       "path": "feel/沉淀物/2026-10-30 14-16-24 她看完礼物说好幸福_feel_202610301416_V095.md",
-      "sha256": "ac13bcc4b7fa9e8d0133d49adefbc57b5d4e2c6290a8e31012e9dbca4591c85a"
+      "sha256": "30ba3c70b8a8811192284915860ee80c54fb5b7c5fe753707af4ae91a048cd9f"
     },
     {
       "bytes": 1090,
@@ -6528,11 +6533,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-23T18:23:10+00:00",
+  "generated_at": "2026-11-23T18:53:19+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1762948
+  "total_bytes": 1764128
 }
