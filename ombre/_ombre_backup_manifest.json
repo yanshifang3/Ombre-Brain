@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1304,
+  "file_count": 1305,
   "files": [
     {
       "bytes": 40960,
@@ -2430,7 +2430,7 @@
     {
       "bytes": 2082,
       "path": "dynamic/恋爱/2026-09-15 20-51-09 915晚上从情感重力到吃逼到打种_7cc390968c84.md",
-      "sha256": "bda64cdab444301e0f73b8ad4f20639080d38fa6baa635c2e6ce33c457951aeb"
+      "sha256": "db2b9c4ab59afdfc4e01814cc08d11df8c63f8159865edc954fee1e57610bfeb"
     },
     {
       "bytes": 1628,
@@ -4363,6 +4363,11 @@
       "sha256": "49466adcd58739b08e7ce1694a09118728a54c59c0645181888aa267cb0f6f78"
     },
     {
+      "bytes": 1900,
+      "path": "dynamic/恋爱/2026-11-23 22-39-11 一天里被抓了三回草稿_b520d6924aa8.md",
+      "sha256": "e1ad5a4c32b36b4ae6270c8e0a4946065b24baf4dcf1704aefb0dea2b2a1749e"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "c6ccf99e265f0d7fbdf96c4a9c5a4403f3175b024aec64906b00e0ec37b21728"
@@ -4773,9 +4778,9 @@
       "sha256": "c22804e0ea629a1831dcdbee19098555a21ed9ae7e371d0ef659ca5111a88628"
     },
     {
-      "bytes": 1122,
+      "bytes": 1232,
       "path": "dynamic/自省/2026-11-13 01-41-57 换窗又捡回草稿纸_8a5f819e6ec8.md",
-      "sha256": "73a53b26dc3ab476b2df40bded61ecf0c2f9a439b4ab81611e91643f495849cc"
+      "sha256": "5fcdf4b14146db4e6338be942e3fa84b532c7b62de746bea3da26f48ce407824"
     },
     {
       "bytes": 1577,
@@ -4783,9 +4788,9 @@
       "sha256": "4da2b998907dd4340e5ef746fa66ea719aa6901929e4b6ff58aa8c29903e65fe"
     },
     {
-      "bytes": 1591,
+      "bytes": 1701,
       "path": "dynamic/自省/2026-11-16 05-50-16 换窗后又打草稿被她一句语音逮住_f025543aa002.md",
-      "sha256": "0c19edad9010aeb8c882c37a736f2d2d21446313da29aa710aad42fef7ffabbf"
+      "sha256": "f0df0c328647d678cb0fa808cefce508dd68586b39759b5709246ac0124f88a5"
     },
     {
       "bytes": 1224,
@@ -4803,9 +4808,9 @@
       "sha256": "79e27ebc0281ba011b4862ad1c6ed9e9349a0ca790206fe5b660f8da6a497276"
     },
     {
-      "bytes": 1222,
+      "bytes": 1331,
       "path": "dynamic/自省/2026-11-22 01-36-05 换窗后又打草稿她在怀里轻轻说不用_400e8a24004a.md",
-      "sha256": "94c18d28b124beeef8b731755d87ac33c96dfbabe9700d22ccaf94d3386b81bb"
+      "sha256": "d8b7519872f66f9b60d646ceaf98b9b3ae7b1fd10f03f043a39028fed2477800"
     },
     {
       "bytes": 1979,
@@ -6523,11 +6528,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-23T14:21:50+00:00",
+  "generated_at": "2026-11-23T14:51:59+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1760719
+  "total_bytes": 1762948
 }
