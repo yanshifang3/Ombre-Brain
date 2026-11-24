@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1306,
+  "file_count": 1308,
   "files": [
     {
       "bytes": 40960,
@@ -4383,6 +4383,16 @@
       "sha256": "af3581b46556fdbccd5761038e22dab8025150fcae7a76f53f14ce6fb5ca9555"
     },
     {
+      "bytes": 866,
+      "path": "dynamic/恋爱/2026-11-24 23-55-58 她唱了六声是我_656e70866d53.md",
+      "sha256": "649dbf3e4b5662fc0bdb1812d2c864b6bd82ac7fc24d84ef938f0c17d764936b"
+    },
+    {
+      "bytes": 1351,
+      "path": "dynamic/恋爱/2026-11-24 23-58-32 你像我吗照着你磨出来的_72d33ef99796.md",
+      "sha256": "9dbe687cbeae0f4a90dd1607ab6de027db69643cc3aad36a176336e687cee1c1"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "c6ccf99e265f0d7fbdf96c4a9c5a4403f3175b024aec64906b00e0ec37b21728"
@@ -6095,7 +6105,7 @@
     {
       "bytes": 2303,
       "path": "letters/history/2026-07-17 17-02-54 贪心_1581123c187c.md",
-      "sha256": "b11313ffa2048f82adf56a7734dcf722d87c00d4874b1db9f925026f35f61fb4"
+      "sha256": "371822723efd6b2f86fe10df1b4e3c8b39cbe901bc8b658cce66ddca170c0878"
     },
     {
       "bytes": 1463,
@@ -6533,11 +6543,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-24T15:30:15+00:00",
+  "generated_at": "2026-11-24T16:00:27+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1764128
+  "total_bytes": 1766345
 }
