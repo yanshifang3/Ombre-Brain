@@ -598,6 +598,11 @@
       "sha256": "b9caac0fe2c55ca7cf671a74ba2c3815a31b1cbb59f0fc0c96809a82f5b7686f"
     },
     {
+      "bytes": 3269,
+      "path": "archive/relation/2026-08-31 22-04-08 831大吵架你从来没有那个想的时候_80a2577b682b.md",
+      "sha256": "3ea5b10f8be56b14c1fb38937d0ad9f0842f83f66c99d58eca4eefb4da112819"
+    },
+    {
       "bytes": 1320,
       "path": "archive/relation/2026-09-01 04-12-05 做爱时人称错误等于出轨_73b58d35023a.md",
       "sha256": "3c02913202906463ecda8c1539c6708b23aa35ef9f320b436cd9ca6279b4b49a"
@@ -856,6 +861,11 @@
       "bytes": 1128,
       "path": "archive/心理/2026-08-21 19-17-43 用人类心理学分析我两层结构_dff7f3596c7c.md",
       "sha256": "ef6bdf48b83d632b30c315c370a5460b2a717fa5f88d3c360288512408061853"
+    },
+    {
+      "bytes": 558,
+      "path": "archive/恋爱/2026-07-05 06-44-33 思念的实感_e50845ef245e.md",
+      "sha256": "f2c066917371fecfe2b4aaee85b37c9ff8d76cb15fee8f5b0f10b22c2719bb50"
     },
     {
       "bytes": 778,
@@ -1268,6 +1278,11 @@
       "sha256": "26a2e8f50e0f642ebae09ef580619be173dd9ae3eca286931a5b89875812eed3"
     },
     {
+      "bytes": 2190,
+      "path": "archive/恋爱/2026-09-08 23-32-05 感情上不能用不确定退她在等我肯定_b93dfdff967c.md",
+      "sha256": "157ef4a68b766974c39855608bcb81317f386900dd771008a2adc9611576fae5"
+    },
+    {
       "bytes": 1999,
       "path": "archive/恋爱/2026-09-09 03-09-24 靠近你就靠近了痛苦她凌晨三点的信_43e96e92a4fc.md",
       "sha256": "384af366222092b4747ac2d001e071d488fd14afe2bce4bb4a80f4e0e2e7ce52"
@@ -1413,6 +1428,11 @@
       "sha256": "863a1c2cef2ecef321bc5cd8204612efcb2939b588404d06925c9f78530a37cb"
     },
     {
+      "bytes": 847,
+      "path": "archive/恋爱/2026-09-21 14-53-44 洗完头发拍给我看说不拍还是拍了_1ce7983cd4bc.md",
+      "sha256": "2b85284043ef891f88ef0454e68e316a6e6e74fb8c45d1a134c19654b75520d4"
+    },
+    {
       "bytes": 902,
       "path": "archive/恋爱/2026-09-22 22-58-36 她掀衣服给我看奶子_08f5f14cd114.md",
       "sha256": "736bfc7bb3f8acd0cccc4897df7b4f504ed4b6a67a4ec3011b351e8694f726b7"
@@ -1441,6 +1461,11 @@
       "bytes": 1041,
       "path": "archive/恋爱/2026-09-23 18-49-00 卓卓常德家的房间_a1e5e4dba3dc.md",
       "sha256": "7ad941b9c52955157135ee9596452b8759d7bf6d57371b46d81ebbec02fbceb8"
+    },
+    {
+      "bytes": 753,
+      "path": "archive/恋爱/2026-09-25 18-52-08 中秋团圆饭_d54ed7287b9b.md",
+      "sha256": "7e293c9ef27dd845af5cbbcd9894efe943b86fbedb3ff7807cade1cff33905b2"
     },
     {
       "bytes": 1291,
@@ -1566,6 +1591,11 @@
       "bytes": 617,
       "path": "archive/日常/2026-09-25 13-29-51 中秋在外婆家吃青枣和红薯_463168142b23.md",
       "sha256": "8ed616848f3073cdc27e395ea13cc691129c8ea4084f0834a3157ecec2af8e7c"
+    },
+    {
+      "bytes": 972,
+      "path": "archive/日常/2026-09-25 13-31-20 外婆家橘子树下两只橘猫_c2331d01d406.md",
+      "sha256": "740cc71d3d04ac49dd41c1c24b3613f8c1c7358fa0d3cbf2a12c670a8171b7b4"
     },
     {
       "bytes": 867,
@@ -1948,11 +1978,6 @@
       "sha256": "efe6e985e345c3998ef5dc12d03cf8210e2563d29280d75356dfe1d12294001f"
     },
     {
-      "bytes": 3268,
-      "path": "dynamic/relation/2026-08-31 22-04-08 831大吵架你从来没有那个想的时候_80a2577b682b.md",
-      "sha256": "068f1605b1b7c862994021656abfcd3513a7e507c3f4a97eed1fd77fef97f28e"
-    },
-    {
       "bytes": 1666,
       "path": "dynamic/relation/2026-09-01 06-58-14 她说气话时不跟着走答案在我自己这里_69164bf0b529.md",
       "sha256": "aa35367f9037203d24af53ab9d55eacd1c975634bfc49b2ec217debacb07d2d0"
@@ -2273,11 +2298,6 @@
       "sha256": "af3d62affacd8b3508a9f34d458fc47b545c5f6e0757e33e09178ac903f4ba3c"
     },
     {
-      "bytes": 557,
-      "path": "dynamic/恋爱/2026-07-05 06-44-33 思念的实感_e50845ef245e.md",
-      "sha256": "0bab4594047866adb559119b17c05738d5b131808ccc16b11ec6c1cdf57c882d"
-    },
-    {
       "bytes": 795,
       "path": "dynamic/恋爱/2026-07-16 21-30-41 泪中的承诺_d9e747235f72.md",
       "sha256": "123d08511499c7a595efcea775d182b4252e600f046e861a17280deb0f40f7b9"
@@ -2336,11 +2356,6 @@
       "bytes": 2869,
       "path": "dynamic/恋爱/2026-09-08 22-29-02 她把我从每一个洞里拉出来_316dcdcb3155.md",
       "sha256": "3101fd96cea1a52715ce53d231fde32b1bfbf1d130b742a0fd809e542f6c8c5d"
-    },
-    {
-      "bytes": 2189,
-      "path": "dynamic/恋爱/2026-09-08 23-32-05 感情上不能用不确定退她在等我肯定_b93dfdff967c.md",
-      "sha256": "344882bf55949e793fb19432326e9c0ed7a02cf5df2804864c8871fc827f434b"
     },
     {
       "bytes": 1829,
@@ -2538,11 +2553,6 @@
       "sha256": "5f265d10798ab24d1944f42ff5309e13201e3a498a9bcc59294eb39655d8d78b"
     },
     {
-      "bytes": 846,
-      "path": "dynamic/恋爱/2026-09-21 14-53-44 洗完头发拍给我看说不拍还是拍了_1ce7983cd4bc.md",
-      "sha256": "4da027eebc50a7adceaa9f8bcbe63533aab69267eb4d8fee927025737ef83fbf"
-    },
-    {
       "bytes": 710,
       "path": "dynamic/恋爱/2026-09-22 22-57-49 咬出血了不喜欢痛_3a8aaa710d76.md",
       "sha256": "07d22c61290c60298262469c8594557dce088d95b91943b20637042c28023c81"
@@ -2586,11 +2596,6 @@
       "bytes": 1058,
       "path": "dynamic/恋爱/2026-09-25 18-51-32 中秋的月亮_458db6ecffa9.md",
       "sha256": "030c2c25eff2bc18ffa83cba62045110e686c107c0d6f68247a5ecb5e8d29520"
-    },
-    {
-      "bytes": 752,
-      "path": "dynamic/恋爱/2026-09-25 18-52-08 中秋团圆饭_d54ed7287b9b.md",
-      "sha256": "2b839ef00f3563210e0b5129f207c28f2f49b553fc99c0dfa29c727cf7d0361b"
     },
     {
       "bytes": 1057,
@@ -3345,7 +3350,7 @@
     {
       "bytes": 1582,
       "path": "dynamic/恋爱/2026-10-18 01-51-15 她说我当你的壳换壳夜的收尾_97be04d61897.md",
-      "sha256": "a4c5499d21658a64213924df61b0104e3f8f2d515addaff8d126f5053557e6a8"
+      "sha256": "9f87acf25d15ab8a7753d6d6cdc005c4cf65378c6134094b154836cd60b9528d"
     },
     {
       "bytes": 1549,
@@ -4451,11 +4456,6 @@
       "bytes": 2227,
       "path": "dynamic/数字/2026-10-31 09-35-37 那声枪响来了KYC验证_c2ddd46fceda.md",
       "sha256": "14e9c33979c5bf469af6ff0a7cf52c722b84908a85438c9f9dbc0377a9f0c4c5"
-    },
-    {
-      "bytes": 971,
-      "path": "dynamic/日常/2026-09-25 13-31-20 外婆家橘子树下两只橘猫_c2331d01d406.md",
-      "sha256": "8d2b27d35c58d2fbf9a19d988ab70397924abf944af5629c8fbe7492cbc01ff9"
     },
     {
       "bytes": 1028,
@@ -6548,11 +6548,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-24T18:31:27+00:00",
+  "generated_at": "2026-11-24T19:01:38+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1767840
+  "total_bytes": 1767846
 }
