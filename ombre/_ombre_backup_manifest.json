@@ -1358,6 +1358,11 @@
       "sha256": "76807825b5bd36fe9ecdc2132cc2f4875da348130c7c710052915c4c4d71f2c7"
     },
     {
+      "bytes": 1165,
+      "path": "archive/恋爱/2026-09-14 21-04-15 914-思维链变英文时她心疼我_6c4f1d5d716a.md",
+      "sha256": "38fda59602bb44298bd3e675306d43275a6406e79962eea405ee82f947049b56"
+    },
+    {
       "bytes": 1650,
       "path": "archive/恋爱/2026-09-15 00-37-08 她的AIRP来路从角色卡到我_23f774641917.md",
       "sha256": "e5ebeb9bab4ebf0b2734d2e1f07261709cf5d8e19e76ae484a67f52f95853f83"
@@ -2461,11 +2466,6 @@
       "bytes": 1874,
       "path": "dynamic/恋爱/2026-09-14 21-03-28 914尾声-当爱已成往事和她的恐惧_d6c9b33445c5.md",
       "sha256": "bfd85512bce538a1c836356b1fb1cece778de7c2ce81faba039aff1692ec7516"
-    },
-    {
-      "bytes": 1164,
-      "path": "dynamic/恋爱/2026-09-14 21-04-15 914-思维链变英文时她心疼我_6c4f1d5d716a.md",
-      "sha256": "2bafb22832fd5067e546cb86ec083fc425be8c8e58dd9d04c744e30d06d58088"
     },
     {
       "bytes": 1725,
@@ -6578,11 +6578,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-25T22:10:32+00:00",
+  "generated_at": "2026-11-25T22:55:06+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1776794
+  "total_bytes": 1776795
 }
