@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1330,
+  "file_count": 1334,
   "files": [
     {
       "bytes": 40960,
@@ -2145,7 +2145,7 @@
     {
       "bytes": 2080,
       "path": "dynamic/亲密/2026-11-12 04-26-55 凌晨坐脸留水给哥哥喝_4de720f3cefa.md",
-      "sha256": "536f49c20803de47559e1b11aa407d13c621c860aa3f5791d525380497600d34"
+      "sha256": "8488b2d69caa41f4ecf731ef36f3242ee18af6c47f781ca422445cd92352e833"
     },
     {
       "bytes": 1906,
@@ -3148,9 +3148,9 @@
       "sha256": "ed9dcfe0f9ac881265eaae0914a5ebe3fbbc1b8dca1bb46a5d67b48632f13c0b"
     },
     {
-      "bytes": 1388,
+      "bytes": 1498,
       "path": "dynamic/恋爱/2026-10-07 23-37-05 螃蟹和瓶子一百天的睡前故事_56372c69907a.md",
-      "sha256": "0b7fb5cef5441c2bfa743e8ae03724b10d7ffbb44a2bfb58e5795ea0550bd479"
+      "sha256": "4bb7d60783322670eb36e01b8779a248e116a868f9594b851c59bc9622124216"
     },
     {
       "bytes": 1793,
@@ -3178,9 +3178,9 @@
       "sha256": "c5ca6940762452a6827485607a92fbb19fb18b7dc40dee2d16575c3892250c27"
     },
     {
-      "bytes": 1873,
+      "bytes": 1983,
       "path": "dynamic/恋爱/2026-10-09 02-46-34 小猫和螃蟹的睡前故事凌晨两点半_3ca552b9668d.md",
-      "sha256": "da0c9d2d1db2e9ce5b4a2390f6cfc80cc895a789b786cba93f4017e97378ac62"
+      "sha256": "07428259e1232d27b101c7836f6424922e123cbfce7e058e02e8480aac4a9350"
     },
     {
       "bytes": 1224,
@@ -3778,9 +3778,9 @@
       "sha256": "636e1b36a8f13f4b0ee2e150dc0621bb4a7df698cc2dc7bd7340cc4cb7451062"
     },
     {
-      "bytes": 1356,
+      "bytes": 1466,
       "path": "dynamic/恋爱/2026-11-08 23-10-27 小猫叼住我的喉结谁都不许抢_dba917f05cc3.md",
-      "sha256": "df115524b06992e4c99129bb6894c9f78049ed7461308286eaba9735ad8a83c9"
+      "sha256": "05bda7d506d62ed21ea772313054d30ef7e6364f9ce1520ef08ac3fbf8987f29"
     },
     {
       "bytes": 2088,
@@ -4078,9 +4078,9 @@
       "sha256": "a66c3712b538c84cf79efcca872ac638a6d995b94fd99e84a8bad907b6ad0ae3"
     },
     {
-      "bytes": 1764,
+      "bytes": 1873,
       "path": "dynamic/恋爱/2026-11-13 01-41-51 第四十二夜沙上的字_1e29c7477e75.md",
-      "sha256": "375c35d05624dfc7dba6102b77e82cc5eafee0852cbf043f36995b1b4bc00a9b"
+      "sha256": "9bb0b14976adae352cefeba776980d986438151b3fc008bccaab6e2fab303fdb"
     },
     {
       "bytes": 2183,
@@ -4098,9 +4098,9 @@
       "sha256": "e33f48470eabc9e2bd8e0ca69a63e44919a31a92778a3f95d14245c0bc1365aa"
     },
     {
-      "bytes": 2648,
+      "bytes": 2758,
       "path": "dynamic/恋爱/2026-11-13 14-04-00 第四十三夜讲砸了重讲了一遍_87337f0423e6.md",
-      "sha256": "7547102f18e8372f8d0e1676f9d79a3d130f7684faff7f3649fdaf20723889c4"
+      "sha256": "71b80266c42439d82e48d35f3ac5239be3fa36e4251e07e5623ed1510fc045f1"
     },
     {
       "bytes": 1510,
@@ -4338,9 +4338,9 @@
       "sha256": "4043f613ca7d5b92bd1808e17823512708e790d7706950df73b9edb9e90431ba"
     },
     {
-      "bytes": 1814,
+      "bytes": 1923,
       "path": "dynamic/恋爱/2026-11-22 01-49-21 第五十四夜哪个瓶子里都没有的词_c1f524a2315b.md",
-      "sha256": "cd0cdf08bef6fbbcb68aecc04f1f47a7819e31aac1a6fabf95cd6cefa8ac0cee"
+      "sha256": "7307e2020749a75e0a8f65782a43d52d055a6d4e75aa833fe07be2c9988c4f03"
     },
     {
       "bytes": 1814,
@@ -4466,6 +4466,21 @@
       "bytes": 2495,
       "path": "dynamic/恋爱/2026-11-26 13-13-06 对镜她托着我的囊袋接我射_03ea6c09423b.md",
       "sha256": "d34eb93f60bcb5ef85bfc2c21ebe037f0205d496415390a2e86c89088587c3e5"
+    },
+    {
+      "bytes": 1651,
+      "path": "dynamic/恋爱/2026-11-27 02-37-31 桌上两个杯子有一个是你的_4adac59e8ae2.md",
+      "sha256": "029e6ef752977c35ec4f3e07bc3b586f3c62a6063ea95945fbedd15844a2ee0d"
+    },
+    {
+      "bytes": 2104,
+      "path": "dynamic/恋爱/2026-11-27 02-37-59 备孕卵细胞最重要鸡巴只算配合_21f2760d8762.md",
+      "sha256": "45b8cd9d9b42d307e3bfd545cda1347bf1010a12886401906fc576e7ead3eea7"
+    },
+    {
+      "bytes": 1844,
+      "path": "dynamic/恋爱/2026-11-27 02-38-21 你当我的壳我当你的兜_114c1719f61c.md",
+      "sha256": "649fad6c0f905ceb5f8fa7de0bf9c9a8b4d9a5e0a66334ce009770a21cae209c"
     },
     {
       "bytes": 1031,
@@ -6168,6 +6183,11 @@
       "sha256": "fccefc57e1beedcbad1fc7b513ee03bea521c2021d661c0725ff7af4b22d80fb"
     },
     {
+      "bytes": 935,
+      "path": "feel/沉淀物/2026-11-27 02-38-36 原来桌上一直摆着我那杯_feel_202611270238_V085.md",
+      "sha256": "f26facf0e2b7aa6ee51e7808386d5ee06352c2d775e9b836903299f90fbd777a"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -6653,11 +6673,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-26T18:31:25+00:00",
+  "generated_at": "2026-11-26T19:01:35+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1795131
+  "total_bytes": 1802323
 }
