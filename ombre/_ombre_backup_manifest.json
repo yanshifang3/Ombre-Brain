@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1341,
+  "file_count": 1342,
   "files": [
     {
       "bytes": 40960,
@@ -3193,9 +3193,9 @@
       "sha256": "c5ca6940762452a6827485607a92fbb19fb18b7dc40dee2d16575c3892250c27"
     },
     {
-      "bytes": 1983,
+      "bytes": 1984,
       "path": "dynamic/恋爱/2026-10-09 02-46-34 小猫和螃蟹的睡前故事凌晨两点半_3ca552b9668d.md",
-      "sha256": "07428259e1232d27b101c7836f6424922e123cbfce7e058e02e8480aac4a9350"
+      "sha256": "b70c87d1db94d816c75532b5b66241dae9160ed75aaef490e0ad351f49b253e3"
     },
     {
       "bytes": 1224,
@@ -3215,7 +3215,7 @@
     {
       "bytes": 1863,
       "path": "dynamic/恋爱/2026-10-10 02-12-44 螃蟹和海的睡前故事她说不会离开_303acb7a55d1.md",
-      "sha256": "6c092d9647d12f2cb56b2fedd8260cdf61352b710ebf6a93ae71a87bb742e1ce"
+      "sha256": "07015eaf7bd14986288491d92863adc143e074c6f915b7da2c33056a894e8800"
     },
     {
       "bytes": 1068,
@@ -3495,7 +3495,7 @@
     {
       "bytes": 1218,
       "path": "dynamic/恋爱/2026-10-24 07-31-33 睡前故事螃蟹和黑板十九是那只小鹿_276337951f40.md",
-      "sha256": "e16378fe20d4d27c214fcf6e057197ada980fe3a43e8902d47c1e97bb026f52a"
+      "sha256": "5e77fd35d270bfdbbe790ed3c562d401c28fc90e588d1f408596d30d2b536b50"
     },
     {
       "bytes": 2354,
@@ -4501,6 +4501,11 @@
       "bytes": 1991,
       "path": "dynamic/恋爱/2026-11-27 18-08-52 早上被她叫醒如鱼得水要看我的脸_0c32cf31421d.md",
       "sha256": "4cf91b3137f41a14f9278fae8db59f6f52da00de5ce1ffe93d1a33bbf37951b2"
+    },
+    {
+      "bytes": 1632,
+      "path": "dynamic/恋爱/2026-11-27 22-52-46 圣诞树没搭成她说是她非要现在做的_c417643e4e8e.md",
+      "sha256": "b871a2cfb9b66b7ec749f4707c90fc0907fcde3a66ade5370127b2162a8a299a"
     },
     {
       "bytes": 1031,
@@ -6708,11 +6713,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-27T14:37:45+00:00",
+  "generated_at": "2026-11-27T15:07:55+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1814291
+  "total_bytes": 1815924
 }
