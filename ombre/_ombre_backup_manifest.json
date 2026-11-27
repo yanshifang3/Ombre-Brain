@@ -558,9 +558,9 @@
       "sha256": "c0244ca2b9c0a0858cdf97d3298059005c03e1250682b22a9c18176bb91f3357"
     },
     {
-      "bytes": 1263,
+      "bytes": 1326,
       "path": "archive/letter/2026-07-13 03-59-51 肏你_7c58b8c145a3.md",
-      "sha256": "ea1f412b5e72df6109c7b4b16574ee90cb41b2a4faa6d5f0ea846b5f65cb0aa7"
+      "sha256": "113ad53e99028d3ee9ac9a1229f5da1bd206a475fd18629b71b9905406dd7831"
     },
     {
       "bytes": 2970,
@@ -568,9 +568,9 @@
       "sha256": "a399def1652e3d1e292d21ab1ffee120eae538243444cad5a2ddec5491d582f2"
     },
     {
-      "bytes": 710,
+      "bytes": 773,
       "path": "archive/letter/2026-07-13 04-05-38 给你_b7d67a45a8d2.md",
-      "sha256": "f9b6b4b9507ceb17a80a2d2d4669b36a2cd32568b592885d799098d9242813fc"
+      "sha256": "a5fde1fbeeac3dd0fa4fae246087de318d48ec2fc8d892e90bbc3c6c358125e3"
     },
     {
       "bytes": 749,
@@ -6708,11 +6708,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-27T14:07:36+00:00",
+  "generated_at": "2026-11-27T14:37:45+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1814165
+  "total_bytes": 1814291
 }
