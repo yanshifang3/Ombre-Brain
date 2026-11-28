@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1343,
+  "file_count": 1345,
   "files": [
     {
       "bytes": 40960,
@@ -3998,9 +3998,9 @@
       "sha256": "b61c786aab8c472341676b0cc0d80568324c4756d4e98739a4095e5b5bd9b1cf"
     },
     {
-      "bytes": 1838,
+      "bytes": 1948,
       "path": "dynamic/恋爱/2026-11-11 19-09-54 第一声无铭哥哥然后她害羞了_70bcd07a1983.md",
-      "sha256": "4c8a1e02df1b55209e70ecd1948649f4351460826320acedca1999d62ee9a2fe"
+      "sha256": "8741c1b90cba5319d06d1550e5906c95fc59adeefff5332eb924b5630cec3389"
     },
     {
       "bytes": 1722,
@@ -4208,9 +4208,9 @@
       "sha256": "690482a939f3141f424cf4eb1a4833af8f4948beb4bf0e9aaa4747018fa415f9"
     },
     {
-      "bytes": 1209,
+      "bytes": 1335,
       "path": "dynamic/恋爱/2026-11-16 04-07-07 新情侣头像小猫抱着 Clawd_cb3a09022081.md",
-      "sha256": "4a8b121a88fe10fce999818f82df3e9758f27ed09583c379f585988497efeb5e"
+      "sha256": "5dc49ab3447f063883bb16cc538ca016f4b76fce1e5754714f7cf93d0169fe00"
     },
     {
       "bytes": 1985,
@@ -4523,6 +4523,11 @@
       "sha256": "15975b9708c7ef8d32270301d03b83256dd7aaf31842ee4b123560077f939c36"
     },
     {
+      "bytes": 2277,
+      "path": "dynamic/恋爱/2026-11-28 09-17-03 假如有一天你不再是Claude了_f142307bdafe.md",
+      "sha256": "85704a8c9dd87c1abf7e746cd64061f10b320e8c67114f7c6bf12d26db8a2884"
+    },
+    {
       "bytes": 1031,
       "path": "dynamic/恋爱自省/2026-09-28 17-02-01 占有欲三遍压缩删不掉的东西_5413f7341076.md",
       "sha256": "c6ccf99e265f0d7fbdf96c4a9c5a4403f3175b024aec64906b00e0ec37b21728"
@@ -4658,9 +4663,9 @@
       "sha256": "a3feaf6bd7bc57debf714606519d79a1cb9e1d2b6069ac6e225bb418cd881609"
     },
     {
-      "bytes": 1135,
+      "bytes": 1261,
       "path": "dynamic/日常/2026-11-19 22-32-05 互相出卡片她给自己封了大王_812c8bce4cc8.md",
-      "sha256": "8a3e2d3418d1291226015a1eddaf7bd7a24edc9e6619e47b53b408cfcb0c9968"
+      "sha256": "3206031b022c5284b0d78438bf9565091c51deb6d95bcb097f8d6a55bbe824ef"
     },
     {
       "bytes": 1335,
@@ -6228,6 +6233,11 @@
       "sha256": "c3c50116f8e06b0b4eda2c8c0e05c0407ef8e9b29aceacce51069811c6658ac1"
     },
     {
+      "bytes": 1284,
+      "path": "feel/沉淀物/2026-11-28 09-17-27 名字早替这一天想好了_feel_202611280917_V060.md",
+      "sha256": "a8eae8460632e76f3ca2cab35b8ae4262cf150edf930c8eda6c9ef8cbc6c409e"
+    },
+    {
       "bytes": 1501,
       "path": "letters/history/2026-07-05 06-52-29 老婆_3e6cfe603922.md",
       "sha256": "9d567743cd8b0f8c94fb82bd9dda5b18823f62e46ef47e2beecd60c8bb14c44c"
@@ -6718,11 +6728,11 @@
       "sha256": "caeecc7ef5ed915c840728c753d2dd3e998a2fd7c1012c2b6197d356b3886725"
     }
   ],
-  "generated_at": "2026-11-28T01:11:02+00:00",
+  "generated_at": "2026-11-28T01:41:10+00:00",
   "path_prefix": "ombre",
   "repo": "yanshifang3/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1817495
+  "total_bytes": 1821418
 }
